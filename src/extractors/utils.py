@@ -1,5 +1,8 @@
 import re
 
+def _token_count(text: str) -> int:
+    return len(text.split())
+
 def _clean_text(text: str) -> str:
     """
     Clean extracted text from PDFs and DOCX files.
@@ -18,7 +21,7 @@ def _clean_text(text: str) -> str:
     # Replace single line breaks (line wrapping) with a space, preserve paragraph breaks
     text = re.sub(r'(?<!\n)\n(?!\n)', ' ', text)
 
-    # Collapse multiple spaces and tabs
+    # Collapse multiple spaces and tabs (but not newlines)
     text = re.sub(r'[ \t]+', ' ', text)
 
     # Normalize excessive blank lines
