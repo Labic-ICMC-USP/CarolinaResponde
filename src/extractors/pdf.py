@@ -16,7 +16,7 @@ from docling.document_converter import DocumentConverter, PdfFormatOption
 from .schema import PageRecord
 
 
-def build_converter() -> DocumentConverter:
+def pdf_format_option() -> dict:
     pipeline_options = PdfPipelineOptions(
         do_ocr=True,
         do_table_structure=True,
@@ -26,19 +26,18 @@ def build_converter() -> DocumentConverter:
             do_cell_matching=True,
         ),
     )
-    return DocumentConverter(
-        format_options={
-            # pypdfium backend: docling-parse (default) crashes with std::bad_alloc on dense PDFs
-            InputFormat.PDF: PdfFormatOption(
-                pipeline_options=pipeline_options,
-                backend=PyPdfiumDocumentBackend,
-            ),
-        },
-    )
+    return {
+        # pypdfium backend: docling-parse (default) crashes with std::bad_alloc on dense PDFs
+        InputFormat.PDF: PdfFormatOption(
+            pipeline_options=pipeline_options,
+            backend=PyPdfiumDocumentBackend,
+        ),
+    }
 
 
 def extract_pdf(path: Path, converter: Optional[DocumentConverter] = None) -> Iterator[PageRecord]:
-    converter = converter or build_converter()
+    if converter is None:
+        converter = DocumentConverter(format_options=pdf_format_option())
     result = converter.convert(str(path))
     doc = result.document
 
