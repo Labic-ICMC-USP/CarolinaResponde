@@ -42,15 +42,25 @@ def extract_pdf(path: Path, converter: Optional[DocumentConverter] = None) -> It
     doc = result.document
 
     pages = getattr(doc, "pages", None) or {}
-    page_numbers = sorted(pages.keys()) if pages else [1]
+
+    if not pages:
+        yield PageRecord(
+            doc_name=path.stem,
+            source_path=str(path),
+            page=1,
+            page_count=1,
+            text=doc.export_to_markdown(),
+        )
+        return
+
+    page_numbers = sorted(pages.keys())
     page_count = len(page_numbers)
 
     for page_no in page_numbers:
-        markdown = doc.export_to_markdown(page_no=page_no) if pages else doc.export_to_markdown()
         yield PageRecord(
             doc_name=path.stem,
             source_path=str(path),
             page=page_no,
             page_count=page_count,
-            text=markdown,
+            text=doc.export_to_markdown(page_no=page_no),
         )
