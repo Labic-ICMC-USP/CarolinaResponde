@@ -1,6 +1,6 @@
 # Data
 data/
-extracted/
+extracted_data/
 
 # Configurações locais e credenciais
 .env
