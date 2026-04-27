@@ -1,0 +1,37 @@
+[
+  {
+    "doc_name": "Aluno Especial",
+    "source_path": "data\\Manual SVGRAD\\Aluno Especial.docx",
+    "page": 1,
+    "page_count": 5,
+    "text": "## Aluno Especial\n\n## Legislação:\n\n- Resolução CoG 3757/1990\n- Poderá ser concedida matrícula em disciplinas de graduação do ICMC-USP na condição de Estudante Especial, havendo vagas disponíveis após a matrícula dos alunos regulares da USP.\n- A data da inscrição do aluno é definida no calendário da PRG e é feita via formulário disponibilizado na página da graduação.\n- Atualizar a página semestralmente com as datas de inscrição e o link do formulário.\n- Conforme decisão da Comissão de Graduação (CG) para a inscrição será aceito o pedido de inscrição em até duas disciplinas por interessado em cada semestre letivo e não serão disponibilizadas para inscrição disciplinas do 1º ano de cada curso.\n- Caso haja vaga, o aluno será matriculado exclusivamente na turma inscrita. Não serão analisados pedidos de reconsideração ou troca de turma.\n- Além dos campos para preenchimento dos dados pessoais e das disciplinas, o formulário de inscrição deve conter campos obrigatórios para anexação dos seguintes documentos: Cópia simples do RG; Cópia simples do certificado de conclusão do segundo grau/ensino médio; Cópia do histórico escolar com reprovações (histórico sujo);\n- Após o término das inscrições, é feita a conferência dos documentos dos inscritos e verificação das disciplinas em que houve inscrição (se é de 1º ano dos cursos e se a turma está lotada).\n- NÃO É MAIS NECESSÁRIO CONSULTAR OS DOCENTES. O presidente da CG concordou que a matrícula poderá ser realizada sem a consulta, se houver vaga.\n- Se estiver tudo certo, verificar se o aluno possui cadastro em Júpiter Aluno - Consultas - Dados pessoais. Se tiver, anota o NUSP para fazer a matrícula. Se não tiver, clica em Incluir nova pessoa e preenche os dados."
+  },
+  {
+    "doc_name": "Aluno Especial",
+    "source_path": "data\\Manual SVGRAD\\Aluno Especial.docx",
+    "page": 2,
+    "page_count": 5,
+    "text": "<!-- image -->\n\n- Em seguida, cadastrar vagas específicas para aluno especial nas turmas das disciplinas requeridas em Júpiter - Turmas &gt; Informações da Turma, preenche o código e o número da turma e escolhe a versão vigente.\n\n·\n\n<!-- image -->\n\n- clicar no ícone \"editar\" e cadastra a vaga no campo \"especiais\" e salva\n\n·\n\n<!-- image -->\n\n- Efetuar a matrícula dos alunos nas disciplinas em Júpiter - Administrativo &gt; Inscrição de Alunos Especiais . Informar a disciplina, clicar em buscar."
+  },
+  {
+    "doc_name": "Aluno Especial",
+    "source_path": "data\\Manual SVGRAD\\Aluno Especial.docx",
+    "page": 3,
+    "page_count": 5,
+    "text": "·\n\n- Em seguida clicar em Incluir\n\n·\n\n<!-- image -->\n\n- -- incluir a turma específica e salvar.\n\n<!-- image -->"
+  },
+  {
+    "doc_name": "Aluno Especial",
+    "source_path": "data\\Manual SVGRAD\\Aluno Especial.docx",
+    "page": 4,
+    "page_count": 5,
+    "text": "·\n\n<!-- image -->\n\n- Clicar na linha correspondente da turma, depois na aba Inscritos e em seguida em Incluir, preenche o NUSP do aluno e seleciona o tipo Especial e salva\n\n·\n\n<!-- image -->\n\n- depois seleciona o aluno e cadastra o parecer favorável.\n\n·\n\n<!-- image -->"
+  },
+  {
+    "doc_name": "Aluno Especial",
+    "source_path": "data\\Manual SVGRAD\\Aluno Especial.docx",
+    "page": 5,
+    "page_count": 5,
+    "text": "- Emitir o atestado de matrícula em Júpiter - Aluno &gt; Consultas &gt; Atestado de Matrícula (Aluno Especial e Intercâmbio de Graduação) e enviar por e-mail ao aluno juntamente com as orientações sobre início das aulas, local, acesso ao ICMC e ao sistema Júpiter (ver e-mail enviado do grad@ com o assunto \"Matrícula - Estudante Especial\")\n- Enviar e-mail aos demais inscritos que tiveram a solicitação indeferida para para informar resultado da solicitação\n- Enviar a relação dos alunos com inscrição deferida ao Apoio Administrativo para liberação de QR Code para acesso aos prédios do ICMC.\n- Emitir o histórico no final do semestre e enviar por e-mail quando o aluno solicitar."
+  }
+]

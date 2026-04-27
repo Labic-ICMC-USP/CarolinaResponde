@@ -1,0 +1,16 @@
+[
+  {
+    "doc_name": "Desistência definitiva do curso",
+    "source_path": "data\\Manual SVGRAD\\Desistência definitiva do curso.docx",
+    "page": 1,
+    "page_count": 2,
+    "text": "## Desistência definitiva do curso\n\n- Para solicitar o desligamento definitivo do curso, o aluno deve acessar o Sistema Júpiter, menu Aluno&gt; Requerimento&gt; Desistência Definitiva do Curso\n- Uma vez processado o desligamento, não será possível solicitar o cancelamento do pedido\n- No início do ano, é comum pedidos de desligamento de ingressantes que fizeram matrícula nos cursos do ICMC e que são chamados para matrícula em outro curso da USP (1) ou em outra Universidade (2). Nestes casos, a PRG orienta que a graduação não processe os pedidos, se ainda estiver ocorrendo chamadas na USP. A própria PRG tem lidado com esses pedidos para melhor controlar as vagas e as chamadas. No caso 1, o aluno nem precisa solicitar o desligamento, pois quando ele faz a matrícula no outro curso da USP, o vínculo atual é encerrado automaticamente.\n- O Júpiter encaminha mensagem automática para o grad@icmc.usp.br quando um aluno cadastra pedido de desistência do curso\n- Quando o e-mail chegar, verificar no Júpiter de qual curso é o aluno em Aluno &gt; Requerimento &gt; Desistência definitiva do curso - listar os pedidos na situação \"em análise\"\n- Colocar o chamado na fila da OTRS do curso do aluno para a secretária verificar o motivo, deferir e depois colocar como comunicação na reunião CoC\n- Não é necessário consultar o aluno ou o coordenador do curso para deferir o pedido, mas se notarem algo estranho na justificativa, antes de deferir conversem com a chefia, pois já tivemos casos de alunos relatando situações específicas um pouco mais sérias que acabaram sendo tratadas pela presidência da CG\n- Se estiver tudo ok, é só clicar em deferir\n\n<!-- image -->"
+  },
+  {
+    "doc_name": "Desistência definitiva do curso",
+    "source_path": "data\\Manual SVGRAD\\Desistência definitiva do curso.docx",
+    "page": 2,
+    "page_count": 2,
+    "text": "·\n\n<!-- image -->\n\n- Se tiver que indeferir o pedido, é só clicar em indeferir e preencher o campo do parecer com a justificativa (Ex: o aluno desistiu do desligamento após reunião com o presidente da CG)\n\n<!-- image -->"
+  }
+]

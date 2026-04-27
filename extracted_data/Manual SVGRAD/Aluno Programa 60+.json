@@ -1,0 +1,9 @@
+[
+  {
+    "doc_name": "Aluno Programa 60+",
+    "source_path": "data\\Manual SVGRAD\\Aluno Programa 60+.docx",
+    "page": 1,
+    "page_count": 1,
+    "text": "## Matrícula dos alunos do Programa 60+\n\n## Informações da PRCEU\n\n- SVAPAC recebe inscrição e consulta o docente e encaminha para o SVGrad\n- SVGrad confere se o aluno já possui dados pessoais cadastrados no Júpiter. Se não tiver, precisa cadastrar para poder fazer a matrícula.\n- Em seguida, cadastrar vagas específicas para aluno especial nas turmas das disciplinas requeridas.\n- Efetuar a matrícula dos alunos nas disciplinas. Administrativo - Inscrição de alunos especiais. Informar a disciplina, código da turma, e escolher o tipo Especial. Em seguida, clicar em Incluir para incluir a turma específica e salvar. Clicar na linha correspondente da turma e clicar na aba inscritos. Clicar em incluir para incluir o aluno, preencher o NUSP e escolher o tipo Especial e depois cadastrar o parecer favorável.\n- Emitir o atestado de matrícula e enviar por e-mail ao SVAPAC. Júpiter Aluno &gt; Consultas &gt; Atestado de Matrícula(Aluno Especial e Intercâmbio de Graduação)\n- No final do semestre, emitir o histórico, a pedido do SVAPAC"
+  }
+]

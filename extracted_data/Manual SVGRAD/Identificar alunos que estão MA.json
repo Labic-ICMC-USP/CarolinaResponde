@@ -1,0 +1,30 @@
+[
+  {
+    "doc_name": "Identificar alunos que estão MA",
+    "source_path": "data\\Manual SVGRAD\\Identificar alunos que estão MA.pdf",
+    "page": 1,
+    "page_count": 4,
+    "text": "- i. Aluno&gt;Relatório&gt;Lista de frequência e nota\n- ii. Escolher o curso e o ano que será analisado\n- iii. Download arquivo CSV para manipulação da planilha\n\n<!-- image -->"
+  },
+  {
+    "doc_name": "Identificar alunos que estão MA",
+    "source_path": "data\\Manual SVGRAD\\Identificar alunos que estão MA.pdf",
+    "page": 2,
+    "page_count": 4,
+    "text": "- i. Adicionar os filtros\n\n<!-- image -->"
+  },
+  {
+    "doc_name": "Identificar alunos que estão MA",
+    "source_path": "data\\Manual SVGRAD\\Identificar alunos que estão MA.pdf",
+    "page": 3,
+    "page_count": 4,
+    "text": "- i. Uso dos filtros para encontrar os alunos com frequência &gt;70%, nota entre 3,0 e 4,9, e sem nota atribuída na rec.\n- ii. Exemplo com Bacharelado em Matemática Aplicada e Computação Científica:\n\n## Filtro para frequência\n\nValor entre 3,0 e 4,9\n\n<!-- image -->\n\n<!-- image -->\n\nMostrar apenas \"Vazias\"\n\n<!-- image -->"
+  },
+  {
+    "doc_name": "Identificar alunos que estão MA",
+    "source_path": "data\\Manual SVGRAD\\Identificar alunos que estão MA.pdf",
+    "page": 4,
+    "page_count": 4,
+    "text": "- i. Exemplo com Bacharelado em Matemática Aplicada e Computação Científica, turma 20241:\n\n| A        | B                     |        | D E                                    | F G                                    | H               |                                        | K      |\n|----------|-----------------------|--------|----------------------------------------|----------------------------------------|-----------------|----------------------------------------|--------|\n| NÂª USP  | Nome                  | Nome   | Ingresso CÃªdigo VersÃfo Nome d: Turma | Ingresso CÃªdigo VersÃfo Nome d: Turma | FrequÃªG Nota 1 | Ingresso CÃªdigo VersÃfo Nome d: Turma | Nota 2 |\n| 11913896 | 2 Bruna Romero Arraes | 2021/1 | SMEO243                                | 2 Teoria 2024101 Esp'                  | 70              |                                        |        |\n| 11913896 | 2 Bruna Romero Arraes | 2021/1 | SMEO243                                | 2 Teoria Espi 2024101                  | 70              | 3                                      |        |\n\n<!-- image -->"
+  }
+]

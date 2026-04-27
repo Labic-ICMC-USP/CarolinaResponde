@@ -1,0 +1,65 @@
+[
+  {
+    "doc_name": "Cadastro de notas",
+    "source_path": "data\\Manual SVGRAD\\Cadastro de notas.docx",
+    "page": 1,
+    "page_count": 9,
+    "text": "## Cadastro de Notas\n\n## Legislação:\n\nRegimento da USP - do artigo 81 ao 84\n\nRESOLUÇÃO CoG Nº 7510/2018 - Normas para o controle de frequência dos alunos de graduação.\n\nResolução nº 4871/2001 - Código de Ética da USP - art 23 - II\n\nEmenta CoG nº 11/2002 - Cadastro da nota mais alta ( pasta svgrad - Legislações)\n\n- O cadastro e validação é responsabilidade do docente.\n- Na pasta compartilhada do svgrad - Notas há um manual sobre como deve ser feito o cadastro que pode ser enviado para os docentes\n- O prazo para cadastro e validação das notas é definido no calendário oficial pela PRG\n- Após o prazo, o docente não tem mais acesso para efetuar o cadastro e precisa enviar os dados ao Serviço de Graduação\n- Se o docente cadastrar e validar apenas uma ou algumas notas (para colação antecipada, por exemplo), o sistema não permitirá que ele efetue o cadastro das demais.\n- Assim que todas as notas e frequências são cadastradas, a turma tem o status alterado automaticamente para \"consolidada\" e não é mais possível alterar os dados da 2ª avaliação.. Qualquer alteração deverá ser feita diretamente no histórico do aluno\n- Solicitações de revisão de nota devem solicitadas ao próprio professor da disciplina\n\n## O Serviço de Graduação:\n\n- Salva as orientações/legislação sobre notas na pasta compartilhada do svgrad - notas e divulga ao público-alvo\n- Orienta o docente a encaminhar pedidos de cadastro/alteração ao e-mail grad@. Não atender pedidos feitos em balcão ou pessoalmente, pois o setor precisa ter registro da solicitação.\n- Cadastra nota e frequência de turmas inteiras ou de alunos específicos, a pedido dos docentes, quando eles não fazem dentro do prazo ou quando validam de apenas uma parte dos alunos\n- Encaminha os pedidos de cadastro/alteração de nota e frequência a outras unidades quando se tratar de aluno externo ao ICMC\n- Envia lembretes aos docentes sobre os prazos para cadastro"
+  },
+  {
+    "doc_name": "Cadastro de notas",
+    "source_path": "data\\Manual SVGRAD\\Cadastro de notas.docx",
+    "page": 2,
+    "page_count": 9,
+    "text": "- Confere as notas pendentes e envia e e-mail aos docentes solicitando o cadastro, especialmente em períodos de regularização de matrículas e encerramento dos programas para a colação de grau\n- Para verificar o andamento do cadastro das notas e quais departamentos ainda possuem pendências, acesse Júpiter - Administrativo &gt; Relatórios Situação de preenchimento dos boletins\n\n## Administrativo Relatórios\n\nIngressante Docentes Cadastro de frequência e notas Programas especiais Bloqueio do Acesso do Aluno Inscrição de Alunos Especiais Inscrição em Cursos\n\n<!-- image -->\n\n·\n\n- Outra forma de verificar pendências é Júpiter - Administrativo &gt; Cadastro de frequência e notas - selecione a partir da relação de [Unidades de Ensino]\n- Esolha a unidade e, em seguida, o departamento e verifique as seguintes informações:\n\n<!-- image -->\n\n·"
+  },
+  {
+    "doc_name": "Cadastro de notas",
+    "source_path": "data\\Manual SVGRAD\\Cadastro de notas.docx",
+    "page": 3,
+    "page_count": 9,
+    "text": "- Se constar incompleto, quer dizer que há pendências. É só clicar no código da turma e verificar.\n\n<!-- image -->\n\n## 2024201 Incompleto Incompleta\n\n·\n\n## Cadastro e validação das notas e frequências\n\n- É possível realizar o cadastro de nota e frequência por meio do upload de uma planilha. Ela deve conter apenas três colunas: Numero USP, Frequencia e Nota (SEM ACENTO). Todos os alunos matriculados na turma devem constar na planilha\n- O formato da planilha deve necessariamente ser XLS (Pasta de Trabalho do Excel 97-2003).\n\n·\n\n<!-- image -->\n\n- O cadastro é feito no Júpiter - Administrativo &gt; Cadastro de frequência e notas e informa a sigla da disciplina e o código da turma (ano + semestre + número da turma)"
+  },
+  {
+    "doc_name": "Cadastro de notas",
+    "source_path": "data\\Manual SVGRAD\\Cadastro de notas.docx",
+    "page": 4,
+    "page_count": 9,
+    "text": "·\n\n·\n\n<!-- image -->"
+  },
+  {
+    "doc_name": "Cadastro de notas",
+    "source_path": "data\\Manual SVGRAD\\Cadastro de notas.docx",
+    "page": 5,
+    "page_count": 9,
+    "text": "Unidade:\n\n55 Instituto de Ciências Matemáticas e de Computação\n\nDisciplina: SMAO143\n\nIntrodução à Teoria da Medida\n\nTurma:\n\n2025101 Teórica\n\nPeríodo:\n\n24/02/2025 07/07/2025\n\nArquivo:\n\nProcurar:\n\nNenhum arquiv\\_selecionado.\n\n<!-- image -->\n\n<!-- image -->\n\n- Será exibido um quadro com o número USP, nome, frequência, nota e status (mensagem). É muito importante verificar se existe alguma mensagem de erro nos status. Somente os alunos que possuírem o status OK terão suas notas carregadas da planilha. Clique em Aceitar para continuar\n- Depois clique em Consultar para visualizar os dados e checar se todos os alunos tiveram suas notas e frequências atribuídas corretamente.\n- Se na hora do carregamento o status (mensagem) não estiver OK, ou se o número do aluno não estiver na planilha, nenhum dado será carregado para o aluno. Os campos permanecerão em branco.\n- Em seguida, clique em 1º validação, selecione as notas que serão validadas e clique em salvar.\n\n<!-- image -->"
+  },
+  {
+    "doc_name": "Cadastro de notas",
+    "source_path": "data\\Manual SVGRAD\\Cadastro de notas.docx",
+    "page": 6,
+    "page_count": 9,
+    "text": "·\n\n- Confira se realmente foram validadas. Deve constar a data da validação, conforme a figura abaixo\n\n|            | 2a.Aval.   | Data 2a. Valid .   | Observação    |\n|------------|------------|--------------------|---------------|\n| 30/12/2024 |            |                    | 1a. Validação |\n| 05/02/2025 |            |                    | 1a. Validação |\n\n·\n\n- Se o aluno obtiver média igual ou maior que 3 e frequência igual ou superior a 70%, o campo da 2ª nota será habilitado.\n- Assim que o aluno fizer a recuperação, o docente deverá cadastrar e validar a 2ª nota.\n- Caso o aluno não realize a recuperação ou tire uma nota menor, deve ser repetida a 1ª nota no cadastro da 2ª nota.\n\n·\n\n## Alteração de notas e frequências\n\n- Para alterar a nota ou frequência já cadastrada, Júpiter - Administrativo &gt; Cadastro de frequência e notas, preencha os dados da disciplina e turma e depois clique em Desvalidar 1ª nota\n\nOpções\n\n- [ ] Frequência e Notas\n\n- [x] 1a Validação\n\n- [ ] 2a Validação\n\n- [ ] Desvalidar 1a Nota"
+  },
+  {
+    "doc_name": "Cadastro de notas",
+    "source_path": "data\\Manual SVGRAD\\Cadastro de notas.docx",
+    "page": 7,
+    "page_count": 9,
+    "text": "·\n\n- Seleciona o aluno que terá dados alterados, role a página até o final e clique em Desvalidar. Em seguida, faça as alterações, salve e efetue a 1ª validação novamente\n\n## Alteração de notas e frequências no histórico\n\n- Alterações devem ser feitas apenas a pedido do docente por escrito.\n- Para alterar acesse Júpiter - Aluno &gt; Alteração do histórico escolar Preencha os dados do aluno e clique em buscar\n\n## Administrativo &gt; Cadastro de frequência e notas\n\nIngressante\n\nDocentes\n\nCadastro de frequência e notas\n\nProgramas especiais/Bols\n\nBloqueio do Acesso do Aluno\n\nInscrição de Alunos Especiais\n\nInscrição em Cursos Occ\n\nOpções\n\n- [ ] Frequência e Notas\n\n- [ ] 1a Validação\n\n- [ ] 2a Validação\n\n- [x] Desvalidar 1a Nota"
+  },
+  {
+    "doc_name": "Cadastro de notas",
+    "source_path": "data\\Manual SVGRAD\\Cadastro de notas.docx",
+    "page": 8,
+    "page_count": 9,
+    "text": "## Aluno &gt; Alteração do histórico escolar\n\n<!-- image -->\n\n<!-- image -->\n\n- Seleciona a disciplina/turma que será alterada e clique em Alterar. ATENÇÃO para escolher a turma correta, pois o aluno pode ter cursado a mesma disciplina várias vezes.\n- Retifique as informações, indique o motivo (geralmente é informado que foi a pedido do docente no chamado - nº do ticket) e clique em salvar"
+  },
+  {
+    "doc_name": "Cadastro de notas",
+    "source_path": "data\\Manual SVGRAD\\Cadastro de notas.docx",
+    "page": 9,
+    "page_count": 9,
+    "text": "·\n\n<!-- image -->"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "doc_name": "Cartão USP (em elaboração pela Marcela)",
+    "source_path": "data\\Manual SVGRAD\\Cartão USP (em elaboração pela Marcela).docx",
+    "page": 1,
+    "page_count": 4,
+    "text": "## mmaia@icmc.usp.br\n\n## Cartão USP\n\n- 1- O aluno deve solicitar o cartão via sistema Júpiter. O Serviço de Graduação deve entrar no sistema no menu à esquerda em \"cartão USP\".\n- 2- Abrirá algumas opções para dar andamento ao cartão USP solicitado:\n\nLocalizar Interessado\n\nListar Soliciacoes Aguaidando Pagamento\n\nLstar Soliciaçoes Aulorizadas\n\nListar 0s Cartues Enviados para Confecçuo\n\nListar Solicitacoes com Foto Rejeitada\n\nSolicitação Bilhete USP Consultar Andamento (Obs : Nao &amp; \"BILHETE ÚNICO ESTUDANTF SPTrans\") Listar 05 Bilhetes USP &amp; Disposicao da Unidade para Entrega\n\n3- Para dar andamento a uma solicitação de cartão USP o Serviço de Graduação deverá entrar na opção \"Listar Solicitações Aguardando Autorização\" e selecionar a Unidade ICMC."
+  },
+  {
+    "doc_name": "Cartão USP (em elaboração pela Marcela)",
+    "source_path": "data\\Manual SVGRAD\\Cartão USP (em elaboração pela Marcela).docx",
+    "page": 2,
+    "page_count": 4,
+    "text": "<!-- image -->\n\n4- Carregará as solicitações que estão aguardando autorização. Caso a foto esteja em amarelo, guardando autorização, deverá verificar se ela está adequada para documento (sem óculos escuros, sem boné, com a imagem do rosto com nitidez) e autorizar para dar andamento na solicitação do cartão. Caso a foto esteja com alguma inconformidade, ela deve ser rejeitada e deve ter uma justificativa pela recusa da foto. Desta forma o cartão também fica impedido de ser solicitado.\n\nObs1: Os pedidos com motivos de perda de cartão aparecerão para autorização após o pagamento ser efetuado, aparecerá sim na coluna Boleto Pago. Tendo sido pago, é possível autorizar.\n\nObs2: Os pedidos por motivos de furto ou roubo (exige Boletim e Ocorrência) para serem autorizados. O solicitante deverá enviar por e-mail para o Serviço de Graduação para comprovar sua justificativa na sova solicitação\n\nObs3: O cartão anterior com problema de leitura, o aluno precisa comprovar o problema para que o cartão tenha custo em sua emissão. O aluno deve verificar no setor Administrativo do ICMC ou na administração do restaurante universitário para essa aferição, cujo cartão será testado para que seja enviado um e-mail para o grad@icmc.usp.br, confirmando esta informação do problema de leitura. Desta forma, é possível dar andamento favorável à solicitação do cartão."
+  },
+  {
+    "doc_name": "Cartão USP (em elaboração pela Marcela)",
+    "source_path": "data\\Manual SVGRAD\\Cartão USP (em elaboração pela Marcela).docx",
+    "page": 3,
+    "page_count": 4,
+    "text": "<!-- image -->\n\n- 5- Quando chegam novos cartões no Serviço de Graduação deve clicar na opção \"Listar os Cartões que estão Retornando da Empresa\", selecionar os cartões que foram recebidos e clicar no botão \"salvar\".\n- 6- Após a operação de \"Listar os Cartões que estão Retornando da Empresa\" é necessário selecionar a opção \"Listar os Cartões à Disposição da Unidade\", selecionar os cartões recebidos e clicar em \"salvar\".\n- 7- Caso seja necessário fazer alguma consulta sobre o andamento do cartão USP ou de alguma solicitação em específico, a consultada pode ser feita na opção \"Localizar interessado\", onde deve ser informado o NUSP do solicitante e clicar em \"buscar\".\n- 7.1- Na tela seguinte vai aparecer as opções específicas para um determinado solicitante, desta forma é necessário clicar em \"listar solicitação\" onde aparecerá todas as solicitações daquele aluno, sendo possível obter a informação desejável e saber se é necessário fazer alguma autorização ou dar andamento a alguma solicitação daquele solicitante.\n\n<!-- image -->\n\n```\nNova Solicitação Listar Solicitação Ativar Cartão Cancelar Cartão Entregue ao Interessado Incluir Alterar Foto Suspender Cartão\n```"
+  },
+  {
+    "doc_name": "Cartão USP (em elaboração pela Marcela)",
+    "source_path": "data\\Manual SVGRAD\\Cartão USP (em elaboração pela Marcela).docx",
+    "page": 4,
+    "page_count": 4,
+    "text": "<!-- image -->"
+  }
+]
