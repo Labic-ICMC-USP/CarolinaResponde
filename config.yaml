@@ -1,0 +1,19 @@
+llm:
+  faq_generator:
+    provider: openrouter
+    model: google/gemma-4-31b-it
+    temperature: 0.0
+    api_key_env: OPENROUTER_API_KEY
+
+chunking:
+  window_size: 2
+  overlap: 1
+
+faq_generation:
+  questions_per_chunk: 10
+
+paths:
+  extracted_dir: ./extracted_data
+  chunked_dir: ./chunked_data
+  faq_dir: ./faq_data
+  prompts_dir: ./prompts
