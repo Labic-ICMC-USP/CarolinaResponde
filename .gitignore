@@ -1,5 +1,8 @@
 # Data
 data/
+extracted_data/
+chunked_data/
+faq_data/
 
 # Configurações locais e credenciais
 .env
