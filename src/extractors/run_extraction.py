@@ -1,17 +1,18 @@
 """Orchestrates document extraction. Run from project root: python -m extractors.run_extraction"""
 
-import json
 import argparse
+import json
 from dataclasses import asdict
 from pathlib import Path
 from typing import Iterable
 
-from docling.document_converter import DocumentConverter
 from tqdm import tqdm
+from docling.document_converter import DocumentConverter
 
 from .schema import PageRecord
 from .pdf import extract_pdf, pdf_format_option
 from .docx import extract_docx
+from shared.utils import to_output_path
 
 # Maps file extensions to their extraction functions; add new formats here
 EXTRACTORS = {
@@ -22,15 +23,6 @@ EXTRACTORS = {
 
 def build_converter() -> DocumentConverter:
     return DocumentConverter(format_options=pdf_format_option())
-
-
-def to_output_path(source: Path, input_dir: Path, extracted_dir: Path) -> Path:
-    """Mirrors the source path structure under extracted_dir.
-    Example: source=data/PPC/file.pdf, input_dir=data/
-          -> extracted_data/PPC/file.json
-    """
-    relative = source.relative_to(input_dir)
-    return (extracted_dir / relative).with_suffix(".json")
 
 
 def write_json(records: Iterable[PageRecord], out_path: Path) -> int:
@@ -69,7 +61,7 @@ def main() -> None:
     failed = []
     for file in tqdm(files, desc="Extracting", unit="file"):
         extractor = EXTRACTORS[file.suffix.lower()]
-        out_file = to_output_path(file, input_root, extracted_dir)
+        out_file = to_output_path(file, input_root, extracted_dir).with_suffix(".json")
         tqdm.write(f"  {file.name} -> {out_file}")
         try:
             n = write_json(extractor(file, converter), out_file)
