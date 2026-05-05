@@ -1,2 +1,6 @@
 docling
 easyocr
+tqdm
+openai
+pyyaml
+python-dotenv
