@@ -1,0 +1,22 @@
+{
+  "doc_name": "Cadastro de usuário no Júpiter",
+  "source_path": "data\\Manual SVGRAD\\Cadastro de usuário no Júpiter.docx",
+  "chunks": [
+    {
+      "chunk_id": "Cadastro de usuário no Júpiter__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Cadastro de usuário no Júpiter\n\n- Para que um funcionário/estagiário tenha acesso ao Júpiter, é necessário cadastrá-lo em Júpiter - Gerenciamento do sistema &gt; Usuários do sistema\n- Primeiro faz a busca pelo NUSP para verificar se há algum perfil. Depois inclui os perfis desejados e vincula à unidade/departamento\n- Para que um funcionário possa cadastrar pedido de estagiário USP no sistema Júpiter precisa ter o perfil de Solicitante de Estagiário\n- Para que um funcionário ou docente possa ser supervisor, precisa ter o perfil de Supervisor de Estágio\n- Para consultar os usuários do sistema Júpiter, é só clicar em Júpiter Gerenciamento do sistema &gt; Usuários do sistema - Selecionar Colegiado, escolher o ICMC e clicar em buscar\n- Se um docente recém-contratado reclamar que não está conseguindo acessar o Júpiter, deve-se verificar primeiro o vínculo dele com o ICMC. Se estiver tudo certo, então deve-se verificar o acesso dele em Júpiter - Gerenciamento do sistema &gt; Usuários do sistema. Se não estiver constando como Professor, como na imagem abaixo, precisa entrar em contato com o pessoal do sistema na PRG (asistemasprg@usp.br)\n\n·\n\n·\n\n<!-- image -->\n\nAcesso ao Júpiter pelos funcionários do Serviço de Graduação:\n\n·\n\n- O perfil Serviço de Graduação deve ser liberado apenas aos funcionários do SvGrad ICMC e à Assistente Acadêmica\n- Liberar o acesso de perfil de Serviço de Graduação, Solicitante de Estagiário, Acompanhar Estágios da Unidade.\n\n[Página 2]\n·\n\n<!-- image -->\n\n- Se a unidade adotar o uso do Júpiter para estágio externo, precisa habilitar também o perfil Seção de Estágios para os funcionários.\n\n·\n\n- Na aba Permissões, vincular o acesso à Pró-Reitoria de Graduação, Instituto de Ciências Matemáticas e de Computação, Interunidades de Licenciatura IFSC/IQSC/ICMC, Escola de Engenharia de São Carlos e Instituto de Ciências Matemáticas e de Computação\n\n·\n\n<!-- image -->\n\n- Na aba Restrições de Menu, deixar habilitado dessa forma:\n\n·\n\n<!-- image -->\n\n- No caso dos estagiários do setor, recomenda-se deixar como Não nestes campos.\n\n·\n\n<!-- image -->"
+    },
+    {
+      "chunk_id": "Cadastro de usuário no Júpiter__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n·\n\n<!-- image -->\n\n- Se a unidade adotar o uso do Júpiter para estágio externo, precisa habilitar também o perfil Seção de Estágios para os funcionários.\n\n·\n\n- Na aba Permissões, vincular o acesso à Pró-Reitoria de Graduação, Instituto de Ciências Matemáticas e de Computação, Interunidades de Licenciatura IFSC/IQSC/ICMC, Escola de Engenharia de São Carlos e Instituto de Ciências Matemáticas e de Computação\n\n·\n\n<!-- image -->\n\n- Na aba Restrições de Menu, deixar habilitado dessa forma:\n\n·\n\n<!-- image -->\n\n- No caso dos estagiários do setor, recomenda-se deixar como Não nestes campos.\n\n·\n\n<!-- image -->\n\n[Página 3]\n- Quando um funcionário não fizer mais parte do SvGrad, é necessário excluir o perfil Serviço de Graduação dele no Júpiter, pois, se ele continuar com vínculo com a USP mesmo em outra unidade ou setor, continuará tendo o acesso ao Júpiter como SvGrad ICMC"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doc_name": "Reserva de sala",
+  "source_path": "data\\Manual SVGRAD\\Reserva de sala.docx",
+  "chunks": [
+    {
+      "chunk_id": "Reserva de sala__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Reserva de sala\n\n## Legislação:\n\n## Portaria ICMC 014/2025\n\n- A reserva das salas do ICMC é feita via Sistema Intranet.\n- A definição das prioridades e quais setores são responsáveis por cada tipo de reserva são definidas pela Portaria ICMC 014/2025\n- O SvGrad é responsável por efetuar as reservas para as aulas de disciplinas ICMC ministradas para os alunos do ICMC e de disciplinas de outras unidades ministradas para os alunos do ICMC\n- Não é responsabilidade do SvGrad efetuar a distribuição e reservas de salas de disciplinas do ICMC ministradas para alunos de outras unidades. Caso a outra unidade não tenha sala disponível, poderá solicitar ao ICMC que verifique se há possibilidade de \"emprestar\" uma sala\n- O SvGrad é responsável também por efetuar as reservas para as monitorias das disciplinas da graduação\n- As reservas fixas são semestrais e ocorrem na seguinte ordem: 1º) aulas de graduação, 2º) aulas de pós-graduação, 3º) monitorias de graduação\n- O SvGrad faz a distribuição das turmas oferecidas no semestre nas salas disponíveis usando o sistema de otimização criado pelo estagiário. Depois, faz o acompanhamento dos relatórios de interações de matrícula e requerimentos para verificar se o número de inscritos está condizente com as salas alocadas. Somente após esse processo, é que são feitas as reservas na intranet de uma única vez (ver orientação abaixo)\n- As reservas eventuais para realização de provas e monitorias em salas distintas das já reservadas podem ser feitas diretamente pelo docente até 30 dias antes da data pretendida. Caso o docente solicite a reserva dentro desse período, ele deve ser orientado que poderá efetuar diretamente na intranet (repassar a portaria ao interessado)\n\n## Para efetuar a reserva:\n\n- Acessar o Sistema Intranet e efetuar o login com a senha única\n- No menu Área Acadêmica, clicar em Salas e Recursos\n\n<!-- image -->\n\n[Página 2]\n- Clicar em Reservar Salas\n- Se ainda não tiver uma sala definida, pode usar os campos de busca por horário para reservas eventuais ou fixas para verificar uma sala disponível\n\n<!-- image -->\n\n·\n\n<!-- image -->\n\n- Se já tiver uma sala definida, clicar sobre o número dela\n\n·\n\n<!-- image -->\n\n- Clicar no menu Agendar reserva (fixa ou eventual)\n\n## Agendar reserva\n\n## Fixa Eventual\n\n- No caso de reserva fixa, será necessário preencher os seguintes dados:"
+    },
+    {
+      "chunk_id": "Reserva de sala__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- Clicar em Reservar Salas\n- Se ainda não tiver uma sala definida, pode usar os campos de busca por horário para reservas eventuais ou fixas para verificar uma sala disponível\n\n<!-- image -->\n\n·\n\n<!-- image -->\n\n- Se já tiver uma sala definida, clicar sobre o número dela\n\n·\n\n<!-- image -->\n\n- Clicar no menu Agendar reserva (fixa ou eventual)\n\n## Agendar reserva\n\n## Fixa Eventual\n\n- No caso de reserva fixa, será necessário preencher os seguintes dados:\n\n[Página 3]\n<!-- image -->\n\n- No caso de reserva eventual, precisa informar o número de reservas\n- Depois, preencher os dados necessários:\n\n<!-- image -->\n\n<!-- image -->\n\n## Para remover uma reserva ou modificá-la ,\n\n- Seguir os passos anteriores, escolher a sala e clicar na opção desejada"
+    },
+    {
+      "chunk_id": "Reserva de sala__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n<!-- image -->\n\n- No caso de reserva eventual, precisa informar o número de reservas\n- Depois, preencher os dados necessários:\n\n<!-- image -->\n\n<!-- image -->\n\n## Para remover uma reserva ou modificá-la ,\n\n- Seguir os passos anteriores, escolher a sala e clicar na opção desejada\n\n[Página 4]\n<!-- image -->\n\n## Para fazer as reservas fixas de uma única vez\n\n- Clicar no menu Alocação, preencher a data de início e término do semestre e fazer o upload da planilha conforme modelo da intranet\n\n<!-- image -->"
+    },
+    {
+      "chunk_id": "Reserva de sala__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n<!-- image -->\n\n## Para fazer as reservas fixas de uma única vez\n\n- Clicar no menu Alocação, preencher a data de início e término do semestre e fazer o upload da planilha conforme modelo da intranet\n\n<!-- image -->\n\n[Página 5]\n<!-- image -->"
+    }
+  ]
+}

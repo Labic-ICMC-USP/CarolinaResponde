@@ -1,0 +1,1086 @@
+{
+  "doc_name": "PPC - Bacharelado em Matemática (BMa)",
+  "source_path": "data\\PPC\\PPC - Bacharelado em Matemática (BMa).pdf",
+  "chunks": [
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n2.\n\n<!-- image -->\n\n## PROJETO PEDAGÓGICO DO CURSO\n\n## BACHARELADO EM MATEMÁTICA\n\nCurso: 55030\n\n- Bacharelado em Matemática\n\nÁrea: Exatas\n\nN° de vagas: 30\n\nData de Criação: 04 de abril de 1969\n\n1.\n\nINTRODUÇÃO\n\nA presente proposta do curso de Graduação em Bacharelado em Matemática do Instituto de\n\nCiências Matemáticas e de Computação (ICMC), da USP, Campus de São Carlos, visa atender as seguintes resoluções:\n\n●\n\nCNE/CES 1302/2001 de 06/11/2001: Diretrizes Curriculares Nacionais para os Cursos de\n\nMatemática, Bacharelado e Licenciatura.\n\n- CNE/CES 3, de 18 /02/2003: Estabelece as Diretrizes Curriculares para os cursos de Matemática.\n\n●\n\nRESOLUÇÃO Nº 2, de 18/06/2007\n\n-\n\n(DOU de 19 /06/2007): Dispõe sobre carga horária mínima e procedimentos relativos à integralização e duração dos cursos de graduação,\n\nbacharelados, na modalidade presencial.\n\nBREVE HISTÓRICO\n\nO ICMC\n\n-\n\nUSP foi criado como unidade isolada desta universidade, desde a reforma universitária de 1971, à época, então chamado \"Instituto de Ciências Matemáticas de São Carlos\"\n\n–\n\nICMSC\n\n–\n\ne hoje designado por Instituto de Ciências Matemáticas e de Computação- ICMC.\n\nAnteriormente a esta data, o departamento de Matemática fazia parte da Escola de\n\nEngenharia de São Carlos, criada em 1954, e agregava pesquisadores da área de Matemática e\n\nComputação. Em 1970, parte dos docentes do Departamento de Matemática e de outros departamentos da EESC passaram a constituir o Departamento de Ciências de Computação e\n\nEstatística, ainda pertencendo à Escola de Engenharia.\n\nEm 1971 era criado o Instituto de Ciências Matemáticas de São Carlos, constituindo-se dos\n\n1\n\nAtualizado em 17/04/2024 .\n\n[Página 2]\n<!-- image -->\n\nDepartamentos de Matemática e de Ciências de Computação e Estatística, então desvinculados da EESC. Atualmente, o ICMC conta com quatro departamentos: de Matemática (SMA), de Matemática Aplicada e Estatística (SME), de Sistemas da Informação (SSC) e o de Ciências da Computação (SCC), englobando docentes pesquisadores em todas essas áreas.\n\nO campus da USP de São Carlos, desde a sua criação tem uma forte atuação na formação de profissionais das Ciências Exatas. Nesse contexto, conta com a interação com outros profissionais que utilizam a Matemática como ferramenta de seu dia-a-dia, como Físicos, Químicos e Engenheiros. Por outro lado, a cidade de São Carlos tem se firmado como um pólo de desenvolvimento de alta tecnologia, dentre outros fatores, devido à existência desta \"vocação para as ciências exatas\", trazida com a criação desse campus. Isso leva a população local a uma maior conscientização da importância do ensino e da aprendizagem da Matemática, o que tem fortalecido o compromisso do ICMC em propiciar cursos que formam tanto pesquisadores como professores de Matemática de alto nível, envidando esforços para a busca constante de seu aperfeiçoamento e da maior interação com a comunidade local.\n\nO curso de Bacharelado em Matemática do ICMC – USP foi criado em 04 de abril de 1969 pela portaria GR 987 e teve seu funcionamento autorizado em 1971, no mesmo ano da criação do Instituto de Ciências Matemáticas de São Carlos da Universidade de São Paulo. Foi reconhecido pelo Decreto Federal no. 75448, de 06.03.75, D.O.E. de 07.03.75. Desde então, seu reconhecimento tem sido renovado a cada cinco anos pelo Conselho Estadual de Educação - CEE/SP.\n\n## 3. RELEVÂNCIA SOCIAL DO CURSO\n\nDocumentos recentes sobre recursos humanos em Matemática no Brasil, tal como, \" Panorama dos Recursos Humanos em Matemática no Brasil: Premência de Crescer\", uma publicação conjunta da SBM e IMPA, relatam a necessidade de crescimento no Brasil de recursos humanos qualificados nesta área. Os bacharéis em Matemática, em geral, serão os futuros docentes e pesquisadores dessa área das principais universidades públicas do país e terão um papel muito importante na formação de jovens de todas as áreas de exatas e, também, formarão os futuros mestres e doutores dessa área. Sendo assim, consideramos ser de extrema relevância social e educacional que bons profissionais sejam preparados, com uma formação de alto nível, para atuar em uma área que tem sido valorizada como fundamental para o crescimento social e econômico de uma nação\n\n## 4. OBJETIVOS DO CURSO\n\nO curso de Bacharelado em Matemática surgiu para preparar profissionais para a pesquisa e para a carreira de ensino superior. As recentes aplicações da Matemática têm se expandido nas décadas mais recentes. Tem havido um intercâmbio muito grande com a Física, a Engenharia e,",
+      "qa_pairs": [
+        {
+          "question": "Qual é o número de vagas oferecidas para o curso de Bacharelado em Matemática?",
+          "answer": "O curso de Bacharelado em Matemática oferece 30 vagas.",
+          "source_page": 1
+        },
+        {
+          "question": "Quando foi criado o curso de Bacharelado em Matemática do ICMC-USP?",
+          "answer": "O curso foi criado em 04 de abril de 1969, por meio da portaria GR 987.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são os departamentos que compõem atualmente o ICMC?",
+          "answer": "O ICMC conta com quatro departamentos: de Matemática (SMA), de Matemática Aplicada e Estatística (SME), de Sistemas da Informação (SSC) e o de Ciências da Computação (SCC).",
+          "source_page": 2
+        },
+        {
+          "question": "Quais resoluções a proposta do curso de Bacharelado em Matemática visa atender?",
+          "answer": "O curso visa atender as resoluções CNE/CES 1302/2001 (Diretrizes Curriculares Nacionais para os Cursos de Matemática), CNE/CES 3 de 18/02/2003 (Diretrizes Curriculares para os cursos de Matemática) e a RESOLUÇÃO Nº 2 de 18/06/2007 (sobre carga horária mínima e procedimentos de integralização e duração de cursos de graduação presenciais).",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é o objetivo principal do curso de Bacharelado em Matemática?",
+          "answer": "O curso surgiu para preparar profissionais para a pesquisa e para a carreira de ensino superior.",
+          "source_page": 2
+        },
+        {
+          "question": "Como era a organização do departamento de Matemática antes da criação do ICMC?",
+          "answer": "Anteriormente, o departamento de Matemática fazia parte da Escola de Engenharia de São Carlos (EESC), criada em 1954.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a relevância social do curso de Bacharelado em Matemática segundo o documento?",
+          "answer": "A relevância reside na necessidade de crescimento de recursos humanos qualificados na área no Brasil, pois os bacharéis serão futuros docentes e pesquisadores em universidades públicas, fundamentais para a formação de jovens de áreas de exatas e para o crescimento social e econômico da nação.",
+          "source_page": 2
+        },
+        {
+          "question": "Quando o funcionamento do curso de Bacharelado em Matemática foi autorizado?",
+          "answer": "O funcionamento do curso foi autorizado em 1971, no mesmo ano da criação do Instituto de Ciências Matemáticas de São Carlos.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem é responsável pela renovação do reconhecimento do curso a cada cinco anos?",
+          "answer": "O reconhecimento do curso é renovado a cada cinco anos pelo Conselho Estadual de Educação - CEE/SP.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a relação do ICMC com a cidade de São Carlos mencionada no texto?",
+          "answer": "A cidade de São Carlos firmou-se como um polo de desenvolvimento de alta tecnologia devido à vocação para as ciências exatas trazida pelo campus, o que fortaleceu o compromisso do ICMC em formar pesquisadores e professores de alto nível e interagir com a comunidade local.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n<!-- image -->\n\nDepartamentos de Matemática e de Ciências de Computação e Estatística, então desvinculados da EESC. Atualmente, o ICMC conta com quatro departamentos: de Matemática (SMA), de Matemática Aplicada e Estatística (SME), de Sistemas da Informação (SSC) e o de Ciências da Computação (SCC), englobando docentes pesquisadores em todas essas áreas.\n\nO campus da USP de São Carlos, desde a sua criação tem uma forte atuação na formação de profissionais das Ciências Exatas. Nesse contexto, conta com a interação com outros profissionais que utilizam a Matemática como ferramenta de seu dia-a-dia, como Físicos, Químicos e Engenheiros. Por outro lado, a cidade de São Carlos tem se firmado como um pólo de desenvolvimento de alta tecnologia, dentre outros fatores, devido à existência desta \"vocação para as ciências exatas\", trazida com a criação desse campus. Isso leva a população local a uma maior conscientização da importância do ensino e da aprendizagem da Matemática, o que tem fortalecido o compromisso do ICMC em propiciar cursos que formam tanto pesquisadores como professores de Matemática de alto nível, envidando esforços para a busca constante de seu aperfeiçoamento e da maior interação com a comunidade local.\n\nO curso de Bacharelado em Matemática do ICMC – USP foi criado em 04 de abril de 1969 pela portaria GR 987 e teve seu funcionamento autorizado em 1971, no mesmo ano da criação do Instituto de Ciências Matemáticas de São Carlos da Universidade de São Paulo. Foi reconhecido pelo Decreto Federal no. 75448, de 06.03.75, D.O.E. de 07.03.75. Desde então, seu reconhecimento tem sido renovado a cada cinco anos pelo Conselho Estadual de Educação - CEE/SP.\n\n## 3. RELEVÂNCIA SOCIAL DO CURSO\n\nDocumentos recentes sobre recursos humanos em Matemática no Brasil, tal como, \" Panorama dos Recursos Humanos em Matemática no Brasil: Premência de Crescer\", uma publicação conjunta da SBM e IMPA, relatam a necessidade de crescimento no Brasil de recursos humanos qualificados nesta área. Os bacharéis em Matemática, em geral, serão os futuros docentes e pesquisadores dessa área das principais universidades públicas do país e terão um papel muito importante na formação de jovens de todas as áreas de exatas e, também, formarão os futuros mestres e doutores dessa área. Sendo assim, consideramos ser de extrema relevância social e educacional que bons profissionais sejam preparados, com uma formação de alto nível, para atuar em uma área que tem sido valorizada como fundamental para o crescimento social e econômico de uma nação\n\n## 4. OBJETIVOS DO CURSO\n\nO curso de Bacharelado em Matemática surgiu para preparar profissionais para a pesquisa e para a carreira de ensino superior. As recentes aplicações da Matemática têm se expandido nas décadas mais recentes. Tem havido um intercâmbio muito grande com a Física, a Engenharia e,\n\n[Página 3]\n<!-- image -->\n\nmais recentemente, com as Ciências Econômicas, Biológicas, Humanas e Sociais. Assim, o curso de Bacharelado em Matemática do ICMC visa formar um profissional que possa adquirir, ao longo de sua formação, raciocínio lógico, postura crítica diante de problemas novos e a capacidade para resolver tais problemas.\n\nO aluno é incentivado a explorar com ética e senso crítico as suas próprias habilidades intelectuais e criativas. Procura -se desenvolver valores no futuro profissional, como a busca constante pelo saber, o bom relacionamento pessoal e de trabalho, através de comunicação e planejamento de suas atividades. Estas habilidades e competências adquiridas ao longo do curso formam um profissional capaz de ocupar posições no mercado de trabalho dentro e fora do meio acadêmico, ou, mesmo no meio acadêmico, mas em áreas afins.\n\nO fato da área ter um tamanho menor do que as necessidades do país, permite que que quase todos os profissionais qualificados sejam absorvidos pelo meio acadêmico.\n\n## 5. PERFIL DO ALUNO/EGRESSO\n\nO curso de Bacharelado em Matemática deve qualificar os seus graduados para a Pósgraduação, visando à pesquisa e ao ensino superior, ou para oportunidades de trabalho fora do ambiente acadêmico. Assim, espera-se que os egressos tenham:\n\n- Sólida formação de conteúdos de Matemática Pura;\n- Sólida formação em disciplinas de Matemática Aplicada, em Física e uma formação na área de computação que lhe permita habilidades para o uso do computador em diversas frentes;\n- Capacidade para aplicar seus conhecimentos de forma inovadora, acompanhando a contínua evolução da ciência e contribuindo na busca de soluções nas diferentes áreas de aplicação da Matemática;\n- Visão abrangente do papel social do educador e do papel da Matemática como campo do conhecimento humano.\n\nDentro das habilidades que todos os alunos deverão desenvolver, podemos destacar:\n\n- Capacidade de interpretação das soluções encontradas dentro de um contexto global e social, explorando a criatividade e o raciocínio crítico no desempenho de suas funções dentro da sociedade;\n- Habilidade de identificar, formular e resolver problemas na área de Matemática Pura e nas áreas de aplicação, utilizando rigor lógico-científico na análise da situação-problema;\n- Capacidade de aprendizagem continuada, sendo sua prática profissional também fonte de produção de conhecimento;\n- Conhecimento de questões contemporâneas;\n- Capacidade de utilizar novas tecnologias para a resolução de problemas; exercer a reflexão crítica sobre sua própria prática como educador/profissional, sendo capaz de buscar e",
+      "qa_pairs": [
+        {
+          "question": "Quais são os departamentos que compõem o ICMC atualmente?",
+          "answer": "O ICMC conta com quatro departamentos: de Matemática (SMA), de Matemática Aplicada e Estatística (SME), de Sistemas da Informação (SSC) e o de Ciências da Computação (SCC).",
+          "source_page": 2
+        },
+        {
+          "question": "Quando foi criado o curso de Bacharelado em Matemática do ICMC-USP?",
+          "answer": "O curso foi criado em 04 de abril de 1969, pela portaria GR 987, e teve seu funcionamento autorizado em 1971.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a relevância social do curso de Bacharelado em Matemática?",
+          "answer": "O curso é de extrema relevância social e educacional pois prepara profissionais de alto nível para atuar como futuros docentes e pesquisadores nas principais universidades públicas do país, sendo fundamental para o crescimento social e econômico da nação.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são os principais objetivos do curso de Bacharelado em Matemática?",
+          "answer": "O curso visa preparar profissionais para a pesquisa e para a carreira de ensino superior, buscando formar profissionais com raciocínio lógico, postura crítica diante de problemas novos e capacidade de resolvê-los.",
+          "source_page": 2
+        },
+        {
+          "question": "Com quais outras áreas a Matemática tem tido intercâmbio recentemente?",
+          "answer": "A Matemática tem tido um grande intercâmbio com a Física, a Engenharia e, mais recentemente, com as Ciências Econômicas, Biológicas, Humanas e Sociais.",
+          "source_page": 3
+        },
+        {
+          "question": "Onde o egresso do curso de Bacharelado em Matemática pode atuar profissionalmente?",
+          "answer": "O egresso pode ocupar posições no mercado de trabalho dentro e fora do meio acadêmico, ou em áreas afins dentro do ambiente acadêmico.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é a expectativa de formação de conteúdo para os graduados do curso?",
+          "answer": "Espera-se que os egressos tenham sólida formação em conteúdos de Matemática Pura, em disciplinas de Matemática Aplicada, em Física e na área de computação para o uso do computador em diversas frentes.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais habilidades de resolução de problemas são esperadas dos alunos?",
+          "answer": "Espera-se a habilidade de identificar, formular e resolver problemas na área de Matemática Pura e nas áreas de aplicação, utilizando rigor lógico-científico na análise da situação-problema.",
+          "source_page": 3
+        },
+        {
+          "question": "Como o curso incentiva o desenvolvimento pessoal do aluno?",
+          "answer": "O aluno é incentivado a explorar suas habilidades intelectuais e criativas com ética e senso crítico, desenvolvendo valores como a busca constante pelo saber, bom relacionamento pessoal e de trabalho, comunicação e planejamento de atividades.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a relação entre a oferta de profissionais qualificados e o meio acadêmico?",
+          "answer": "Devido ao fato de a área ter um tamanho menor do que as necessidades do país, quase todos os profissionais qualificados conseguem ser absorvidos pelo meio acadêmico.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n<!-- image -->\n\nmais recentemente, com as Ciências Econômicas, Biológicas, Humanas e Sociais. Assim, o curso de Bacharelado em Matemática do ICMC visa formar um profissional que possa adquirir, ao longo de sua formação, raciocínio lógico, postura crítica diante de problemas novos e a capacidade para resolver tais problemas.\n\nO aluno é incentivado a explorar com ética e senso crítico as suas próprias habilidades intelectuais e criativas. Procura -se desenvolver valores no futuro profissional, como a busca constante pelo saber, o bom relacionamento pessoal e de trabalho, através de comunicação e planejamento de suas atividades. Estas habilidades e competências adquiridas ao longo do curso formam um profissional capaz de ocupar posições no mercado de trabalho dentro e fora do meio acadêmico, ou, mesmo no meio acadêmico, mas em áreas afins.\n\nO fato da área ter um tamanho menor do que as necessidades do país, permite que que quase todos os profissionais qualificados sejam absorvidos pelo meio acadêmico.\n\n## 5. PERFIL DO ALUNO/EGRESSO\n\nO curso de Bacharelado em Matemática deve qualificar os seus graduados para a Pósgraduação, visando à pesquisa e ao ensino superior, ou para oportunidades de trabalho fora do ambiente acadêmico. Assim, espera-se que os egressos tenham:\n\n- Sólida formação de conteúdos de Matemática Pura;\n- Sólida formação em disciplinas de Matemática Aplicada, em Física e uma formação na área de computação que lhe permita habilidades para o uso do computador em diversas frentes;\n- Capacidade para aplicar seus conhecimentos de forma inovadora, acompanhando a contínua evolução da ciência e contribuindo na busca de soluções nas diferentes áreas de aplicação da Matemática;\n- Visão abrangente do papel social do educador e do papel da Matemática como campo do conhecimento humano.\n\nDentro das habilidades que todos os alunos deverão desenvolver, podemos destacar:\n\n- Capacidade de interpretação das soluções encontradas dentro de um contexto global e social, explorando a criatividade e o raciocínio crítico no desempenho de suas funções dentro da sociedade;\n- Habilidade de identificar, formular e resolver problemas na área de Matemática Pura e nas áreas de aplicação, utilizando rigor lógico-científico na análise da situação-problema;\n- Capacidade de aprendizagem continuada, sendo sua prática profissional também fonte de produção de conhecimento;\n- Conhecimento de questões contemporâneas;\n- Capacidade de utilizar novas tecnologias para a resolução de problemas; exercer a reflexão crítica sobre sua própria prática como educador/profissional, sendo capaz de buscar e\n\n[Página 4]\n<!-- image -->\n\n- compreender novas idéias e novas tecnologias, relacionando-as ao ensino ou à aplicação da Matemática;\n- Capacidade de expressão oral e escrita;\n- Capacidade de trabalhar em equipes, visualizando dimensões multidisciplinares dos conteúdos ligados à Matemática.\n\n## 6. FUNÇÕES QUE OS EGRESSOS PODERÃO EXERCER NO MERCADO DE TRABALHO\n\n- Prosseguir na carreira acadêmica, como pesquisador na área de Matemática pura ou áreas afins;\n- Atuar como professor de curso superior;\n- Ocupar posições no mercado de trabalho, interagindo em equipes multidisciplinares, junto a engenheiros, estatísticos, físicos, economistas, profissionais da área de computação, etc.\n\n## 6.1 Processo de acompanhamento de egressos\n\nAtualmente existe disponível no sítio da USP, o sistema Alumni USP (http://www.alumni.usp.br/), que é um sistema de controle de egressos em que ex-alunos de outros cursos podem efetuar cadastro e assim manter a ligação com o ICMC e com a USP.\n\n## 7. PROCESSO PEDAGÓGICO\n\n## 7.1 Considerações metodológicas\n\nAs disciplinas do curso incluem aulas teórico-expositivas-dialogadas e práticas, apoiadas por salas de aula informatizadas, com postos de trabalho conectados em rede. Essas aulas não dispensam o uso de equipamentos como projetores de imagens, microcomputadores ou outros, viabilizando situações concretas (simuladas) dos conceitos abstratos, com fundamental importância para a sólida formação básica do aluno. As aulas expositivas são utilizadas nas disciplinas de formação teórica, mas não dispensam o uso de equipamentos de última geração. Além disso, os laboratórios de Ensino de Matemática e diversos laboratórios de Graduação possibilitam ao aluno o desenvolvimento de atividades práticas necessárias à consolidação dos conhecimentos teóricos adquiridos.\n\nA grade curricular do curso de Bacharelado em Matemática organiza-se conforme especificado no final deste documento, totalizando 137 créditos em disciplinas obrigatórias e 16 créditos em disciplinas optativas. No total, o curso é constituído por 2400 horas. A carga horária por semestre é organizada de forma a permitir aos alunos se integrarem a atividades de desenvolvimento e pesquisa. Vários programas institucionais propiciam aos alunos do Bacharelado tal integração.\n\nOutros recursos metodológicos seminários, monografias, relatos – estão presentes em várias disciplinas, em eventos para os alunos de graduação e nas atividades de pesquisas",
+      "qa_pairs": [
+        {
+          "question": "Qual é o objetivo do curso de Bacharelado em Matemática do ICMC?",
+          "answer": "O curso visa formar um profissional que adquira raciocínio lógico, postura crítica diante de problemas novos e a capacidade para resolvê-los.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais competências e valores o curso de Bacharelado em Matemática busca desenvolver nos alunos?",
+          "answer": "O curso busca desenvolver a busca constante pelo saber, o bom relacionamento pessoal e de trabalho, a comunicação, o planejamento de atividades, além de incentivar a exploração ética e com senso crítico das habilidades intelectuais e criativas.",
+          "source_page": 3
+        },
+        {
+          "question": "Para quais áreas o Bacharelado em Matemática qualifica seus graduados?",
+          "answer": "O curso qualifica os graduados para a Pós-graduação (visando pesquisa e ensino superior) ou para oportunidades de trabalho fora do ambiente acadêmico.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as formações básicas esperadas para os egressos do curso?",
+          "answer": "Espera-se que os egressos tenham sólida formação em conteúdos de Matemática Pura, Matemática Aplicada, Física e na área de computação, para uso do computador em diversas frentes.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais habilidades práticas e intelectuais os alunos de Matemática devem desenvolver?",
+          "answer": "Devem desenvolver a capacidade de interpretação de soluções em contexto global e social, habilidade de identificar e resolver problemas com rigor lógico-científico, capacidade de aprendizagem continuada, conhecimento de questões contemporâneas, uso de novas tecnologias, expressão oral e escrita, e capacidade de trabalhar em equipes multidisciplinares.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais funções os egressos do curso de Bacharelado em Matemática podem exercer no mercado de trabalho?",
+          "answer": "Podem prosseguir na carreira acadêmica como pesquisadores em Matemática pura ou áreas afins, atuar como professores de curso superior ou ocupar posições no mercado de trabalho interagindo em equipes multidisciplinares com profissionais de engenharia, estatística, física, economia, computação, entre outros.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona o processo de acompanhamento de egressos do ICMC?",
+          "answer": "O acompanhamento é feito através do sistema Alumni USP (http://www.alumni.usp.br/), onde ex-alunos podem efetuar cadastro para manter a ligação com o ICMC e com a USP.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais são as metodologias de ensino utilizadas nas disciplinas do curso?",
+          "answer": "As disciplinas incluem aulas teórico-expositivas-dialogadas e práticas, apoiadas por salas de aula informatizadas, projetores de imagens e microcomputadores, além do uso de laboratórios de Ensino de Matemática e diversos laboratórios de Graduação.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é a carga horária total e a distribuição de créditos do curso de Bacharelado em Matemática?",
+          "answer": "O curso é constituído por um total de 2400 horas, sendo 137 créditos em disciplinas obrigatórias e 16 créditos em disciplinas optativas.",
+          "source_page": 4
+        },
+        {
+          "question": "Além das aulas, quais outros recursos metodológicos são utilizados no curso?",
+          "answer": "São utilizados seminários, monografias e relatos, presentes em várias disciplinas, eventos para alunos de graduação e atividades de pesquisa.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n<!-- image -->\n\n- compreender novas idéias e novas tecnologias, relacionando-as ao ensino ou à aplicação da Matemática;\n- Capacidade de expressão oral e escrita;\n- Capacidade de trabalhar em equipes, visualizando dimensões multidisciplinares dos conteúdos ligados à Matemática.\n\n## 6. FUNÇÕES QUE OS EGRESSOS PODERÃO EXERCER NO MERCADO DE TRABALHO\n\n- Prosseguir na carreira acadêmica, como pesquisador na área de Matemática pura ou áreas afins;\n- Atuar como professor de curso superior;\n- Ocupar posições no mercado de trabalho, interagindo em equipes multidisciplinares, junto a engenheiros, estatísticos, físicos, economistas, profissionais da área de computação, etc.\n\n## 6.1 Processo de acompanhamento de egressos\n\nAtualmente existe disponível no sítio da USP, o sistema Alumni USP (http://www.alumni.usp.br/), que é um sistema de controle de egressos em que ex-alunos de outros cursos podem efetuar cadastro e assim manter a ligação com o ICMC e com a USP.\n\n## 7. PROCESSO PEDAGÓGICO\n\n## 7.1 Considerações metodológicas\n\nAs disciplinas do curso incluem aulas teórico-expositivas-dialogadas e práticas, apoiadas por salas de aula informatizadas, com postos de trabalho conectados em rede. Essas aulas não dispensam o uso de equipamentos como projetores de imagens, microcomputadores ou outros, viabilizando situações concretas (simuladas) dos conceitos abstratos, com fundamental importância para a sólida formação básica do aluno. As aulas expositivas são utilizadas nas disciplinas de formação teórica, mas não dispensam o uso de equipamentos de última geração. Além disso, os laboratórios de Ensino de Matemática e diversos laboratórios de Graduação possibilitam ao aluno o desenvolvimento de atividades práticas necessárias à consolidação dos conhecimentos teóricos adquiridos.\n\nA grade curricular do curso de Bacharelado em Matemática organiza-se conforme especificado no final deste documento, totalizando 137 créditos em disciplinas obrigatórias e 16 créditos em disciplinas optativas. No total, o curso é constituído por 2400 horas. A carga horária por semestre é organizada de forma a permitir aos alunos se integrarem a atividades de desenvolvimento e pesquisa. Vários programas institucionais propiciam aos alunos do Bacharelado tal integração.\n\nOutros recursos metodológicos seminários, monografias, relatos – estão presentes em várias disciplinas, em eventos para os alunos de graduação e nas atividades de pesquisas\n\n[Página 5]\n<!-- image -->\n\ndesenvolvidas nos programas de Iniciação Científica, as quais contam com apoio financeiro do CNPq (PIBIC), FAPESP, de algumas instituições privadas como o grupo Santander e das PróReitorias de Pesquisa e a de Graduação da USP.\n\nOs alunos que alcançam bom desempenho acadêmico são estimulados a participar de programas de Iniciação Científica, com bolsas de Iniciação Científica, patrocinadas pelas agências de fomento à pesquisa CNPq (através de bolsas PIBIC) e FAPESP. Os alunos com bom desempenho acadêmico e com determinada renda familiar, podem ser contemplados com as bolsas \"Ensinar com Pesquisa\" (da Pró-Reitoria de Graduação), em consonância com a política de inclusão da USP, ou ainda, com as bolsas \"Aprender com Cultura e Extensão\" (da Pró-Reitoria de Cultura e Extensão). Temos também, no departamento de Matemática, um programa institucional de Iniciação Científica (PIC-SMA), através do qual os alunos que não obtêm bolsa podem realizar pesquisa com os orientadores do departamento.\n\nTodos esses programas oferecem ao aluno a oportunidade de interagir em seminários semanais com os respectivos orientadores, participar dos diversos grupos de pesquisa e utilizar a infraestrutura dos laboratórios de pesquisa desses grupos. Dessa forma, já durante a graduação, os alunos tomam contato com a pesquisa que se desenvolve no Departamento de Matemática do ICMC -USP ou em outros departamentos, bem como com o processo de transmissão do conhecimento.\n\nOs alunos têm também a oportunidade de serem monitores de disciplinas em que já foram aprovados e nas quais obtiveram uma boa média. Atendem aos cursos de graduação de todo o campus da USP de São Carlos. Dessa forma, desenvolvem as habilidades relativas à exposição oral e escrita, além de ampliar o conhecimento, os conceitos e as idéias matemáticas já vistas nos cursos da grade curricular.\n\nOutros recursos metodológicos, que envolvem eventos para a graduação, são promovidos com o objetivo de despertar a criatividade científica, melhorar o senso crítico e desenvolver nos alunos habilidades necessárias e requeridas ao tratarem com situações reais. Dentre essas atividades destacam -se:\n\n## ⇒ SiM -Simpósio de Matemática para a Graduação\n\nO SiM é um evento anual, tradicional e de grande importância regional, que visa :\n\n- proporcionar aos alunos de graduação um ambiente propício e agradável para discutir e pensar sobre diferentes assuntos relacionados ao estudo de Matemática, pós-graduação, e áreas de trabalho.\n- despertar nos alunos o interesse pela pesquisa matemática através do contato com matemáticos atuantes e de renome.",
+      "qa_pairs": [
+        {
+          "question": "Quais são as possibilidades de atuação no mercado de trabalho para os egressos do curso?",
+          "answer": "Os egressos podem prosseguir na carreira acadêmica como pesquisadores em Matemática pura ou áreas afins, atuar como professores de curso superior ou ocupar posições no mercado de trabalho interagindo em equipes multidisciplinares com profissionais de engenharia, estatística, física, economia e computação.",
+          "source_page": 4
+        },
+        {
+          "question": "Como os ex-alunos podem manter vínculo com o ICMC e com a USP?",
+          "answer": "Os ex-alunos podem efetuar cadastro no sistema Alumni USP, disponível no endereço http://www.alumni.usp.br/, que é o sistema de controle de egressos da instituição.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais metodologias de ensino são utilizadas nas disciplinas do curso?",
+          "answer": "O curso utiliza aulas teórico-expositivas-dialogadas e práticas, apoiadas por salas de aula informatizadas, projetores de imagens e microcomputadores, além de contar com laboratórios de Ensino de Matemática e diversos laboratórios de Graduação para a consolidação de conhecimentos teóricos.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é a carga horária total e a distribuição de créditos do Bacharelado em Matemática?",
+          "answer": "O curso é constituído por um total de 2400 horas, sendo 137 créditos em disciplinas obrigatórias e 16 créditos em disciplinas optativas.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais são os recursos metodológicos complementares presentes nas disciplinas e eventos?",
+          "answer": "Estão presentes seminários, monografias e relatos, além de atividades de pesquisa desenvolvidas em programas de Iniciação Científica.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais agências e instituições oferecem apoio financeiro para a Iniciação Científica?",
+          "answer": "O apoio financeiro é provido pelo CNPq (PIBIC), FAPESP, Pró-Reitorias de Pesquisa e de Graduação da USP, e instituições privadas como o grupo Santander.",
+          "source_page": 5
+        },
+        {
+          "question": "O que é o programa PIC-SMA e a quem se destina?",
+          "answer": "O PIC-SMA é um programa institucional de Iniciação Científica do departamento de Matemática destinado a alunos que não obtiveram bolsa, permitindo que realizem pesquisa com orientadores do departamento.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais bolsas estão disponíveis para alunos com bom desempenho acadêmico e critérios de renda?",
+          "answer": "Além das bolsas de Iniciação Científica (CNPq e FAPESP), podem ser contempladas as bolsas 'Ensinar com Pesquisa' (da Pró-Reitoria de Graduação) e as bolsas 'Aprender com Cultura e Extensão' (da Pró-Reitoria de Cultura e Extensão).",
+          "source_page": 5
+        },
+        {
+          "question": "Como funciona a monitoria de disciplinas para os alunos?",
+          "answer": "Alunos que foram aprovados com boa média em disciplinas podem ser monitores, atendendo aos cursos de graduação de todo o campus da USP de São Carlos para desenvolver habilidades de exposição oral, escrita e ampliar conhecimentos matemáticos.",
+          "source_page": 5
+        },
+        {
+          "question": "O que é o SiM (Simpósio de Matemática para a Graduação) e quais seus objetivos?",
+          "answer": "O SiM é um evento anual regional que visa proporcionar aos alunos de graduação um ambiente para discutir assuntos de Matemática, pós-graduação e áreas de trabalho, além de despertar o interesse pela pesquisa através do contato com matemáticos de renome.",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\n<!-- image -->\n\ndesenvolvidas nos programas de Iniciação Científica, as quais contam com apoio financeiro do CNPq (PIBIC), FAPESP, de algumas instituições privadas como o grupo Santander e das PróReitorias de Pesquisa e a de Graduação da USP.\n\nOs alunos que alcançam bom desempenho acadêmico são estimulados a participar de programas de Iniciação Científica, com bolsas de Iniciação Científica, patrocinadas pelas agências de fomento à pesquisa CNPq (através de bolsas PIBIC) e FAPESP. Os alunos com bom desempenho acadêmico e com determinada renda familiar, podem ser contemplados com as bolsas \"Ensinar com Pesquisa\" (da Pró-Reitoria de Graduação), em consonância com a política de inclusão da USP, ou ainda, com as bolsas \"Aprender com Cultura e Extensão\" (da Pró-Reitoria de Cultura e Extensão). Temos também, no departamento de Matemática, um programa institucional de Iniciação Científica (PIC-SMA), através do qual os alunos que não obtêm bolsa podem realizar pesquisa com os orientadores do departamento.\n\nTodos esses programas oferecem ao aluno a oportunidade de interagir em seminários semanais com os respectivos orientadores, participar dos diversos grupos de pesquisa e utilizar a infraestrutura dos laboratórios de pesquisa desses grupos. Dessa forma, já durante a graduação, os alunos tomam contato com a pesquisa que se desenvolve no Departamento de Matemática do ICMC -USP ou em outros departamentos, bem como com o processo de transmissão do conhecimento.\n\nOs alunos têm também a oportunidade de serem monitores de disciplinas em que já foram aprovados e nas quais obtiveram uma boa média. Atendem aos cursos de graduação de todo o campus da USP de São Carlos. Dessa forma, desenvolvem as habilidades relativas à exposição oral e escrita, além de ampliar o conhecimento, os conceitos e as idéias matemáticas já vistas nos cursos da grade curricular.\n\nOutros recursos metodológicos, que envolvem eventos para a graduação, são promovidos com o objetivo de despertar a criatividade científica, melhorar o senso crítico e desenvolver nos alunos habilidades necessárias e requeridas ao tratarem com situações reais. Dentre essas atividades destacam -se:\n\n## ⇒ SiM -Simpósio de Matemática para a Graduação\n\nO SiM é um evento anual, tradicional e de grande importância regional, que visa :\n\n- proporcionar aos alunos de graduação um ambiente propício e agradável para discutir e pensar sobre diferentes assuntos relacionados ao estudo de Matemática, pós-graduação, e áreas de trabalho.\n- despertar nos alunos o interesse pela pesquisa matemática através do contato com matemáticos atuantes e de renome.\n\n[Página 6]\n<!-- image -->\n\n- permitir aos alunos de graduação que comuniquem seus trabalhos desenvolvidos em projetos de Iniciação Científica, nas diferentes áreas de Matemática, e que conheçam os trabalhos de outros alunos, inclusive de outras instituições.\n- familiarizar os alunos com o exercício de exposição e arguição.\n\n## ⇒ SIICUSP -Simpósio de Iniciação Científica da USP\n\nO SIICUSP é um evento anual no qual os alunos de Iniciação Científica divulgam os seus trabalhos de pesquisa através de painéis, para a comunidade científica. Os melhores trabalhos são premiados.\n\n- ⇒ Seminários periódicos com os orientadores de Iniciação Científica.\n- ⇒ Seminário de coisas legais.\n\n## ⇒ Revista Acta Legalicus\n\nAlém destas atividades, existem outras cotidianas, no ICMC, inclusive as promovidas pelos outros departamentos, abertas aos alunos do Bacharelado em Matemática. Todas essas atividades extracurriculares desenvolvem, além das habilidades específicas, a capacidade de comunicação, organização e planejamento de atividades.\n\nA capacidade de expressão oral é trabalhada através de seminários sobre assuntos da grade curricular, seminários de Iniciação Científica, Simpósios, etc. A expressão escrita é estimulada através de relatórios sobre temas propostos em sala de aula, relatórios de Iniciação Científica e apresentação em simpósios.\n\nOs trabalhos em grupos também estimulam o aluno a desenvolver uma imagem pública, com discussões e apresentações de seminários desde sua primeira fase na universidade. O compromisso do curso com os novos tempos tem seus esforços voltados para a formação de um profissional capaz de construir e compartilhar conhecimento.\n\n## 7.2 Áreas e Linhas de Pesquisa como instrumento de ensino e aprendizagem\n\nOs alunos do Bacharelado em Matemática podem atuar em projetos de pesquisa do ICMC, nas áreas de Matemática Pura como Álgebra, Análise, Geometria e Topologia, (e suas subáreas) e, também, em áreas de Educação Matemática, Matemática Aplicada, Estatística, Computação e em algumas áreas da Engenharia. O egresso do Bacharelado em Matemática tem se mostrado apto a adaptar-se rapidamente a outras áreas de pesquisa como Computação e Engenharia.\n\nEstas facilidades são proporcionadas porque o curso apresenta uma parte comum com os cursos de Licenciatura em Matemática e Bacharelado em Matemática Aplicada e Computação Científica, e, também, pelo fato do ICMC situar-se em um campus quase que essencialmente constituído por cursos e por pesquisadores das áreas de exatas. Isso contribui para que o aluno",
+      "qa_pairs": [
+        {
+          "question": "Quais agências e instituições oferecem apoio financeiro para os programas de Iniciação Científica?",
+          "answer": "O apoio financeiro provém do CNPq (PIBIC), FAPESP, de algumas instituições privadas como o grupo Santander e das Pró-Reitorias de Pesquisa e de Graduação da USP.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais bolsas estão disponíveis para alunos com bom desempenho acadêmico e determinada renda familiar?",
+          "answer": "Alunos com bom desempenho e determinada renda familiar podem ser contemplados com as bolsas 'Ensinar com Pesquisa' (da Pró-Reitoria de Graduação) ou com as bolsas 'Aprender com Cultura e Extensão' (da Pró-Reitoria de Cultura e Extensão).",
+          "source_page": 5
+        },
+        {
+          "question": "O que é o PIC-SMA e a quem se destina?",
+          "answer": "O PIC-SMA é um programa institucional de Iniciação Científica do departamento de Matemática, destinado a alunos que não obtêm bolsa, permitindo que realizem pesquisa com os orientadores do departamento.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais são as oportunidades oferecidas aos alunos que participam de programas de Iniciação Científica?",
+          "answer": "Os alunos têm a oportunidade de interagir em seminários semanais com orientadores, participar de diversos grupos de pesquisa e utilizar a infraestrutura dos laboratórios de pesquisa desses grupos.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais são os requisitos para que um aluno seja monitor de disciplinas?",
+          "answer": "Para ser monitor, o aluno deve ter sido aprovado na disciplina e ter obtido nela uma boa média.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual é o objetivo do SiM - Simpósio de Matemática para a Graduação?",
+          "answer": "O SiM visa proporcionar um ambiente para discutir assuntos de Matemática, pós-graduação e áreas de trabalho; despertar o interesse pela pesquisa matemática através do contato com matemáticos de renome; permitir a comunicação de trabalhos de Iniciação Científica e familiarizar os alunos com a exposição e arguição.",
+          "source_page": 5
+        },
+        {
+          "question": "O que é o SIICUSP e como funciona a divulgação dos trabalhos?",
+          "answer": "O SIICUSP é um evento anual onde alunos de Iniciação Científica divulgam seus trabalhos de pesquisa para a comunidade científica através de painéis, sendo que os melhores trabalhos são premiados.",
+          "source_page": 6
+        },
+        {
+          "question": "Como a capacidade de expressão oral e escrita é trabalhada no curso?",
+          "answer": "A expressão oral é trabalhada via seminários (sobre a grade curricular, Iniciação Científica, Simpósios, etc.). A expressão escrita é estimulada por meio de relatórios sobre temas de sala de aula, relatórios de Iniciação Científica e apresentações em simpósios.",
+          "source_page": 6
+        },
+        {
+          "question": "Em quais áreas de pesquisa os alunos do Bacharelado em Matemática podem atuar?",
+          "answer": "Podem atuar em Matemática Pura (Álgebra, Análise, Geometria e Topologia e subáreas), Educação Matemática, Matemática Aplicada, Estatística, Computação e algumas áreas da Engenharia.",
+          "source_page": 6
+        },
+        {
+          "question": "Por que o egresso do Bacharelado em Matemática consegue se adaptar rapidamente a áreas como Computação e Engenharia?",
+          "answer": "Isso ocorre porque o curso possui uma parte comum com as Licenciaturas em Matemática e o Bacharelado em Matemática Aplicada e Computação Científica, além de o ICMC estar em um campus composto essencialmente por cursos e pesquisadores de exatas.",
+          "source_page": 6
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c5",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_text": "[Página 6]\n<!-- image -->\n\n- permitir aos alunos de graduação que comuniquem seus trabalhos desenvolvidos em projetos de Iniciação Científica, nas diferentes áreas de Matemática, e que conheçam os trabalhos de outros alunos, inclusive de outras instituições.\n- familiarizar os alunos com o exercício de exposição e arguição.\n\n## ⇒ SIICUSP -Simpósio de Iniciação Científica da USP\n\nO SIICUSP é um evento anual no qual os alunos de Iniciação Científica divulgam os seus trabalhos de pesquisa através de painéis, para a comunidade científica. Os melhores trabalhos são premiados.\n\n- ⇒ Seminários periódicos com os orientadores de Iniciação Científica.\n- ⇒ Seminário de coisas legais.\n\n## ⇒ Revista Acta Legalicus\n\nAlém destas atividades, existem outras cotidianas, no ICMC, inclusive as promovidas pelos outros departamentos, abertas aos alunos do Bacharelado em Matemática. Todas essas atividades extracurriculares desenvolvem, além das habilidades específicas, a capacidade de comunicação, organização e planejamento de atividades.\n\nA capacidade de expressão oral é trabalhada através de seminários sobre assuntos da grade curricular, seminários de Iniciação Científica, Simpósios, etc. A expressão escrita é estimulada através de relatórios sobre temas propostos em sala de aula, relatórios de Iniciação Científica e apresentação em simpósios.\n\nOs trabalhos em grupos também estimulam o aluno a desenvolver uma imagem pública, com discussões e apresentações de seminários desde sua primeira fase na universidade. O compromisso do curso com os novos tempos tem seus esforços voltados para a formação de um profissional capaz de construir e compartilhar conhecimento.\n\n## 7.2 Áreas e Linhas de Pesquisa como instrumento de ensino e aprendizagem\n\nOs alunos do Bacharelado em Matemática podem atuar em projetos de pesquisa do ICMC, nas áreas de Matemática Pura como Álgebra, Análise, Geometria e Topologia, (e suas subáreas) e, também, em áreas de Educação Matemática, Matemática Aplicada, Estatística, Computação e em algumas áreas da Engenharia. O egresso do Bacharelado em Matemática tem se mostrado apto a adaptar-se rapidamente a outras áreas de pesquisa como Computação e Engenharia.\n\nEstas facilidades são proporcionadas porque o curso apresenta uma parte comum com os cursos de Licenciatura em Matemática e Bacharelado em Matemática Aplicada e Computação Científica, e, também, pelo fato do ICMC situar-se em um campus quase que essencialmente constituído por cursos e por pesquisadores das áreas de exatas. Isso contribui para que o aluno\n\n[Página 7]\n<!-- image -->\n\npossa ter um aprofundamento em diversas linhas de investigação, e, também, para que este tenha uma visão mais global e avançada da atividade matemática contemporânea, bem como das pesquisas sobre os processos de ensino e aprendizagem em Matemática.\n\n## 7.3 Extensão como instrumento de Ensino e Aprendizagem\n\nAtualmente, a Pró-Reitoria de Cultura e Extensão tem ampliado as oportunidades de interação dos alunos de graduação com o público externo à universidade, através do Programa \"Aprender com Cultura e Extensão\", que oferece bolsas para a atuação desses alunos e que auxiliam na permanência dos mesmos no curso, melhorando nossos índices de evasão.\n\nEsta interação com a comunidade local tem trazido grandes benefícios à formação de alguns alunos do curso que fazem disciplinas optativas no curso de Licenciatura em Matemática. Ela tem sido um fator diferencial dos demais cursos similares, pois possibilita um intercâmbio direto e informal de idéias e experiências, ligadas, principalmente, à Educação e à Educação Matemática, envolvendo a comunidade escolar da região de São Carlos.\n\nOs alunos do Bacharelado são fortemente incentivados a participar das Olimpíadas Universitárias de Matemática. Alguns deles têm competido no Brasil e no exterior, tendo resultados excelentes. Outros ainda auxiliam equipes de alunos do Ensino Médio que, também, participam da \"Olimpíada São-carlense de Matemática\", que é coordenada por um docente do Departamento de Mate -mática, que, inclusive, premia alunos do Ensino Médio de São Carlos e região pelo bom desem -penho nas competições promovidas.\n\n## 7.4 Perfil Pedagógico do Professor que atua no curso\n\nDentro das diversas possibilidades anteriormente descritas, o curso tem o compromisso de formar profissionais capazes de construir e compartilhar conhecimentos. Para isso, os professores deixam de ser provedores de fatos e regras, para se tornarem facilitadores da aprendizagem; os alunos são estimulados a serem pesquisadores ativos na busca da compreensão que leva às soluções para problemas reais que envolvem a Matemática. Procura-se também destacar as interrelações entre as diversas disciplinas, de modo que não sejam vistas isoladamente, mas como instantes de uma formação mais global do futuro profissional.\n\n## 7.4 Avaliação\n\nAlém das avaliações parciais de seu desempenho feitas nas disciplinas, os alunos têm a oportunidade de documentar o desempenho global de cada uma delas (sua participação, a do professor e a adequação dos recursos), através de um sistema de questionários semestrais respondidos pela turma, para cada uma das disciplinas do ICMC. Estes resultados são divulgados junto à Comissão Coordenadora do Curso e junto aos Chefes dos Departamentos envolvidos, o que possibilita um acompanhamento dos eventuais problemas, ou bons resultados de cada disciplina",
+      "qa_pairs": [
+        {
+          "question": "O que é o SIICUSP e como funciona a divulgação dos trabalhos?",
+          "answer": "O SIICUSP é um evento anual no qual alunos de Iniciação Científica divulgam seus trabalhos de pesquisa para a comunidade científica através de painéis, havendo premiação para os melhores trabalhos.",
+          "source_page": 6
+        },
+        {
+          "question": "De que forma a capacidade de expressão oral e escrita é trabalhada no curso?",
+          "answer": "A expressão oral é trabalhada por meio de simpósios, seminários de Iniciação Científica e seminários sobre assuntos da grade curricular. Já a expressão escrita é estimulada através de apresentações em simpósios e relatórios de Iniciação Científica e de temas propostos em sala de aula.",
+          "source_page": 6
+        },
+        {
+          "question": "Em quais áreas de pesquisa os alunos do Bacharelado em Matemática podem atuar no ICMC?",
+          "answer": "Os alunos podem atuar em Matemática Pura (como Álgebra, Análise, Geometria e Topologia e suas subáreas), além de áreas de Educação Matemática, Matemática Aplicada, Estatística, Computação e algumas áreas da Engenharia.",
+          "source_page": 6
+        },
+        {
+          "question": "Por que o egresso do Bacharelado em Matemática consegue se adaptar rapidamente a áreas como Computação e Engenharia?",
+          "answer": "Isso ocorre porque o curso possui uma parte comum com os cursos de Bacharelado em Matemática Aplicada e Computação Científica e Licenciatura em Matemática, além de o ICMC estar situado em um campus composto essencialmente por cursos e pesquisadores de exatas.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual é o objetivo do programa 'Aprender com Cultura e Extensão' da Pró-Reitoria de Cultura e Extensão?",
+          "answer": "O programa visa ampliar as oportunidades de interação dos alunos de graduação com o público externo à universidade, oferecendo bolsas que auxiliam na permanência dos alunos no curso e melhoram os índices de evasão.",
+          "source_page": 7
+        },
+        {
+          "question": "Como a interação com a comunidade local beneficia a formação dos alunos do Bacharelado?",
+          "answer": "A interação possibilita um intercâmbio direto e informal de ideias e experiências ligadas à Educação e Educação Matemática com a comunidade escolar de São Carlos, especialmente para alunos que cursam disciplinas optativas na Licenciatura em Matemática.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais são as participações dos alunos em olimpíadas de matemática?",
+          "answer": "Os alunos são incentivados a participar de Olimpíadas Universitárias de Matemática (no Brasil e exterior) e alguns auxiliam equipes de Ensino Médio na 'Olimpíada São-carlense de Matemática'.",
+          "source_page": 7
+        },
+        {
+          "question": "Quem coordena a 'Olimpíada São-carlense de Matemática'?",
+          "answer": "A olimpíada é coordenada por um docente do Departamento de Matemática.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual é o perfil pedagógico esperado do professor que atua no curso?",
+          "answer": "Os professores devem deixar de ser meros provedores de fatos e regras para se tornarem facilitadores da aprendizagem, estimulando os alunos a serem pesquisadores ativos na busca de soluções para problemas reais.",
+          "source_page": 7
+        },
+        {
+          "question": "Como funciona o sistema de avaliação global das disciplinas no ICMC?",
+          "answer": "Além das avaliações parciais de desempenho, os alunos respondem a questionários semestrais sobre a participação, a atuação do professor e a adequação dos recursos de cada disciplina. Os resultados são divulgados à Comissão Coordenadora do Curso e aos Chefes dos Departamentos.",
+          "source_page": 7
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c6",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_text": "[Página 7]\n<!-- image -->\n\npossa ter um aprofundamento em diversas linhas de investigação, e, também, para que este tenha uma visão mais global e avançada da atividade matemática contemporânea, bem como das pesquisas sobre os processos de ensino e aprendizagem em Matemática.\n\n## 7.3 Extensão como instrumento de Ensino e Aprendizagem\n\nAtualmente, a Pró-Reitoria de Cultura e Extensão tem ampliado as oportunidades de interação dos alunos de graduação com o público externo à universidade, através do Programa \"Aprender com Cultura e Extensão\", que oferece bolsas para a atuação desses alunos e que auxiliam na permanência dos mesmos no curso, melhorando nossos índices de evasão.\n\nEsta interação com a comunidade local tem trazido grandes benefícios à formação de alguns alunos do curso que fazem disciplinas optativas no curso de Licenciatura em Matemática. Ela tem sido um fator diferencial dos demais cursos similares, pois possibilita um intercâmbio direto e informal de idéias e experiências, ligadas, principalmente, à Educação e à Educação Matemática, envolvendo a comunidade escolar da região de São Carlos.\n\nOs alunos do Bacharelado são fortemente incentivados a participar das Olimpíadas Universitárias de Matemática. Alguns deles têm competido no Brasil e no exterior, tendo resultados excelentes. Outros ainda auxiliam equipes de alunos do Ensino Médio que, também, participam da \"Olimpíada São-carlense de Matemática\", que é coordenada por um docente do Departamento de Mate -mática, que, inclusive, premia alunos do Ensino Médio de São Carlos e região pelo bom desem -penho nas competições promovidas.\n\n## 7.4 Perfil Pedagógico do Professor que atua no curso\n\nDentro das diversas possibilidades anteriormente descritas, o curso tem o compromisso de formar profissionais capazes de construir e compartilhar conhecimentos. Para isso, os professores deixam de ser provedores de fatos e regras, para se tornarem facilitadores da aprendizagem; os alunos são estimulados a serem pesquisadores ativos na busca da compreensão que leva às soluções para problemas reais que envolvem a Matemática. Procura-se também destacar as interrelações entre as diversas disciplinas, de modo que não sejam vistas isoladamente, mas como instantes de uma formação mais global do futuro profissional.\n\n## 7.4 Avaliação\n\nAlém das avaliações parciais de seu desempenho feitas nas disciplinas, os alunos têm a oportunidade de documentar o desempenho global de cada uma delas (sua participação, a do professor e a adequação dos recursos), através de um sistema de questionários semestrais respondidos pela turma, para cada uma das disciplinas do ICMC. Estes resultados são divulgados junto à Comissão Coordenadora do Curso e junto aos Chefes dos Departamentos envolvidos, o que possibilita um acompanhamento dos eventuais problemas, ou bons resultados de cada disciplina\n\n[Página 8]\n<!-- image -->\n\nem cada semestre, permitindo a avaliação interna do curso.\n\nEste também foi avaliado externamente através do Provão, elaborado pelo Ministério da Educação. Por quatro anos consecutivos (1998, 1999, 2000, 2001), obteve conceito A, com um desempenho dos alunos acima da média nacional. Também o Guia do Estudante atribui 5 estrelas ao curso. A cada quinquênio, o curso é avaliado, e também, externamente, pelo Conselho Estadual de Educação (CEE-SP), para a renovação de seu reconhecimento.\n\n## 8. INFRAESTRUTURA\n\nO desenvolvimento das competências anteriormente citadas está fortemente ligado à necessidade de uma infraestrutura física e humana adequada, da qual, com certeza, dispõe o ICMC -USP.\n\nA Biblioteca Prof. Achile Bassi, do ICMC-USP, é a terceira biblioteca do país em acervo de Matemática e conta também com um vasto acervo em Computação e obras de Educação Matemática. Além dos livros que constam da bibliografia dos cursos do currículo, a biblioteca conta com inúmeros periódicos que auxiliam os alunos em suas pesquisas.\n\nO curso conta ainda com vários laboratórios voltados à pesquisa em Matemática, onde os alunos desenvolvem as suas pesquisas, elaboram os seus relatórios, etc. Os alunos também contam com os laboratórios de Computação onde têm aulas e desenvolvem atividades da área.\n\nPara as disciplinas mais voltadas à prática pedagógica, dispomos de dois laboratórios: o de Ensino de Matemática (LEM) e o de Educação Matemática, onde os alunos têm acesso a microcomputadores, TV, vídeo, vídeos educativos de Matemática, coleções de livros didáticos, paradidáticos, etc. As salas de aula do ICMC-USP são equipadas com projetores de imagens, computadores, datashow, carteiras, lousa e iluminação planejadas.\n\nQuanto à infraestrutura humana, o curso conta com o corpo docente do Departamento de Matemática, que ministra a grande maioria das disciplinas do curso, com professores do Departamento de Matemática Aplicada e Estatística que ministram as disciplinas da área de Análise Numérica, Probabilidade e Estatística e com os professores dos Departamentos de Ciências de Computação e Sistemas de Computação, que ministram as matérias da área de Computação e, ainda, com os professores do Instituto de Física de São Carlos que são os responsáveis pelas disciplinas Física I, Física II e Física III constantes do currículo. Todos os docentes do curso têm, no mínimo, o título de doutor e 100% trabalham em regime de dedicação integral à docência e à pesquisa. Isto se torna um fator importante no que se refere ao contato e atualização permanente dos alunos com questões contemporâneas.\n\n## 9. APOIO ACADÊMICO AOS ALUNOS",
+      "qa_pairs": [
+        {
+          "question": "O que é o Programa 'Aprender com Cultura e Extensão'?",
+          "answer": "É um programa da Pró-Reitoria de Cultura e Extensão que amplia as oportunidades de interação dos alunos de graduação com o público externo à universidade, oferecendo bolsas que auxiliam na permanência dos alunos no curso e na redução dos índices de evasão.",
+          "source_page": 7
+        },
+        {
+          "question": "Como os alunos do Bacharelado em Matemática são incentivados a participar de competições?",
+          "answer": "Eles são fortemente incentivados a participar das Olimpíadas Universitárias de Matemática, competindo inclusive no Brasil e no exterior, além de auxiliarem equipes de alunos do Ensino Médio na 'Olimpíada São-carlense de Matemática'.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual é o perfil pedagógico esperado do professor que atua no curso?",
+          "answer": "Os professores devem atuar como facilitadores da aprendizagem, deixando de ser apenas provedores de fatos e regras, com o compromisso de formar profissionais capazes de construir e compartilhar conhecimentos.",
+          "source_page": 7
+        },
+        {
+          "question": "Como os alunos podem documentar o desempenho global das disciplinas?",
+          "answer": "Através de um sistema de questionários semestrais respondidos pela turma para cada disciplina do ICMC, onde avaliam sua própria participação, a do professor e a adequação dos recursos.",
+          "source_page": 7
+        },
+        {
+          "question": "Para onde são enviados os resultados dos questionários semestrais de avaliação das disciplinas?",
+          "answer": "Os resultados são divulgados junto à Comissão Coordenadora do Curso e aos Chefes dos Departamentos envolvidos.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais são as avaliações externas mencionadas para o curso?",
+          "answer": "O curso foi avaliado pelo Provão do Ministério da Educação (obtendo conceito A por quatro anos consecutivos), recebeu 5 estrelas do Guia do Estudante e é avaliado a cada quinquênio pelo Conselho Estadual de Educação (CEE-SP) para renovação de reconhecimento.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual a relevância da Biblioteca Prof. Achile Bassi para o curso?",
+          "answer": "Ela é a terceira biblioteca do país em acervo de Matemática, possuindo também um vasto acervo em Computação, obras de Educação Matemática e inúmeros periódicos para auxílio em pesquisas.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais laboratórios estão disponíveis para as disciplinas de prática pedagógica?",
+          "answer": "Estão disponíveis o Laboratório de Ensino de Matemática (LEM) e o de Educação Matemática, que oferecem microcomputadores, TV, vídeo, vídeos educativos e coleções de livros didáticos e paradidáticos.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais departamentos e institutos compõem o corpo docente do curso?",
+          "answer": "O corpo docente é composto por professores do Departamento de Matemática, do Departamento de Matemática Aplicada e Estatística, dos Departamentos de Ciências de Computação e Sistemas de Computação, e do Instituto de Física de São Carlos.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual a qualificação e o regime de trabalho dos docentes do curso?",
+          "answer": "Todos os docentes possuem, no mínimo, o título de doutor e 100% trabalham em regime de dedicação integral à docência e à pesquisa.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c7",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_text": "[Página 8]\n<!-- image -->\n\nem cada semestre, permitindo a avaliação interna do curso.\n\nEste também foi avaliado externamente através do Provão, elaborado pelo Ministério da Educação. Por quatro anos consecutivos (1998, 1999, 2000, 2001), obteve conceito A, com um desempenho dos alunos acima da média nacional. Também o Guia do Estudante atribui 5 estrelas ao curso. A cada quinquênio, o curso é avaliado, e também, externamente, pelo Conselho Estadual de Educação (CEE-SP), para a renovação de seu reconhecimento.\n\n## 8. INFRAESTRUTURA\n\nO desenvolvimento das competências anteriormente citadas está fortemente ligado à necessidade de uma infraestrutura física e humana adequada, da qual, com certeza, dispõe o ICMC -USP.\n\nA Biblioteca Prof. Achile Bassi, do ICMC-USP, é a terceira biblioteca do país em acervo de Matemática e conta também com um vasto acervo em Computação e obras de Educação Matemática. Além dos livros que constam da bibliografia dos cursos do currículo, a biblioteca conta com inúmeros periódicos que auxiliam os alunos em suas pesquisas.\n\nO curso conta ainda com vários laboratórios voltados à pesquisa em Matemática, onde os alunos desenvolvem as suas pesquisas, elaboram os seus relatórios, etc. Os alunos também contam com os laboratórios de Computação onde têm aulas e desenvolvem atividades da área.\n\nPara as disciplinas mais voltadas à prática pedagógica, dispomos de dois laboratórios: o de Ensino de Matemática (LEM) e o de Educação Matemática, onde os alunos têm acesso a microcomputadores, TV, vídeo, vídeos educativos de Matemática, coleções de livros didáticos, paradidáticos, etc. As salas de aula do ICMC-USP são equipadas com projetores de imagens, computadores, datashow, carteiras, lousa e iluminação planejadas.\n\nQuanto à infraestrutura humana, o curso conta com o corpo docente do Departamento de Matemática, que ministra a grande maioria das disciplinas do curso, com professores do Departamento de Matemática Aplicada e Estatística que ministram as disciplinas da área de Análise Numérica, Probabilidade e Estatística e com os professores dos Departamentos de Ciências de Computação e Sistemas de Computação, que ministram as matérias da área de Computação e, ainda, com os professores do Instituto de Física de São Carlos que são os responsáveis pelas disciplinas Física I, Física II e Física III constantes do currículo. Todos os docentes do curso têm, no mínimo, o título de doutor e 100% trabalham em regime de dedicação integral à docência e à pesquisa. Isto se torna um fator importante no que se refere ao contato e atualização permanente dos alunos com questões contemporâneas.\n\n## 9. APOIO ACADÊMICO AOS ALUNOS\n\n[Página 9]\n<!-- image -->\n\nA orientação acadêmica dos alunos do Bacharelado em Matemática tem sido realizada pela Comissão Coordenação do Curso (CoC-BMA) e pela Comissão de Graduação (CG) do ICMC-USP, que é o Colegiado responsável pelos cursos de graduação do ICMC-USP. A Coordenação é exercida por um docente do Departamento de Matemática, eleito pela CoC-BMA, que é o presidente da COC -BMA.\n\nEm 2018, as CoCs dos cursos de Bacharelado em Matemática e de Licenciatura em Matemática, criaram uma Comissão Assessora, composta por 5 alunos de cada um destes cursos, com o objetivo de assessorar as CoCs e estabelecer vínculos mais estreitos e eficazes em questões relativas aos cursos e à vida acadêmica.\n\nEm 2018, também foi criado o GAPsi – Grupo de Apoio Psicopedagógico do ICMC, conforme descrito a Portaria ICMC Nº 015/2018. Este grupo elaborou um formulario para, a partir dos resultados deste, delinear o perfil epidemiológico dos alunos do ICMC e, com isso, propor grupos temáticos para tratativa de diversas questões envolvendo a saúde mental e o sofrimento psíquico dos alunos. Em particular, um destes grupos temáticos teve diversos alunos do curso participando, com bons resultados. Neste ano de 2019, as atividades nesta direção terão prose-guimento.\n\nA partir do ano de 2023, a grade curricular do Bacharelado em Matemática terá as seguintes mudanças:\n\n- As disciplinas de \"Direcionamento Acadêmico\" e \"Introdução à Metodologia Científica\" serão extintas, e será criado uma nova disciplina \"SMA0385-Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas\", que integrará o 1 o semestre da grade curricular. Esta nova disciplina manterá os objetivos das duas disciplinas anteriores, que é estimular os alunos no curso evitando evasões, através de atividades que de fato possibilitem que o aluno tenha uma compreensão adequada do curso e que permitam ao aluno sentir-se apoiado nas suas dúvidas e dificuldades iniciais.\n- As disciplinas de \"Fundamentos de Matemática do Ensino Superior\" e \"Elementos de Matemática\" serão extintas, e será criado uma nova disciplina \"SMA0386-Fundamentos de Matemática\", que integrará o 1 o semestre da grade curricular. Esta nova disciplina abordará tópidos de Matemática elementar, importantes na formação inicial do estudantes.\n- A ementa da disciplina SMA0375-Álgebra Linear teve alguns ajustes, possibilitando um melhor ensino -aprendizagem.\n- A disciplina SMA0343-Espaços Métricos passou do 4 o semestre para o 2 o semestre, com o objetivo de se introduzir esses conceitos básicos, mas importantes, ainda no 1 o ano para os alunos.\n- A disciplina SMA0171-Topologia passou do 5 o semestre para o 3 o semestre, seguindo a linha dos objetivos de apresentar conceitos básicos e importantes de Matemática para os",
+      "qa_pairs": [
+        {
+          "question": "Qual é a importância da Biblioteca Prof. Achile Bassi para o curso?",
+          "answer": "A Biblioteca Prof. Achile Bassi é a terceira biblioteca do país em acervo de Matemática, possuindo também um vasto acervo em Computação e obras de Educação Matemática, além de inúmeros periódicos que auxiliam os alunos em suas pesquisas.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais laboratórios estão disponíveis para as disciplinas de prática pedagógica?",
+          "answer": "Estão disponíveis o Laboratório de Ensino de Matemática (LEM) e o de Educação Matemática, que oferecem acesso a microcomputadores, TV, vídeo, vídeos educativos de Matemática e coleções de livros didáticos e paradidáticos.",
+          "source_page": 8
+        },
+        {
+          "question": "Como é a qualificação do corpo docente do curso?",
+          "answer": "Todos os docentes do curso possuem, no mínimo, o título de doutor e 100% trabalham em regime de dedicação integral à docência e à pesquisa.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais departamentos são responsáveis por ministrar as disciplinas do curso?",
+          "answer": "As disciplinas são ministradas por professores do Departamento de Matemática (grande maioria), do Departamento de Matemática Aplicada e Estatística (Análise Numérica, Probabilidade e Estatística), dos Departamentos de Ciências de Computação e Sistemas de Computação (área de Computação) e do Instituto de Física de São Carlos (Física I, II e III).",
+          "source_page": 8
+        },
+        {
+          "question": "Quem é responsável pela orientação acadêmica dos alunos do Bacharelado em Matemática?",
+          "answer": "A orientação é realizada pela Comissão Coordenação do Curso (CoC-BMA) e pela Comissão de Graduação (CG) do ICMC-USP, sendo a coordenação exercida por um docente do Departamento de Matemática eleito pela CoC-BMA.",
+          "source_page": 9
+        },
+        {
+          "question": "O que é a Comissão Assessora criada em 2018?",
+          "answer": "É uma comissão composta por 5 alunos do Bacharelado em Matemática e 5 alunos da Licenciatura em Matemática, com o objetivo de assessorar as CoCs e estreitar vínculos em questões relativas aos cursos e à vida acadêmica.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual a função do GAPsi – Grupo de Apoio Psicopedagógico do ICMC?",
+          "answer": "O GAPsi visa delinear o perfil epidemiológico dos alunos do ICMC para propor grupos temáticos que tratem de questões envolvendo a saúde mental e o sofrimento psíquico dos estudantes.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais mudanças ocorreram nas disciplinas de introdução e metodologia a partir de 2023?",
+          "answer": "As disciplinas de 'Direcionamento Acadêmico' e 'Introdução à Metodologia Científica' foram extintas e substituídas pela disciplina 'SMA0385-Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas' no 1º semestre.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual disciplina substituiu 'Fundamentos de Matemática do Ensino Superior' e 'Elementos de Matemática'?",
+          "answer": "Foi criada a disciplina 'SMA0386-Fundamentos de Matemática', integrada ao 1º semestre da grade curricular, abordando tópicos de Matemática elementar.",
+          "source_page": 9
+        },
+        {
+          "question": "Houve alteração na posição de algumas disciplinas na grade curricular a partir de 2023?",
+          "answer": "Sim. A disciplina SMA0343-Espaços Métricos passou do 4º para o 2º semestre, e a disciplina SMA0171-Topologia passou do 5º para o 3º semestre.",
+          "source_page": 9
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c8",
+      "pages": [
+        9,
+        10
+      ],
+      "chunk_text": "[Página 9]\n<!-- image -->\n\nA orientação acadêmica dos alunos do Bacharelado em Matemática tem sido realizada pela Comissão Coordenação do Curso (CoC-BMA) e pela Comissão de Graduação (CG) do ICMC-USP, que é o Colegiado responsável pelos cursos de graduação do ICMC-USP. A Coordenação é exercida por um docente do Departamento de Matemática, eleito pela CoC-BMA, que é o presidente da COC -BMA.\n\nEm 2018, as CoCs dos cursos de Bacharelado em Matemática e de Licenciatura em Matemática, criaram uma Comissão Assessora, composta por 5 alunos de cada um destes cursos, com o objetivo de assessorar as CoCs e estabelecer vínculos mais estreitos e eficazes em questões relativas aos cursos e à vida acadêmica.\n\nEm 2018, também foi criado o GAPsi – Grupo de Apoio Psicopedagógico do ICMC, conforme descrito a Portaria ICMC Nº 015/2018. Este grupo elaborou um formulario para, a partir dos resultados deste, delinear o perfil epidemiológico dos alunos do ICMC e, com isso, propor grupos temáticos para tratativa de diversas questões envolvendo a saúde mental e o sofrimento psíquico dos alunos. Em particular, um destes grupos temáticos teve diversos alunos do curso participando, com bons resultados. Neste ano de 2019, as atividades nesta direção terão prose-guimento.\n\nA partir do ano de 2023, a grade curricular do Bacharelado em Matemática terá as seguintes mudanças:\n\n- As disciplinas de \"Direcionamento Acadêmico\" e \"Introdução à Metodologia Científica\" serão extintas, e será criado uma nova disciplina \"SMA0385-Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas\", que integrará o 1 o semestre da grade curricular. Esta nova disciplina manterá os objetivos das duas disciplinas anteriores, que é estimular os alunos no curso evitando evasões, através de atividades que de fato possibilitem que o aluno tenha uma compreensão adequada do curso e que permitam ao aluno sentir-se apoiado nas suas dúvidas e dificuldades iniciais.\n- As disciplinas de \"Fundamentos de Matemática do Ensino Superior\" e \"Elementos de Matemática\" serão extintas, e será criado uma nova disciplina \"SMA0386-Fundamentos de Matemática\", que integrará o 1 o semestre da grade curricular. Esta nova disciplina abordará tópidos de Matemática elementar, importantes na formação inicial do estudantes.\n- A ementa da disciplina SMA0375-Álgebra Linear teve alguns ajustes, possibilitando um melhor ensino -aprendizagem.\n- A disciplina SMA0343-Espaços Métricos passou do 4 o semestre para o 2 o semestre, com o objetivo de se introduzir esses conceitos básicos, mas importantes, ainda no 1 o ano para os alunos.\n- A disciplina SMA0171-Topologia passou do 5 o semestre para o 3 o semestre, seguindo a linha dos objetivos de apresentar conceitos básicos e importantes de Matemática para os\n\n[Página 10]\n<!-- image -->\n\nalunos ainda no ciclo básico.\n\n- A disciplina SMA0378-Formas Diferenciais e Aplicações passou por uma mudança na ementa e bibliografia, apresentando agora tópicos de matemáticas mais atuais e relevantes na formação dos estudantes. Além disso, ela passou do 6 o semestre para o 4 o semestre.\n- A disciplina SMA0308-Análise II não será mais oferecida, deixando de existir na grade curricular. Os tópicos de SMA0308 foram distribuidos, de forma homagênea nas disciplinas SMA0380 -Análise e SMA0175 -Geometria Diferencial.\n- As disciplinas SMA0380-Análise e SMA0175-Geometria Diferencial tiveram suas ementas atualizadas, absorvendo alguns tópicos da extinta SMA0308-Análise II.\n- A disciplina SMA0173-Álgebra III passou do do 7 o semestre para o 5 o semestre, possibilitando aos estudantes um contato com tópicos de Álgebra moderna mais cedo.\n- A disciplina SMA0143-Introdução à Teoria da Medida foi extinta, sendo criada uma nova disciplina, SMA0380-Introdução à Teoria da Medida e Probabilidades, com o objetivo de apresentar tópicos de probabilidade como aplicações da teoria da medida.\n- A disciplina SMA0388-Topologia Algébrica foi criada e será disciplina obrigatória na grade curricular, sendo ofertada no 7 o semestre e espelhada com a disciplina da pós-graduação SMA5776 -Topologia Algébrica I.\n- As disciplinas SMA0120-Introdução à Análise Funcional passa do 8 o semestre para o 7 o semestre, com o objetivo de ser pré-requisito para a disciplina SMA0379-Mecânica Quântica para Matemáticos. Esta, por sua vez, passa do 6 o semestre para o 8 o semestre.\n- Cada tutor deverá ser docente do Departamento de Matemática, que se candidatará para tal função e será indicado pelo Conselho do Departamento. Os tutores são corresponsáveis pela disciplina de \"Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas\" e acompanharão grupos de até 5 alunos ingressantes no primeiro semestre letivo. Passado o primeiro semestre letivo, os alunos são acompanhados pelo coordenador do curso para o qual fizeram opção.\n\nTodos os alunos do curso de Bacharelado em Matemática também contam com uma supervisão de aprendizagem exercida pelos docentes do Departamento de Matemática que ministram disciplinas para o curso. Tal supervisão de aprendizagem consiste em duas horas de atendimento semanais aos alunos de suas respectivas turmas de graduação. Este atendimento estende -se aos alunos matriculados em disciplinas ministradas por docentes do Departamento de Matemática.\n\n## 10. A MATRIZ CURRICULAR\n\n## 10.1 Ingresso\n\nAtualmente, o ingresso dos alunos se dá através de duas possibilidades: via FUVEST (21",
+      "qa_pairs": [
+        {
+          "question": "Quem é responsável pela orientação acadêmica dos alunos do Bacharelado em Matemática?",
+          "answer": "A orientação acadêmica é realizada pela Comissão Coordenação do Curso (CoC-BMA) e pela Comissão de Graduação (CG) do ICMC-USP, sendo a coordenação exercida por um docente do Departamento de Matemática eleito pela CoC-BMA.",
+          "source_page": 9
+        },
+        {
+          "question": "O que é a Comissão Assessora criada em 2018 e qual seu objetivo?",
+          "answer": "É uma comissão composta por 5 alunos do Bacharelado em Matemática e 5 alunos da Licenciatura em Matemática, com o objetivo de assessorar as CoCs e estabelecer vínculos mais estreitos e eficazes em questões relativas aos cursos e à vida acadêmica.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual a função do GAPsi – Grupo de Apoio Psicopedagógico do ICMC?",
+          "answer": "O GAPsi visa delinear o perfil epidemiológico dos alunos do ICMC através de um formulário para propor grupos temáticos que tratem de questões de saúde mental e sofrimento psíquico dos estudantes.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais disciplinas foram extintas para a criação da 'SMA0385-Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas'?",
+          "answer": "Foram extintas as disciplinas de 'Direcionamento Acadêmico' e 'Introdução à Metodologia Científica'.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual o objetivo da nova disciplina 'SMA0386-Fundamentos de Matemática'?",
+          "answer": "A disciplina, que substitui 'Fundamentos de Matemática do Ensino Superior' e 'Elementos de Matemática', tem como objetivo abordar tópicos de Matemática elementar importantes na formação inicial dos estudantes.",
+          "source_page": 9
+        },
+        {
+          "question": "Houve mudança no semestre de oferta da disciplina SMA0343-Espaços Métricos?",
+          "answer": "Sim, a disciplina passou do 4º semestre para o 2º semestre, visando introduzir conceitos básicos e importantes ainda no primeiro ano.",
+          "source_page": 9
+        },
+        {
+          "question": "O que aconteceu com a disciplina SMA0308-Análise II na grade curricular?",
+          "answer": "A disciplina SMA0308-Análise II deixou de existir, e seus tópicos foram distribuídos de forma homogênea entre as disciplinas SMA0380-Análise e SMA0175-Geometria Diferencial.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual a nova disciplina obrigatória criada para o 7º semestre e com qual disciplina da pós-graduação ela é espelhada?",
+          "answer": "Foi criada a disciplina SMA0388-Topologia Algébrica, que é espelhada com a disciplina de pós-graduação SMA5776-Topologia Algébrica I.",
+          "source_page": 10
+        },
+        {
+          "question": "Como funciona a tutoria para os alunos ingressantes no primeiro semestre?",
+          "answer": "Os tutores são docentes do Departamento de Matemática indicados pelo Conselho do Departamento. Eles são corresponsáveis pela disciplina de 'Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas' e acompanham grupos de até 5 alunos ingressantes.",
+          "source_page": 10
+        },
+        {
+          "question": "Como funciona a supervisão de aprendizagem oferecida aos alunos do Bacharelado em Matemática?",
+          "answer": "A supervisão é exercida pelos docentes do Departamento de Matemática que ministram disciplinas para o curso, consistindo em duas horas de atendimento semanais aos alunos de suas respectivas turmas.",
+          "source_page": 10
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c9",
+      "pages": [
+        10,
+        11
+      ],
+      "chunk_text": "[Página 10]\n<!-- image -->\n\nalunos ainda no ciclo básico.\n\n- A disciplina SMA0378-Formas Diferenciais e Aplicações passou por uma mudança na ementa e bibliografia, apresentando agora tópicos de matemáticas mais atuais e relevantes na formação dos estudantes. Além disso, ela passou do 6 o semestre para o 4 o semestre.\n- A disciplina SMA0308-Análise II não será mais oferecida, deixando de existir na grade curricular. Os tópicos de SMA0308 foram distribuidos, de forma homagênea nas disciplinas SMA0380 -Análise e SMA0175 -Geometria Diferencial.\n- As disciplinas SMA0380-Análise e SMA0175-Geometria Diferencial tiveram suas ementas atualizadas, absorvendo alguns tópicos da extinta SMA0308-Análise II.\n- A disciplina SMA0173-Álgebra III passou do do 7 o semestre para o 5 o semestre, possibilitando aos estudantes um contato com tópicos de Álgebra moderna mais cedo.\n- A disciplina SMA0143-Introdução à Teoria da Medida foi extinta, sendo criada uma nova disciplina, SMA0380-Introdução à Teoria da Medida e Probabilidades, com o objetivo de apresentar tópicos de probabilidade como aplicações da teoria da medida.\n- A disciplina SMA0388-Topologia Algébrica foi criada e será disciplina obrigatória na grade curricular, sendo ofertada no 7 o semestre e espelhada com a disciplina da pós-graduação SMA5776 -Topologia Algébrica I.\n- As disciplinas SMA0120-Introdução à Análise Funcional passa do 8 o semestre para o 7 o semestre, com o objetivo de ser pré-requisito para a disciplina SMA0379-Mecânica Quântica para Matemáticos. Esta, por sua vez, passa do 6 o semestre para o 8 o semestre.\n- Cada tutor deverá ser docente do Departamento de Matemática, que se candidatará para tal função e será indicado pelo Conselho do Departamento. Os tutores são corresponsáveis pela disciplina de \"Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas\" e acompanharão grupos de até 5 alunos ingressantes no primeiro semestre letivo. Passado o primeiro semestre letivo, os alunos são acompanhados pelo coordenador do curso para o qual fizeram opção.\n\nTodos os alunos do curso de Bacharelado em Matemática também contam com uma supervisão de aprendizagem exercida pelos docentes do Departamento de Matemática que ministram disciplinas para o curso. Tal supervisão de aprendizagem consiste em duas horas de atendimento semanais aos alunos de suas respectivas turmas de graduação. Este atendimento estende -se aos alunos matriculados em disciplinas ministradas por docentes do Departamento de Matemática.\n\n## 10. A MATRIZ CURRICULAR\n\n## 10.1 Ingresso\n\nAtualmente, o ingresso dos alunos se dá através de duas possibilidades: via FUVEST (21\n\n[Página 11]\n<!-- image -->\n\nvagas) e via SISU (9 vagas). O aluno ingressa no curso \"Matemática\" e ao final do primeiro semestre letivo faz a opção entre a Licenciatura ou o Bacharelado. Algumas das disciplinas básicas também são cursadas em conjunto com alunos do Bacharelado em Matemática Aplicada e Computação Científica. Consideramos que isto é um grande diferencial do curso, pois os alunos ingressantes nos cursos superiores, em sua grande maioria, não têm uma visão adequada do que seja cada um destes cursos.\n\n## 10.2 As disciplinas\n\nA fim de promover o desenvolvimento das competências citadas anteriormente, o curso de Bacharelado em Matemática do ICMC -USP organiza-se em disciplinas semestrais, como exposto na grade curricular ao final deste documento, a serem cursadas em período integral, de segundafeira a sexta -feira das 07h às 23h, e sábados das 07h às 13h e das 13h às 18h, durante um intervalo ideal de 4 anos.\n\nEmbora os alunos não estejam o tempo todo cursando disciplinas, eles são estimulados a passarem grande parte do dia nas dependências do ICMC, para pesquisas, consultas a docentes (100% do corpo docente tem dedicação integral e exclusiva), consultas à rede internacional de computadores, ou estudos extracurriculares, como nos projetos de Iniciação Científica, projetos de extensão, monitorias, dentre outros.\n\nA estrutura curricular do curso oferece abertura para que os alunos complementem sua formação dentro das suas expectativas. Assim, se ele desejar ter uma formação matemática mais sólida, de modo a ingressar futuramente em áreas de pesquisa, o aluno tem a oportunidade de cursar disciplinas optativas do elenco do Bacharelado em Matemática, da Matemática Aplicada, da Estatística ou das várias opções de Engenharia existentes no Campus. Se quiser dedicar-se ao Ensino de Matemática e, posteriormente, aperfeiçoar-se em Educação, poderá escolher maior número de optativas na área pedagógica.\n\nEm 2019, foi aprovado que todas as disciplinas optativas livres passaram a ser consideradas optativas eletivas, tornando optativas eletivas todas as disciplinas da Universidade de São Paulo. Estas mudanças permitem maior flexibilidade da grade curricular, pois o aluno pode escolher a disciplina que mais se adapta ao seu perfil, caminhando na direção de uma formação mais ampla e interdisciplinar. Em 2020, foram aprovadas as seguintes diretrizes: (1) Serão consideradas quaisquer disciplinas da Universidade de São Paulo, em nível de Graduação ou Pós-graduação, cursadas na modalidade de aluno regular ou especial, em qualquer curso ou ano. Para estas disciplinas, serão considerados somente créditos aula e no máximo 4 créditos por disciplina. (2) Disciplina de Pós-graduação \"espelhada\" com disciplina obrigatória da grade curricular do curso não será considerada como optativa. (3) Disciplinas cursadas em intercâmbio no exterior também",
+      "qa_pairs": [
+        {
+          "question": "Quais foram as mudanças na disciplina SMA0378-Formas Diferenciais e Aplicações?",
+          "answer": "A disciplina passou por mudanças na ementa e bibliografia para incluir tópicos de matemáticas mais atuais e relevantes, e foi movida do 6º para o 4º semestre.",
+          "source_page": 10
+        },
+        {
+          "question": "A disciplina SMA0308-Análise II ainda é oferecida?",
+          "answer": "Não, a disciplina SMA0308-Análise II não será mais oferecida e deixou de existir na grade curricular. Seus tópicos foram distribuídos entre as disciplinas SMA0380-Análise e SMA0175-Geometria Diferencial.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual a nova disciplina que substituiu a SMA0143-Introdução à Teoria da Medida?",
+          "answer": "Foi criada a disciplina SMA0380-Introdução à Teoria da Medida e Probabilidades, com o objetivo de apresentar tópicos de probabilidade como aplicações da teoria da medida.",
+          "source_page": 10
+        },
+        {
+          "question": "A disciplina SMA0388-Topologia Algébrica é obrigatória?",
+          "answer": "Sim, a disciplina SMA0388-Topologia Algébrica foi criada como obrigatória na grade curricular, sendo ofertada no 7º semestre e espelhada com a disciplina de pós-graduação SMA5776.",
+          "source_page": 10
+        },
+        {
+          "question": "Como funciona a tutoria para os alunos ingressantes no primeiro semestre?",
+          "answer": "Os alunos são acompanhados por tutores (docentes do Departamento de Matemática indicados pelo Conselho do Departamento) em grupos de até 5 alunos. Os tutores são corresponsáveis pela disciplina de 'Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas'.",
+          "source_page": 10
+        },
+        {
+          "question": "O que é a supervisão de aprendizagem no Bacharelado em Matemática?",
+          "answer": "Consiste em duas horas de atendimento semanais oferecidas pelos docentes do Departamento de Matemática aos alunos de suas respectivas turmas de graduação ou matriculados em suas disciplinas.",
+          "source_page": 10
+        },
+        {
+          "question": "Quais são as formas de ingresso no curso de Matemática e como funciona a escolha entre Licenciatura e Bacharelado?",
+          "answer": "O ingresso ocorre via FUVEST (21 vagas) ou via SISU (9 vagas). O aluno ingressa no curso 'Matemática' e, ao final do primeiro semestre letivo, faz a opção entre a Licenciatura ou o Bacharelado.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual é o horário de funcionamento das disciplinas do Bacharelado em Matemática?",
+          "answer": "As disciplinas são semestrais e cursadas em período integral, de segunda a sexta-feira das 07h às 23h, e aos sábados das 07h às 13h e das 13h às 18h.",
+          "source_page": 11
+        },
+        {
+          "question": "Como o aluno pode complementar sua formação matemática ou pedagógica?",
+          "answer": "O aluno pode cursar disciplinas optativas do elenco do Bacharelado em Matemática, da Matemática Aplicada, da Estatística, de Engenharias do Campus ou, se desejar focar no Ensino de Matemática, escolher mais optativas na área pedagógica.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais são as diretrizes para o aproveitamento de disciplinas de Pós-graduação como optativas?",
+          "answer": "São consideradas disciplinas de Graduação ou Pós-graduação da USP, cursadas como aluno regular ou especial, sendo considerados apenas créditos aula (máximo de 4 créditos por disciplina). No entanto, disciplinas de Pós-graduação 'espelhadas' com obrigatórias do curso não contam como optativas.",
+          "source_page": 11
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c10",
+      "pages": [
+        11,
+        12
+      ],
+      "chunk_text": "[Página 11]\n<!-- image -->\n\nvagas) e via SISU (9 vagas). O aluno ingressa no curso \"Matemática\" e ao final do primeiro semestre letivo faz a opção entre a Licenciatura ou o Bacharelado. Algumas das disciplinas básicas também são cursadas em conjunto com alunos do Bacharelado em Matemática Aplicada e Computação Científica. Consideramos que isto é um grande diferencial do curso, pois os alunos ingressantes nos cursos superiores, em sua grande maioria, não têm uma visão adequada do que seja cada um destes cursos.\n\n## 10.2 As disciplinas\n\nA fim de promover o desenvolvimento das competências citadas anteriormente, o curso de Bacharelado em Matemática do ICMC -USP organiza-se em disciplinas semestrais, como exposto na grade curricular ao final deste documento, a serem cursadas em período integral, de segundafeira a sexta -feira das 07h às 23h, e sábados das 07h às 13h e das 13h às 18h, durante um intervalo ideal de 4 anos.\n\nEmbora os alunos não estejam o tempo todo cursando disciplinas, eles são estimulados a passarem grande parte do dia nas dependências do ICMC, para pesquisas, consultas a docentes (100% do corpo docente tem dedicação integral e exclusiva), consultas à rede internacional de computadores, ou estudos extracurriculares, como nos projetos de Iniciação Científica, projetos de extensão, monitorias, dentre outros.\n\nA estrutura curricular do curso oferece abertura para que os alunos complementem sua formação dentro das suas expectativas. Assim, se ele desejar ter uma formação matemática mais sólida, de modo a ingressar futuramente em áreas de pesquisa, o aluno tem a oportunidade de cursar disciplinas optativas do elenco do Bacharelado em Matemática, da Matemática Aplicada, da Estatística ou das várias opções de Engenharia existentes no Campus. Se quiser dedicar-se ao Ensino de Matemática e, posteriormente, aperfeiçoar-se em Educação, poderá escolher maior número de optativas na área pedagógica.\n\nEm 2019, foi aprovado que todas as disciplinas optativas livres passaram a ser consideradas optativas eletivas, tornando optativas eletivas todas as disciplinas da Universidade de São Paulo. Estas mudanças permitem maior flexibilidade da grade curricular, pois o aluno pode escolher a disciplina que mais se adapta ao seu perfil, caminhando na direção de uma formação mais ampla e interdisciplinar. Em 2020, foram aprovadas as seguintes diretrizes: (1) Serão consideradas quaisquer disciplinas da Universidade de São Paulo, em nível de Graduação ou Pós-graduação, cursadas na modalidade de aluno regular ou especial, em qualquer curso ou ano. Para estas disciplinas, serão considerados somente créditos aula e no máximo 4 créditos por disciplina. (2) Disciplina de Pós-graduação \"espelhada\" com disciplina obrigatória da grade curricular do curso não será considerada como optativa. (3) Disciplinas cursadas em intercâmbio no exterior também\n\n[Página 12]\n<!-- image -->\n\npodem ser consideradas como optativas eletivas; ao retornar ao Brasil, o aluno deve submeter o pedido junto ao Serviço de Graduação para análise da CoC.\n\nTambém foram alterados os pré-requisitos das disciplinas a partir do 4 o semestre, passando de forte para fraco. O objetivo é evitar uma possível lentidão na evolução da grade curricular e, com isso, suavizar o processo de integralização dos créditos.\n\nOs alunos estarão habilitados ao Bacharelado em Matemática desde que sejam aprovados no número total de créditos de disciplinas obrigatórias e num total não inferior a 16 créditos de disciplinas optativas. O desligamento do curso poderá ocorrer dentro das normas previstas no Regimento Geral da Universidade de São Paulo.\n\n## 10.3 Ênfase em Ciência de Dados\n\nEm reunião de 12 de março de 2018, a Comissão Coordenadora de Curso – Bacharelado em Matemática aprovou a inclusão da Ênfase de Ciência de Dados no currículo do curso. Essa é uma oportunidade ao aluno do Bacharelado em Matemática complementar sua formação básica, especializando-se na área de Ciência de Dados. Será conferido o Certificado em Ênfase em Ciência de Dados ao aluno que, além de concluir o curso de Bacharelado em Matemática, for aprovado em pelo menos seis disciplinas na Tabela a seguir, sendo pelo menos 3 disciplinas do Grupo I e pelo menos 3 disciplinas do Grupo II.\n\nComo pré-requisito principal, o aluno deve ter finalizado ou estar finalizando o segundo ano de seu curso como aluno regular. Os pré-requisitos para cursar as disciplinas variam de acordo com o curso do aluno e serao analisados por uma comissão de professores indicada pelos chefes dos departamentos SME e SCC, os quais oferecem tais disciplinas.\n\n| Grupo   | Disciplina                                               |   Créditos |   Semestre |\n|---------|----------------------------------------------------------|------------|------------|\n| I       | SCC0204  -  Programação Orientada a Objetos              |          4 |          3 |\n| I       | SCC0240  -  Bases de Dados                               |          4 |          5 |\n| I       | SCC0275  -  Ciência de Dados                             |          4 |          6 |\n| I       | SCC0270  -  Introdução à Redes Neurais                   |          4 |          7 |\n| I       | SCC0276  -  Aprendizado de Máquina                       |          4 |          7 |\n| I       | SCC0244  -  Mineração a partir de Grandes Bases de Dados |          4 |          8 |\n| I       | SCC0252  -  Visualização Computacional                   |          4 |          8 |",
+      "qa_pairs": [
+        {
+          "question": "Como funciona o ingresso e a escolha entre Licenciatura e Bacharelado no curso de Matemática?",
+          "answer": "O aluno ingressa no curso de 'Matemática' e, ao final do primeiro semestre letivo, faz a opção entre a Licenciatura ou o Bacharelado.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual é o horário de funcionamento das disciplinas do Bacharelado em Matemática?",
+          "answer": "As disciplinas são cursadas em período integral, de segunda-feira a sexta-feira das 07h às 23h, e aos sábados das 07h às 13h e das 13h às 18h.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual é o intervalo de tempo ideal para a conclusão do curso de Bacharelado em Matemática?",
+          "answer": "O intervalo ideal para a conclusão do curso é de 4 anos.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais atividades extracurriculares os alunos são estimulados a realizar nas dependências do ICMC?",
+          "answer": "Os alunos são estimulados a realizar pesquisas, consultas a docentes, consultas à rede internacional de computadores e estudos extracurriculares, como projetos de Iniciação Científica, projetos de extensão e monitorias.",
+          "source_page": 11
+        },
+        {
+          "question": "Como funciona a flexibilidade das disciplinas optativas para os alunos?",
+          "answer": "Desde 2019, todas as disciplinas optativas livres passaram a ser consideradas optativas eletivas, abrangendo todas as disciplinas da Universidade de São Paulo, o que permite ao aluno escolher a disciplina que melhor se adapta ao seu perfil.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais são as regras para que disciplinas de Pós-graduação ou de intercâmbio sejam aceitas como optativas eletivas?",
+          "answer": "Para disciplinas de Pós-graduação, são considerados apenas créditos aula (máximo de 4 créditos por disciplina), desde que a disciplina não seja 'espelhada' com uma obrigatória da grade. Para disciplinas de intercâmbio no exterior, o aluno deve submeter o pedido ao Serviço de Graduação para análise da CoC ao retornar ao Brasil.",
+          "source_page": 11
+        },
+        {
+          "question": "O que mudou nos pré-requisitos das disciplinas a partir do 4º semestre?",
+          "answer": "Os pré-requisitos passaram de 'forte' para 'fraco', com o objetivo de evitar a lentidão na evolução da grade curricular e suavizar a integralização dos créditos.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais são os requisitos de créditos para a habilitação ao Bacharelado em Matemática?",
+          "answer": "O aluno deve ser aprovado no número total de créditos de disciplinas obrigatórias e em um total não inferior a 16 créditos de disciplinas optativas.",
+          "source_page": 12
+        },
+        {
+          "question": "O que é a Ênfase em Ciência de Dados e como obter o certificado?",
+          "answer": "É uma oportunidade de especialização para o aluno do Bacharelado em Matemática. Para obter o certificado, o aluno deve concluir o Bacharelado em Matemática e ser aprovado em pelo menos seis disciplinas da tabela específica, sendo no mínimo 3 do Grupo I e 3 do Grupo II.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual é o pré-requisito principal para cursar a Ênfase em Ciência de Dados?",
+          "answer": "O aluno deve ter finalizado ou estar finalizando o segundo ano de seu curso como aluno regular.",
+          "source_page": 12
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c11",
+      "pages": [
+        12,
+        13
+      ],
+      "chunk_text": "[Página 12]\n<!-- image -->\n\npodem ser consideradas como optativas eletivas; ao retornar ao Brasil, o aluno deve submeter o pedido junto ao Serviço de Graduação para análise da CoC.\n\nTambém foram alterados os pré-requisitos das disciplinas a partir do 4 o semestre, passando de forte para fraco. O objetivo é evitar uma possível lentidão na evolução da grade curricular e, com isso, suavizar o processo de integralização dos créditos.\n\nOs alunos estarão habilitados ao Bacharelado em Matemática desde que sejam aprovados no número total de créditos de disciplinas obrigatórias e num total não inferior a 16 créditos de disciplinas optativas. O desligamento do curso poderá ocorrer dentro das normas previstas no Regimento Geral da Universidade de São Paulo.\n\n## 10.3 Ênfase em Ciência de Dados\n\nEm reunião de 12 de março de 2018, a Comissão Coordenadora de Curso – Bacharelado em Matemática aprovou a inclusão da Ênfase de Ciência de Dados no currículo do curso. Essa é uma oportunidade ao aluno do Bacharelado em Matemática complementar sua formação básica, especializando-se na área de Ciência de Dados. Será conferido o Certificado em Ênfase em Ciência de Dados ao aluno que, além de concluir o curso de Bacharelado em Matemática, for aprovado em pelo menos seis disciplinas na Tabela a seguir, sendo pelo menos 3 disciplinas do Grupo I e pelo menos 3 disciplinas do Grupo II.\n\nComo pré-requisito principal, o aluno deve ter finalizado ou estar finalizando o segundo ano de seu curso como aluno regular. Os pré-requisitos para cursar as disciplinas variam de acordo com o curso do aluno e serao analisados por uma comissão de professores indicada pelos chefes dos departamentos SME e SCC, os quais oferecem tais disciplinas.\n\n| Grupo   | Disciplina                                               |   Créditos |   Semestre |\n|---------|----------------------------------------------------------|------------|------------|\n| I       | SCC0204  -  Programação Orientada a Objetos              |          4 |          3 |\n| I       | SCC0240  -  Bases de Dados                               |          4 |          5 |\n| I       | SCC0275  -  Ciência de Dados                             |          4 |          6 |\n| I       | SCC0270  -  Introdução à Redes Neurais                   |          4 |          7 |\n| I       | SCC0276  -  Aprendizado de Máquina                       |          4 |          7 |\n| I       | SCC0244  -  Mineração a partir de Grandes Bases de Dados |          4 |          8 |\n| I       | SCC0252  -  Visualização Computacional                   |          4 |          8 |\n\n[Página 13]\n<!-- image -->\n\n| II   | SME0806  -  Estatística Computacional      |   4 |   5 |\n|------|--------------------------------------------|-----|-----|\n| II   | SME0808  -  Séries Temporais               |   4 |   6 |\n| II   | SME0822  -  Análise Multivariada           |   4 |   6 |\n| II   | SME0823  -  Modelos Lineares Generalizados |   4 |   6 |\n| II   | SME0878  -  Mineração Estatística de Dados |   4 |   7 |\n| II   | SME0130  -  Redes Complexas                |   4 |   7 |\n\n## 10.4 Diretrizes curriculares\n\nO currículo do Bacharelado em Matemática proporciona uma formação ampla do futuro bacharel, com ênfase nas áreas:\n\n- Cálculo Diferencial e Integral\n- Álgebra Linear\n- Topologia\n- Análise Matemática\n- Álgebra\n- Análise Complexa\n- Geometria Diferencial\n\nTais tópicos constam das seguintes diretrizes curriculares:\n\n- CNE/CES 1302/2001 de 06/11/2001: Diretrizes Curriculares Nacionais para os Cursos de Matemática, Bacharelado e Licenciatura.\n- CNE/CES 3, de 18 /02/2003: Estabelece as Diretrizes Curriculares para os cursos de Matemática.\n\nNos termos do inciso II do artigo 53, a Lei de Diretrizes e Bases da Educação (Lei no 9394, de 20 de dezembro de 1996) confere autonomia às Instituições de Ensino Superior para fixar os currículos de seus cursos, observadas as diretrizes curriculares gerais pertinentes. Vamos estabelecer, no que segue, uma correspondência entre a estrutura curricular do curso e as diretrizes curriculares.\n\nAs disciplinas seguintes atendem às Diretrizes Curriculares no sentido de serem disciplinas com ênfase na área de Matemática:\n\n- Cálculo Diferencial e Integral de Funções de uma e mais variáveis reais: SMA0301 -Cálculo I (1º período)",
+      "qa_pairs": [
+        {
+          "question": "O que é necessário para obter o Bacharelado em Matemática?",
+          "answer": "O aluno deve ser aprovado no número total de créditos de disciplinas obrigatórias e em um total não inferior a 16 créditos de disciplinas optativas.",
+          "source_page": 12
+        },
+        {
+          "question": "Como funciona a Ênfase em Ciência de Dados no Bacharelado em Matemática?",
+          "answer": "É uma oportunidade de especialização onde o aluno, além de concluir o Bacharelado em Matemática, deve ser aprovado em pelo menos seis disciplinas da tabela específica, sendo no mínimo 3 disciplinas do Grupo I e 3 disciplinas do Grupo II.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual é o pré-requisito principal para cursar a Ênfase em Ciência de Dados?",
+          "answer": "O aluno deve ter finalizado ou estar finalizando o segundo ano de seu curso como aluno regular.",
+          "source_page": 12
+        },
+        {
+          "question": "Quem analisa os pré-requisitos para cursar as disciplinas da Ênfase em Ciência de Dados?",
+          "answer": "Os pré-requisitos são analisados por uma comissão de professores indicada pelos chefes dos departamentos SME e SCC.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais disciplinas compõem o Grupo I da Ênfase em Ciência de Dados?",
+          "answer": "As disciplinas do Grupo I são: Programação Orientada a Objetos (SCC0204), Bases de Dados (SCC0240), Ciência de Dados (SCC0275), Introdução à Redes Neurais (SCC0270), Aprendizado de Máquina (SCC0276), Mineração a partir de Grandes Bases de Dados (SCC0244) e Visualização Computacional (SCC0252).",
+          "source_page": 12
+        },
+        {
+          "question": "Quais disciplinas compõem o Grupo II da Ênfase em Ciência de Dados?",
+          "answer": "As disciplinas do Grupo II são: Estatística Computacional (SME0806), Séries Temporais (SME0808), Análise Multivariada (SME0822), Modelos Lineares Generalizados (SME0823), Mineração Estatística de Dados (SME0878) e Redes Complexas (SME0130).",
+          "source_page": 13
+        },
+        {
+          "question": "Houve alguma alteração nos pré-requisitos das disciplinas a partir do 4º semestre?",
+          "answer": "Sim, os pré-requisitos passaram de 'forte' para 'fraco' com o objetivo de evitar lentidão na evolução da grade curricular e suavizar a integralização dos créditos.",
+          "source_page": 12
+        },
+        {
+          "question": "O que o aluno deve fazer ao retornar ao Brasil para que disciplinas sejam consideradas optativas eletivas?",
+          "answer": "O aluno deve submeter o pedido junto ao Serviço de Graduação para análise da CoC.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais são as áreas de ênfase proporcionadas pela formação do Bacharelado em Matemática?",
+          "answer": "A formação tem ênfase nas áreas de Cálculo Diferencial e Integral, Álgebra Linear, Topologia, Análise Matemática, Álgebra, Análise Complexa e Geometria Diferencial.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual disciplina atende às Diretrizes Curriculares na área de Cálculo Diferencial e Integral de Funções de uma e mais variáveis reais?",
+          "answer": "A disciplina SMA0301 - Cálculo I, cursada no 1º período.",
+          "source_page": 13
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c12",
+      "pages": [
+        13,
+        14
+      ],
+      "chunk_text": "[Página 13]\n<!-- image -->\n\n| II   | SME0806  -  Estatística Computacional      |   4 |   5 |\n|------|--------------------------------------------|-----|-----|\n| II   | SME0808  -  Séries Temporais               |   4 |   6 |\n| II   | SME0822  -  Análise Multivariada           |   4 |   6 |\n| II   | SME0823  -  Modelos Lineares Generalizados |   4 |   6 |\n| II   | SME0878  -  Mineração Estatística de Dados |   4 |   7 |\n| II   | SME0130  -  Redes Complexas                |   4 |   7 |\n\n## 10.4 Diretrizes curriculares\n\nO currículo do Bacharelado em Matemática proporciona uma formação ampla do futuro bacharel, com ênfase nas áreas:\n\n- Cálculo Diferencial e Integral\n- Álgebra Linear\n- Topologia\n- Análise Matemática\n- Álgebra\n- Análise Complexa\n- Geometria Diferencial\n\nTais tópicos constam das seguintes diretrizes curriculares:\n\n- CNE/CES 1302/2001 de 06/11/2001: Diretrizes Curriculares Nacionais para os Cursos de Matemática, Bacharelado e Licenciatura.\n- CNE/CES 3, de 18 /02/2003: Estabelece as Diretrizes Curriculares para os cursos de Matemática.\n\nNos termos do inciso II do artigo 53, a Lei de Diretrizes e Bases da Educação (Lei no 9394, de 20 de dezembro de 1996) confere autonomia às Instituições de Ensino Superior para fixar os currículos de seus cursos, observadas as diretrizes curriculares gerais pertinentes. Vamos estabelecer, no que segue, uma correspondência entre a estrutura curricular do curso e as diretrizes curriculares.\n\nAs disciplinas seguintes atendem às Diretrizes Curriculares no sentido de serem disciplinas com ênfase na área de Matemática:\n\n- Cálculo Diferencial e Integral de Funções de uma e mais variáveis reais: SMA0301 -Cálculo I (1º período)\n\n[Página 14]\n<!-- image -->\n\nSMA0332 -Cálculo II (2º período)\n\n- Equações Diferenciais e suas aplicações:\n\nSME0240 -Equações Diferenciais Ordinárias (4º período)\n\nSMA0169 -Equações Diferenciais Parciais (5º período)\n\n- Séries de Potências:\n\nSMA0380 -Análise I (3º período)\n\nSME0245 -Funções de Variável Complexa (6º período)\n\n- Análise de Fourier:\n- SMA0169 -Equações Diferenciais Parciais (5º período)\n- Diagonalização de Operadores e aplicações:\n- SMA0375 -\n\nÁlgebra Linear (2º período)\n\n- Topologia, espaços de funções:\n\nSMA0171 -\n\nSMA0343 -\n\n- Topologia (3º período) Espaços Métricos (2º período)\n\nSMA0120 -Introdução à Análise Funcional (7º período)\n\n- Análise Matemática:\n\nSMA0380 -Análise I (3º período)\n\nSMA0389 -Introdução à Teoria da Medida e Probabilidades (6 o período)\n\nSMA0120 -Introdução à Análise Funcional (7º período)\n\n- Álgebra:\n\nSMA0305 -Álgebra I (3º período)\n\nSMA0306 -Álgebra II (4º período)\n\nSMA0173 -Álgebra III (5º período)\n\n- Análise Complexa:\n\nSME0245 -Funções de Variável Complexa (6º período)\n\n- Geometria Diferencial:\n\nSMA0175 -Geometria Diferencial (5º período)\n\nSMA0378 -Formas Diferenciais e Aplicações (4º período)",
+      "qa_pairs": [
+        {
+          "question": "Quais são as áreas de ênfase da formação do Bacharelado em Matemática?",
+          "answer": "A formação do Bacharelado em Matemática tem ênfase nas áreas de Cálculo Diferencial e Integral, Álgebra Linear, Topologia, Análise Matemática, Álgebra, Análise Complexa e Geometria Diferencial.",
+          "source_page": 13
+        },
+        {
+          "question": "Quais diretrizes curriculares nacionais regem o curso de Matemática (Bacharelado e Licenciatura)?",
+          "answer": "O curso segue a CNE/CES 1302/2001 de 06/11/2001 e a CNE/CES 3, de 18/02/2003.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual disciplina atende à diretriz de Cálculo Diferencial e Integral de Funções de uma e mais variáveis reais no 1º período?",
+          "answer": "A disciplina é a SMA0301 - Cálculo I.",
+          "source_page": 13
+        },
+        {
+          "question": "Quais disciplinas do currículo abrangem o estudo de Equações Diferenciais e suas aplicações?",
+          "answer": "As disciplinas são SME0240 - Equações Diferenciais Ordinárias (4º período) e SMA0169 - Equações Diferenciais Parciais (5º período).",
+          "source_page": 14
+        },
+        {
+          "question": "Quais disciplinas são indicadas para o estudo de Séries de Potências?",
+          "answer": "As disciplinas são SMA0380 - Análise I (3º período) e SME0245 - Funções de Variável Complexa (6º período).",
+          "source_page": 14
+        },
+        {
+          "question": "Qual disciplina do 2º período atende à diretriz de Diagonalização de Operadores e aplicações?",
+          "answer": "A disciplina é a SMA0375 - Álgebra Linear.",
+          "source_page": 14
+        },
+        {
+          "question": "Quais disciplinas compõem a área de Topologia e espaços de funções?",
+          "answer": "As disciplinas são SMA0343 - Espaços Métricos (2º período), SMA0171 - Topologia (3º período) e SMA0120 - Introdução à Análise Funcional (7º período).",
+          "source_page": 14
+        },
+        {
+          "question": "Quais disciplinas atendem à diretriz de Análise Matemática?",
+          "answer": "As disciplinas são SMA0380 - Análise I (3º período), SMA0389 - Introdução à Teoria da Medida e Probabilidades (6º período) e SMA0120 - Introdução à Análise Funcional (7º período).",
+          "source_page": 14
+        },
+        {
+          "question": "Quais são as disciplinas de Álgebra oferecidas no curso e em quais períodos elas ocorrem?",
+          "answer": "As disciplinas são SMA0305 - Álgebra I (3º período), SMA0306 - Álgebra II (4º período) e SMA0173 - Álgebra III (5º período).",
+          "source_page": 14
+        },
+        {
+          "question": "Quais disciplinas do currículo referem-se à Geometria Diferencial?",
+          "answer": "As disciplinas são SMA0378 - Formas Diferenciais e Aplicações (4º período) e SMA0175 - Geometria Diferencial (5º período).",
+          "source_page": 14
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c13",
+      "pages": [
+        14,
+        15
+      ],
+      "chunk_text": "[Página 14]\n<!-- image -->\n\nSMA0332 -Cálculo II (2º período)\n\n- Equações Diferenciais e suas aplicações:\n\nSME0240 -Equações Diferenciais Ordinárias (4º período)\n\nSMA0169 -Equações Diferenciais Parciais (5º período)\n\n- Séries de Potências:\n\nSMA0380 -Análise I (3º período)\n\nSME0245 -Funções de Variável Complexa (6º período)\n\n- Análise de Fourier:\n- SMA0169 -Equações Diferenciais Parciais (5º período)\n- Diagonalização de Operadores e aplicações:\n- SMA0375 -\n\nÁlgebra Linear (2º período)\n\n- Topologia, espaços de funções:\n\nSMA0171 -\n\nSMA0343 -\n\n- Topologia (3º período) Espaços Métricos (2º período)\n\nSMA0120 -Introdução à Análise Funcional (7º período)\n\n- Análise Matemática:\n\nSMA0380 -Análise I (3º período)\n\nSMA0389 -Introdução à Teoria da Medida e Probabilidades (6 o período)\n\nSMA0120 -Introdução à Análise Funcional (7º período)\n\n- Álgebra:\n\nSMA0305 -Álgebra I (3º período)\n\nSMA0306 -Álgebra II (4º período)\n\nSMA0173 -Álgebra III (5º período)\n\n- Análise Complexa:\n\nSME0245 -Funções de Variável Complexa (6º período)\n\n- Geometria Diferencial:\n\nSMA0175 -Geometria Diferencial (5º período)\n\nSMA0378 -Formas Diferenciais e Aplicações (4º período)\n\n[Página 15]\n<!-- image -->\n\nSMA0192 -Introdução à Topologia Diferencial (8º período)\n\n- Probabilidade e Estatística:\n\nSME0220 -Introdução à Teoria das Probabilidades (6º período)\n\n- Física Geral:\n\n7600005 -Física I (3º período)\n\n7600006 -Física II (4º período)\n\n- Física Moderna:\n\nSMA0379 -Mecânica Quântica para Matemáticos (8º período)\n\nA disciplina seguinte atende à diretriz curricular no sentido de prover familiaridade com o uso de computador:\n\n- SME0230 -Introdução à Programação de Computadores (1º período)\n\nAs disciplinas seguintes complementam a formação do bacharelando:\n\n- SMA0386 -Fundamentos de Matemática (1º período)\n- SMA0385 -Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas (1º período)\n- SMA0340 -Introdução aos Estudos da Educação (2º período)\n- SME0202 -Métodos Numéricos em Equações Diferenciais (7º período)\n\nAs disciplinas optativas são de livre escolha dos alunos, as quais podem ser cursadas no ICMC ou em outras unidades da USP. O aluno também pode cursar disciplinas optativas em outras instituições, desde que tenham a aprovação da Comissão Coordenadora do Curso.\n\nTendo em vista a RESOLUÇÃO CoG, CoCEx e CoPq Nº 7788, DE 26 DE AGOSTO DE 2019, que institui normas e disciplinas para integralização de créditos de atividades acadêmicas complementares nos currículos dos cursos de graduação da USP , foi criada uma tabela de Atividades Acadêmicas Complementares (60h) distribuídas em cinco grupos: Pedagógicas, Pesquisa, Extensão/Administração, Cultural/Social e Formação Complementar. Os alunos devem realizar atividades em pelo menos dois grupos distintos. As Atividades Acadêmicas Complementares e suas respectivas cargas horárias permitidas para equivalências para o cômputo das horas estão descritas na tabela do link https://web.icmc.usp.br/SVGRAD/documentos\\_site/Tabela\\_AAC\\_BMA.pdf . As atividades deverão ser cumpridas durante a graduação do aluno. Não serão aceitas atividades que tenham sido cumpridas antes do ingresso do aluno ao Curso de Bacharelado em Matemática. As atividades têm os seguintes objetivos:\n\n- valorizar a participação dos estudantes em atividades extra-curriculares, tanto acadêmicas",
+      "qa_pairs": [
+        {
+          "question": "Quais disciplinas tratam de Equações Diferenciais e em quais períodos são cursadas?",
+          "answer": "As disciplinas são: Cálculo II (SMA0332) no 2º período, Equações Diferenciais Ordinárias (SME0240) no 4º período e Equações Diferenciais Parciais (SMA0169) no 5º período.",
+          "source_page": 14
+        },
+        {
+          "question": "Quais são as disciplinas de Álgebra disponíveis e seus respectivos períodos?",
+          "answer": "As disciplinas de Álgebra são: Álgebra I (SMA0305) no 3º período, Álgebra II (SMA0306) no 4º período e Álgebra III (SMA0173) no 5º período.",
+          "source_page": 14
+        },
+        {
+          "question": "Quais disciplinas compõem a área de Análise Matemática?",
+          "answer": "A área de Análise Matemática é composta por Análise I (SMA0380) no 3º período, Introdução à Teoria da Medida e Probabilidades (SMA0389) no 6º período e Introdução à Análise Funcional (SMA0120) no 7º período.",
+          "source_page": 14
+        },
+        {
+          "question": "Quais são as disciplinas de Física Geral e em que período são ofertadas?",
+          "answer": "As disciplinas de Física Geral são Física I (7600005), cursada no 3º período, e Física II (7600006), cursada no 4º período.",
+          "source_page": 15
+        },
+        {
+          "question": "Qual disciplina provê a familiaridade com o uso de computador?",
+          "answer": "A disciplina que atende a essa diretriz curricular é Introdução à Programação de Computadores (SME0230), cursada no 1º período.",
+          "source_page": 15
+        },
+        {
+          "question": "Quais disciplinas complementam a formação do bacharelando?",
+          "answer": "As disciplinas complementares são: Fundamentos de Matemática (SMA0386) no 1º período, Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas (SMA0385) no 1º período, Introdução aos Estudos da Educação (SMA0340) no 2º período e Métodos Numéricos em Equações Diferenciais (SME0202) no 7º período.",
+          "source_page": 15
+        },
+        {
+          "question": "Onde o aluno pode cursar as disciplinas optativas?",
+          "answer": "As disciplinas optativas podem ser cursadas no ICMC, em outras unidades da USP ou em outras instituições, desde que estas últimas tenham a aprovação da Comissão Coordenadora do Curso.",
+          "source_page": 15
+        },
+        {
+          "question": "Qual a carga horária total exigida para as Atividades Acadêmicas Complementares (AAC)?",
+          "answer": "A carga horária exigida para as Atividades Acadêmicas Complementares é de 60 horas.",
+          "source_page": 15
+        },
+        {
+          "question": "Como devem ser distribuídas as Atividades Acadêmicas Complementares entre os grupos existentes?",
+          "answer": "As atividades estão distribuídas em cinco grupos (Pedagógicas, Pesquisa, Extensão/Administração, Cultural/Social e Formação Complementar) e os alunos devem realizar atividades em pelo menos dois grupos distintos.",
+          "source_page": 15
+        },
+        {
+          "question": "Atividades realizadas antes do ingresso no curso de Bacharelado em Matemática podem ser aceitas como AAC?",
+          "answer": "Não, não serão aceitas atividades que tenham sido cumpridas antes do ingresso do aluno ao Curso de Bacharelado em Matemática.",
+          "source_page": 15
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c14",
+      "pages": [
+        15,
+        16
+      ],
+      "chunk_text": "[Página 15]\n<!-- image -->\n\nSMA0192 -Introdução à Topologia Diferencial (8º período)\n\n- Probabilidade e Estatística:\n\nSME0220 -Introdução à Teoria das Probabilidades (6º período)\n\n- Física Geral:\n\n7600005 -Física I (3º período)\n\n7600006 -Física II (4º período)\n\n- Física Moderna:\n\nSMA0379 -Mecânica Quântica para Matemáticos (8º período)\n\nA disciplina seguinte atende à diretriz curricular no sentido de prover familiaridade com o uso de computador:\n\n- SME0230 -Introdução à Programação de Computadores (1º período)\n\nAs disciplinas seguintes complementam a formação do bacharelando:\n\n- SMA0386 -Fundamentos de Matemática (1º período)\n- SMA0385 -Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas (1º período)\n- SMA0340 -Introdução aos Estudos da Educação (2º período)\n- SME0202 -Métodos Numéricos em Equações Diferenciais (7º período)\n\nAs disciplinas optativas são de livre escolha dos alunos, as quais podem ser cursadas no ICMC ou em outras unidades da USP. O aluno também pode cursar disciplinas optativas em outras instituições, desde que tenham a aprovação da Comissão Coordenadora do Curso.\n\nTendo em vista a RESOLUÇÃO CoG, CoCEx e CoPq Nº 7788, DE 26 DE AGOSTO DE 2019, que institui normas e disciplinas para integralização de créditos de atividades acadêmicas complementares nos currículos dos cursos de graduação da USP , foi criada uma tabela de Atividades Acadêmicas Complementares (60h) distribuídas em cinco grupos: Pedagógicas, Pesquisa, Extensão/Administração, Cultural/Social e Formação Complementar. Os alunos devem realizar atividades em pelo menos dois grupos distintos. As Atividades Acadêmicas Complementares e suas respectivas cargas horárias permitidas para equivalências para o cômputo das horas estão descritas na tabela do link https://web.icmc.usp.br/SVGRAD/documentos\\_site/Tabela\\_AAC\\_BMA.pdf . As atividades deverão ser cumpridas durante a graduação do aluno. Não serão aceitas atividades que tenham sido cumpridas antes do ingresso do aluno ao Curso de Bacharelado em Matemática. As atividades têm os seguintes objetivos:\n\n- valorizar a participação dos estudantes em atividades extra-curriculares, tanto acadêmicas\n\n[Página 16]\n<!-- image -->\n\n- como profissionais ampliando as dimensões dos componentes curriculares relacionados à atuação do matemático como meio de complementar a sua formação acadêmica/científica;\n- estimular a pró-atividade dos alunos, incentivando-os a desempenharem atividades científico -acadêmicas, culturais, artísticas, musicais, esportivas e de línguas estrangeiras, bem como atividades de cunho socioambiental.\n\nEm 2020, foram aprovadas as seguintes regras:\n\n- serão consideradas as atividades realizadas durante o período do curso;\n- para os alunos de transferência interna ou externa, serão consideradas as atividades realizadas conforme o item (1), bem como aquelas realizadas no curso imediatamente anterior;\n- alunos que ingressaram como portadores de diploma não poderão utilizar as atividades do curso de graduação anterior.\n\nFinalmente, tendo em vista a Resolução CNE/CES 07/2018, que dispõe sobre as diretrizes para a extensão na educação superior brasileira, estabelecendo que as atividades de extensão para os estudantes de graduação admitidos a partir de 2023 nas IES do Sistema de Ensino do Estado de São Paulo deverão compor no mínimo 10% da carga horária dos cursos, a Comissão Coordenadora do Curso estabeleceu as seguintes regras: (1) 60 horas/aulas, equivalentes a 2 créditos/trabalho, serão realizados de forma obrigatória na disciplina SMA0385 - Introdução à Vida Acadêmica e a Metodologia e Escrita Científica; (2) 60 horas/aulas, equivalentes a 2 créditos/trabalho, serão realizados na disciplina SME0230 Introdução à Programação de Computadores; (3) 120 horas serão oferecidas via projetos de atividades extensionistas junto às estruturas de extensão da Universidade, inclusive via sistema utilizado pela Comissão de Cultura e Extensão do ICMC .\n\n## 11. ARTICULAÇÃO ENTRE AS DISCIPLINAS, QUANTO ÀS COMPETÊNCIAS LISTADAS ACIMA\n\nO currículo do Bacharelado em Matemática procura atender a uma formação ampla e sólida do futuro bacharel considerando as seguintes áreas:\n\n## 11.1 Direcionamento Acadêmico e Científico\n\n- 1º período:\n- o Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas\n\n## 11.2 Formação básica em Matemática",
+      "qa_pairs": [
+        {
+          "question": "Quais são as disciplinas de Física Geral oferecidas no curso?",
+          "answer": "As disciplinas de Física Geral são Física I (7600005), cursada no 3º período, e Física II (7600006), cursada no 4º período.",
+          "source_page": 15
+        },
+        {
+          "question": "Qual disciplina provê a familiaridade com o uso de computador?",
+          "answer": "A disciplina que atende a essa diretriz curricular é a SME0230 - Introdução à Programação de Computadores, cursada no 1º período.",
+          "source_page": 15
+        },
+        {
+          "question": "Onde posso cursar as disciplinas optativas do curso?",
+          "answer": "As disciplinas optativas são de livre escolha e podem ser cursadas no ICMC ou em outras unidades da USP. Também é possível cursá-las em outras instituições, desde que haja aprovação da Comissão Coordenadora do Curso.",
+          "source_page": 15
+        },
+        {
+          "question": "Qual a carga horária total das Atividades Acadêmicas Complementares (AAC) e como devem ser distribuídas?",
+          "answer": "A carga horária é de 60h, distribuídas em cinco grupos: Pedagógicas, Pesquisa, Extensão/Administração, Cultural/Social e Formação Complementar. O aluno deve realizar atividades em pelo menos dois grupos distintos.",
+          "source_page": 15
+        },
+        {
+          "question": "Atividades realizadas antes do ingresso no curso de Bacharelado em Matemática podem ser aceitas como AAC?",
+          "answer": "Não, não serão aceitas atividades que tenham sido cumpridas antes do ingresso do aluno ao Curso de Bacharelado em Matemática.",
+          "source_page": 15
+        },
+        {
+          "question": "Quais são as regras de AAC para alunos de transferência e portadores de diploma?",
+          "answer": "Para alunos de transferência interna ou externa, são consideradas as atividades realizadas durante o curso e aquelas do curso imediatamente anterior. Já alunos que ingressaram como portadores de diploma não podem utilizar atividades do curso de graduação anterior.",
+          "source_page": 16
+        },
+        {
+          "question": "Quais os objetivos das Atividades Acadêmicas Complementares?",
+          "answer": "Os objetivos são valorizar a participação dos estudantes em atividades extracurriculares (acadêmicas e profissionais) para complementar a formação acadêmica/científica, e estimular a proatividade em atividades científico-acadêmicas, culturais, artísticas, musicais, esportivas, de línguas estrangeiras e de cunho socioambiental.",
+          "source_page": 15
+        },
+        {
+          "question": "Como é composta a carga horária de extensão para alunos admitidos a partir de 2023?",
+          "answer": "A carga horária de extensão é composta por: 60 horas/aulas na disciplina SMA0385 (Introdução à Vida Acadêmica e a Metodologia e Escrita Científica), 60 horas/aulas na disciplina SME0230 (Introdução à Programação de Computadores) e 120 horas via projetos de atividades extensionistas junto às estruturas de extensão da Universidade.",
+          "source_page": 16
+        },
+        {
+          "question": "Qual a disciplina de Probabilidade e Estatística e em qual período ela é cursada?",
+          "answer": "A disciplina é a SME0220 - Introdução à Teoria das Probabilidades, cursada no 6º período.",
+          "source_page": 15
+        },
+        {
+          "question": "Quais disciplinas complementam a formação do bacharelando no 1º período?",
+          "answer": "As disciplinas complementares do 1º período são SMA0386 - Fundamentos de Matemática e SMA0385 - Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas.",
+          "source_page": 15
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c15",
+      "pages": [
+        16,
+        17
+      ],
+      "chunk_text": "[Página 16]\n<!-- image -->\n\n- como profissionais ampliando as dimensões dos componentes curriculares relacionados à atuação do matemático como meio de complementar a sua formação acadêmica/científica;\n- estimular a pró-atividade dos alunos, incentivando-os a desempenharem atividades científico -acadêmicas, culturais, artísticas, musicais, esportivas e de línguas estrangeiras, bem como atividades de cunho socioambiental.\n\nEm 2020, foram aprovadas as seguintes regras:\n\n- serão consideradas as atividades realizadas durante o período do curso;\n- para os alunos de transferência interna ou externa, serão consideradas as atividades realizadas conforme o item (1), bem como aquelas realizadas no curso imediatamente anterior;\n- alunos que ingressaram como portadores de diploma não poderão utilizar as atividades do curso de graduação anterior.\n\nFinalmente, tendo em vista a Resolução CNE/CES 07/2018, que dispõe sobre as diretrizes para a extensão na educação superior brasileira, estabelecendo que as atividades de extensão para os estudantes de graduação admitidos a partir de 2023 nas IES do Sistema de Ensino do Estado de São Paulo deverão compor no mínimo 10% da carga horária dos cursos, a Comissão Coordenadora do Curso estabeleceu as seguintes regras: (1) 60 horas/aulas, equivalentes a 2 créditos/trabalho, serão realizados de forma obrigatória na disciplina SMA0385 - Introdução à Vida Acadêmica e a Metodologia e Escrita Científica; (2) 60 horas/aulas, equivalentes a 2 créditos/trabalho, serão realizados na disciplina SME0230 Introdução à Programação de Computadores; (3) 120 horas serão oferecidas via projetos de atividades extensionistas junto às estruturas de extensão da Universidade, inclusive via sistema utilizado pela Comissão de Cultura e Extensão do ICMC .\n\n## 11. ARTICULAÇÃO ENTRE AS DISCIPLINAS, QUANTO ÀS COMPETÊNCIAS LISTADAS ACIMA\n\nO currículo do Bacharelado em Matemática procura atender a uma formação ampla e sólida do futuro bacharel considerando as seguintes áreas:\n\n## 11.1 Direcionamento Acadêmico e Científico\n\n- 1º período:\n- o Introdução à Vida Acadêmica e a Metodologia e Escrita Científicas\n\n## 11.2 Formação básica em Matemática\n\n[Página 17]\n- 1º período:\n- o Geometria Analítica ,\n- o Fundamentos de Matemática\n- o Cálculo I\n- 2º período:\n- o Cálculo II\n- o Álgebra Linear\n- o Espaços Métricos\n- 3º período:\n- o Álgebra I\n\n## 11.3 Formação básica em Informática\n\n- 1º período: Introdução à Programação de Computadores\n\n## 11.4 Formação básica em Probabilidade e Estatística\n\n- 6º período:\n- o Introdução à Teoria das Probabilidades\n\n## 11.5 Formação básica em Física Geral e noções de Física Moderna\n\n- 3º período:\n- o Física I\n- 4º período:\n- o Física II\n- 8º período:\n- o Mecânica Quântica para Matemáticos\n\n## 11.6 Formação básica em Pedagogia\n\n- 2º período:\n- o Introdução aos Estudos da Educação\n\n## 11.7 Formação específica em Análise\n\n- 3º período:\n- o Análise\n- 4º período:\n- o Equações Diferenciais Ordinárias\n- 5º período:\n- o Equações Diferenciais Parciais\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quais atividades são incentivadas para estimular a proatividade dos alunos?",
+          "answer": "São incentivadas atividades científico-acadêmicas, culturais, artísticas, musicais, esportivas, de línguas estrangeiras e atividades de cunho socioambiental.",
+          "source_page": 16
+        },
+        {
+          "question": "Quais atividades são consideradas para a contagem de horas, de acordo com as regras de 2020?",
+          "answer": "São consideradas as atividades realizadas durante o período do curso.",
+          "source_page": 16
+        },
+        {
+          "question": "Alunos de transferência interna ou externa podem aproveitar atividades anteriores?",
+          "answer": "Sim, para esses alunos serão consideradas as atividades realizadas durante o curso atual, bem como aquelas realizadas no curso imediatamente anterior.",
+          "source_page": 16
+        },
+        {
+          "question": "Alunos que ingressaram como portadores de diploma podem utilizar atividades da graduação anterior?",
+          "answer": "Não, alunos que ingressaram como portadores de diploma não poderão utilizar as atividades do curso de graduação anterior.",
+          "source_page": 16
+        },
+        {
+          "question": "Qual a carga horária mínima de atividades de extensão para estudantes admitidos a partir de 2023?",
+          "answer": "As atividades de extensão deverão compor no mínimo 10% da carga horária dos cursos.",
+          "source_page": 16
+        },
+        {
+          "question": "Quais disciplinas contribuem obrigatoriamente para a carga horária de extensão?",
+          "answer": "As disciplinas SMA0385 (Introdução à Vida Acadêmica e a Metodologia e Escrita Científica) e SME0230 (Introdução à Programação de Computadores), cada uma com 60 horas/aulas (2 créditos/trabalho).",
+          "source_page": 16
+        },
+        {
+          "question": "Como podem ser obtidas as 120 horas adicionais de atividades extensionistas?",
+          "answer": "Essas horas serão oferecidas via projetos de atividades extensionistas junto às estruturas de extensão da Universidade, inclusive através do sistema da Comissão de Cultura e Extensão do ICMC.",
+          "source_page": 16
+        },
+        {
+          "question": "Quais disciplinas de formação básica em Matemática são cursadas no 1º período?",
+          "answer": "As disciplinas são Geometria Analítica, Fundamentos de Matemática e Cálculo I.",
+          "source_page": 16
+        },
+        {
+          "question": "Em qual período é cursada a disciplina de Introdução à Programação de Computadores?",
+          "answer": "A disciplina de Introdução à Programação de Computadores é cursada no 1º período.",
+          "source_page": 16
+        },
+        {
+          "question": "Quais são as disciplinas de formação específica em Análise e em quais períodos são cursadas?",
+          "answer": "As disciplinas são: Análise (3º período), Equações Diferenciais Ordinárias (4º período) e Equações Diferenciais Parciais (5º período).",
+          "source_page": 17
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c16",
+      "pages": [
+        17,
+        18
+      ],
+      "chunk_text": "[Página 17]\n- 1º período:\n- o Geometria Analítica ,\n- o Fundamentos de Matemática\n- o Cálculo I\n- 2º período:\n- o Cálculo II\n- o Álgebra Linear\n- o Espaços Métricos\n- 3º período:\n- o Álgebra I\n\n## 11.3 Formação básica em Informática\n\n- 1º período: Introdução à Programação de Computadores\n\n## 11.4 Formação básica em Probabilidade e Estatística\n\n- 6º período:\n- o Introdução à Teoria das Probabilidades\n\n## 11.5 Formação básica em Física Geral e noções de Física Moderna\n\n- 3º período:\n- o Física I\n- 4º período:\n- o Física II\n- 8º período:\n- o Mecânica Quântica para Matemáticos\n\n## 11.6 Formação básica em Pedagogia\n\n- 2º período:\n- o Introdução aos Estudos da Educação\n\n## 11.7 Formação específica em Análise\n\n- 3º período:\n- o Análise\n- 4º período:\n- o Equações Diferenciais Ordinárias\n- 5º período:\n- o Equações Diferenciais Parciais\n\n<!-- image -->\n\n[Página 18]\n- 6º período:\n- o Funções de Variável Complexa\n- o Introdução à Teoria da Medida e Probabilidades\n- 7º período:\n- o Introdução à Análise Funcional\n\n## 11.8 Formação específica em Álgebra\n\n- 4º período:\n- o Álgebra II\n- 5º período:\n- o Álgebra III\n\n## 11.9 Formação específica em Geometria/Topologia\n\n- 3º período:\n- o Topologia\n- 4º período:\n- o Formas Diferenciais e Aplicações\n- 5º período:\n- o Geometria Diferencial\n- 7º período:\n- o Topologia Algébrica\n- 8º período:\n- o Introdução à Topologia Diferencial.\n\nAs disciplinas que estão alocadas no primeiro e segundo períodos constituem o núcleo comum, isto é, são disciplinas comuns aos cursos de Bacharelado e Licenciatura em Matemática e, em sua maioria, também são comuns ao Bacharelado em Matemática Aplicada e Bacharelado em Computação Científica. Estas disciplinas fazem parte da formação básica de qualquer profissional da área de Matemática e têm o papel de promover uma visão global do conhecimento matemático e de sua evolução. O currículo básico também inclui disciplinas obrigatórias na área computacional, de estatística e probabilidade e de modelagem, disciplinas estas que auxiliam na capacitação do futuro bacharel. As disciplinas do núcleo de Física têm por objetivo desenvolver no futuro profissional uma visão mais ampla dessa ciência e das aplicações das teorias matemáticas aí contidas. Todas as outras disciplinas são específicas da Matemática pura, consolidam e ampliam o conhecimento já iniciado no ciclo básico e preparam o aluno para cursos de pós-graduação em qualquer área da Matemática Pura.\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quais disciplinas devem ser cursadas no 1º período da formação básica?",
+          "answer": "No 1º período, as disciplinas são Geometria Analítica, Fundamentos de Matemática e Cálculo I.",
+          "source_page": 17
+        },
+        {
+          "question": "Quais são as disciplinas do 2º período?",
+          "answer": "As disciplinas do 2º período são Cálculo II, Álgebra Linear e Espaços Métricos.",
+          "source_page": 17
+        },
+        {
+          "question": "Em qual período é cursada a disciplina de Introdução à Programação de Computadores?",
+          "answer": "A disciplina de Introdução à Programação de Computadores é cursada no 1º período.",
+          "source_page": 17
+        },
+        {
+          "question": "Quando o aluno cursa a disciplina de Introdução à Teoria das Probabilidades?",
+          "answer": "A disciplina de Introdução à Teoria das Probabilidades é cursada no 6º período.",
+          "source_page": 17
+        },
+        {
+          "question": "Quais disciplinas de Física Geral e noções de Física Moderna compõem a formação básica e em quais períodos?",
+          "answer": "A formação básica em Física inclui Física I (3º período), Física II (4º período) e Mecânica Quântica para Matemáticos (8º período).",
+          "source_page": 17
+        },
+        {
+          "question": "Qual disciplina de Pedagogia deve ser cursada e em qual período?",
+          "answer": "A disciplina de Introdução aos Estudos da Educação deve ser cursada no 2º período.",
+          "source_page": 17
+        },
+        {
+          "question": "Quais são as disciplinas de Formação específica em Análise e seus respectivos períodos?",
+          "answer": "As disciplinas são Análise (3º período), Equações Diferenciais Ordinárias (4º período) e Equações Diferenciais Parciais (5º período).",
+          "source_page": 17
+        },
+        {
+          "question": "Quais disciplinas compõem a Formação específica em Álgebra?",
+          "answer": "A formação específica em Álgebra é composta por Álgebra II (4º período) e Álgebra III (5º período).",
+          "source_page": 18
+        },
+        {
+          "question": "Quais disciplinas fazem parte da Formação específica em Geometria/Topologia?",
+          "answer": "As disciplinas são Topologia (3º período), Formas Diferenciais e Aplicações (4º período), Geometria Diferencial (5º período), Topologia Algébrica (7º período) e Introdução à Topologia Diferencial (8º período).",
+          "source_page": 18
+        },
+        {
+          "question": "O que constitui o núcleo comum dos cursos e qual a sua finalidade?",
+          "answer": "O núcleo comum é constituído pelas disciplinas alocadas no primeiro e segundo períodos, sendo comuns aos cursos de Bacharelado e Licenciatura em Matemática e, em sua maioria, ao Bacharelado em Matemática Aplicada e Bacharelado em Computação Científica. Sua finalidade é promover uma visão global do conhecimento matemático e de sua evolução.",
+          "source_page": 18
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Matemática (BMa)__c17",
+      "pages": [
+        18,
+        19
+      ],
+      "chunk_text": "[Página 18]\n- 6º período:\n- o Funções de Variável Complexa\n- o Introdução à Teoria da Medida e Probabilidades\n- 7º período:\n- o Introdução à Análise Funcional\n\n## 11.8 Formação específica em Álgebra\n\n- 4º período:\n- o Álgebra II\n- 5º período:\n- o Álgebra III\n\n## 11.9 Formação específica em Geometria/Topologia\n\n- 3º período:\n- o Topologia\n- 4º período:\n- o Formas Diferenciais e Aplicações\n- 5º período:\n- o Geometria Diferencial\n- 7º período:\n- o Topologia Algébrica\n- 8º período:\n- o Introdução à Topologia Diferencial.\n\nAs disciplinas que estão alocadas no primeiro e segundo períodos constituem o núcleo comum, isto é, são disciplinas comuns aos cursos de Bacharelado e Licenciatura em Matemática e, em sua maioria, também são comuns ao Bacharelado em Matemática Aplicada e Bacharelado em Computação Científica. Estas disciplinas fazem parte da formação básica de qualquer profissional da área de Matemática e têm o papel de promover uma visão global do conhecimento matemático e de sua evolução. O currículo básico também inclui disciplinas obrigatórias na área computacional, de estatística e probabilidade e de modelagem, disciplinas estas que auxiliam na capacitação do futuro bacharel. As disciplinas do núcleo de Física têm por objetivo desenvolver no futuro profissional uma visão mais ampla dessa ciência e das aplicações das teorias matemáticas aí contidas. Todas as outras disciplinas são específicas da Matemática pura, consolidam e ampliam o conhecimento já iniciado no ciclo básico e preparam o aluno para cursos de pós-graduação em qualquer área da Matemática Pura.\n\n<!-- image -->\n\n[Página 19]\n<!-- image -->\n\nO aluno do curso de Bacharelado em Matemática do ICMC -USP pode, ainda, complementar sua formação em outras áreas, cursando disciplinas oferecidas por instituições idôneas, dentro ou fora da USP, no Brasil ou no exterior, com aproveitamento de até 20% dos créditos, como optativas. Isto proporciona uma abertura na formação do futuro profissional de Matemática, que pode auxiliálo a aperfeiçoar suas formas de comunicação e expressão e compreender a aplicação desses saberes adquiridos em outras áreas do conhecimento humano, como na Matemática Aplicada, Estatística, Engenharias, Economia, Física, Química, Biologia, Educação Matemática, entre outras.",
+      "qa_pairs": [
+        {
+          "question": "Quais disciplinas de formação específica em Álgebra devem ser cursadas e em quais períodos?",
+          "answer": "As disciplinas de formação específica em Álgebra são Álgebra II, no 4º período, e Álgebra III, no 5º período.",
+          "source_page": 18
+        },
+        {
+          "question": "Quais são as disciplinas de Geometria/Topologia previstas para o 3º e 4º períodos?",
+          "answer": "No 3º período está prevista a disciplina de Topologia e, no 4º período, a disciplina de Formas Diferenciais e Aplicações.",
+          "source_page": 18
+        },
+        {
+          "question": "Quais disciplinas de Geometria/Topologia são cursadas no 7º e 8º períodos?",
+          "answer": "No 7º período é cursada a disciplina de Topologia Algébrica e, no 8º período, a disciplina de Introdução à Topologia Diferencial.",
+          "source_page": 18
+        },
+        {
+          "question": "Quais disciplinas são cursadas no 6º período relacionadas a Funções de Variável Complexa e Teoria da Medida?",
+          "answer": "No 6º período são cursadas as disciplinas de Funções de Variável Complexa e Introdução à Teoria da Medida e Probabilidades.",
+          "source_page": 18
+        },
+        {
+          "question": "Qual disciplina de formação específica é prevista para o 7º período além da Topologia Algébrica?",
+          "answer": "A disciplina de Introdução à Análise Funcional.",
+          "source_page": 18
+        },
+        {
+          "question": "O que compõe o núcleo comum dos cursos de Bacharelado e Licenciatura em Matemática?",
+          "answer": "O núcleo comum é constituído pelas disciplinas alocadas no primeiro e segundo períodos, sendo que a maioria delas também é comum ao Bacharelado em Matemática Aplicada e ao Bacharelado em Computação Científica.",
+          "source_page": 18
+        },
+        {
+          "question": "Qual é o objetivo das disciplinas do núcleo de Física no currículo?",
+          "answer": "O objetivo é desenvolver no futuro profissional uma visão mais ampla da ciência da Física e das aplicações das teorias matemáticas nela contidas.",
+          "source_page": 18
+        },
+        {
+          "question": "Além do núcleo comum, quais outras áreas de disciplinas obrigatórias integram o currículo básico para a capacitação do bacharel?",
+          "answer": "O currículo básico inclui disciplinas obrigatórias nas áreas computacional, de estatística e probabilidade, e de modelagem.",
+          "source_page": 18
+        },
+        {
+          "question": "O aluno de Bacharelado em Matemática pode cursar disciplinas em outras instituições?",
+          "answer": "Sim, o aluno pode complementar sua formação cursando disciplinas em instituições idôneas, dentro ou fora da USP, no Brasil ou no exterior.",
+          "source_page": 19
+        },
+        {
+          "question": "Qual é o limite de créditos de disciplinas cursadas em outras instituições que podem ser aproveitados como optativas?",
+          "answer": "O aluno pode ter aproveitamento de até 20% dos créditos como optativas.",
+          "source_page": 19
+        }
+      ]
+    }
+  ]
+}

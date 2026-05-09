@@ -1,0 +1,966 @@
+{
+  "doc_name": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1",
+  "source_path": "data\\PPC\\PPC - Bacharelado em Ciência de Dados (BCD) 2026-1.pdf",
+  "chunks": [
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n<!-- image -->\n\n## Bacharelado em Ciência de Dados\n\n## Projeto Pedagógico do Curso\n\n## 1. O curso: informações gerais\n\nCom base em De Veaux et al. (2017) 1 , pode-se definir Ciência de Dados como a área que visa a aquisição, gerenciamento e análise de dados para inferência e produção de conhecimento relevante e sua aplicação em domínios variados para suporte à tomada de decisão e solução de problemas. Como Berman et al. (2018) 2 colocam, visa-se extrair conhecimento e insights a partir de dados em formatos variados e traduzilos em ação. Apesar das tarefas envolvidas não serem inéditas, seu uso conjunto e aplicações recentes exigem um perfil de profissional diferenciado frente à grande demanda industrial, acadêmica/científica e governamental.\n\nA Ciência de Dados tem o potencial de contribuir significativamente para o progresso da sociedade e o avanço do bem-estar geral, tornando o profissional de Ciência de Dados um recurso muito valioso. Por exemplo, dentre as incontáveis demandas da Ciência de Dados, podem-se citar aplicações nas seguintes áreas: em economia e finanças, previsão e acompanhamento da saúde financeira de instituições, estados, nações e governos, decisão sobre aplicações financeiras, rendimentos e investimentos, detecção de fraudes, etc.; em medicina e saúde, mapeamento e previsão do avanço de epidemias, correlações entre doenças e condições socioeconômicas e ambientais, decisões estratégicas sobre focos de tratamento, criação de novos medicamentos, etc.; em meio ambiente e energia, acompanhamento de mudanças climáticas e qualidade de ar e água, previsão de impactos ambientes de obras, decisões estratégicas de investimento em fontes e políticas energéticas, etc.; em educação e política, estudo sobre investimentos educacionais locais, mapeamento de necessidades da sociedade, identificação de lacunas e decisão sobre ações específicas, estudos e planejamento sobre evolução dos meios de transporte público e privado, etc.; em demografia e ciências sociais, projeções sobre crescimento da população, estudo de demandas de recursos e necessidades de investimentos, acompanhamento de movimentos sociais, etc.; em informática, análise de redes sociais e aferição de comportamentos de grupos populacionais, recomendação de produtos e serviços de interesse dos usuários, etc.; dentre muitas outras.\n\n1 Richard D. De Veaux, Mahesh Agarwal, Maia Averett, Benjamin S. Baumer, Andrew Bray, Thomas C. Bressoud, Lance Bryant, Lei Z. Cheng, Amanda Francis, Robert Gould, Albert Y. Kim, Matt Kretchmar, Qin Lu, Ann Moskol, Deborah Nolan, Roberto Pelayo, Sean Raleigh, Ricky J. Sethi, Mutiara Sondjaja, Neelesh Tiruviluamala, Paul X. Uhlig, Talitha M. Washington, Curtis L. Wesley, David White, Ping Ye. 2017. \"Curriculum Guidelines for Undergraduate Programs in Data Science. \" Annual Review of Statistics and Its Application 4 (1): 15-30. https://doi.org/10.1146/annurev-statistics-060116-053930.\n\n2 Francine Berman, Rob Rutenbar, Brent Hailpern, Henrik Christensen, Susan Davidson, Deborah Estrin, Michael Franklin, Margaret Martonosi, Padma Raghavan, Victoria Stodden, and Alexander S. Szalay. 2018. \"Realizing the potential of data science.\" Communications of the ACM 61 (4): 67-72. https://doi.org/10.1145/3188721.\n\nAno de referência: 2026\n\n[Página 2]\nO desafio de se ofertar um curso capaz de formar um profissional com o perfil esperado reside em sua interdisciplinaridade e à integração de competências, com conhecimentos e habilidades das áreas de Matemática, Estatística e Computação, principalmente. Dado que o Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP) é responsável por cursos de graduação em todas essas áreas e conta com tradição e prestígio no meio, o nascimento do curso de Bacharelado em Ciência de Dados aconteceu naturalmente. A formação pretendida surgiu primeiro como uma ênfase possível para os cursos do ICMC em 2017, para então se tornar um curso integral com base em um esforço colaborativo dos departamentos das áreas relacionadas e iniciativas dos centros de pesquisa CeMEAI (Centro de Ciências Matemáticas Aplicadas à Indústria) e cDados (Centro de Ciência de Dados) do ICMC, com a condução da Comissão de Graduação do ICMC. O ICMC, localizado no interior do estado de São Paulo, na cidade de São Carlos, é uma unidade de ensino e pesquisa criada em 1971. Além do curso de Bacharelado em Ciência de Dados, o instituto oferta outros 8 cursos de graduação (sendo 2 interunidades) e 5 programas de pós-graduação stricto sensu, atendendo em torno de 2.000 alunos, contando com aproximadamente 140 docentes e 120 funcionários técnicoadministrativos. Seus cursos de graduação são muito bem conceituados no cenário nacional e sua pósgraduação é de altíssimo nível, com alguns programas com nota máxima na CAPES. Como resultado, o ICMC é um polo de formação de recursos humanos de alta qualidade, contribuindo significativamente para a ciência e o avanço da fronteira do conhecimento e colaborando fortemente com a indústria, sendo uma das unidades mais produtivas da USP. É nesse contexto em que o curso de Bacharelado em Ciência de Dados se situa, sendo capaz de formar profissionais para liderar os trabalhos na área e atender a demanda crescente existente. O curso de Bacharelado em Ciência de Dados do ICMC, alinhado com estudos e propostas internacionais (veja, por exemplo, o currículo de referência proposto por De Veaux et al., 2017, assim como os cursos de graduação oferecidos pelas universidades de Michigan, Warwick e Waterloo), visa formar um profissional apto a atuar com competência nas mais variadas frentes em que a Ciência de Dados se faz necessária. O profissional formado no curso domina os conhecimentos e habilidades necessárias em algoritmos, estruturas de dados e programação, inteligência artificial, aprendizado de máquina e mineração de dados estruturados e não estruturados, modelagem, organização, armazenamento e gerenciamento de dados, modelagens matemáticas e estatísticas, otimização, inferência, construção e condução de experimentos, visualização científica e de informação, e desempenho computacional, além de desenvolver competências em ética, comunicação e pesquisa. O profissional pode ainda escolher e se aprofundar em tópicos de seu interesse e altamente relevantes frente às demandas existentes para a Ciência de Dados, como técnicas avançadas de programação e de engenharia de software, sistemas computacionais para computação de alto desempenho, recuperação e processamento de dados da web, segurança da informação, empreendedorismo, análise matemática avançada e pesquisa operacional, aplicações em domínios específicos da sociedade, etc. Os conhecimentos e habilidades envolvidos capacitam o profissional a lidar com o ecossistema e o ciclo de vida dos dados, que consistem no coração da Ciência de Dados, atuando, conforme Berman et al. (2018) sugerem, na aquisição de dados de fontes variadas (web, sensores, dispositivos físicos e sistemas pessoais e corporativos, etc.), seu pré-processamento (filtragem, limpeza, organização, anotação, etc.), uso/reuso (análise, modelagem, mineração, visualização, etc.), publicação e preservação. O ingresso principal no curso é realizado pelo vestibular da FUVEST, pelo ENEM- USP e pela Prova Paulista contando com 20 vagas anuais. O curso tem duração ideal de 4 anos, sendo que suas disciplinas podem ser cursadas pelas manhãs, tardes e noites, resultando em um curso de período integral. Atualmente, é",
+      "qa_pairs": [
+        {
+          "question": "O que é Ciência de Dados segundo o projeto pedagógico do curso?",
+          "answer": "A Ciência de Dados é definida como a área que visa a aquisição, gerenciamento e análise de dados para inferência e produção de conhecimento relevante, aplicando-os em variados domínios para suporte à tomada de decisão e solução de problemas, visando extrair insights de dados em diversos formatos e traduzi-los em ação.",
+          "source_page": 1
+        },
+        {
+          "question": "Em quais áreas a Ciência de Dados pode ser aplicada?",
+          "answer": "A Ciência de Dados possui aplicações em diversas áreas, incluindo: economia e finanças (detecção de fraudes, previsão financeira), medicina e saúde (previsão de epidemias, novos medicamentos), meio ambiente e energia (mudanças climáticas, políticas energéticas), educação e política (estudo de investimentos educacionais, planejamento de transportes), demografia e ciências sociais (projeções populacionais) e informática (análise de redes sociais, recomendação de produtos).",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são as principais áreas de conhecimento que integram a formação do profissional de Ciência de Dados?",
+          "answer": "A formação do profissional reside na interdisciplinaridade e integração de competências das áreas de Matemática, Estatística e Computação.",
+          "source_page": 2
+        },
+        {
+          "question": "Como surgiu o curso de Bacharelado em Ciência de Dados no ICMC?",
+          "answer": "O curso surgiu primeiro como uma ênfase para os cursos do ICMC em 2017 e depois tornou-se um curso integral através de um esforço colaborativo dos departamentos de áreas relacionadas, com iniciativas dos centros de pesquisa CeMEAI (Centro de Ciências Matemáticas Aplicadas à Indústria) e cDados (Centro de Ciência de Dados), sob condução da Comissão de Graduação do ICMC.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde está localizado o ICMC e qual a sua estrutura geral?",
+          "answer": "O ICMC está localizado na cidade de São Carlos, no interior do estado de São Paulo. A unidade conta com aproximadamente 140 docentes, 120 funcionários técnico-administrativos e atende em torno de 2.000 alunos.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais competências técnicas o profissional formado no curso de Ciência de Dados domina?",
+          "answer": "O profissional domina algoritmos, estruturas de dados e programação, inteligência artificial, aprendizado de máquina, mineração de dados (estruturados e não estruturados), modelagem, organização, armazenamento e gerenciamento de dados, modelagens matemáticas e estatísticas, otimização, inferência, condução de experimentos, visualização científica e de informação, e desempenho computacional, além de competências em ética, comunicação e pesquisa.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais tópicos de aprofundamento o aluno pode escolher durante o curso?",
+          "answer": "O aluno pode se aprofundar em técnicas avançadas de programação e engenharia de software, sistemas para computação de alto desempenho, recuperação e processamento de dados da web, segurança da informação, empreendedorismo, análise matemática avançada, pesquisa operacional e aplicações em domínios específicos da sociedade.",
+          "source_page": 2
+        },
+        {
+          "question": "O que compõe o ciclo de vida dos dados no qual o profissional é capacitado a atuar?",
+          "answer": "O ciclo de vida consiste na aquisição de dados de fontes variadas (web, sensores, dispositivos físicos, sistemas pessoais e corporativos), pré-processamento (filtragem, limpeza, organização, anotação), uso/reuso (análise, modelagem, mineração, visualização), publicação e preservação.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são as formas de ingresso no curso de Bacharelado em Ciência de Dados e quantas vagas são ofertadas?",
+          "answer": "O ingresso principal ocorre pelo vestibular da FUVEST, pelo ENEM-USP e pela Prova Paulista, com a oferta de 20 vagas anuais.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a duração do curso e em quais períodos as disciplinas são ofertadas?",
+          "answer": "O curso tem duração ideal de 4 anos e suas disciplinas podem ser cursadas nos períodos da manhã, tarde e noite, caracterizando-se como um curso de período integral.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\nO desafio de se ofertar um curso capaz de formar um profissional com o perfil esperado reside em sua interdisciplinaridade e à integração de competências, com conhecimentos e habilidades das áreas de Matemática, Estatística e Computação, principalmente. Dado que o Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP) é responsável por cursos de graduação em todas essas áreas e conta com tradição e prestígio no meio, o nascimento do curso de Bacharelado em Ciência de Dados aconteceu naturalmente. A formação pretendida surgiu primeiro como uma ênfase possível para os cursos do ICMC em 2017, para então se tornar um curso integral com base em um esforço colaborativo dos departamentos das áreas relacionadas e iniciativas dos centros de pesquisa CeMEAI (Centro de Ciências Matemáticas Aplicadas à Indústria) e cDados (Centro de Ciência de Dados) do ICMC, com a condução da Comissão de Graduação do ICMC. O ICMC, localizado no interior do estado de São Paulo, na cidade de São Carlos, é uma unidade de ensino e pesquisa criada em 1971. Além do curso de Bacharelado em Ciência de Dados, o instituto oferta outros 8 cursos de graduação (sendo 2 interunidades) e 5 programas de pós-graduação stricto sensu, atendendo em torno de 2.000 alunos, contando com aproximadamente 140 docentes e 120 funcionários técnicoadministrativos. Seus cursos de graduação são muito bem conceituados no cenário nacional e sua pósgraduação é de altíssimo nível, com alguns programas com nota máxima na CAPES. Como resultado, o ICMC é um polo de formação de recursos humanos de alta qualidade, contribuindo significativamente para a ciência e o avanço da fronteira do conhecimento e colaborando fortemente com a indústria, sendo uma das unidades mais produtivas da USP. É nesse contexto em que o curso de Bacharelado em Ciência de Dados se situa, sendo capaz de formar profissionais para liderar os trabalhos na área e atender a demanda crescente existente. O curso de Bacharelado em Ciência de Dados do ICMC, alinhado com estudos e propostas internacionais (veja, por exemplo, o currículo de referência proposto por De Veaux et al., 2017, assim como os cursos de graduação oferecidos pelas universidades de Michigan, Warwick e Waterloo), visa formar um profissional apto a atuar com competência nas mais variadas frentes em que a Ciência de Dados se faz necessária. O profissional formado no curso domina os conhecimentos e habilidades necessárias em algoritmos, estruturas de dados e programação, inteligência artificial, aprendizado de máquina e mineração de dados estruturados e não estruturados, modelagem, organização, armazenamento e gerenciamento de dados, modelagens matemáticas e estatísticas, otimização, inferência, construção e condução de experimentos, visualização científica e de informação, e desempenho computacional, além de desenvolver competências em ética, comunicação e pesquisa. O profissional pode ainda escolher e se aprofundar em tópicos de seu interesse e altamente relevantes frente às demandas existentes para a Ciência de Dados, como técnicas avançadas de programação e de engenharia de software, sistemas computacionais para computação de alto desempenho, recuperação e processamento de dados da web, segurança da informação, empreendedorismo, análise matemática avançada e pesquisa operacional, aplicações em domínios específicos da sociedade, etc. Os conhecimentos e habilidades envolvidos capacitam o profissional a lidar com o ecossistema e o ciclo de vida dos dados, que consistem no coração da Ciência de Dados, atuando, conforme Berman et al. (2018) sugerem, na aquisição de dados de fontes variadas (web, sensores, dispositivos físicos e sistemas pessoais e corporativos, etc.), seu pré-processamento (filtragem, limpeza, organização, anotação, etc.), uso/reuso (análise, modelagem, mineração, visualização, etc.), publicação e preservação. O ingresso principal no curso é realizado pelo vestibular da FUVEST, pelo ENEM- USP e pela Prova Paulista contando com 20 vagas anuais. O curso tem duração ideal de 4 anos, sendo que suas disciplinas podem ser cursadas pelas manhãs, tardes e noites, resultando em um curso de período integral. Atualmente, é\n\n[Página 3]\noferecido de segunda a sexta-feira, das 08:00 às 12:00, das 13:00 às 18:00 e das 18:00 às 23:00 e aos sábados, das 07:00 às 13:00 e das 13:00 às 18:30.\n\nA seguir, apresenta-se o perfil do egresso e as competências esperadas desse profissional. Em seguida, relata-se a metodologia de ensino-aprendizagem do curso. Por fim, apresenta-se a grade curricular do curso em detalhes, discutindo-se como ela se organiza e contribui para a formação dos conhecimentos e habilidades desejados.\n\n## 2. Perfil do egresso e competências esperadas\n\nO curso visa formar profissionais capazes de \"pensar com dados\", com competência teórica (técnica e metodológica) e experiência prática para lidar com as mais variadas situações e domínios de aplicação. Em linhas gerais, o egresso deve ser capaz de (i) entender, formular e refinar as questões apropriadas, (ii) obter, modelar e explorar os dados relacionados, (iii) processar os dados e realizar as análises necessárias, (iv) obter e comunicar o conhecimento relevante e, se necessário, (v) apoiar o desenvolvimento e implantação de soluções com base nos resultados atingidos.\n\nEntender, formular e refinar as questões apropriadas (i), no contexto da aplicação da Ciência de Dados , exige do profissional capacidades de comunicação, postura crítica e capacidades de raciocínio lógico e abstração, assim como uma boa visão sobre processos de desenvolvimento.\n\nObter, modelar e explorar os dados relacionados (ii) demanda capacidades técnicas de coleta, armazenamento e gerenciamento de dados, envolvendo os processos de limpeza, transformação e estruturação dos dados que podem vir de fontes variadas em formatos diversos. Nesse ponto, o cientista de dados deve conhecer os processos relacionados a big data e suas características.\n\nProcessar os dados e realizar as análises necessárias (iii) requer, adicionalmente, pensamento computacional e estatístico, principalmente, tornando o cientista de dados apto a desenvolver soluções algorítmicas, criar modelos preditivos e realizar inferência sobre os dados. Esses conhecimentos devem ser utilizados de forma integrada para atingir as metas previstas.\n\nJuntamente com o item (iii), obter e comunicar o conhecimento relevante (iv) requer fundamentos sólidos para modelagem matemática, como álgebra linear e cálculo, para modelar sistemas lineares, estratégias de otimização e soluções de visualização de dados.\n\nApoiar o desenvolvimento e a implantação de soluções com base nos resultados atingidos (v) requer, por fim, habilidades sociais, tecnológicas e de integração de sistemas, para que o professional seja capaz de direcionar e/ou agregar os resultados do processo de Ciência de Dados em uma solução que atenda as demandas originais.\n\nComo se pode notar, as áreas de Matemática, Estatística e Computação são essenciais para prover essas competências e a construção do perfil esperado para o profissional. Na Matemática, destacam-se conceitos básicos e métodos relacionados a lógica, conjuntos, relações e funções, álgebra de matrizes e fatoração, derivadas, integrais, otimização, etc. A Estatística deve prover conceitos de formulação de problemas, amostragem, distribuições, modelagem estatística, inferência, construção de experimentos, validação de dados, etc. A Computação, por sua vez, abrange o desenvolvimento de algoritmos e programas para sistemas computacionais diversos, análise de algoritmos e uso de estruturas de dados eficientes, coleta de dados de fontes variadas, processamento textual, criação e gerenciamento de bancos de dados, aprendizado de máquina, segurança e confidencialidade dos dados, etc.",
+      "qa_pairs": [
+        {
+          "question": "Quais são as principais áreas de conhecimento que integram a formação do curso de Bacharelado em Ciência de Dados do ICMC?",
+          "answer": "A formação do curso é interdisciplinar e integra competências, conhecimentos e habilidades principalmente das áreas de Matemática, Estatística e Computação.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona o ingresso no curso de Bacharelado em Ciência de Dados e quantas vagas são ofertadas anualmente?",
+          "answer": "O ingresso principal é realizado através do vestibular da FUVEST, pelo ENEM-USP e pela Prova Paulista, com a oferta de 20 vagas anuais.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a duração ideal do curso de Ciência de Dados e qual o seu regime de período?",
+          "answer": "O curso tem duração ideal de 4 anos e é de período integral, com disciplinas que podem ser cursadas nos períodos da manhã, tarde e noite.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são os horários de oferta de disciplinas do curso durante a semana e aos sábados?",
+          "answer": "De segunda a sexta-feira, as disciplinas são oferecidas das 08:00 às 12:00, das 13:00 às 18:00 e das 18:00 às 23:00. Aos sábados, a oferta ocorre das 07:00 às 13:00 e das 13:00 às 18:30.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais competências técnicas o profissional formado em Ciência de Dados domina?",
+          "answer": "O profissional domina algoritmos, estruturas de dados e programação, inteligência artificial, aprendizado de máquina, mineração de dados estruturados e não estruturados, modelagem, organização, armazenamento e gerenciamento de dados, modelagens matemáticas e estatísticas, otimização, inferência, construção e condução de experimentos, visualização científica e de informação, e desempenho computacional, além de competências em ética, comunicação e pesquisa.",
+          "source_page": 2
+        },
+        {
+          "question": "Em quais tópicos de interesse o aluno de Ciência de Dados pode escolher se aprofundar?",
+          "answer": "O aluno pode se aprofundar em técnicas avançadas de programação e engenharia de software, sistemas computacionais para computação de alto desempenho, recuperação e processamento de dados da web, segurança da informação, empreendedorismo, análise matemática avançada, pesquisa operacional e aplicações em domínios específicos da sociedade.",
+          "source_page": 2
+        },
+        {
+          "question": "O que compõe o ciclo de vida dos dados que o profissional do curso é capacitado a lidar?",
+          "answer": "O ciclo de vida consiste na aquisição de dados de fontes variadas (como web, sensores, dispositivos físicos e sistemas pessoais e corporativos), seu pré-processamento (filtragem, limpeza, organização, anotação), uso/reuso (análise, modelagem, mineração, visualização), publicação e preservação.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o perfil esperado do egresso do curso de Bacharelado em Ciência de Dados?",
+          "answer": "O egresso deve ser capaz de 'pensar com dados', possuindo competência teórica e experiência prática para: (i) entender, formular e refinar questões apropriadas; (ii) obter, modelar e explorar dados relacionados; (iii) processar dados e realizar análises; (iv) obter e comunicar conhecimento relevante; e (v) apoiar o desenvolvimento e implantação de soluções.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais capacidades são exigidas para que o profissional consiga obter, modelar e explorar dados relacionados?",
+          "answer": "São demandadas capacidades técnicas de coleta, armazenamento e gerenciamento de dados, envolvendo processos de limpeza, transformação e estruturação de dados de fontes e formatos variados, além do conhecimento de processos relacionados a big data e suas características.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais conceitos de Matemática, Estatística e Computação são essenciais para a formação do cientista de dados?",
+          "answer": "Na Matemática, destacam-se lógica, conjuntos, relações, funções, álgebra de matrizes, fatoração, derivadas, integrais e otimização. Na Estatística, formulação de problemas, amostragem, distribuições, modelagem estatística, inferência, construção de experimentos e validação de dados. Na Computação, desenvolvimento de algoritmos e programas, análise de algoritmos, estruturas de dados, coleta de dados, processamento textual, bancos de dados, aprendizado de máquina, segurança e confidencialidade dos dados.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\noferecido de segunda a sexta-feira, das 08:00 às 12:00, das 13:00 às 18:00 e das 18:00 às 23:00 e aos sábados, das 07:00 às 13:00 e das 13:00 às 18:30.\n\nA seguir, apresenta-se o perfil do egresso e as competências esperadas desse profissional. Em seguida, relata-se a metodologia de ensino-aprendizagem do curso. Por fim, apresenta-se a grade curricular do curso em detalhes, discutindo-se como ela se organiza e contribui para a formação dos conhecimentos e habilidades desejados.\n\n## 2. Perfil do egresso e competências esperadas\n\nO curso visa formar profissionais capazes de \"pensar com dados\", com competência teórica (técnica e metodológica) e experiência prática para lidar com as mais variadas situações e domínios de aplicação. Em linhas gerais, o egresso deve ser capaz de (i) entender, formular e refinar as questões apropriadas, (ii) obter, modelar e explorar os dados relacionados, (iii) processar os dados e realizar as análises necessárias, (iv) obter e comunicar o conhecimento relevante e, se necessário, (v) apoiar o desenvolvimento e implantação de soluções com base nos resultados atingidos.\n\nEntender, formular e refinar as questões apropriadas (i), no contexto da aplicação da Ciência de Dados , exige do profissional capacidades de comunicação, postura crítica e capacidades de raciocínio lógico e abstração, assim como uma boa visão sobre processos de desenvolvimento.\n\nObter, modelar e explorar os dados relacionados (ii) demanda capacidades técnicas de coleta, armazenamento e gerenciamento de dados, envolvendo os processos de limpeza, transformação e estruturação dos dados que podem vir de fontes variadas em formatos diversos. Nesse ponto, o cientista de dados deve conhecer os processos relacionados a big data e suas características.\n\nProcessar os dados e realizar as análises necessárias (iii) requer, adicionalmente, pensamento computacional e estatístico, principalmente, tornando o cientista de dados apto a desenvolver soluções algorítmicas, criar modelos preditivos e realizar inferência sobre os dados. Esses conhecimentos devem ser utilizados de forma integrada para atingir as metas previstas.\n\nJuntamente com o item (iii), obter e comunicar o conhecimento relevante (iv) requer fundamentos sólidos para modelagem matemática, como álgebra linear e cálculo, para modelar sistemas lineares, estratégias de otimização e soluções de visualização de dados.\n\nApoiar o desenvolvimento e a implantação de soluções com base nos resultados atingidos (v) requer, por fim, habilidades sociais, tecnológicas e de integração de sistemas, para que o professional seja capaz de direcionar e/ou agregar os resultados do processo de Ciência de Dados em uma solução que atenda as demandas originais.\n\nComo se pode notar, as áreas de Matemática, Estatística e Computação são essenciais para prover essas competências e a construção do perfil esperado para o profissional. Na Matemática, destacam-se conceitos básicos e métodos relacionados a lógica, conjuntos, relações e funções, álgebra de matrizes e fatoração, derivadas, integrais, otimização, etc. A Estatística deve prover conceitos de formulação de problemas, amostragem, distribuições, modelagem estatística, inferência, construção de experimentos, validação de dados, etc. A Computação, por sua vez, abrange o desenvolvimento de algoritmos e programas para sistemas computacionais diversos, análise de algoritmos e uso de estruturas de dados eficientes, coleta de dados de fontes variadas, processamento textual, criação e gerenciamento de bancos de dados, aprendizado de máquina, segurança e confidencialidade dos dados, etc.\n\n[Página 4]\nCom uma formação sólida, o profissional formado no curso está apto a trabalhar em empresas e indústria de setores diversos, em órgãos do governo, em universidades (caso deseje seguir carreira acadêmica) e em institutos de pesquisa.\n\n## 3. Metodologia de ensino-aprendizagem\n\nA metodologia de ensino-aprendizagem é baseada, principalmente, em aulas expositivas teóricas e práticas e na realização de trabalhos práticos. Ao aluno são ofertadas as disciplinas essenciais das áreas relevantes para o curso e possibilidades de desenvolvimento de vários projetos práticos em Ciência de Dados, com técnicas variadas e de complexidade incremental. Além da formação essencial, o aluno conta com cadeias de disciplinas optativas, tanto de complementação de fundamentos para o curso, quanto voltadas para aplicações, que o aluno pode escolher em função de suas aptidões, interesses e formação almejada.\n\nAs disciplinas são, em sua maioria, cursadas de forma compartilhada com os demais cursos de graduação do ICMC, propiciando ao aluno uma visão abrangente das áreas relacionadas e uma maior riqueza de formação. Em particular, o aluno deve, em princípio, cursar disciplinas com os demais alunos dos cursos de Bacharelado em Ciências de Computação, Bacharelado em Matemática Aplicada e Computação Científica e Bacharelado em Estatística e Ciência de Dados, principalmente. Além disso, o aluno pode cursar disciplinas em conjunto com alunos dos programas de pós-graduação do ICMC, em disciplinas espelhadas, enriquecendo ainda mais sua formação. Como resultado, o aluno pode cursar disciplinas em todos os períodos (manhã, tarde e noite), caracterizando seu curso como integral.\n\nAs várias disciplinas práticas, para desenvolvimento de projetos em Ciência de Dados, são distribuídas no decorrer do curso. Nessas disciplinas, seguindo-se metodologias ativas de aprendizado (como ProblemBased Learning e Team-Based Learning), os alunos devem trabalhar em equipes para executar todas as etapas do processo de Ciência de Dados em cenários e domínios variados. Em particular, problemas reais , provenientes dos centros de pesquisa do ICMC (CeMEAI e cDados, por exemplo), podem ser utilizados, propiciando aos alunos uma formação diferenciada. Na primeira disciplina, prevista para ser realizada no 1º ano do curso, o aluno desenvolverá um projeto de pequena escala, para ter uma visão geral do processo de Ciência de Dados e de como as áreas de conhecimento envolvidas contribuem para isso. Nos 2 últimos anos do curso, o aluno desenvolverá projetos maiores, com técnicas e perspectivas de solução variadas, de acordo com as áreas de atuação e visões dos grupos de pesquisa envolvidos, fazendo uso de tecnologias correntes relevantes. Em seu último período do curso, o aluno deve desenvolver projeto de graduação na própria universidade, sob supervisão de algum docente, ou estágio em empresa conveniada ao ICMC, utilizando, para tanto, todos os conhecimentos e habilidades adquiridos no seu curso em um último projeto supervisionado em Ciência de Dados. Esse projeto ou estágio supervisionado deve fazer o elo da rotina universitária do aluno com seu futuro ambiente profissional, quer seja na própria universidade, quer seja na indústria ou em órgãos do governo. Há também a possibilidade de realizar essa etapa no exterior, em processo de intercâmbio estudantil.\n\nNas disciplinas práticas, o trabalho em equipe, a apresentação e a entrega das soluções desenvolvidas são essenciais para o aluno desenvolver suas capacidades de comunicação e argumentação, produção textual e apresentação oral, ética, cidadania e comportamento apropriado, tão importantes no cenário atual.",
+      "qa_pairs": [
+        {
+          "question": "Quais são os horários de funcionamento oferecidos?",
+          "answer": "O funcionamento ocorre de segunda a sexta-feira, das 08:00 às 12:00, das 13:00 às 18:00 e das 18:00 às 23:00, e aos sábados, das 07:00 às 13:00 e das 13:00 às 18:30.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o objetivo principal da formação do egresso do curso?",
+          "answer": "O curso visa formar profissionais capazes de \"pensar com dados\", possuindo competência teórica (técnica e metodológica) e experiência prática para lidar com diversas situações e domínios de aplicação.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as cinco capacidades principais que o egresso deve desenvolver?",
+          "answer": "O egresso deve ser capaz de: (i) entender, formular e refinar as questões apropriadas; (ii) obter, modelar e explorar os dados relacionados; (iii) processar os dados e realizar as análises necessárias; (iv) obter e comunicar o conhecimento relevante; e (v) apoiar o desenvolvimento e implantação de soluções com base nos resultados.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais áreas do conhecimento são essenciais para a construção do perfil do profissional de Ciência de Dados?",
+          "answer": "As áreas essenciais são Matemática, Estatística e Computação.",
+          "source_page": 3
+        },
+        {
+          "question": "O que a área de Computação abrange na formação do aluno?",
+          "answer": "A Computação abrange o desenvolvimento de algoritmos e programas para diversos sistemas computacionais, análise de algoritmos, uso de estruturas de dados eficientes, coleta de dados de fontes variadas, processamento textual, criação e gerenciamento de bancos de dados, aprendizado de máquina, além de segurança e confidencialidade dos dados.",
+          "source_page": 3
+        },
+        {
+          "question": "Onde o profissional formado no curso está apto a trabalhar?",
+          "answer": "O profissional está apto a trabalhar em empresas e indústrias de diversos setores, órgãos do governo, universidades (para carreira acadêmica) e institutos de pesquisa.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona a metodologia de ensino-aprendizagem do curso?",
+          "answer": "A metodologia baseia-se principalmente em aulas expositivas teóricas e práticas, além da realização de trabalhos práticos, oferecendo disciplinas essenciais e a possibilidade de desenvolver projetos práticos em Ciência de Dados com complexidade incremental.",
+          "source_page": 4
+        },
+        {
+          "question": "O curso é considerado integral? Por quê?",
+          "answer": "Sim, o curso é caracterizado como integral pois o aluno pode cursar disciplinas em todos os períodos (manhã, tarde e noite), inclusive em disciplinas compartilhadas com outros cursos de graduação do ICMC ou disciplinas espelhadas com a pós-graduação.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais metodologias ativas são utilizadas nas disciplinas práticas?",
+          "answer": "São utilizadas metodologias como Problem-Based Learning e Team-Based Learning, nas quais os alunos trabalham em equipes para executar etapas do processo de Ciência de Dados.",
+          "source_page": 4
+        },
+        {
+          "question": "O que o aluno deve realizar no último período do curso?",
+          "answer": "No último período, o aluno deve desenvolver um projeto de graduação na própria universidade, sob supervisão docente, ou realizar um estágio em empresa conveniada ao ICMC, podendo também realizar essa etapa no exterior via intercâmbio estudantil.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\nCom uma formação sólida, o profissional formado no curso está apto a trabalhar em empresas e indústria de setores diversos, em órgãos do governo, em universidades (caso deseje seguir carreira acadêmica) e em institutos de pesquisa.\n\n## 3. Metodologia de ensino-aprendizagem\n\nA metodologia de ensino-aprendizagem é baseada, principalmente, em aulas expositivas teóricas e práticas e na realização de trabalhos práticos. Ao aluno são ofertadas as disciplinas essenciais das áreas relevantes para o curso e possibilidades de desenvolvimento de vários projetos práticos em Ciência de Dados, com técnicas variadas e de complexidade incremental. Além da formação essencial, o aluno conta com cadeias de disciplinas optativas, tanto de complementação de fundamentos para o curso, quanto voltadas para aplicações, que o aluno pode escolher em função de suas aptidões, interesses e formação almejada.\n\nAs disciplinas são, em sua maioria, cursadas de forma compartilhada com os demais cursos de graduação do ICMC, propiciando ao aluno uma visão abrangente das áreas relacionadas e uma maior riqueza de formação. Em particular, o aluno deve, em princípio, cursar disciplinas com os demais alunos dos cursos de Bacharelado em Ciências de Computação, Bacharelado em Matemática Aplicada e Computação Científica e Bacharelado em Estatística e Ciência de Dados, principalmente. Além disso, o aluno pode cursar disciplinas em conjunto com alunos dos programas de pós-graduação do ICMC, em disciplinas espelhadas, enriquecendo ainda mais sua formação. Como resultado, o aluno pode cursar disciplinas em todos os períodos (manhã, tarde e noite), caracterizando seu curso como integral.\n\nAs várias disciplinas práticas, para desenvolvimento de projetos em Ciência de Dados, são distribuídas no decorrer do curso. Nessas disciplinas, seguindo-se metodologias ativas de aprendizado (como ProblemBased Learning e Team-Based Learning), os alunos devem trabalhar em equipes para executar todas as etapas do processo de Ciência de Dados em cenários e domínios variados. Em particular, problemas reais , provenientes dos centros de pesquisa do ICMC (CeMEAI e cDados, por exemplo), podem ser utilizados, propiciando aos alunos uma formação diferenciada. Na primeira disciplina, prevista para ser realizada no 1º ano do curso, o aluno desenvolverá um projeto de pequena escala, para ter uma visão geral do processo de Ciência de Dados e de como as áreas de conhecimento envolvidas contribuem para isso. Nos 2 últimos anos do curso, o aluno desenvolverá projetos maiores, com técnicas e perspectivas de solução variadas, de acordo com as áreas de atuação e visões dos grupos de pesquisa envolvidos, fazendo uso de tecnologias correntes relevantes. Em seu último período do curso, o aluno deve desenvolver projeto de graduação na própria universidade, sob supervisão de algum docente, ou estágio em empresa conveniada ao ICMC, utilizando, para tanto, todos os conhecimentos e habilidades adquiridos no seu curso em um último projeto supervisionado em Ciência de Dados. Esse projeto ou estágio supervisionado deve fazer o elo da rotina universitária do aluno com seu futuro ambiente profissional, quer seja na própria universidade, quer seja na indústria ou em órgãos do governo. Há também a possibilidade de realizar essa etapa no exterior, em processo de intercâmbio estudantil.\n\nNas disciplinas práticas, o trabalho em equipe, a apresentação e a entrega das soluções desenvolvidas são essenciais para o aluno desenvolver suas capacidades de comunicação e argumentação, produção textual e apresentação oral, ética, cidadania e comportamento apropriado, tão importantes no cenário atual.\n\n[Página 5]\nA formação adquirida com as disciplinas e atividades relacionadas pode ser complementada com diversas atividades extracurriculares, com a participação do aluno em pesquisas de iniciação científica, nos ciclos de seminários constantemente oferecidos no ICMC, nos diversos grupos de extensão existentes, em competições de programação e de Ciência de Dados, nas semanas acadêmicas dos cursos e em eventos especiais do próprio curso de Bacharelado em Ciência de Dados, dentre outras atividades, cuja carga horária é devidamente computada em disciplinas voltadas para atividades acadêmicas complementares. Além disso, diversas disciplinas obrigatórias e optativas contam com atividades de extensão onde o aluno tem a oportunidade de interagir e transferir os conhecimentos adquiridos para a sociedade, complementando sua formação como cidadão.\n\nAo fim do curso, o aluno terá se constituído em um profissional altamente qualificado, com condições de se colocar na sociedade de forma crítica e construtiva, apto a entender e atender as demandas existentes e contribuir para o bem-estar e progresso da sociedade. Além disso, esse profissional deve poder se adaptar a situações variadas e ter facilidade para aprender novas tecnologias e métodos, fazendo uso e combinando de forma harmoniosa sua formação nas áreas de Matemática, Estatística e Computação.\n\n## 4. Estrutura curricular\n\n## 4.1. Disciplinas obrigatórias e competências\n\nA formação essencial do aluno é composta por disciplinas das áreas de Matemática, Estatística e Computação e por disciplinas específicas para Ciência de Dados. A correlação das disciplinas obrigatórias com os conhecimentos e habilidades para a formação das competências esperadas do aluno é mostrada abaixo:\n\n1. Embasamento conceitual sólido, com desenvolvimento de raciocínio lógico e matemático e capacidade de abstração\n- SMA0353 Cálculo I\n- SMA0354 Cálculo II\n- SMA0355 Cálculo III\n- SMA0180 Matemática Discreta I\n- SME0141 Álgebra Linear e Equações Diferenciais\n- SME0220 Introdução à Teoria das Probabilidades\n- SME0221 Introdução à Inferência Estatística\n- SCC0221 Introdução à Ciência da Computação I\n- SCC0222 Laboratório de Introdução à Ciência de Computação I\n2. Domínio de técnicas de programação, com base sólida e flexibilidade para adaptação a novas abordagens e linguagens de programação\n- 5500004 Fundamentos em Ciência de Dados\n- 5500005 Informação Profissional em Ciência de Dados\n- SCC0221 Introdução à Ciência da Computação I\n- SCC0222 Laboratório de Introdução à Ciência de Computação I\n- SCC0223 Estruturas de Dados I\n- SCC0224 Estruturas de Dados II\n- SCC0204 Programação Orientada a Objetos\n3. Capacidade para modelagem, organização, manutenção e gerenciamento de dados\n- SCC0240 Bases de Dados",
+      "qa_pairs": [
+        {
+          "question": "Onde o profissional formado no curso de Ciência de Dados pode trabalhar?",
+          "answer": "O profissional está apto a trabalhar em empresas e indústrias de diversos setores, órgãos do governo, universidades (para carreira acadêmica) e institutos de pesquisa.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona a metodologia de ensino-aprendizagem do curso?",
+          "answer": "A metodologia baseia-se principalmente em aulas expositivas teóricas e práticas, além da realização de trabalhos práticos.",
+          "source_page": 4
+        },
+        {
+          "question": "O curso de Ciência de Dados é considerado integral? Por quê?",
+          "answer": "Sim, o curso é caracterizado como integral pois o aluno pode cursar disciplinas em todos os períodos (manhã, tarde e noite), devido ao compartilhamento de disciplinas com outros cursos e programas de pós-graduação do ICMC.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais metodologias ativas são utilizadas nas disciplinas práticas de Ciência de Dados?",
+          "answer": "São utilizadas metodologias como Problem-Based Learning e Team-Based Learning, nas quais os alunos trabalham em equipes para executar etapas do processo de Ciência de Dados.",
+          "source_page": 4
+        },
+        {
+          "question": "O que o aluno deve realizar no último período do curso?",
+          "answer": "O aluno deve desenvolver um projeto de graduação na própria universidade, sob supervisão de um docente, ou realizar um estágio em empresa conveniada ao ICMC.",
+          "source_page": 4
+        },
+        {
+          "question": "É possível realizar a etapa final do curso no exterior?",
+          "answer": "Sim, existe a possibilidade de realizar o projeto de graduação ou estágio supervisionado no exterior através de processo de intercâmbio estudantil.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais atividades extracurriculares podem complementar a formação do aluno?",
+          "answer": "A formação pode ser complementada com iniciação científica, ciclos de seminários do ICMC, grupos de extensão, competições de programação e de Ciência de Dados, semanas acadêmicas e eventos especiais do curso.",
+          "source_page": 5
+        },
+        {
+          "question": "Como a carga horária de atividades extracurriculares é contabilizada?",
+          "answer": "A carga horária dessas atividades é devidamente computada em disciplinas voltadas para atividades acadêmicas complementares.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais são as áreas de conhecimento que compõem a formação essencial do aluno?",
+          "answer": "A formação essencial é composta por disciplinas das áreas de Matemática, Estatística, Computação e disciplinas específicas para Ciência de Dados.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais disciplinas obrigatórias contribuem para o embasamento conceitual, raciocínio lógico e matemático do aluno?",
+          "answer": "As disciplinas são: Cálculo I, II e III; Matemática Discreta I; Álgebra Linear e Equações Diferenciais; Introdução à Teoria das Probabilidades; Introdução à Inferência Estatística; Introdução à Ciência da Computação I e Laboratório de Introdução à Ciência da Computação I.",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\nA formação adquirida com as disciplinas e atividades relacionadas pode ser complementada com diversas atividades extracurriculares, com a participação do aluno em pesquisas de iniciação científica, nos ciclos de seminários constantemente oferecidos no ICMC, nos diversos grupos de extensão existentes, em competições de programação e de Ciência de Dados, nas semanas acadêmicas dos cursos e em eventos especiais do próprio curso de Bacharelado em Ciência de Dados, dentre outras atividades, cuja carga horária é devidamente computada em disciplinas voltadas para atividades acadêmicas complementares. Além disso, diversas disciplinas obrigatórias e optativas contam com atividades de extensão onde o aluno tem a oportunidade de interagir e transferir os conhecimentos adquiridos para a sociedade, complementando sua formação como cidadão.\n\nAo fim do curso, o aluno terá se constituído em um profissional altamente qualificado, com condições de se colocar na sociedade de forma crítica e construtiva, apto a entender e atender as demandas existentes e contribuir para o bem-estar e progresso da sociedade. Além disso, esse profissional deve poder se adaptar a situações variadas e ter facilidade para aprender novas tecnologias e métodos, fazendo uso e combinando de forma harmoniosa sua formação nas áreas de Matemática, Estatística e Computação.\n\n## 4. Estrutura curricular\n\n## 4.1. Disciplinas obrigatórias e competências\n\nA formação essencial do aluno é composta por disciplinas das áreas de Matemática, Estatística e Computação e por disciplinas específicas para Ciência de Dados. A correlação das disciplinas obrigatórias com os conhecimentos e habilidades para a formação das competências esperadas do aluno é mostrada abaixo:\n\n1. Embasamento conceitual sólido, com desenvolvimento de raciocínio lógico e matemático e capacidade de abstração\n- SMA0353 Cálculo I\n- SMA0354 Cálculo II\n- SMA0355 Cálculo III\n- SMA0180 Matemática Discreta I\n- SME0141 Álgebra Linear e Equações Diferenciais\n- SME0220 Introdução à Teoria das Probabilidades\n- SME0221 Introdução à Inferência Estatística\n- SCC0221 Introdução à Ciência da Computação I\n- SCC0222 Laboratório de Introdução à Ciência de Computação I\n2. Domínio de técnicas de programação, com base sólida e flexibilidade para adaptação a novas abordagens e linguagens de programação\n- 5500004 Fundamentos em Ciência de Dados\n- 5500005 Informação Profissional em Ciência de Dados\n- SCC0221 Introdução à Ciência da Computação I\n- SCC0222 Laboratório de Introdução à Ciência de Computação I\n- SCC0223 Estruturas de Dados I\n- SCC0224 Estruturas de Dados II\n- SCC0204 Programação Orientada a Objetos\n3. Capacidade para modelagem, organização, manutenção e gerenciamento de dados\n- SCC0240 Bases de Dados\n\n[Página 6]\n- SCC0230 Inteligência Artificial\n- SCC0276 Aprendizado de Máquina\n- SCC0633 Processamento de Linguagem Natural\n4. Domínio de técnicas de análise e mineração de dados para produção de conhecimento relevante\n- SCC0230 Inteligência Artificial\n- SCC0270 Redes Neurais e Aprendizado Profundo\n- SCC0276 Aprendizado de Máquina\n- SCC0633 Processamento de Linguagem Natural\n- SME0820 Modelos de Regressão e Aprendizado Supervisionado I\n- SME0808 Séries Temporais e Aprendizado Dinâmico\n- SME0822 Análise Multivariada e Aprendizado Não Supervisionado\n- SME0878 Mineração Estatística de Dados\n- SCC0252 Visualização Computacional\n5. Capacidade de criação e refinamento de modelos a partir dos dados\n- SCC0230 Inteligência Artificial\n- SCC0276 Aprendizado de Máquina\n- SME0221 Introdução à Inferência Estatística\n- SME0212 Otimização Não Linear\n- SME0820 Modelos de Regressão e Aprendizado Supervisionado I\n- SME0808 Séries Temporais e Aprendizado Dinâmico\n- SME0822 Análise Multivariada e Aprendizado Não Supervisionado\n- SME0878 Mineração Estatística de Dados\n6. Definição, desenvolvimento e implantação de sistemas e soluções em Ciência de Dados\n- 5500004 Fundamentos em Ciência de Dados\n- 5500005 Informação Profissional em Ciência de Dados\n- SSC0955 Introdução a Sistemas Computacionais\n- SCC0221 Introdução à Ciência da Computação I\n- SCC0222 Laboratório de Introdução à Ciência de Computação I\n- SME0852 Prática em Ciência de Dados I\n- SCC0802 Prática em Ciência de Dados III\n- SSC0957 Prática em Ciência de Dados III\n- SCC0291 Estágio Supervisionado I\n- SCC0293 Projeto de Graduação I\n- SCC0289 Projeto em Intercâmbio I\n7. Desenvolvimento de conceitos éticos, de cidadania e de comunicação, com capacitação para produção escrita e apresentação oral\n- 5500005 Informação Profissional em Ciência de Dados\n- SME0852 Prática em Ciência de Dados I\n- SSC0957 Prática em Ciência de Dados II\n- SCC0802 Prática em Ciência de Dados III\n- SCC0291 Estágio Supervisionado I\n- SCC0293 Projeto de Graduação I\n- SCC0289 Projeto em Intercâmbio I\n- SCC0252 Visualização Computacional",
+      "qa_pairs": [
+        {
+          "question": "Quais atividades extracurriculares podem complementar a formação do aluno?",
+          "answer": "A formação pode ser complementada com pesquisas de iniciação científica, ciclos de seminários do ICMC, grupos de extensão, competições de programação e de Ciência de Dados, semanas acadêmicas dos cursos e eventos especiais do curso de Bacharelado em Ciência de Dados.",
+          "source_page": 5
+        },
+        {
+          "question": "Como é contabilizada a carga horária das atividades extracurriculares?",
+          "answer": "A carga horária dessas atividades é devidamente computada em disciplinas voltadas para atividades acadêmicas complementares.",
+          "source_page": 5
+        },
+        {
+          "question": "Existe interação com a sociedade durante as disciplinas do curso?",
+          "answer": "Sim, diversas disciplinas obrigatórias e optativas contam com atividades de extensão que permitem ao aluno interagir e transferir os conhecimentos adquiridos para a sociedade.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais são as áreas de conhecimento que compõem a formação essencial do aluno?",
+          "answer": "A formação essencial é composta por disciplinas das áreas de Matemática, Estatística e Computação, além de disciplinas específicas para Ciência de Dados.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais disciplinas contribuem para o desenvolvimento do raciocínio lógico, matemático e capacidade de abstração?",
+          "answer": "As disciplinas são: SMA0353 Cálculo I, SMA0354 Cálculo II, SMA0355 Cálculo III, SMA0180 Matemática Discreta I, SME0141 Álgebra Linear e Equações Diferenciais, SME0220 Introdução à Teoria das Probabilidades, SME0221 Introdução à Inferência Estatística, SCC0221 Introdução à Ciência da Computação I e SCC0222 Laboratório de Introdução à Ciência da Computação I.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais disciplinas são indicadas para quem busca domínio de técnicas de programação?",
+          "answer": "As disciplinas são: 5500004 Fundamentos em Ciência de Dados, 5500005 Informação Profissional em Ciência de Dados, SCC0221 Introdução à Ciência da Computação I, SCC0222 Laboratório de Introdução à Ciência da Computação I, SCC0223 Estruturas de Dados I, SCC0224 Estruturas de Dados II e SCC0204 Programação Orientada a Objetos.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais disciplinas capacitam o aluno para a modelagem, organização, manutenção e gerenciamento de dados?",
+          "answer": "As disciplinas são: SCC0240 Bases de Dados, SCC0230 Inteligência Artificial, SCC0276 Aprendizado de Máquina e SCC0633 Processamento de Linguagem Natural.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais disciplinas focam em técnicas de análise e mineração de dados para produção de conhecimento?",
+          "answer": "As disciplinas são: SCC0230 Inteligência Artificial, SCC0270 Redes Neurais e Aprendizado Profundo, SCC0276 Aprendizado de Máquina, SCC0633 Processamento de Linguagem Natural, SME0820 Modelos de Regressão e Aprendizado Supervisionado I, SME0808 Séries Temporais e Aprendizado Dinâmico, SME0822 Análise Multivariada e Aprendizado Não Supervisionado, SME0878 Mineração Estatística de Dados e SCC0252 Visualização Computacional.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais disciplinas auxiliam na definição, desenvolvimento e implantação de sistemas e soluções em Ciência de Dados?",
+          "answer": "As disciplinas são: 5500004 Fundamentos em Ciência de Dados, 5500005 Informação Profissional em Ciência de Dados, SSC0955 Introdução a Sistemas Computacionais, SCC0221 Introdução à Ciência da Computação I, SCC0222 Laboratório de Introdução à Ciência da Computação I, SME0852 Prática em Ciência de Dados I, SCC0802 Prática em Ciência de Dados III, SSC0957 Prática em Ciência de Dados III, SCC0291 Estágio Supervisionado I, SCC0293 Projeto de Graduação I e SCC0289 Projeto em Intercâmbio I.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais disciplinas desenvolvem conceitos éticos, de cidadania, comunicação e produção escrita/oral?",
+          "answer": "As disciplinas são: 5500005 Informação Profissional em Ciência de Dados, SME0852 Prática em Ciência de Dados I, SSC0957 Prática em Ciência de Dados II, SCC0802 Prática em Ciência de Dados III, SCC0291 Estágio Supervisionado I, SCC0293 Projeto de Graduação I, SCC0289 Projeto em Intercâmbio I e SCC0252 Visualização Computacional.",
+          "source_page": 6
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c5",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_text": "[Página 6]\n- SCC0230 Inteligência Artificial\n- SCC0276 Aprendizado de Máquina\n- SCC0633 Processamento de Linguagem Natural\n4. Domínio de técnicas de análise e mineração de dados para produção de conhecimento relevante\n- SCC0230 Inteligência Artificial\n- SCC0270 Redes Neurais e Aprendizado Profundo\n- SCC0276 Aprendizado de Máquina\n- SCC0633 Processamento de Linguagem Natural\n- SME0820 Modelos de Regressão e Aprendizado Supervisionado I\n- SME0808 Séries Temporais e Aprendizado Dinâmico\n- SME0822 Análise Multivariada e Aprendizado Não Supervisionado\n- SME0878 Mineração Estatística de Dados\n- SCC0252 Visualização Computacional\n5. Capacidade de criação e refinamento de modelos a partir dos dados\n- SCC0230 Inteligência Artificial\n- SCC0276 Aprendizado de Máquina\n- SME0221 Introdução à Inferência Estatística\n- SME0212 Otimização Não Linear\n- SME0820 Modelos de Regressão e Aprendizado Supervisionado I\n- SME0808 Séries Temporais e Aprendizado Dinâmico\n- SME0822 Análise Multivariada e Aprendizado Não Supervisionado\n- SME0878 Mineração Estatística de Dados\n6. Definição, desenvolvimento e implantação de sistemas e soluções em Ciência de Dados\n- 5500004 Fundamentos em Ciência de Dados\n- 5500005 Informação Profissional em Ciência de Dados\n- SSC0955 Introdução a Sistemas Computacionais\n- SCC0221 Introdução à Ciência da Computação I\n- SCC0222 Laboratório de Introdução à Ciência de Computação I\n- SME0852 Prática em Ciência de Dados I\n- SCC0802 Prática em Ciência de Dados III\n- SSC0957 Prática em Ciência de Dados III\n- SCC0291 Estágio Supervisionado I\n- SCC0293 Projeto de Graduação I\n- SCC0289 Projeto em Intercâmbio I\n7. Desenvolvimento de conceitos éticos, de cidadania e de comunicação, com capacitação para produção escrita e apresentação oral\n- 5500005 Informação Profissional em Ciência de Dados\n- SME0852 Prática em Ciência de Dados I\n- SSC0957 Prática em Ciência de Dados II\n- SCC0802 Prática em Ciência de Dados III\n- SCC0291 Estágio Supervisionado I\n- SCC0293 Projeto de Graduação I\n- SCC0289 Projeto em Intercâmbio I\n- SCC0252 Visualização Computacional\n\n[Página 7]\n8. Reconhecimento das demandas do mercado de trabalho e das regras e éticas profissionais\n- 5500005 Informação Profissional em Ciência de Dados\n- SME0852 Prática em Ciência de Dados I\n- SSC0957 Prática em Ciência de Dados II\n- SCC0802 Prática em Ciência de Dados III\n- SCC0291 Estágio Supervisionado I\n- SCC0293 Projeto de Graduação I\n- SCC0289 Projeto em Intercâmbio I\n\n## 4.2. Cadeias de disciplinas optativas\n\nAs cadeias de disciplinas optativas de fundamentação são mostradas abaixo. Essas cadeias permitem ao aluno aprofundar sua formação nas frentes que mais lhe interessarem, de forma que possa compor seu perfil profissional de acordo com suas aptidões e desejos. O aluno pode cursar as cadeias que desejar de forma integral ou parcial.\n\n- Inteligência Artificial (o aluno deve fazer pelo menos 4 disciplinas)\n\nSCC0282 Recuperação da Informação SCC0284 Sistemas de Recomendação SCC0287 Mineração de Dados Não Estruturados SCC0251 Processamento e Análise de Imagens SME0860 Aprendizado de Máquina Aplicado a Problemas SCC0271 Introdução à Bioinformática\n\n- ●\n- ●\n\nEstatística Avançada (o aluno deve fazer pelo menos 4 disciplinas) SME0809 Inferência Bayesiana SME0806 Estatística Computacional SME0130 Redes Complexas SME0810 Métodos não Paramétricos SME0870 Tópicos Especiais em Estatística Aplicada I SME0875 Tópicos Especiais em Estatística Aplicada II SME0262 Análise de Séries Temporais em Finanças\n\n- Matemática Aplicada (o aluno deve fazer pelo menos 4 disciplinas) SME0211 Otimização Linear SME0213 Otimização Inteira SME0140 Cálculo Numérico SME0243 Teoria Espectral de Matrizes SME0273 Tópicos de Matemática Aplicada I SME0274 Tópicos de Matemática Aplicada II\n- Banco de Dados (o aluno deve fazer pelo menos 4 disciplinas)\n- SCC0241 Laboratório de Bases de Dados SCC0243 Arquitetura de Sistemas Gerenciadores de Bases de Dados SCC0247 Bancos de dados no SQL e arcabouços distribuídos de processamento SCC0245 Processamento Analítico de Dados SCC0246 Recuperação de Dados por Conteúdo",
+      "qa_pairs": [
+        {
+          "question": "Quais disciplinas contribuem para a capacidade de criação e refinamento de modelos a partir dos dados?",
+          "answer": "As disciplinas são: SCC0230 Inteligência Artificial, SCC0276 Aprendizado de Máquina, SME0221 Introdução à Inferência Estatística, SME0212 Otimização Não Linear, SME0820 Modelos de Regressão e Aprendizado Supervisionado I, SME0808 Séries Temporais e Aprendizado Dinâmico, SME0822 Análise Multivariada e Aprendizado Não Supervisionado e SME0878 Mineração Estatística de Dados.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais disciplinas são indicadas para o desenvolvimento de conceitos éticos, de cidadania e de comunicação?",
+          "answer": "As disciplinas são: 5500005 Informação Profissional em Ciência de Dados, SME0852 Prática em Ciência de Dados I, SSC0957 Prática em Ciência de Dados II, SCC0802 Prática em Ciência de Dados III, SCC0291 Estágio Supervisionado I, SCC0293 Projeto de Graduação I, SCC0289 Projeto em Intercâmbio I e SCC0252 Visualização Computacional.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais disciplinas auxiliam na definição, desenvolvimento e implantação de sistemas e soluções em Ciência de Dados?",
+          "answer": "As disciplinas são: 5500004 Fundamentos em Ciência de Dados, 5500005 Informação Profissional em Ciência de Dados, SSC0955 Introdução a Sistemas Computacionais, SCC0221 Introdução à Ciência da Computação I, SCC0222 Laboratório de Introdução à Ciência da Computação I, SME0852 Prática em Ciência de Dados I, SCC0802 Prática em Ciência de Dados III, SSC0957 Prática em Ciência de Dados III, SCC0291 Estágio Supervisionado I, SCC0293 Projeto de Graduação I e SCC0289 Projeto em Intercâmbio I.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais disciplinas abordam o reconhecimento das demandas do mercado de trabalho e a ética profissional?",
+          "answer": "As disciplinas são: 5500005 Informação Profissional em Ciência de Dados, SME0852 Prática em Ciência de Dados I, SSC0957 Prática em Ciência de Dados II, SCC0802 Prática em Ciência de Dados III, SCC0291 Estágio Supervisionado I, SCC0293 Projeto de Graduação I e SCC0289 Projeto em Intercâmbio I.",
+          "source_page": 7
+        },
+        {
+          "question": "Para que servem as cadeias de disciplinas optativas de fundamentação?",
+          "answer": "Elas permitem que o aluno aprofunde sua formação nas frentes de seu maior interesse, possibilitando a composição de seu perfil profissional de acordo com suas aptidões e desejos.",
+          "source_page": 7
+        },
+        {
+          "question": "O aluno é obrigado a cursar as cadeias de disciplinas optativas de forma integral?",
+          "answer": "Não, o aluno pode cursar as cadeias que desejar de forma integral ou parcial.",
+          "source_page": 7
+        },
+        {
+          "question": "Quantas disciplinas o aluno deve cursar na cadeia de Inteligência Artificial e quais são as opções?",
+          "answer": "O aluno deve cursar pelo menos 4 disciplinas. As opções são: SCC0282 Recuperação da Informação, SCC0284 Sistemas de Recomendação, SCC0287 Mineração de Dados Não Estruturados, SCC0251 Processamento e Análise de Imagens, SME0860 Aprendizado de Máquina Aplicado a Problemas e SCC0271 Introdução à Bioinformática.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais são as disciplinas disponíveis na cadeia de Estatística Avançada e qual a exigência mínima?",
+          "answer": "O aluno deve cursar pelo menos 4 disciplinas entre: SME0809 Inferência Bayesiana, SME0806 Estatística Computacional, SME0130 Redes Complexas, SME0810 Métodos não Paramétricos, SME0870 Tópicos Especiais em Estatística Aplicada I, SME0875 Tópicos Especiais em Estatística Aplicada II e SME0262 Análise de Séries Temporais em Finanças.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais disciplinas compõem a cadeia de Matemática Aplicada e quantas devem ser cursadas?",
+          "answer": "O aluno deve cursar pelo menos 4 disciplinas. As opções são: SME0211 Otimização Linear, SME0213 Otimização Inteira, SME0140 Cálculo Numérico, SME0243 Teoria Espectral de Matrizes, SME0273 Tópicos de Matemática Aplicada I e SME0274 Tópicos de Matemática Aplicada II.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais são as disciplinas da cadeia de Banco de Dados e qual a carga mínima exigida?",
+          "answer": "O aluno deve cursar pelo menos 4 disciplinas. As opções são: SCC0241 Laboratório de Bases de Dados, SCC0243 Arquitetura de Sistemas Gerenciadores de Bases de Dados, SCC0247 Bancos de dados no SQL e arcabouços distribuídos de processamento, SCC0245 Processamento Analítico de Dados e SCC0246 Recuperação de Dados por Conteúdo.",
+          "source_page": 7
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c6",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_text": "[Página 7]\n8. Reconhecimento das demandas do mercado de trabalho e das regras e éticas profissionais\n- 5500005 Informação Profissional em Ciência de Dados\n- SME0852 Prática em Ciência de Dados I\n- SSC0957 Prática em Ciência de Dados II\n- SCC0802 Prática em Ciência de Dados III\n- SCC0291 Estágio Supervisionado I\n- SCC0293 Projeto de Graduação I\n- SCC0289 Projeto em Intercâmbio I\n\n## 4.2. Cadeias de disciplinas optativas\n\nAs cadeias de disciplinas optativas de fundamentação são mostradas abaixo. Essas cadeias permitem ao aluno aprofundar sua formação nas frentes que mais lhe interessarem, de forma que possa compor seu perfil profissional de acordo com suas aptidões e desejos. O aluno pode cursar as cadeias que desejar de forma integral ou parcial.\n\n- Inteligência Artificial (o aluno deve fazer pelo menos 4 disciplinas)\n\nSCC0282 Recuperação da Informação SCC0284 Sistemas de Recomendação SCC0287 Mineração de Dados Não Estruturados SCC0251 Processamento e Análise de Imagens SME0860 Aprendizado de Máquina Aplicado a Problemas SCC0271 Introdução à Bioinformática\n\n- ●\n- ●\n\nEstatística Avançada (o aluno deve fazer pelo menos 4 disciplinas) SME0809 Inferência Bayesiana SME0806 Estatística Computacional SME0130 Redes Complexas SME0810 Métodos não Paramétricos SME0870 Tópicos Especiais em Estatística Aplicada I SME0875 Tópicos Especiais em Estatística Aplicada II SME0262 Análise de Séries Temporais em Finanças\n\n- Matemática Aplicada (o aluno deve fazer pelo menos 4 disciplinas) SME0211 Otimização Linear SME0213 Otimização Inteira SME0140 Cálculo Numérico SME0243 Teoria Espectral de Matrizes SME0273 Tópicos de Matemática Aplicada I SME0274 Tópicos de Matemática Aplicada II\n- Banco de Dados (o aluno deve fazer pelo menos 4 disciplinas)\n- SCC0241 Laboratório de Bases de Dados SCC0243 Arquitetura de Sistemas Gerenciadores de Bases de Dados SCC0247 Bancos de dados no SQL e arcabouços distribuídos de processamento SCC0245 Processamento Analítico de Dados SCC0246 Recuperação de Dados por Conteúdo\n\n[Página 8]\n- Infraestrutura computacional (o aluno deve fazer pelo menos 4 disciplinas)\n\nSSC0140 Sistemas Operacionais I SSC0142 Redes de Computadores SSC0904 Sistemas Computacionais Distribuídos SSC0900 Engenharia de Segurança SSC0903 Computação de Alto Desempenho\n\nEspera-se que o aluno curse no mínimo 30 créditos-aula em disciplinas optativas, escolhendo pelo menos 1 cadeia, para que se aprofunde em tópicos de interesse e especialize sua formação.\n\nAlém das disciplinas obrigatórias e optativas, é obrigatório cumprir, no mínimo, 90 horas, correspondentes a três créditos-trabalho, de Atividades Acadêmicas Complementares (AACs) que serão relacionadas no histórico do aluno. Essas atividades visam a complementação do currículo escolar do aluno, agregando conhecimentos e experiências a sua formação profissional, dando a ele oportunidade de colocar em prática os conteúdos trabalhados ao longo do curso e estimulando a prática de estudos independentes e a interdisciplinaridade. Dessa maneira, o aluno deverá realizar/participar de atividades acadêmicas, científicas, de pesquisa, de extensão ou culturais. Essas horas também atendem às exigências do Plano Nacional de Educação, bem como das Diretrizes Curriculares Nacionais e Lei de Diretrizes e Bases da Educação referentes às Atividades Acadêmicas Complementares (AACs) que são obrigatórias e fazem parte da matriz curricular dos cursos de graduação, bacharelado e licenciatura.\n\n## 4.3. Grade do curso e sua organização\n\nMostra-se a seguir a grade completa do curso, com as disciplinas (as obrigatórias e optativas já citadas, assim como outras disciplinas optativas complementares), sua distribuição nos períodos do curso e o número de créditos que os alunos devem cursar.\n\n| Grade curricular                                             |          | Créditos trabalho   | Pré - requisitos (fracos)   |\n|--------------------------------------------------------------|----------|---------------------|-----------------------------|\n| 5500004 Fundamentos em Ciência de Dados 4 1                  |          |                     |                             |\n| 5500005 Informação Profissional em Ciência de Dados          |          |                     | 1 1 ---                     |\n| SCC0221 Introdução à Ciência da Computação I                 | 4        | 1                   | ---                         |\n| SCC0222 Laboratório de Introdução à Ciência da  Computação I | 2        | 2                   |                             |\n| SMA0353 Cálculo I                                            | 4        | 0                   | ---                         |\n| SSC0955 Introdução a Sistemas Computacionais 4 1             |          |                     |                             |\n|                                                              | (19)     | (6)                 |                             |\n| 2º período                                                   |          |                     |                             |\n| SMA0354 Cálculo II 4 0 SMA0353                               |          |                     |                             |\n| SME0142 Álgebra Linear e Aplicações                          | 4        | 1                   | ---                         |\n| SME0220 Introdução à Teoria das Probabilidades 4 0           |          |                     | SMA0353                     |\n| SCC0223 Estruturas de Dados I 4 2 SCC0221                    |          |                     |                             |\n|                                                              | (16)     | (3)                 |                             |\n| 3º período                                                   |          |                     |                             |\n| SME0221 Introdução à Inferência Estatística                  | 4        | 2                   | SME0220                     |\n| SCC0224 Estruturas de Dados II 4 2 SCC0223                   |          |                     |                             |\n| SCC0204 Programação Orientada a Objetos 4 2 SCC0223          |          |                     |                             |\n| SMA0355 Cálculo III 4 0 SMA0354                              |          |                     |                             |\n| Optativa                                                     |          |                     |                             |\n| Optativa                                                     | (16) (6) |                     |                             |",
+      "qa_pairs": [
+        {
+          "question": "Quais disciplinas compõem a área de Reconhecimento das demandas do mercado de trabalho e das regras e éticas profissionais?",
+          "answer": "As disciplinas são: Informação Profissional em Ciência de Dados (5500005), Prática em Ciência de Dados I (SME0852), Prática em Ciência de Dados II (SSC0957), Prática em Ciência de Dados III (SCC0802), Estágio Supervisionado I (SCC0291), Projeto de Graduação I (SCC0293) e Projeto em Intercâmbio I (SCC0289).",
+          "source_page": 7
+        },
+        {
+          "question": "Como funcionam as cadeias de disciplinas optativas de fundamentação?",
+          "answer": "As cadeias permitem que o aluno aprofunde sua formação nas frentes de seu interesse para compor seu perfil profissional. O aluno pode cursar as cadeias que desejar de forma integral ou parcial.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais são as opções de cadeias de disciplinas optativas disponíveis?",
+          "answer": "As cadeias disponíveis são: Inteligência Artificial, Estatística Avançada, Matemática Aplicada, Banco de Dados e Infraestrutura Computacional.",
+          "source_page": 7
+        },
+        {
+          "question": "Quantas disciplinas o aluno deve cursar para completar a cadeia de Inteligência Artificial?",
+          "answer": "O aluno deve cursar pelo menos 4 disciplinas da cadeia de Inteligência Artificial.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais disciplinas fazem parte da cadeia de Infraestrutura Computacional?",
+          "answer": "As disciplinas são: Sistemas Operacionais I (SSC0140), Redes de Computadores (SSC0142), Sistemas Computacionais Distribuídos (SSC0904), Engenharia de Segurança (SSC0900) e Computação de Alto Desempenho (SSC0903).",
+          "source_page": 8
+        },
+        {
+          "question": "Qual é a carga mínima de créditos-aula exigida em disciplinas optativas?",
+          "answer": "Espera-se que o aluno curse no mínimo 30 créditos-aula em disciplinas optativas, escolhendo pelo menos 1 cadeia.",
+          "source_page": 8
+        },
+        {
+          "question": "O que são as Atividades Acadêmicas Complementares (AACs) e qual a carga horária exigida?",
+          "answer": "As AACs são atividades acadêmicas, científicas, de pesquisa, de extensão ou culturais que visam a complementação do currículo escolar. É obrigatório cumprir no mínimo 90 horas, correspondentes a três créditos-trabalho.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais disciplinas são cursadas no 1º período do curso?",
+          "answer": "As disciplinas do 1º período são: Fundamentos em Ciência de Dados (5500004), Informação Profissional em Ciência de Dados (5500005), Introdução à Ciência da Computação I (SCC0221), Laboratório de Introdução à Ciência da Computação I (SCC0222), Cálculo I (SMA0353) e Introdução a Sistemas Computacionais (SSC0955).",
+          "source_page": 8
+        },
+        {
+          "question": "Qual é o pré-requisito para cursar a disciplina de Cálculo II (SMA0354)?",
+          "answer": "O pré-requisito para cursar Cálculo II é a disciplina de Cálculo I (SMA0353).",
+          "source_page": 8
+        },
+        {
+          "question": "Quais disciplinas do 3º período exigem a disciplina Estruturas de Dados I (SCC0223) como pré-requisito?",
+          "answer": "As disciplinas que exigem Estruturas de Dados I são Estruturas de Dados II (SCC0224) e Programação Orientada a Objetos (SCC0204).",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c7",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_text": "[Página 8]\n- Infraestrutura computacional (o aluno deve fazer pelo menos 4 disciplinas)\n\nSSC0140 Sistemas Operacionais I SSC0142 Redes de Computadores SSC0904 Sistemas Computacionais Distribuídos SSC0900 Engenharia de Segurança SSC0903 Computação de Alto Desempenho\n\nEspera-se que o aluno curse no mínimo 30 créditos-aula em disciplinas optativas, escolhendo pelo menos 1 cadeia, para que se aprofunde em tópicos de interesse e especialize sua formação.\n\nAlém das disciplinas obrigatórias e optativas, é obrigatório cumprir, no mínimo, 90 horas, correspondentes a três créditos-trabalho, de Atividades Acadêmicas Complementares (AACs) que serão relacionadas no histórico do aluno. Essas atividades visam a complementação do currículo escolar do aluno, agregando conhecimentos e experiências a sua formação profissional, dando a ele oportunidade de colocar em prática os conteúdos trabalhados ao longo do curso e estimulando a prática de estudos independentes e a interdisciplinaridade. Dessa maneira, o aluno deverá realizar/participar de atividades acadêmicas, científicas, de pesquisa, de extensão ou culturais. Essas horas também atendem às exigências do Plano Nacional de Educação, bem como das Diretrizes Curriculares Nacionais e Lei de Diretrizes e Bases da Educação referentes às Atividades Acadêmicas Complementares (AACs) que são obrigatórias e fazem parte da matriz curricular dos cursos de graduação, bacharelado e licenciatura.\n\n## 4.3. Grade do curso e sua organização\n\nMostra-se a seguir a grade completa do curso, com as disciplinas (as obrigatórias e optativas já citadas, assim como outras disciplinas optativas complementares), sua distribuição nos períodos do curso e o número de créditos que os alunos devem cursar.\n\n| Grade curricular                                             |          | Créditos trabalho   | Pré - requisitos (fracos)   |\n|--------------------------------------------------------------|----------|---------------------|-----------------------------|\n| 5500004 Fundamentos em Ciência de Dados 4 1                  |          |                     |                             |\n| 5500005 Informação Profissional em Ciência de Dados          |          |                     | 1 1 ---                     |\n| SCC0221 Introdução à Ciência da Computação I                 | 4        | 1                   | ---                         |\n| SCC0222 Laboratório de Introdução à Ciência da  Computação I | 2        | 2                   |                             |\n| SMA0353 Cálculo I                                            | 4        | 0                   | ---                         |\n| SSC0955 Introdução a Sistemas Computacionais 4 1             |          |                     |                             |\n|                                                              | (19)     | (6)                 |                             |\n| 2º período                                                   |          |                     |                             |\n| SMA0354 Cálculo II 4 0 SMA0353                               |          |                     |                             |\n| SME0142 Álgebra Linear e Aplicações                          | 4        | 1                   | ---                         |\n| SME0220 Introdução à Teoria das Probabilidades 4 0           |          |                     | SMA0353                     |\n| SCC0223 Estruturas de Dados I 4 2 SCC0221                    |          |                     |                             |\n|                                                              | (16)     | (3)                 |                             |\n| 3º período                                                   |          |                     |                             |\n| SME0221 Introdução à Inferência Estatística                  | 4        | 2                   | SME0220                     |\n| SCC0224 Estruturas de Dados II 4 2 SCC0223                   |          |                     |                             |\n| SCC0204 Programação Orientada a Objetos 4 2 SCC0223          |          |                     |                             |\n| SMA0355 Cálculo III 4 0 SMA0354                              |          |                     |                             |\n| Optativa                                                     |          |                     |                             |\n| Optativa                                                     | (16) (6) |                     |                             |\n\n[Página 9]\n| 4º período  SME0820 Modelos de Regressão e Aprendizado                               | 4        | 1        | SME0221 (F)                                                                       |\n|--------------------------------------------------------------------------------------|----------|----------|-----------------------------------------------------------------------------------|\n| Supervisionado I  SME0212 Otimização Não Linear 4 2 SMA0354, SME0142, SCC0221        |          |          |                                                                                   |\n| SCC0230 Inteligência Artificial 4 1 SCC0223                                          |          |          |                                                                                   |\n| SMA0180 Matemática Discreta I                                                        | 4        | 0        | ---                                                                               |\n| Optativa  Optativa                                                                   |          | (4)      |                                                                                   |\n| 5º período SME0852 Prática em Ciência de Dados I  SCC0240 Bases de Dados 4 2 SCC0223 | (16)     |          |                                                                                   |\n|                                                                                      | 4        | 4        | SME0820                                                                           |\n| SCC0270 Redes Neurais e Aprendizado Profundo                                         |          |          |                                                                                   |\n| SCC0276 Aprendizado de Máquina                                                       | 4        | 1        | SCC0230                                                                           |\n| Optativa                                                                             | 4        | 1        | SCC0230                                                                           |\n| Optativa                                                                             | (16) (8) |          |                                                                                   |\n| SSC0957 Prática em Ciência de Dados II                                               | 4        | 4        | SME0820                                                                           |\n| SME0808 Séries Temporais e Aprendizado Dinâmico 4 0                                  |          |          | SME0221 (F)                                                                       |\n| SME0822 Análise Multivariada e Aprendizado Não  Supervisionado                       |          |          | 4 0 SME0221 (F)                                                                   |\n| SCC0252 Visualização Computacional  Optativa                                         | 3        | 1        | SCC0204                                                                           |\n| Optativa                                                                             | (15) (5) |          |                                                                                   |\n| SCC0802 Prática em Ciência de Dados III                                              | 4        | 4        | SME0820 SME0878 Mineração Estatística de Dados 4 2 SME0822, SME0820, SCC0221  (F) |\n| SCC0633 Processamento de Linguagem Natural  Optativa                                 | 4        | 1        | SCC0230                                                                           |\n| Optativa                                                                             |          |          |                                                                                   |\n| 8º período  SCC0291 Estágio Supervisionado I ou SCC0293 Projeto de Graduação I       | (12) (7) |          |                                                                                   |\n|                                                                                      | 4        | 10       | ter cursado 100 créditos (aula)                                                   |\n| ou SCC0289 Projeto em Intercâmbio I                                                  |          | (4) (10) |                                                                                   |\n\n## Número de créditos exigido para a conclusão do curso\n\n- Disciplinas obrigatórias: 114 créditos aula + 49 créditos trabalho\n- ●\n- Disciplinas optativas: 30 créditos aula, pelo menos\n\nTotal de horas do curso: 3.720 horas (Total+ Estágio+ AAC)\n\nÉ obrigatório cumprir no mínimo 90 horas, correspondente a 3 créditos-trabalho, de Atividades Acadêmicas Complementares (AACs), que serão relacionadas no Histórico Escolar do aluno.\n\n| Disciplinas optativas  Período ideal                                                  | Pré-requisitos (fracos)   |\n|---------------------------------------------------------------------------------------|---------------------------|\n| SCC0209 Empreendedores em Informática 3 ---                                           |                           |\n| SCC0215 Organização de Arquivos  3                                                    | SCC0223                   |\n| SCC0220 Laboratório de Introdução à Ciência da Computação II 3 SCC0224 (co-requisito) |                           |\n| SME0121 Processos Estocásticos 3 SME0220                                              |                           |\n| SME0240 Equações Diferenciais Ordinárias 3 SMA0353, SME0142                           |                           |\n| SME0265 Planejamento de Experimentos 3 SME0220                                        |                           |\n| SME0803 Análise Exploratória de Dados 3 ---                                           |                           |",
+      "qa_pairs": [
+        {
+          "question": "Quantos créditos de disciplinas optativas o aluno deve cursar no mínimo?",
+          "answer": "O aluno deve cursar no mínimo 30 créditos-aula em disciplinas optativas, escolhendo pelo menos uma cadeia para aprofundamento e especialização de sua formação.",
+          "source_page": 8
+        },
+        {
+          "question": "O que são as Atividades Acadêmicas Complementares (AACs) e qual a carga horária exigida?",
+          "answer": "As AACs são atividades acadêmicas, científicas, de pesquisa, de extensão ou culturais que visam complementar o currículo escolar, agregando conhecimentos e experiências profissionais. É obrigatório cumprir no mínimo 90 horas, o que corresponde a três créditos-trabalho.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais disciplinas podem ser cursadas para cumprir a exigência de Infraestrutura Computacional?",
+          "answer": "Para a infraestrutura computacional, o aluno deve fazer pelo menos 4 disciplinas entre: SSC0140 (Sistemas Operacionais I), SSC0142 (Redes de Computadores), SSC0904 (Sistemas Computacionais Distribuídos), SSC0900 (Engenharia de Segurança) e SSC0903 (Computação de Alto Desempenho).",
+          "source_page": 8
+        },
+        {
+          "question": "Quais são as disciplinas do 1º período do curso?",
+          "answer": "As disciplinas do 1º período são: Fundamentos em Ciência de Dados (5500004), Informação Profissional em Ciência de Dados (5500005), Introdução à Ciência da Computação I (SCC0221), Laboratório de Introdução à Ciência da Computação I (SCC0222), Cálculo I (SMA0353) e Introdução a Sistemas Computacionais (SSC0955).",
+          "source_page": 8
+        },
+        {
+          "question": "Qual é o pré-requisito para cursar a disciplina de Estruturas de Dados I (SCC0223)?",
+          "answer": "O pré-requisito para cursar Estruturas de Dados I (SCC0223) é a disciplina SCC0221 (Introdução à Ciência da Computação I).",
+          "source_page": 8
+        },
+        {
+          "question": "Quais são os pré-requisitos para a disciplina de Otimização Não Linear (SME0212)?",
+          "answer": "Os pré-requisitos para a disciplina SME0212 são SMA0354, SME0142 e SCC0221.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais são os requisitos para cursar o Estágio Supervisionado I (SCC0291) ou o Projeto de Graduação I (SCC0293)?",
+          "answer": "Para cursar essas disciplinas no 8º período, o aluno deve ter cursado 100 créditos (aula).",
+          "source_page": 9
+        },
+        {
+          "question": "Qual é a carga horária total do curso, incluindo Estágio e AAC?",
+          "answer": "O total de horas do curso é de 3.720 horas.",
+          "source_page": 9
+        },
+        {
+          "question": "Quantos créditos de disciplinas obrigatórias são exigidos para a conclusão do curso?",
+          "answer": "São exigidos 114 créditos aula e 49 créditos trabalho em disciplinas obrigatórias.",
+          "source_page": 9
+        },
+        {
+          "question": "A disciplina de Organização de Arquivos (SCC0215) é obrigatória ou optativa e qual seu pré-requisito?",
+          "answer": "A disciplina SCC0215 é optativa e possui como pré-requisito a disciplina SCC0223.",
+          "source_page": 9
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c8",
+      "pages": [
+        9,
+        10
+      ],
+      "chunk_text": "[Página 9]\n| 4º período  SME0820 Modelos de Regressão e Aprendizado                               | 4        | 1        | SME0221 (F)                                                                       |\n|--------------------------------------------------------------------------------------|----------|----------|-----------------------------------------------------------------------------------|\n| Supervisionado I  SME0212 Otimização Não Linear 4 2 SMA0354, SME0142, SCC0221        |          |          |                                                                                   |\n| SCC0230 Inteligência Artificial 4 1 SCC0223                                          |          |          |                                                                                   |\n| SMA0180 Matemática Discreta I                                                        | 4        | 0        | ---                                                                               |\n| Optativa  Optativa                                                                   |          | (4)      |                                                                                   |\n| 5º período SME0852 Prática em Ciência de Dados I  SCC0240 Bases de Dados 4 2 SCC0223 | (16)     |          |                                                                                   |\n|                                                                                      | 4        | 4        | SME0820                                                                           |\n| SCC0270 Redes Neurais e Aprendizado Profundo                                         |          |          |                                                                                   |\n| SCC0276 Aprendizado de Máquina                                                       | 4        | 1        | SCC0230                                                                           |\n| Optativa                                                                             | 4        | 1        | SCC0230                                                                           |\n| Optativa                                                                             | (16) (8) |          |                                                                                   |\n| SSC0957 Prática em Ciência de Dados II                                               | 4        | 4        | SME0820                                                                           |\n| SME0808 Séries Temporais e Aprendizado Dinâmico 4 0                                  |          |          | SME0221 (F)                                                                       |\n| SME0822 Análise Multivariada e Aprendizado Não  Supervisionado                       |          |          | 4 0 SME0221 (F)                                                                   |\n| SCC0252 Visualização Computacional  Optativa                                         | 3        | 1        | SCC0204                                                                           |\n| Optativa                                                                             | (15) (5) |          |                                                                                   |\n| SCC0802 Prática em Ciência de Dados III                                              | 4        | 4        | SME0820 SME0878 Mineração Estatística de Dados 4 2 SME0822, SME0820, SCC0221  (F) |\n| SCC0633 Processamento de Linguagem Natural  Optativa                                 | 4        | 1        | SCC0230                                                                           |\n| Optativa                                                                             |          |          |                                                                                   |\n| 8º período  SCC0291 Estágio Supervisionado I ou SCC0293 Projeto de Graduação I       | (12) (7) |          |                                                                                   |\n|                                                                                      | 4        | 10       | ter cursado 100 créditos (aula)                                                   |\n| ou SCC0289 Projeto em Intercâmbio I                                                  |          | (4) (10) |                                                                                   |\n\n## Número de créditos exigido para a conclusão do curso\n\n- Disciplinas obrigatórias: 114 créditos aula + 49 créditos trabalho\n- ●\n- Disciplinas optativas: 30 créditos aula, pelo menos\n\nTotal de horas do curso: 3.720 horas (Total+ Estágio+ AAC)\n\nÉ obrigatório cumprir no mínimo 90 horas, correspondente a 3 créditos-trabalho, de Atividades Acadêmicas Complementares (AACs), que serão relacionadas no Histórico Escolar do aluno.\n\n| Disciplinas optativas  Período ideal                                                  | Pré-requisitos (fracos)   |\n|---------------------------------------------------------------------------------------|---------------------------|\n| SCC0209 Empreendedores em Informática 3 ---                                           |                           |\n| SCC0215 Organização de Arquivos  3                                                    | SCC0223                   |\n| SCC0220 Laboratório de Introdução à Ciência da Computação II 3 SCC0224 (co-requisito) |                           |\n| SME0121 Processos Estocásticos 3 SME0220                                              |                           |\n| SME0240 Equações Diferenciais Ordinárias 3 SMA0353, SME0142                           |                           |\n| SME0265 Planejamento de Experimentos 3 SME0220                                        |                           |\n| SME0803 Análise Exploratória de Dados 3 ---                                           |                           |\n\n[Página 10]\n| SME0825 Metodologia Científica I 3 ---                                                        |                             |\n|-----------------------------------------------------------------------------------------------|-----------------------------|\n| SSC0128 Gerência de Projetos                                                                  | 3  ---                      |\n| SCC0207 Computadores e Sociedade I                                                            | 4  ---                      |\n| SCC0218 Algoritmos Avançados e Aplicações                                                     | 4  SCC0224                  |\n| SCC0227 Seminários em Computação I 4 ---                                                      |                             |\n| SCC0271 Introdução à Bioinformática 4 SCC0224                                                 |                             |\n| SMA0356 Cálculo IV 4 SMA0355                                                                  |                             |\n| SME0205 Métodos do Cálculo Numérico I 4 SME0142, SME0230                                      |                             |\n| SME0211 Otimização Linear                                                                     | 4  SME0142                  |\n| SME0809 Inferência Bayesiana 4 SME0221 (FORTE)                                                |                             |\n| SME0810 Métodos Não Paramétricos                                                              | 4  SME0221 (FORTE)          |\n| SME0826 Metodologia Científica II                                                             | 4  SME0825, SME0221 (FORTE) |\n| SME0862 Empreendedorismo Social Voluntário 4 SCC0223                                          |                             |\n| SSC0124 Análise e Projeto Orientados a Objetos 4 SCC0204                                      |                             |\n| SSC0140 Sistemas Operacionais I 4 SSC0955, SCC0223                                            |                             |\n| SCC0219 Introdução ao Desenvolvimento Web 5 SCC0223                                           |                             |\n| SCC0228 Seminários em Computação II 5 SCC0227                                                 |                             |\n| SCC0261 Multimídia 5 SCC0223                                                                  |                             |\n| SMA0307 Análise I 5 SMA0356                                                                   |                             |\n| SME0130 Redes Complexas                                                                       | 5  SCC0224                  |\n| SME0206 Métodos do Cálculo Numérico II                                                        | 5  SCC0230, SME0240         |\n| SME0213 Otimização Inteira 5 SME0211                                                          |                             |\n| SME0273 Tópicos de Matemática Aplicada I 5 ---                                                |                             |\n| SME0806 Estatística Computacional 5 SME0221 (FORTE)                                           |                             |\n| SME0807 Técnicas de Amostragem 5                                                              | SME0221(FORTE)              |\n| SME0816 Planejamento de Experimentos I 5                                                      | SME0221 (FORTE)             |\n| SME0860 Aprendizado de Máquina Aplicado a Problemas  SSC0130 Engenharia de Software 5 SSC0124 | 5 SCC0223                   |\n| SSC0142 Redes de Computadores                                                                 | 5  SSC0140                  |\n| SCC0229 Seminários em Computação III 6 SCC0228                                                |                             |\n| SCC0244 Mineração a partir de Grandes Bases de Dados 6 SCC0230, SCC0240                       |                             |\n| SCC0245 Processamento Analítico de Dados                                                      | 6  SCC0240                  |\n| SCC0282 Recuperação da Informação                                                             | 6  SCC0223                  |\n| SCC0283 Introdução à Web Semântica                                                            | 6  SCC0224, SMA0180         |\n| SCC0286 Mineração de Redes Complexas 6 SCC0230                                                |                             |\n| SCC0287 Mineração de Dados Não Estruturados 6 SCC0230                                         |                             |\n| SMA0308 Análise II 6 SMA0355                                                                  |                             |\n| SMA0343 Espaços Métricos 6 SMA0354                                                            |                             |\n| SME0262 Análise de Séries Temporais em Finanças 8 SME0221 (FORTE),                            | SME0808 (FRACO)             |\n| SME0274 Tópicos de Matemática Aplicada II                                                     | 6  ---                      |\n| SME0817 Planejamento de Experimentos II 6 SME0816                                             |                             |\n| SME0823 Modelos de Regressão e Aprendizado Supervisionado II 6 SME0221 (FORTE)                |                             |\n| SME0861 Participação colaborativa em Competições em Ciência  de Dados                         | 6 SCC0223                   |\n| SME0870 Tópicos Especiais em Estatística Aplicada I                                           | 6  SME0221 (FORTE)          |\n| SSC0903 Computação de Alto Desempenho 6 SSC0955, SSC0140                                      |                             |\n| SCC0241 Laboratório de Bases de Dados 7 SCC0240                                               |                             |\n| SCC0247 Banco de dados no SQL e arcabouços distribuídos de  processamento                     | 7 SCC0240                   |\n| SCC0272 Introdução à Computação Bioinspirada 7 SCC0215, SCC0224                               |                             |\n| SCC0284 Sistemas de Recomendação                                                              | 7  SCC0223                  |\n| SCC0910 Tópicos Avançados em Ciências de Computação I                                         | 7  ---                      |\n| SME0243 Teoria Espectral de Matrizes                                                          | 7  SME0142                  |\n| SME0275 Tópicos de Matemática Aplicada III 7 ---                                              |                             |",
+      "qa_pairs": [
+        {
+          "question": "Quais são os créditos necessários para concluir o curso?",
+          "answer": "Para a conclusão do curso, são exigidos 114 créditos aula e 49 créditos trabalho em disciplinas obrigatórias, além de, no mínimo, 30 créditos aula em disciplinas optativas.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual é a carga horária total do curso?",
+          "answer": "O total de horas do curso é de 3.720 horas, valor que engloba o total de disciplinas, estágio e Atividades Acadêmicas Complementares (AAC).",
+          "source_page": 9
+        },
+        {
+          "question": "O que são as AACs e qual a carga horária mínima exigida?",
+          "answer": "As AACs são Atividades Acadêmicas Complementares, e é obrigatório cumprir no mínimo 90 horas, o que corresponde a 3 créditos-trabalho, sendo estas relacionadas no Histórico Escolar do aluno.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais são os pré-requisitos para cursar a disciplina de Inteligência Artificial (SCC0230)?",
+          "answer": "O pré-requisito para a disciplina SCC0230 (Inteligência Artificial) é a disciplina SCC0223.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais as opções de disciplinas para o 8º período?",
+          "answer": "No 8º período, o aluno pode cursar Estágio Supervisionado I (SCC0291), Projeto de Graduação I (SCC0293) ou Projeto em Intercâmbio I (SCC0289).",
+          "source_page": 9
+        },
+        {
+          "question": "Qual o requisito para cursar o Estágio Supervisionado I ou Projeto de Graduação I no 8º período?",
+          "answer": "Para cursar essas disciplinas, é necessário ter cursado 100 créditos (aula).",
+          "source_page": 9
+        },
+        {
+          "question": "Quais são os pré-requisitos para a disciplina de Metodologia Científica II (SME0826)?",
+          "answer": "Os pré-requisitos para a disciplina SME0826 são as disciplinas SME0825 e SME0221 (FORTE).",
+          "source_page": 10
+        },
+        {
+          "question": "A disciplina de Redes de Computadores (SSC0142) possui pré-requisito?",
+          "answer": "Sim, o pré-requisito para a disciplina SSC0142 (Redes de Computadores) é a disciplina SSC0140.",
+          "source_page": 10
+        },
+        {
+          "question": "Quais disciplinas optativas são recomendadas para o 3º período e não possuem pré-requisitos?",
+          "answer": "As disciplinas optativas recomendadas para o 3º período sem pré-requisitos são: Empreendedores em Informática (SCC0209) e Análise Exploratória de Dados (SME0803).",
+          "source_page": 9
+        },
+        {
+          "question": "Quais são os pré-requisitos para a disciplina de Recuperação da Informação (SCC0282)?",
+          "answer": "O pré-requisito para a disciplina SCC0282 (Recuperação da Informação) é a disciplina SCC0223.",
+          "source_page": 10
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c9",
+      "pages": [
+        10,
+        11
+      ],
+      "chunk_text": "[Página 10]\n| SME0825 Metodologia Científica I 3 ---                                                        |                             |\n|-----------------------------------------------------------------------------------------------|-----------------------------|\n| SSC0128 Gerência de Projetos                                                                  | 3  ---                      |\n| SCC0207 Computadores e Sociedade I                                                            | 4  ---                      |\n| SCC0218 Algoritmos Avançados e Aplicações                                                     | 4  SCC0224                  |\n| SCC0227 Seminários em Computação I 4 ---                                                      |                             |\n| SCC0271 Introdução à Bioinformática 4 SCC0224                                                 |                             |\n| SMA0356 Cálculo IV 4 SMA0355                                                                  |                             |\n| SME0205 Métodos do Cálculo Numérico I 4 SME0142, SME0230                                      |                             |\n| SME0211 Otimização Linear                                                                     | 4  SME0142                  |\n| SME0809 Inferência Bayesiana 4 SME0221 (FORTE)                                                |                             |\n| SME0810 Métodos Não Paramétricos                                                              | 4  SME0221 (FORTE)          |\n| SME0826 Metodologia Científica II                                                             | 4  SME0825, SME0221 (FORTE) |\n| SME0862 Empreendedorismo Social Voluntário 4 SCC0223                                          |                             |\n| SSC0124 Análise e Projeto Orientados a Objetos 4 SCC0204                                      |                             |\n| SSC0140 Sistemas Operacionais I 4 SSC0955, SCC0223                                            |                             |\n| SCC0219 Introdução ao Desenvolvimento Web 5 SCC0223                                           |                             |\n| SCC0228 Seminários em Computação II 5 SCC0227                                                 |                             |\n| SCC0261 Multimídia 5 SCC0223                                                                  |                             |\n| SMA0307 Análise I 5 SMA0356                                                                   |                             |\n| SME0130 Redes Complexas                                                                       | 5  SCC0224                  |\n| SME0206 Métodos do Cálculo Numérico II                                                        | 5  SCC0230, SME0240         |\n| SME0213 Otimização Inteira 5 SME0211                                                          |                             |\n| SME0273 Tópicos de Matemática Aplicada I 5 ---                                                |                             |\n| SME0806 Estatística Computacional 5 SME0221 (FORTE)                                           |                             |\n| SME0807 Técnicas de Amostragem 5                                                              | SME0221(FORTE)              |\n| SME0816 Planejamento de Experimentos I 5                                                      | SME0221 (FORTE)             |\n| SME0860 Aprendizado de Máquina Aplicado a Problemas  SSC0130 Engenharia de Software 5 SSC0124 | 5 SCC0223                   |\n| SSC0142 Redes de Computadores                                                                 | 5  SSC0140                  |\n| SCC0229 Seminários em Computação III 6 SCC0228                                                |                             |\n| SCC0244 Mineração a partir de Grandes Bases de Dados 6 SCC0230, SCC0240                       |                             |\n| SCC0245 Processamento Analítico de Dados                                                      | 6  SCC0240                  |\n| SCC0282 Recuperação da Informação                                                             | 6  SCC0223                  |\n| SCC0283 Introdução à Web Semântica                                                            | 6  SCC0224, SMA0180         |\n| SCC0286 Mineração de Redes Complexas 6 SCC0230                                                |                             |\n| SCC0287 Mineração de Dados Não Estruturados 6 SCC0230                                         |                             |\n| SMA0308 Análise II 6 SMA0355                                                                  |                             |\n| SMA0343 Espaços Métricos 6 SMA0354                                                            |                             |\n| SME0262 Análise de Séries Temporais em Finanças 8 SME0221 (FORTE),                            | SME0808 (FRACO)             |\n| SME0274 Tópicos de Matemática Aplicada II                                                     | 6  ---                      |\n| SME0817 Planejamento de Experimentos II 6 SME0816                                             |                             |\n| SME0823 Modelos de Regressão e Aprendizado Supervisionado II 6 SME0221 (FORTE)                |                             |\n| SME0861 Participação colaborativa em Competições em Ciência  de Dados                         | 6 SCC0223                   |\n| SME0870 Tópicos Especiais em Estatística Aplicada I                                           | 6  SME0221 (FORTE)          |\n| SSC0903 Computação de Alto Desempenho 6 SSC0955, SSC0140                                      |                             |\n| SCC0241 Laboratório de Bases de Dados 7 SCC0240                                               |                             |\n| SCC0247 Banco de dados no SQL e arcabouços distribuídos de  processamento                     | 7 SCC0240                   |\n| SCC0272 Introdução à Computação Bioinspirada 7 SCC0215, SCC0224                               |                             |\n| SCC0284 Sistemas de Recomendação                                                              | 7  SCC0223                  |\n| SCC0910 Tópicos Avançados em Ciências de Computação I                                         | 7  ---                      |\n| SME0243 Teoria Espectral de Matrizes                                                          | 7  SME0142                  |\n| SME0275 Tópicos de Matemática Aplicada III 7 ---                                              |                             |\n\n[Página 11]\n| SME0871 Bioestatística 7 SME0820, SME0822                                       |    |                              |\n|---------------------------------------------------------------------------------|----|------------------------------|\n| SME0872 Demografia                                                              |  7 | SME0221 (FORTE)              |\n| SME0873 Econometria                                                             |  7 | SME0820                      |\n| SME0875 Tópicos Especiais em Estatística Aplicada II                            |  7 | SME0221 (FORTE)              |\n| SSC0120 Sistemas de Informação                                                  |  7 | SSC0130                      |\n| SSC0158 Computação em Nuvem e Arquitetura Orientadas a  Serviços                |    | 7 SCC0223, SSC0140,  SSC0142 |\n| SSC0721 Teste e Inspeção de Software 7 SSC0130                                  |    |                              |\n| SSC0900 Engenharia de Segurança 7 SSC0142                                       |    |                              |\n| SSC0904 Sistemas Computacionais Distribuídos                                    |  7 | SSC0140, SSC0142             |\n| SCC0246 Recuperação de Dados por Conteúdo                                       |  8 | SCC0241, SCC0261             |\n| SCC0911 Tópicos Avançados em Ciências de Computação II                          |  8 | ---                          |\n| SMA0120 Introdução à Análise Funcional                                          |  8 | SMA0343, SME0142             |\n| SME0216 Tópicos de Otimização Combinatória 8 SME0211                            |    |                              |\n| SME0276 Tópicos de Matemática Aplicada IV 8 ---                                 |    |                              |\n| SSC0901 Laboratório de Engenharia de Segurança 8 SSC0900                        |    |                              |\n| SSC0952 Internet das Coisas 8 SCC0223                                           |    |                              |\n| SSC0956 Soluções Otimizadas por Mineração de Dados Complexos 8 SCC0230, SME0822 |    |                              |\n\n## 4.4. Esquema da estrutura curricular\n\nA seguir, exibe-se um esquema gráfico simplificado da estrutura curricular, onde as setas indicam exigência de pré-requisito entre as disciplinas. As cores são utilizadas para indicar departamentos diferentes (azul: Departamento de Matemática; laranja: Departamento de Matemática Aplicada e Estatística; verde: Departamento de Ciências de Computação; roxo: Departamento de Sistemas de Computação; cinza: de qualquer departamento).\n\n<!-- image -->\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Qual é o pré-requisito para cursar a disciplina SME0826 Metodologia Científica II?",
+          "answer": "Os pré-requisitos para a disciplina SME0826 Metodologia Científica II são SME0825 e SME0221 (FORTE).",
+          "source_page": 10
+        },
+        {
+          "question": "Quais disciplinas são necessárias para cursar SSC0142 Redes de Computadores?",
+          "answer": "Para cursar a disciplina SSC0142 Redes de Computadores, é necessário ter cursado SSC0140.",
+          "source_page": 10
+        },
+        {
+          "question": "A disciplina SCC0228 Seminários em Computação II possui pré-requisito?",
+          "answer": "Sim, o pré-requisito para a disciplina SCC0228 Seminários em Computação II é a disciplina SCC0227.",
+          "source_page": 10
+        },
+        {
+          "question": "Quais são os pré-requisitos para a disciplina SSC0158 Computação em Nuvem e Arquitetura Orientadas a Serviços?",
+          "answer": "Os pré-requisitos para a disciplina SSC0158 são SCC0223, SSC0140 e SSC0142.",
+          "source_page": 11
+        },
+        {
+          "question": "Para cursar a disciplina SME0872 Demografia, qual a exigência?",
+          "answer": "A exigência para cursar a disciplina SME0872 Demografia é a disciplina SME0221 (FORTE).",
+          "source_page": 11
+        },
+        {
+          "question": "Quais disciplinas são pré-requisitos para a disciplina SSC0904 Sistemas Computacionais Distribuídos?",
+          "answer": "Os pré-requisitos para a disciplina SSC0904 são SSC0140 e SSC0142.",
+          "source_page": 11
+        },
+        {
+          "question": "A disciplina SME0273 Tópicos de Matemática Aplicada I possui algum pré-requisito?",
+          "answer": "Não, a disciplina SME0273 Tópicos de Matemática Aplicada I não possui pré-requisitos (indicado por '---').",
+          "source_page": 10
+        },
+        {
+          "question": "Quais são os pré-requisitos para cursar a disciplina SCC0246 Recuperação de Dados por Conteúdo?",
+          "answer": "Os pré-requisitos para a disciplina SCC0246 são SCC0241 e SCC0261.",
+          "source_page": 11
+        },
+        {
+          "question": "O que é necessário para cursar a disciplina SSC0901 Laboratório de Engenharia de Segurança?",
+          "answer": "Para cursar a disciplina SSC0901 Laboratório de Engenharia de Segurança, é necessário ter cursado a disciplina SSC0900.",
+          "source_page": 11
+        },
+        {
+          "question": "No esquema da estrutura curricular, o que as cores representam?",
+          "answer": "As cores indicam os diferentes departamentos: azul para o Departamento de Matemática; laranja para o Departamento de Matemática Aplicada e Estatística; verde para o Departamento de Ciências de Computação; roxo para o Departamento de Sistemas de Computação; e cinza para qualquer departamento.",
+          "source_page": 11
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c10",
+      "pages": [
+        11,
+        12
+      ],
+      "chunk_text": "[Página 11]\n| SME0871 Bioestatística 7 SME0820, SME0822                                       |    |                              |\n|---------------------------------------------------------------------------------|----|------------------------------|\n| SME0872 Demografia                                                              |  7 | SME0221 (FORTE)              |\n| SME0873 Econometria                                                             |  7 | SME0820                      |\n| SME0875 Tópicos Especiais em Estatística Aplicada II                            |  7 | SME0221 (FORTE)              |\n| SSC0120 Sistemas de Informação                                                  |  7 | SSC0130                      |\n| SSC0158 Computação em Nuvem e Arquitetura Orientadas a  Serviços                |    | 7 SCC0223, SSC0140,  SSC0142 |\n| SSC0721 Teste e Inspeção de Software 7 SSC0130                                  |    |                              |\n| SSC0900 Engenharia de Segurança 7 SSC0142                                       |    |                              |\n| SSC0904 Sistemas Computacionais Distribuídos                                    |  7 | SSC0140, SSC0142             |\n| SCC0246 Recuperação de Dados por Conteúdo                                       |  8 | SCC0241, SCC0261             |\n| SCC0911 Tópicos Avançados em Ciências de Computação II                          |  8 | ---                          |\n| SMA0120 Introdução à Análise Funcional                                          |  8 | SMA0343, SME0142             |\n| SME0216 Tópicos de Otimização Combinatória 8 SME0211                            |    |                              |\n| SME0276 Tópicos de Matemática Aplicada IV 8 ---                                 |    |                              |\n| SSC0901 Laboratório de Engenharia de Segurança 8 SSC0900                        |    |                              |\n| SSC0952 Internet das Coisas 8 SCC0223                                           |    |                              |\n| SSC0956 Soluções Otimizadas por Mineração de Dados Complexos 8 SCC0230, SME0822 |    |                              |\n\n## 4.4. Esquema da estrutura curricular\n\nA seguir, exibe-se um esquema gráfico simplificado da estrutura curricular, onde as setas indicam exigência de pré-requisito entre as disciplinas. As cores são utilizadas para indicar departamentos diferentes (azul: Departamento de Matemática; laranja: Departamento de Matemática Aplicada e Estatística; verde: Departamento de Ciências de Computação; roxo: Departamento de Sistemas de Computação; cinza: de qualquer departamento).\n\n<!-- image -->\n\n<!-- image -->\n\n[Página 12]\n## 4.5 Atividades Acadêmicas Complementares (AACs)\n\nAs AACs visam à complementação do currículo escolar do aluno, agregando conhecimentos e experiências para a formação do profissional, dando oportunidade a ele de colocar em prática os conteúdos trabalhados ao longo do curso, e estimulando-o à prática de estudos independentes e à interdisciplinaridade.\n\nDessa maneira, o aluno deverá totalizar, durante a realização do curso, 90 horas de Atividades Acadêmicas Complementares (AACs). A Comissão Coordenadora do Curso de Bacharelado em Ciência de Dados é responsável por regulamentar: 1) as atividades que podem ser computadas, a carga horária para cada atividade e o limite de carga horária para cada grupo de atividades; 2) o encaminhamento da solicitação de análise, o cômputo das atividades para fins de registro acadêmico e a documentação comprobatória a essas atividades.\n\n## 4.5.1 Atividades e carga horária que podem ser computadas\n\nPara obter o número necessário de horas das AACs o aluno pode desenvolver atividades distribuídas em três grupos: (i) Acadêmicas (de Graduação); (ii) Pesquisa; e (iii) Cultura e Extensão.\n\nOs alunos devem realizar atividades em pelo menos dois grupos distintos. As Atividades AcadêmicoCientífico-Culturais e suas respectivas cargas horárias permitidas para equivalências para o cômputo das horas estão descritas nas Tabelas 1 a 3.\n\nAs atividades devem ser cumpridas durante a graduação do aluno. Não serão aceitas atividades que tenham sido cumpridas antes do ingresso do aluno no curso.\n\nTabela 1. AAC – Atividades Acadêmicas (de Graduação)\n\n| Atividade                                                                                           | Carga horária permitida para  equivalência                                              |\n|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|\n| Participação em Projetos de Modalidade de  Ensino (com ou sem bolsa)                                | Número de horas descritas no  documento comprobatório                                   |\n| Premiações Acadêmicas  (ex.: Destaque Acadêmico do Curso)                                           | 10 horas                                                                                |\n| Participação em Competições Acadêmicas  (ex.: Olimpíadas, Maratonas, Hackathons)                    | Número de horas descritas no  Certificado de Participação ou 20 horas                   |\n| Monitoria e/ou Tutoria em Cursos de Graduação 30 horas por semestre, no máximo 2                    | semestres                                                                               |\n| Participação na Organização de Eventos  Acadêmicos  (ex.: SemComp, Semana de Recepção aos Calouros) | Número de horas descritas no Certificado  de Participação ou 3 horas por dia de  evento |\n| Participação em Eventos Acadêmicos  (ex.: SemComp)                                                  | Número de horas descritas no Certificado  de Participação ou 3 horas por dia de  evento |",
+      "qa_pairs": [
+        {
+          "question": "Qual é o pré-requisito para cursar a disciplina SME0872 Demografia?",
+          "answer": "O pré-requisito para a disciplina SME0872 Demografia é a disciplina SME0221 (FORTE).",
+          "source_page": 11
+        },
+        {
+          "question": "Quais são os pré-requisitos para a disciplina SSC0904 Sistemas Computacionais Distribuídos?",
+          "answer": "Os pré-requisitos para a disciplina SSC0904 Sistemas Computacionais Distribuídos são SSC0140 e SSC0142.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual disciplina é necessária como pré-requisito para cursar SSC0901 Laboratório de Engenharia de Segurança?",
+          "answer": "Para cursar a disciplina SSC0901 Laboratório de Engenharia de Segurança, é necessário ter cursado a disciplina SSC0900.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais são os pré-requisitos para a disciplina SSC0956 Soluções Otimizadas por Mineração de Dados Complexos?",
+          "answer": "Os pré-requisitos para a disciplina SSC0956 são as disciplinas SCC0230 e SME0822.",
+          "source_page": 11
+        },
+        {
+          "question": "O que representam as cores no esquema gráfico da estrutura curricular?",
+          "answer": "As cores indicam os departamentos: azul para o Departamento de Matemática; laranja para o Departamento de Matemática Aplicada e Estatística; verde para o Departamento de Ciências de Computação; roxo para o Departamento de Sistemas de Computação; e cinza para qualquer departamento.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual é a carga horária total de Atividades Acadêmicas Complementares (AACs) que o aluno deve totalizar durante o curso?",
+          "answer": "O aluno deverá totalizar 90 horas de Atividades Acadêmicas Complementares (AACs) durante a realização do curso.",
+          "source_page": 12
+        },
+        {
+          "question": "Quem é responsável por regulamentar as atividades computáveis e a documentação das AACs?",
+          "answer": "A Comissão Coordenadora do Curso de Bacharelado em Ciência de Dados é a responsável por regulamentar as atividades, a carga horária, os limites de cada grupo, o encaminhamento da solicitação de análise e a documentação comprobatória.",
+          "source_page": 12
+        },
+        {
+          "question": "Em quais grupos de atividades o aluno pode desenvolver as AACs para obter as horas necessárias?",
+          "answer": "O aluno pode desenvolver atividades distribuídas em três grupos: (i) Acadêmicas (de Graduação), (ii) Pesquisa, e (iii) Cultura e Extensão.",
+          "source_page": 12
+        },
+        {
+          "question": "Existe alguma restrição quanto à distribuição das atividades entre os grupos de AACs?",
+          "answer": "Sim, os alunos devem realizar atividades em pelo menos dois grupos distintos.",
+          "source_page": 12
+        },
+        {
+          "question": "Atividades realizadas antes do ingresso do aluno no curso podem ser aceitas como AACs?",
+          "answer": "Não, as atividades devem ser cumpridas durante a graduação do aluno e não serão aceitas atividades cumpridas antes do ingresso no curso.",
+          "source_page": 12
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c11",
+      "pages": [
+        12,
+        13
+      ],
+      "chunk_text": "[Página 12]\n## 4.5 Atividades Acadêmicas Complementares (AACs)\n\nAs AACs visam à complementação do currículo escolar do aluno, agregando conhecimentos e experiências para a formação do profissional, dando oportunidade a ele de colocar em prática os conteúdos trabalhados ao longo do curso, e estimulando-o à prática de estudos independentes e à interdisciplinaridade.\n\nDessa maneira, o aluno deverá totalizar, durante a realização do curso, 90 horas de Atividades Acadêmicas Complementares (AACs). A Comissão Coordenadora do Curso de Bacharelado em Ciência de Dados é responsável por regulamentar: 1) as atividades que podem ser computadas, a carga horária para cada atividade e o limite de carga horária para cada grupo de atividades; 2) o encaminhamento da solicitação de análise, o cômputo das atividades para fins de registro acadêmico e a documentação comprobatória a essas atividades.\n\n## 4.5.1 Atividades e carga horária que podem ser computadas\n\nPara obter o número necessário de horas das AACs o aluno pode desenvolver atividades distribuídas em três grupos: (i) Acadêmicas (de Graduação); (ii) Pesquisa; e (iii) Cultura e Extensão.\n\nOs alunos devem realizar atividades em pelo menos dois grupos distintos. As Atividades AcadêmicoCientífico-Culturais e suas respectivas cargas horárias permitidas para equivalências para o cômputo das horas estão descritas nas Tabelas 1 a 3.\n\nAs atividades devem ser cumpridas durante a graduação do aluno. Não serão aceitas atividades que tenham sido cumpridas antes do ingresso do aluno no curso.\n\nTabela 1. AAC – Atividades Acadêmicas (de Graduação)\n\n| Atividade                                                                                           | Carga horária permitida para  equivalência                                              |\n|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|\n| Participação em Projetos de Modalidade de  Ensino (com ou sem bolsa)                                | Número de horas descritas no  documento comprobatório                                   |\n| Premiações Acadêmicas  (ex.: Destaque Acadêmico do Curso)                                           | 10 horas                                                                                |\n| Participação em Competições Acadêmicas  (ex.: Olimpíadas, Maratonas, Hackathons)                    | Número de horas descritas no  Certificado de Participação ou 20 horas                   |\n| Monitoria e/ou Tutoria em Cursos de Graduação 30 horas por semestre, no máximo 2                    | semestres                                                                               |\n| Participação na Organização de Eventos  Acadêmicos  (ex.: SemComp, Semana de Recepção aos Calouros) | Número de horas descritas no Certificado  de Participação ou 3 horas por dia de  evento |\n| Participação em Eventos Acadêmicos  (ex.: SemComp)                                                  | Número de horas descritas no Certificado  de Participação ou 3 horas por dia de  evento |\n\n[Página 13]\n| Publicação de Trabalho Completo em Eventos  Acadêmicos                                | 20 horas                                                             |\n|---------------------------------------------------------------------------------------|----------------------------------------------------------------------|\n| Publicação de Trabalho Resumido em  Eventos Acadêmicos                                | 10 horas                                                             |\n| Apresentação de Trabalho em Eventos Acadêmicos 05 horas                               |                                                                      |\n| Participação como Aluno Ouvinte/Especial em  Disciplina de Programas de Pós-Graduação | Número de horas descritas no  Certificado de Conclusão da Disciplina |\n| Participação em Visitas Acadêmicas  Monitoradas promovidas pela Instituição           | Número de horas descritas no  Certificado de Participação            |\n| Realização de Estágio Acadêmico Não Obrigatório Número de horas descritas no          | Plano de Estágio                                                     |\n| Serviço (remunerado ou voluntário), desenvolvido  na área de Computação               | Número de horas descritas no  Comprovante de Serviço ou Contrato     |\n| Total Máximo Computável                                                               | 60 horas                                                             |\n\nTabela 2. ACC – Atividades de Pesquisa\n\n| Atividade                                                                            | Carga horária permitida para  equivalência                                               |\n|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|\n| Iniciação Científica (com ou sem bolsa) Número de horas descritas no                 | documento comprobatório                                                                  |\n| Participação em Projetos de Modalidade de  Pesquisa e/ou Inovação (com ou sem bolsa) | Número de horas descritas no  documento comprobatório                                    |\n| Premiações Científicas 10 horas                                                      |                                                                                          |\n| Participação em Eventos Científicos  (ex.: SIICUSP, Congressos, Workshops)           | Número de horas descritas no  Certificado de Participação  ou 3 horas por dia de  evento |\n| Publicação de Trabalho Completo em Eventos  Científicos                              | 20 horas                                                                                 |\n| Publicação de Trabalho Resumido em Eventos  Científicos                              | 10 horas                                                                                 |\n| Publicação de Trabalho Completo em Periódicos 30 horas                               |                                                                                          |\n| Apresentação de Trabalho em Eventos Científicos 05 horas                             |                                                                                          |\n| Patentes e/ou Registros de Software 30 horas                                         |                                                                                          |\n| Total Máximo Computável                                                              | 60 horas                                                                                 |",
+      "qa_pairs": [
+        {
+          "question": "Qual é a carga horária total de Atividades Acadêmicas Complementares (AACs) que o aluno deve totalizar durante o curso?",
+          "answer": "O aluno deverá totalizar 90 horas de Atividades Acadêmicas Complementares (AACs) durante a realização do curso.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais são os grupos de atividades nos quais o aluno pode desenvolver as AACs?",
+          "answer": "As atividades podem ser distribuídas em três grupos: (i) Acadêmicas (de Graduação); (ii) Pesquisa; e (iii) Cultura e Extensão.",
+          "source_page": 12
+        },
+        {
+          "question": "Existe alguma exigência quanto à distribuição das atividades entre os grupos?",
+          "answer": "Sim, os alunos devem realizar atividades em pelo menos dois grupos distintos.",
+          "source_page": 12
+        },
+        {
+          "question": "Atividades realizadas antes do ingresso no curso podem ser computadas como AAC?",
+          "answer": "Não. As atividades devem ser cumpridas durante a graduação do aluno e não serão aceitas aquelas realizadas antes do ingresso no curso.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual a carga horária máxima que pode ser computada no grupo de Atividades Acadêmicas (de Graduação)?",
+          "answer": "O total máximo computável para o grupo de Atividades Acadêmicas (de Graduação) é de 60 horas.",
+          "source_page": 13
+        },
+        {
+          "question": "Quanto tempo de AAC é concedido para a monitoria ou tutoria em cursos de graduação?",
+          "answer": "A monitoria e/ou tutoria concede 30 horas por semestre, com um limite máximo de 2 semestres.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual a pontuação de horas para a publicação de um trabalho completo em eventos acadêmicos ou científicos?",
+          "answer": "A publicação de trabalho completo em eventos acadêmicos ou científicos concede 20 horas.",
+          "source_page": 13
+        },
+        {
+          "question": "Como é calculada a carga horária para a participação em eventos acadêmicos ou científicos?",
+          "answer": "A carga horária é a descrita no Certificado de Participação ou, alternativamente, 3 horas por dia de evento.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual a carga horária permitida para a obtenção de patentes e/ou registros de software no grupo de Pesquisa?",
+          "answer": "A obtenção de patentes e/ou registros de software concede 30 horas.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual é o limite máximo de horas computáveis para o grupo de Atividades de Pesquisa?",
+          "answer": "O total máximo computável para o grupo de Atividades de Pesquisa é de 60 horas.",
+          "source_page": 13
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c12",
+      "pages": [
+        13,
+        14
+      ],
+      "chunk_text": "[Página 13]\n| Publicação de Trabalho Completo em Eventos  Acadêmicos                                | 20 horas                                                             |\n|---------------------------------------------------------------------------------------|----------------------------------------------------------------------|\n| Publicação de Trabalho Resumido em  Eventos Acadêmicos                                | 10 horas                                                             |\n| Apresentação de Trabalho em Eventos Acadêmicos 05 horas                               |                                                                      |\n| Participação como Aluno Ouvinte/Especial em  Disciplina de Programas de Pós-Graduação | Número de horas descritas no  Certificado de Conclusão da Disciplina |\n| Participação em Visitas Acadêmicas  Monitoradas promovidas pela Instituição           | Número de horas descritas no  Certificado de Participação            |\n| Realização de Estágio Acadêmico Não Obrigatório Número de horas descritas no          | Plano de Estágio                                                     |\n| Serviço (remunerado ou voluntário), desenvolvido  na área de Computação               | Número de horas descritas no  Comprovante de Serviço ou Contrato     |\n| Total Máximo Computável                                                               | 60 horas                                                             |\n\nTabela 2. ACC – Atividades de Pesquisa\n\n| Atividade                                                                            | Carga horária permitida para  equivalência                                               |\n|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|\n| Iniciação Científica (com ou sem bolsa) Número de horas descritas no                 | documento comprobatório                                                                  |\n| Participação em Projetos de Modalidade de  Pesquisa e/ou Inovação (com ou sem bolsa) | Número de horas descritas no  documento comprobatório                                    |\n| Premiações Científicas 10 horas                                                      |                                                                                          |\n| Participação em Eventos Científicos  (ex.: SIICUSP, Congressos, Workshops)           | Número de horas descritas no  Certificado de Participação  ou 3 horas por dia de  evento |\n| Publicação de Trabalho Completo em Eventos  Científicos                              | 20 horas                                                                                 |\n| Publicação de Trabalho Resumido em Eventos  Científicos                              | 10 horas                                                                                 |\n| Publicação de Trabalho Completo em Periódicos 30 horas                               |                                                                                          |\n| Apresentação de Trabalho em Eventos Científicos 05 horas                             |                                                                                          |\n| Patentes e/ou Registros de Software 30 horas                                         |                                                                                          |\n| Total Máximo Computável                                                              | 60 horas                                                                                 |\n\n[Página 14]\nTabela 3. ACC – Atividades de Cultura e Extensão\n\n| Atividade                                                                                                                                         | Carga horária permitida para  equivalência                                                                             |\n|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|\n| Participação em Projetos de Modalidade Cultura e  Extensão (com ou sem bolsa)                                                                     | Número de horas descritas no   documento comprobatório                                                                 |\n| Apresentação de Minicursos e Palestras em Eventos  de Cultura e Extensão                                                                          | Número de horas descritas no   Certificado de Apresentação                                                             |\n| Participação em Cursos de Extensão Universitária Número de horas descritas no                                                                     | Certificado de Conclusão do Curso                                                                                      |\n| Participação em Empresa Junior ou Ligas Número de horas descritas no                                                                              | Certificado de Participação                                                                                            |\n| Participação em Projetos Sociais e/ou de Prestação  de Serviços à Comunidade  (ex.: Casa Aberta, Projeto Rondon, Natal Solidário, Ação de Páscoa) | Número de horas descritas no   Certificado de Participação                                                             |\n| Premiações Sociais / Comunitárias 10 horas                                                                                                        |                                                                                                                        |\n| Participação em Visitas Culturais e de Extensão  promovidas pela Unidade  (ex.: Feira de Profissões)                                              | Número de horas descritas no Certificado  de Participação ou 20 horas                                                  |\n| Participação em Atividades Culturais (ex.: recitais ,  espetáculos: teatro, dança, coral, mostras de  cinema)                                     | Número de horas descritas no  Comprovante de Participação ou 2 horas  por atividade realizada, até no máximo 10  horas |\n| Participação em Cursos Extracurriculares (ex.: teatro,  língua estrangeira, dança, ginástica e esportes em  geral)                                | Número de horas descritas no Certificado  de Conclusão do Curso, até no máximo 30  horas                               |\n| Representação Discente em Colegiados e Entidades  Estudantis                                                                                      | 25 horas por ano                                                                                                       |\n| Total Máximo Computável                                                                                                                           | 60 horas                                                                                                               |\n\n## 4.5.2 Encaminhamento da solicitação de análise e da documentação\n\n- O aluno deve cadastrar no sistema um requerimento de AAC, anexando a documentação comprobatória, para análise e cômputo da carga horária das AACs.\n- O preenchimento do requerimento não implica o cômputo automático das horas, sendo de responsabilidade da coordenação do curso analisar a respectiva documentação comprobatória enviada. As horas referentes às AACs analisadas e aceitas pela coordenação serão computadas automaticamente no histórico escolar do aluno.\n\nCada atividade relatada no requerimento deve ser devidamente comprovada. Caso não haja documento comprobatório, o requerimento será indeferido. Os documentos comprobatórios aceitos são descritos nas Tabelas 4 a 6.",
+      "qa_pairs": [
+        {
+          "question": "Qual a carga horária computada para a publicação de um trabalho completo em eventos acadêmicos?",
+          "answer": "A publicação de trabalho completo em eventos acadêmicos computa 20 horas.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual é o limite máximo de horas computáveis para as Atividades de Pesquisa (ACC)?",
+          "answer": "O total máximo computável para as Atividades de Pesquisa é de 60 horas.",
+          "source_page": 13
+        },
+        {
+          "question": "Quanto tempo é contabilizado para a publicação de um trabalho completo em periódicos?",
+          "answer": "A publicação de trabalho completo em periódicos computa 30 horas.",
+          "source_page": 13
+        },
+        {
+          "question": "Como é calculada a carga horária para a participação em eventos científicos, como congressos e workshops?",
+          "answer": "A carga horária é o número de horas descritas no Certificado de Participação ou 3 horas por dia de evento.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual a pontuação de horas para a obtenção de patentes e/ou registros de software?",
+          "answer": "Patentes e/ou registros de software computam 30 horas.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual a carga horária permitida para a representação discente em colegiados e entidades estudantis?",
+          "answer": "A representação discente computa 25 horas por ano.",
+          "source_page": 14
+        },
+        {
+          "question": "Existe um limite para a carga horária de cursos extracurriculares, como línguas estrangeiras ou esportes?",
+          "answer": "Sim, a carga horária é a descrita no Certificado de Conclusão do Curso, limitada ao máximo de 30 horas.",
+          "source_page": 14
+        },
+        {
+          "question": "Como o aluno deve solicitar a análise e o cômputo da carga horária das AACs?",
+          "answer": "O aluno deve cadastrar no sistema um requerimento de AAC, anexando a documentação comprobatória para análise.",
+          "source_page": 14
+        },
+        {
+          "question": "O preenchimento do requerimento de AAC garante o cômputo automático das horas?",
+          "answer": "Não. O preenchimento não implica cômputo automático; a coordenação do curso deve analisar a documentação comprobatória e, se aceita, as horas serão computadas automaticamente no histórico escolar.",
+          "source_page": 14
+        },
+        {
+          "question": "O que acontece se uma atividade relatada no requerimento de AAC não possuir documento comprobatório?",
+          "answer": "Caso não haja documento comprobatório, o requerimento será indeferido.",
+          "source_page": 14
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c13",
+      "pages": [
+        14,
+        15
+      ],
+      "chunk_text": "[Página 14]\nTabela 3. ACC – Atividades de Cultura e Extensão\n\n| Atividade                                                                                                                                         | Carga horária permitida para  equivalência                                                                             |\n|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|\n| Participação em Projetos de Modalidade Cultura e  Extensão (com ou sem bolsa)                                                                     | Número de horas descritas no   documento comprobatório                                                                 |\n| Apresentação de Minicursos e Palestras em Eventos  de Cultura e Extensão                                                                          | Número de horas descritas no   Certificado de Apresentação                                                             |\n| Participação em Cursos de Extensão Universitária Número de horas descritas no                                                                     | Certificado de Conclusão do Curso                                                                                      |\n| Participação em Empresa Junior ou Ligas Número de horas descritas no                                                                              | Certificado de Participação                                                                                            |\n| Participação em Projetos Sociais e/ou de Prestação  de Serviços à Comunidade  (ex.: Casa Aberta, Projeto Rondon, Natal Solidário, Ação de Páscoa) | Número de horas descritas no   Certificado de Participação                                                             |\n| Premiações Sociais / Comunitárias 10 horas                                                                                                        |                                                                                                                        |\n| Participação em Visitas Culturais e de Extensão  promovidas pela Unidade  (ex.: Feira de Profissões)                                              | Número de horas descritas no Certificado  de Participação ou 20 horas                                                  |\n| Participação em Atividades Culturais (ex.: recitais ,  espetáculos: teatro, dança, coral, mostras de  cinema)                                     | Número de horas descritas no  Comprovante de Participação ou 2 horas  por atividade realizada, até no máximo 10  horas |\n| Participação em Cursos Extracurriculares (ex.: teatro,  língua estrangeira, dança, ginástica e esportes em  geral)                                | Número de horas descritas no Certificado  de Conclusão do Curso, até no máximo 30  horas                               |\n| Representação Discente em Colegiados e Entidades  Estudantis                                                                                      | 25 horas por ano                                                                                                       |\n| Total Máximo Computável                                                                                                                           | 60 horas                                                                                                               |\n\n## 4.5.2 Encaminhamento da solicitação de análise e da documentação\n\n- O aluno deve cadastrar no sistema um requerimento de AAC, anexando a documentação comprobatória, para análise e cômputo da carga horária das AACs.\n- O preenchimento do requerimento não implica o cômputo automático das horas, sendo de responsabilidade da coordenação do curso analisar a respectiva documentação comprobatória enviada. As horas referentes às AACs analisadas e aceitas pela coordenação serão computadas automaticamente no histórico escolar do aluno.\n\nCada atividade relatada no requerimento deve ser devidamente comprovada. Caso não haja documento comprobatório, o requerimento será indeferido. Os documentos comprobatórios aceitos são descritos nas Tabelas 4 a 6.\n\n[Página 15]\nTabela 4. Documentos Comprobatórios AACC – Atividades Acadêmicas (de Graduação)\n\n| Atividade                                                                                            | Documentos comprobatórios aceitos                                                                        |\n|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|\n| Participação em Projetos de Modalidade de  Ensino (com ou sem bolsa)                                 | Declaração do orientador e relatório final das  atividades de pesquisa                                   |\n|                                                                                                      | Premiações Acadêmicas Certificado de Premiação                                                           |\n| Participação em Competições Acadêmicas  (ex.: Olimpíadas, Maratonas, Hackathons)                     | Certificado de Participação constando a  duração da atividade                                            |\n| Monitoria e/ou Tutoria em Cursos de Graduação                                                        | Declaração do orientador e relatório final das  atividades desenvolvidas                                 |\n| Participação na Organização de Eventos  Acadêmicos  (ex.: SemComp, Semana de Recepção aos  Calouros) | Certificado de Participação constando a  duração da atividade                                            |\n| Participação em Eventos Acadêmicos  (ex.: SemComp)                                                   | Certificado de Participação constando a  duração da atividade                                            |\n| Publicação de Trabalho Completo em Eventos  Acadêmicos                                               | Publicação acrescida da cópia da capa e da  primeira página da publicação                                |\n| Publicação de Trabalho Resumido em Eventos  Acadêmicos                                               | Publicação acrescida da cópia da capa e da  primeira página da publicação                                |\n| Apresentação de Trabalho em Eventos  Acadêmicos                                                      | Publicação acrescida da cópia da capa e da  primeira página da publicação                                |\n| Participação como Aluno Ouvinte/Especial em  Disciplina de Programas de Pós- Graduação               | Certificado de Conclusão da Disciplina  constando conceito e frequência do aluno na  referida disciplina |\n| Participação em Visitas Acadêmicas Monitoradas  promovidas pela Instituição                          | Certificado de Participação constando a  duração da atividade                                            |\n| Realização de Estágio Acadêmico Não  Obrigatório                                                     | Declaração da empresa e relatório de   atividades desenvolvidas, aprovado pelo  orientador/supervisor    |\n| Serviço (remunerado ou voluntário),  desenvolvido na área de Computação                              | Declaração do empregador constando total de  horas cumpridas                                             |\n\nTabela 5. Documentos Comprobatórios AACC – Atividades de Pesquisa\n\n| Atividade                                                                             | Documentos comprobatórios aceitos                                                                              |\n|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n|                                                                                       | Iniciação Científica (com ou sem bolsa) Declaração do orientador e relatório final das  atividades de pesquisa |\n| Participação em Projetos de Modalidade de  Pesquisa e/ou Inovação  (com ou sem bolsa) | Declaração do orientador e relatório final das  atividades de pesquisa e/ou inovação                           |\n|                                                                                       | Premiações Científicas Certificado de Premiação                                                                |",
+      "qa_pairs": [
+        {
+          "question": "Qual é a carga horária máxima que posso computar em Atividades de Cultura e Extensão (ACC)?",
+          "answer": "O total máximo computável para Atividades de Cultura e Extensão é de 60 horas.",
+          "source_page": 14
+        },
+        {
+          "question": "Como devo solicitar a análise e o cômputo da carga horária das AACs?",
+          "answer": "O aluno deve cadastrar no sistema um requerimento de AAC e anexar a documentação comprobatória para análise e cômputo da carga horária.",
+          "source_page": 14
+        },
+        {
+          "question": "O preenchimento do requerimento de AAC garante que as horas serão computadas automaticamente?",
+          "answer": "Não. O preenchimento não implica cômputo automático; a coordenação do curso deve analisar a documentação comprobatória. As horas serão computadas no histórico escolar apenas após serem analisadas e aceitas pela coordenação.",
+          "source_page": 14
+        },
+        {
+          "question": "O que acontece se eu enviar um requerimento de atividade sem o documento comprobatório?",
+          "answer": "Caso não haja documento comprobatório para a atividade relatada, o requerimento será indeferido.",
+          "source_page": 14
+        },
+        {
+          "question": "Quantas horas posso obter por representação discente em colegiados e entidades estudantis?",
+          "answer": "A representação discente em colegiados e entidades estudantis permite a equivalência de 25 horas por ano.",
+          "source_page": 14
+        },
+        {
+          "question": "Qual o limite de horas para cursos extracurriculares como teatro, línguas estrangeiras ou esportes?",
+          "answer": "A carga horária permitida é a descrita no Certificado de Conclusão do Curso, limitada ao máximo de 30 horas.",
+          "source_page": 14
+        },
+        {
+          "question": "Quais documentos são aceitos para comprovar a participação em Iniciação Científica ou projetos de pesquisa e inovação?",
+          "answer": "São aceitos a declaração do orientador e o relatório final das atividades de pesquisa e/ou inovação.",
+          "source_page": 15
+        },
+        {
+          "question": "Como comprovo a realização de um estágio acadêmico não obrigatório?",
+          "answer": "A comprovação deve ser feita através de declaração da empresa e relatório de atividades desenvolvidas, devidamente aprovado pelo orientador ou supervisor.",
+          "source_page": 15
+        },
+        {
+          "question": "Quais documentos devo apresentar para validar a publicação ou apresentação de trabalho em eventos acadêmicos?",
+          "answer": "Deve-se apresentar a publicação acrescida da cópia da capa e da primeira página da publicação.",
+          "source_page": 15
+        },
+        {
+          "question": "Como posso comprovar a participação em competições acadêmicas, como Hackathons ou Olimpíadas?",
+          "answer": "Através de um Certificado de Participação que conste a duração da atividade.",
+          "source_page": 15
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c14",
+      "pages": [
+        15,
+        16
+      ],
+      "chunk_text": "[Página 15]\nTabela 4. Documentos Comprobatórios AACC – Atividades Acadêmicas (de Graduação)\n\n| Atividade                                                                                            | Documentos comprobatórios aceitos                                                                        |\n|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|\n| Participação em Projetos de Modalidade de  Ensino (com ou sem bolsa)                                 | Declaração do orientador e relatório final das  atividades de pesquisa                                   |\n|                                                                                                      | Premiações Acadêmicas Certificado de Premiação                                                           |\n| Participação em Competições Acadêmicas  (ex.: Olimpíadas, Maratonas, Hackathons)                     | Certificado de Participação constando a  duração da atividade                                            |\n| Monitoria e/ou Tutoria em Cursos de Graduação                                                        | Declaração do orientador e relatório final das  atividades desenvolvidas                                 |\n| Participação na Organização de Eventos  Acadêmicos  (ex.: SemComp, Semana de Recepção aos  Calouros) | Certificado de Participação constando a  duração da atividade                                            |\n| Participação em Eventos Acadêmicos  (ex.: SemComp)                                                   | Certificado de Participação constando a  duração da atividade                                            |\n| Publicação de Trabalho Completo em Eventos  Acadêmicos                                               | Publicação acrescida da cópia da capa e da  primeira página da publicação                                |\n| Publicação de Trabalho Resumido em Eventos  Acadêmicos                                               | Publicação acrescida da cópia da capa e da  primeira página da publicação                                |\n| Apresentação de Trabalho em Eventos  Acadêmicos                                                      | Publicação acrescida da cópia da capa e da  primeira página da publicação                                |\n| Participação como Aluno Ouvinte/Especial em  Disciplina de Programas de Pós- Graduação               | Certificado de Conclusão da Disciplina  constando conceito e frequência do aluno na  referida disciplina |\n| Participação em Visitas Acadêmicas Monitoradas  promovidas pela Instituição                          | Certificado de Participação constando a  duração da atividade                                            |\n| Realização de Estágio Acadêmico Não  Obrigatório                                                     | Declaração da empresa e relatório de   atividades desenvolvidas, aprovado pelo  orientador/supervisor    |\n| Serviço (remunerado ou voluntário),  desenvolvido na área de Computação                              | Declaração do empregador constando total de  horas cumpridas                                             |\n\nTabela 5. Documentos Comprobatórios AACC – Atividades de Pesquisa\n\n| Atividade                                                                             | Documentos comprobatórios aceitos                                                                              |\n|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|\n|                                                                                       | Iniciação Científica (com ou sem bolsa) Declaração do orientador e relatório final das  atividades de pesquisa |\n| Participação em Projetos de Modalidade de  Pesquisa e/ou Inovação  (com ou sem bolsa) | Declaração do orientador e relatório final das  atividades de pesquisa e/ou inovação                           |\n|                                                                                       | Premiações Científicas Certificado de Premiação                                                                |\n\n[Página 16]\n| Participação em Eventos Científicos  (ex.: SIICUSP, Congressos, Workshops)               | Certificado de Participação constando a  duração da atividade                                     |\n|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|\n| Publicação de Trabalho Completo em Eventos  Científicos                                  | Publicação acrescida da cópia da capa e da  primeira página da publicação                         |\n| Publicação de Trabalho Resumido em Eventos  Científicos                                  | Publicação acrescida da cópia da capa e da  primeira página da publicação                         |\n| Publicação de Trabalho Completo em Periódicos Publicação acrescida da cópia da capa e da | primeira página da publicação                                                                     |\n| Apresentação de Trabalho em Eventos  Científicos                                         | Certificado de apresentação no evento  constando duração da atividade                             |\n|                                                                                          | Patentes e/ou Registros de Software Comprovante de Depósito da Patente e/ou  Registro de Software |\n\nTabela 6. Documentos Comprobatórios AACC – Atividades de Cultura e Extensão\n\n| Atividade                                                                                                                                          | Documentos comprobatórios aceitos                                                                     |\n|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|\n| Participação em Projetos de Modalidade Cultura  e Extensão (com ou sem bolsa)                                                                      | Declaração do orientador e relatório final das  atividades realizadas                                 |\n| Apresentação de Minicursos e Palestras em  Eventos de Cultura e Extensão                                                                           | Certificado de Apresentação constando a  duração da atividade                                         |\n| Participação em Cursos de Extensão  Universitária                                                                                                  | Certificado de Participação constando a  duração da atividade                                         |\n|                                                                                                                                                    | Participação em Empresa Júnior ou Ligas Certificado de Participação constando a  duração da atividade |\n| Participação em Projetos Sociais e/ou de  Prestação de Serviços à Comunidade  (ex.: Casa Aberta, Projeto Rondon, Natal  Solidário, Ação de Páscoa) | Certificado de Participação constando a  duração da atividade                                         |\n| Premiações Sociais/Comunitárias Certificado da Premiação                                                                                           |                                                                                                       |\n| Participação em Visitas Culturais e de Extensão  promovidas pela Unidade  (ex.: Feira de Profissões)                                               | Certificado de Participação constando a  duração da atividade                                         |\n| Participação em Atividades Culturais (ex.:  recitais, espetáculos: teatro, dança, coral,  mostras de cinema)                                       | Certificado de Participação constando a  duração da atividade                                         |\n| Cursos Extracurriculares  (ex.: teatro, língua estrangeira, dança, ginástica  e esportes em geral)                                                 | Certificado de Participação constando a  duração da atividade                                         |\n| Representação Discente em Colegiados e  Entidades Estudantis                                                                                       | Declaração oficial da Instituição                                                                     |",
+      "qa_pairs": [
+        {
+          "question": "Quais documentos são necessários para comprovar a participação em projetos de modalidade de ensino, com ou sem bolsa?",
+          "answer": "Para comprovar a participação em projetos de modalidade de ensino, são necessários a declaração do orientador e o relatório final das atividades de pesquisa.",
+          "source_page": 15
+        },
+        {
+          "question": "Como posso comprovar a realização de um estágio acadêmico não obrigatório para as AACC?",
+          "answer": "A comprovação deve ser feita por meio de declaração da empresa e relatório de atividades desenvolvidas, devidamente aprovado pelo orientador ou supervisor.",
+          "source_page": 15
+        },
+        {
+          "question": "O que é aceito como comprovante para a publicação de um trabalho completo ou resumido em eventos acadêmicos?",
+          "answer": "É aceita a publicação acrescida da cópia da capa e da primeira página da publicação.",
+          "source_page": 15
+        },
+        {
+          "question": "Quais documentos comprovam a participação como aluno ouvinte ou especial em disciplinas de pós-graduação?",
+          "answer": "É necessário apresentar o Certificado de Conclusão da Disciplina, que deve constar o conceito e a frequência do aluno na referida disciplina.",
+          "source_page": 15
+        },
+        {
+          "question": "Como comprovar a participação em Iniciação Científica (com ou sem bolsa)?",
+          "answer": "A comprovação é feita através de declaração do orientador e relatório final das atividades de pesquisa.",
+          "source_page": 15
+        },
+        {
+          "question": "Quais documentos são exigidos para comprovar a publicação de um trabalho completo em periódicos?",
+          "answer": "Deve-se apresentar a publicação acrescida da cópia da capa e da primeira página da publicação.",
+          "source_page": 16
+        },
+        {
+          "question": "Como deve ser o comprovante de apresentação de trabalho em eventos científicos?",
+          "answer": "Deve ser apresentado um certificado de apresentação no evento que conste a duração da atividade.",
+          "source_page": 16
+        },
+        {
+          "question": "Quais documentos comprovam a participação em projetos de modalidade Cultura e Extensão?",
+          "answer": "São necessários a declaração do orientador e o relatório final das atividades realizadas.",
+          "source_page": 16
+        },
+        {
+          "question": "Como posso comprovar a representação discente em colegiados e entidades estudantis?",
+          "answer": "A comprovação é feita por meio de declaração oficial da Instituição.",
+          "source_page": 16
+        },
+        {
+          "question": "O que é aceito como comprovante para patentes ou registros de software?",
+          "answer": "É aceito o Comprovante de Depósito da Patente e/ou Registro de Software.",
+          "source_page": 16
+        }
+      ]
+    },
+    {
+      "chunk_id": "PPC - Bacharelado em Ciência de Dados (BCD) 2026-1__c15",
+      "pages": [
+        16,
+        17
+      ],
+      "chunk_text": "[Página 16]\n| Participação em Eventos Científicos  (ex.: SIICUSP, Congressos, Workshops)               | Certificado de Participação constando a  duração da atividade                                     |\n|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|\n| Publicação de Trabalho Completo em Eventos  Científicos                                  | Publicação acrescida da cópia da capa e da  primeira página da publicação                         |\n| Publicação de Trabalho Resumido em Eventos  Científicos                                  | Publicação acrescida da cópia da capa e da  primeira página da publicação                         |\n| Publicação de Trabalho Completo em Periódicos Publicação acrescida da cópia da capa e da | primeira página da publicação                                                                     |\n| Apresentação de Trabalho em Eventos  Científicos                                         | Certificado de apresentação no evento  constando duração da atividade                             |\n|                                                                                          | Patentes e/ou Registros de Software Comprovante de Depósito da Patente e/ou  Registro de Software |\n\nTabela 6. Documentos Comprobatórios AACC – Atividades de Cultura e Extensão\n\n| Atividade                                                                                                                                          | Documentos comprobatórios aceitos                                                                     |\n|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|\n| Participação em Projetos de Modalidade Cultura  e Extensão (com ou sem bolsa)                                                                      | Declaração do orientador e relatório final das  atividades realizadas                                 |\n| Apresentação de Minicursos e Palestras em  Eventos de Cultura e Extensão                                                                           | Certificado de Apresentação constando a  duração da atividade                                         |\n| Participação em Cursos de Extensão  Universitária                                                                                                  | Certificado de Participação constando a  duração da atividade                                         |\n|                                                                                                                                                    | Participação em Empresa Júnior ou Ligas Certificado de Participação constando a  duração da atividade |\n| Participação em Projetos Sociais e/ou de  Prestação de Serviços à Comunidade  (ex.: Casa Aberta, Projeto Rondon, Natal  Solidário, Ação de Páscoa) | Certificado de Participação constando a  duração da atividade                                         |\n| Premiações Sociais/Comunitárias Certificado da Premiação                                                                                           |                                                                                                       |\n| Participação em Visitas Culturais e de Extensão  promovidas pela Unidade  (ex.: Feira de Profissões)                                               | Certificado de Participação constando a  duração da atividade                                         |\n| Participação em Atividades Culturais (ex.:  recitais, espetáculos: teatro, dança, coral,  mostras de cinema)                                       | Certificado de Participação constando a  duração da atividade                                         |\n| Cursos Extracurriculares  (ex.: teatro, língua estrangeira, dança, ginástica  e esportes em geral)                                                 | Certificado de Participação constando a  duração da atividade                                         |\n| Representação Discente em Colegiados e  Entidades Estudantis                                                                                       | Declaração oficial da Instituição                                                                     |\n\n[Página 17]\n## 4.6 Curricularização das Atividades de Extensão\n\nA Comissão Coordenadora do Curso (CoC-BCDados) avaliou, em conjunto com os docentes responsáveis, as disciplinas que possuem conteúdo que podem ter atividades de extensão para cumprimento do Plano Nacional de Educação (Lei Federal nº 13.005/2014), e da Resolução CNE/CES Nº 7/2018, que estabelecem que as atividades de extensão devem compor, no mínimo, 10% (dez por cento) do total da carga horária curricular, as quais deverão fazer parte da matriz curricular dos cursos. Dentre as disciplinas que atendem os requisitos, há as seguintes disciplinas obrigatórias:\n\n| Código   | Disciplina da disciplina atividades de extensão      |\n|----------|------------------------------------------------------|\n|          | SCC0221 Introdução à Ciência de Computação I 90 10   |\n| 5500005  | Informação Profissional em Ciência de Dados 45 45    |\n|          | SME0220 Introdução à Teoria das Probabilidades 60 15 |\n| SME0221  | Introdução à Inferência Estatística 120 30           |\n|          | SCC0230 Inteligência Artificial 90 10                |\n|          | SME0212 Otimização Não Linear  120  45               |\n| SCC0270  | Redes Neurais e Aprendizado Profundo 90 10           |\n| SCC0276  | Aprendizado de Máquina 90 10                         |\n| SME0852  | Prática em Ciência de Dados I 180 75                 |\n| SSC0957  | Prática em Ciência de Dados II 180 75                |\n| SCC0633  | Processamento de Linguagem Natural 90 10             |\n| SCC0802  | Prática em Ciência de Dados III  180  75             |\n| SME0878  | Mineração Estatística de Dados 120 60                |\n\nA carga horária total de atividades de extensão das disciplinas listadas é de 470 horas, que ultrapassa 10% do total da carga horária do curso que é 3720 horas.",
+      "qa_pairs": [
+        {
+          "question": "Quais documentos são necessários para comprovar a participação em eventos científicos como o SIICUSP, congressos ou workshops?",
+          "answer": "É necessário apresentar o Certificado de Participação no qual conste a duração da atividade.",
+          "source_page": 16
+        },
+        {
+          "question": "Como devo comprovar a publicação de um trabalho completo ou resumido em eventos científicos?",
+          "answer": "Deve-se apresentar a publicação acompanhada da cópia da capa e da primeira página da publicação.",
+          "source_page": 16
+        },
+        {
+          "question": "O que é aceito como comprovante para a apresentação de trabalho em eventos científicos?",
+          "answer": "É aceito o certificado de apresentação no evento, desde que conste a duração da atividade.",
+          "source_page": 16
+        },
+        {
+          "question": "Quais documentos comprovam a participação em projetos de modalidade Cultura e Extensão, independentemente de ter bolsa?",
+          "answer": "São necessários a declaração do orientador e o relatório final das atividades realizadas.",
+          "source_page": 16
+        },
+        {
+          "question": "Como comprovar a participação em Empresa Júnior, Ligas ou cursos de extensão universitária?",
+          "answer": "Através de Certificado de Participação que contenha a duração da atividade.",
+          "source_page": 16
+        },
+        {
+          "question": "Quais documentos são aceitos para comprovar a representação discente em entidades estudantis ou colegiados?",
+          "answer": "É necessária a apresentação de uma declaração oficial da Instituição.",
+          "source_page": 16
+        },
+        {
+          "question": "Quais comprovantes são exigidos para a obtenção de créditos em cursos extracurriculares de línguas, dança ou esportes?",
+          "answer": "Deve-se apresentar o Certificado de Participação constando a duração da atividade.",
+          "source_page": 16
+        },
+        {
+          "question": "Qual a porcentagem mínima da carga horária curricular que deve ser composta por atividades de extensão?",
+          "answer": "As atividades de extensão devem compor, no mínimo, 10% do total da carga horária curricular.",
+          "source_page": 17
+        },
+        {
+          "question": "Quais disciplinas obrigatórias do curso possuem atividades de extensão integradas?",
+          "answer": "As disciplinas são: Introdução à Ciência de Computação I, Informação Profissional em Ciência de Dados, Introdução à Teoria das Probabilidades, Introdução à Inferência Estatística, Inteligência Artificial, Otimização Não Linear, Redes Neurais e Aprendizado Profundo, Aprendizado de Máquina, Prática em Ciência de Dados I, Prática em Ciência de Dados II, Processamento de Linguagem Natural, Prática em Ciência de Dados III e Mineração Estatística de Dados.",
+          "source_page": 17
+        },
+        {
+          "question": "Qual a carga horária total de atividades de extensão nas disciplinas listadas e qual a carga horária total do curso?",
+          "answer": "A carga horária total de atividades de extensão nas disciplinas listadas é de 470 horas, enquanto a carga horária total do curso é de 3720 horas.",
+          "source_page": 17
+        }
+      ]
+    }
+  ]
+}

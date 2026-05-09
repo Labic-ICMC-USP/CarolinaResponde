@@ -1,0 +1,14 @@
+{
+  "doc_name": "Ações para recebimento de novo estagiário_funcionário",
+  "source_path": "data\\Manual SVGRAD\\Ações para recebimento de novo estagiário_funcionário.docx",
+  "chunks": [
+    {
+      "chunk_id": "Ações para recebimento de novo estagiário_funcionário__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Ações para recebimento de novo estagiário/funcionário\n\nSeguem abaixo algumas orientações sobre as ações que a chefia precisa tomar quando o setor receber um novo estágio ou funcionário\n\n- pedir para ele preencher o cartão de boas-vindas e encaminhar para a Chefe da Divisão efetuar a divulgação\n- apresentá-lo presencialmente nos setores do ICMC\n- orientá-lo a criar o e-mail ICMC e fazer o primeiro acesso aos Sistemas USP\n- orientá-lo sobre a configuração do e-mail (assinatura, conforme padrão ICMC)\n- cadastrá-lo como usuário do svgrad no Júpiter conforme consta no manual\n- cadastrá-lo como gestor de pauta da CoC que irá secretariar ou auxiliar conforme consta no manual\n- delegar o acesso ao e-mail grad@ e ao secxxx@ que ele fará atendimento. Informar a senha para ele que possa acessar os drives.\n- solicitar à SCINFOR o cadastro dele na OTRS em todas as filas do svgrad (com exceção das filas Escritório Internacional e Estágios)\n- solicitar à SCINFOR o acesso dele à pasta compartilhada svgrad e ao web.icmc.usp.br\n- se funcionário, solicitar à SCINFOR o acesso dele à edição da página do svgrad (se a ideia for ensinar essa atividade para ele)\n- solicitar ao PROTOCOLO o cadastro dele no Proteos como svgrad-55\n- solicitar à SCINFOR o cadastro dele na intranet para acesso às reservas de salas\n- solicitar ao APOIOADM o cadastro na intranet para liberação da chave da sala.\n- no caso de funcionário, solicitar uma cópia da chave da sala e a tag azul para acesso às portas\n- no caso de estagiário, precisa informar o período de autorização e pedir a liberação de QR Code para acesso às portas do ICMC\n- informar a Divisão ADM os dados do estagiário (nome, e-mail, período de estágio) para inclusão na lista. Quando o estagiário rescindir antecipadamente, precisa avisar também.\n- incluir na lista de rodízio de limpeza da copinha\n- se funcionário, incluir na lista de rodízio de atendimento noturno\n- se estagiário, incluir no grupo do whats (Equipe-Graduação ICMC)\n\n[Página 2]\n- se funcionário, incluir nos grupos do whats Equipe-Graduação ICMC, DiretoriaGraduação ICMC e no grupo dos SvGrads do Campus\n\n- se funcionário, alterar o quadro de horários dos funcionários do svgrad que está na pasta compartilhada svgrad - Diversos\n\nQuando um funcionário sair do setor, será necessário alterar o quadro de horários e solicitar/remover os acessos às áreas específicas do svgrad."
+    }
+  ]
+}
