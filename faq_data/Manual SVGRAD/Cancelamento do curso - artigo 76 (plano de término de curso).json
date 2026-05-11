@@ -1,0 +1,186 @@
+{
+  "doc_name": "Cancelamento do curso - artigo 76 (plano de término de curso)",
+  "source_path": "data\\Manual SVGRAD\\Cancelamento do curso - artigo 76 (plano de término de curso).docx",
+  "chunks": [
+    {
+      "chunk_id": "Cancelamento do curso - artigo 76 (plano de término de curso)__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Cancelamento do curso - artigo 76\n\n## Legislação:\n\nCirc.Pró-G-23-2013\n\nPortaria-Interna-Pró-G-09-2013\n\nRegimento da USP\n\nDiretrizes da CG para plano de término de curso\n\n- De acordo com o Regimento da USP, artigo 76, fica condicionada à decisão da CG a matrícula dos alunos que não obtiverem aprovação em pelo 20% dos créditos em que se matricularam nos dois semestres anteriores e daqueles que ultrapassarem o prazo máximo do curso.\n- Os alunos que incidem em uma destas hipóteses são obrigados a entregar o plano para permanecer no curso. Se não entregarem, serão desligados sem a possibilidade de solicitar o retorno, pois não há essa previsão no artigo 80 do Regimento.\n- Assim que a PRG enviar e-mail para o SvGrad informando que a lista dos alunos que incidiram no artigo 75 do Regimento da USP já está disponível, já será possível gerar a lista dos alunos que incidiram no artigo 76.\n- Para emitir a lista dos alunos Júpiter - Administrativo &gt; Relatórios - Alunos em via de desligamento. No quadro Alunos em Situação de Desligamento - listar Menos de 20% de créditos aprovados nos últimos 2 semestres (ingressantes a partir de 2008) , escolher ICMC e indicar o semestre anterior, clicar em buscar, copiar os dados e salvar os dados em planilha.\n- Depois, listar Ultrapassou o prazo máximo de duração do curso, escolher ICMC e indicar o semestre vigente, clicar em buscar, copiar os dados e salvar os dados em planilha.\n\n<!-- image -->\n\n[Página 2]\n·\n\n<!-- image -->\n\n- Salvar a lista na pasta compartilhada Cancelamentos - pasta (semestre-ano)\n- Solicitar aos funcionários do setor para fazer a seguinte conferência e indicar na planilha: 1) se o aluno da lista já está em plano de término e 2) se o aluno incidiu na lista do art 75 também\n- Assim que a conferência for finalizada, retirar os alunos que se enquadrem na situação 1 ou 2 da lista e enviar e-mail para os demais com as orientações para o preenchimento do plano, informando um prazo máximo para entrega. Ver modelo de e-mail enviado do grad@ com o assunto \"ATENÇÃO Incidência no artigo 76 (inciso I) do Regimento da USP\" e \"ATENÇÃO Incidência no artigo 76 (inciso II) do Regimento da USP\"\n- Enviar e-mail para os coordenadores com a lista dos alunos e com as orientações sobre o preenchimento do plano. Ver modelo de e-mail enviado do grad@ com o assunto \"Alunos que incidiram no artigo 76 do Regimento da USP\"\n- A secretária do curso não é responsável pela conferência do plano, mas pode auxiliar o coordenador fornecendo informações a respeito do que o aluno ainda precisa cumprir. A sugestão é enviar ao coordenador o \"caderninho\" atualizado do aluno\n- Os alunos irão enviar o plano preenchido via formulário que estão no drive do grad (https://drive.google.com/drive/folders/1AKt-GNN4\\_fuNm-J52mtCpEIzTAE3mbVq)\n- Assim que o aluno enviar, a secretária deve reunir os documentos (formulário, plano, histórico e documentos adicionais) e encaminhar para análise da CoC.\n- Anotar na planilha os alunos que entregaram o plano para controle dos que precisarão ser cobrados\n- Enviar e-mail aos alunos que não entregaram o plano dentro do prazo",
+      "qa_pairs": [
+        {
+          "question": "Em quais situações a matrícula de um aluno pode ser condicionada à decisão da CG, segundo o artigo 76 do Regimento da USP?",
+          "answer": "A matrícula fica condicionada à decisão da CG nos casos de alunos que não obtiveram aprovação em pelo menos 20% dos créditos em que se matricularam nos dois semestres anteriores ou daqueles que ultrapassaram o prazo máximo do curso.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece se um aluno que incidiu no artigo 76 do Regimento da USP não entregar o plano para permanecer no curso?",
+          "answer": "O aluno será desligado sem a possibilidade de solicitar o retorno, pois não há previsão para isso no artigo 80 do Regimento.",
+          "source_page": 1
+        },
+        {
+          "question": "Como é gerada a lista de alunos em via de desligamento por não aprovação de créditos (menos de 20%) no sistema Júpiter?",
+          "answer": "A lista é emitida em Júpiter - Administrativo > Relatórios - Alunos em via de desligamento, selecionando a opção 'Menos de 20% de créditos aprovados nos últimos 2 semestres (ingressantes a partir de 2008)', escolhendo ICMC e indicando o semestre anterior.",
+          "source_page": 1
+        },
+        {
+          "question": "Como emitir a lista de alunos que ultrapassaram o prazo máximo de duração do curso?",
+          "answer": "Deve-se acessar Júpiter - Administrativo > Relatórios - Alunos em via de desligamento, selecionar 'Ultrapassou o prazo máximo de duração do curso', escolher ICMC e indicar o semestre vigente.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais conferências os funcionários do setor devem realizar na lista de cancelamentos?",
+          "answer": "Devem conferir se o aluno da lista já está em plano de término e se o aluno também incidiu na lista do artigo 75.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem deve ser notificado por e-mail após a conferência da lista de alunos que incidiram no artigo 76?",
+          "answer": "Devem receber e-mail os alunos (com orientações para preenchimento do plano e prazo de entrega) e os coordenadores (com a lista dos alunos e orientações sobre o preenchimento do plano).",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a responsabilidade da secretária do curso em relação ao plano de término?",
+          "answer": "A secretária não é responsável pela conferência do plano, mas pode auxiliar o coordenador fornecendo informações sobre o que o aluno ainda precisa cumprir, sugerindo-se o envio do 'caderninho' atualizado do aluno.",
+          "source_page": 2
+        },
+        {
+          "question": "Por qual meio os alunos devem enviar o plano de término preenchido?",
+          "answer": "Os alunos devem enviar o plano via formulário disponível no drive do grad (https://drive.google.com/drive/folders/1AKt-GNN4_fuNm-J52mtCpEIzTAE3mbVq).",
+          "source_page": 2
+        },
+        {
+          "question": "Quais documentos a secretária deve reunir e encaminhar para análise da CoC após o envio do plano pelo aluno?",
+          "answer": "A secretária deve reunir o formulário, o plano, o histórico e documentos adicionais.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito com os alunos que não entregarem o plano dentro do prazo estipulado?",
+          "answer": "Deve ser enviado um e-mail aos alunos que não entregaram o plano dentro do prazo, utilizando a planilha de controle para identificar quem precisa ser cobrado.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Cancelamento do curso - artigo 76 (plano de término de curso)__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n·\n\n<!-- image -->\n\n- Salvar a lista na pasta compartilhada Cancelamentos - pasta (semestre-ano)\n- Solicitar aos funcionários do setor para fazer a seguinte conferência e indicar na planilha: 1) se o aluno da lista já está em plano de término e 2) se o aluno incidiu na lista do art 75 também\n- Assim que a conferência for finalizada, retirar os alunos que se enquadrem na situação 1 ou 2 da lista e enviar e-mail para os demais com as orientações para o preenchimento do plano, informando um prazo máximo para entrega. Ver modelo de e-mail enviado do grad@ com o assunto \"ATENÇÃO Incidência no artigo 76 (inciso I) do Regimento da USP\" e \"ATENÇÃO Incidência no artigo 76 (inciso II) do Regimento da USP\"\n- Enviar e-mail para os coordenadores com a lista dos alunos e com as orientações sobre o preenchimento do plano. Ver modelo de e-mail enviado do grad@ com o assunto \"Alunos que incidiram no artigo 76 do Regimento da USP\"\n- A secretária do curso não é responsável pela conferência do plano, mas pode auxiliar o coordenador fornecendo informações a respeito do que o aluno ainda precisa cumprir. A sugestão é enviar ao coordenador o \"caderninho\" atualizado do aluno\n- Os alunos irão enviar o plano preenchido via formulário que estão no drive do grad (https://drive.google.com/drive/folders/1AKt-GNN4\\_fuNm-J52mtCpEIzTAE3mbVq)\n- Assim que o aluno enviar, a secretária deve reunir os documentos (formulário, plano, histórico e documentos adicionais) e encaminhar para análise da CoC.\n- Anotar na planilha os alunos que entregaram o plano para controle dos que precisarão ser cobrados\n- Enviar e-mail aos alunos que não entregaram o plano dentro do prazo\n\n[Página 3]\nestipulado e pedir que enviem\n\n- Se o plano for indeferido, enviar um ofício para o aluno contendo as orientações para recurso (10 dias de acordo com o artigo 254 do Regimento da USP)\n- Se o plano for deferido:\n- – enviar um ofício para o aluno contendo as orientações para o cumprimento do plano. Há modelos disponíveis na pasta de ofícios da CoC\n- – inserir o aluno na lista de alunos em plano de término do curso para os devidos controles\n- – salvar o plano de término com a data da aprovação da CoC no Drive do e-mail do curso para fácil acesso\n- – a partir do semestre seguinte ao da entrega do plano, o aluno deverá entregar semestralmente um relatório de seu desempenho que será analisado pela CoC\n\nATENÇÃO: O aluno que não entregou o plano ou que teve o plano indeferido só poderá ser desligado, se o setor tiver a ciência por escrito dele (pode ser a resposta ao e-mail).\n\nO desligamento deve ser feito em Júpiter - Aluno - Informações do programa - informar o NUSP, clicar em buscar. Selecionar o aluno, clicar em Encerrar, indicar o motivo de incidência: Cancelamento menos 20% créd 2 semestres ou Cancelamento ultrapassou prazo máximo\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser verificado antes de enviar as orientações de preenchimento do plano aos alunos?",
+          "answer": "Deve-se conferir se o aluno da lista já está em plano de término e se ele também incidiu na lista do artigo 75.",
+          "source_page": 2
+        },
+        {
+          "question": "Como os alunos devem enviar o plano de término preenchido?",
+          "answer": "Os alunos devem enviar o plano preenchido via formulário disponível no drive do grad (https://drive.google.com/drive/folders/1AKt-GNN4_fuNm-J52mtCpEIzTAE3mbVq).",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a responsabilidade da secretária do curso em relação à conferência do plano?",
+          "answer": "A secretária do curso não é responsável pela conferência do plano, mas pode auxiliar o coordenador fornecendo informações sobre o que o aluno ainda precisa cumprir, sugerindo-se o envio do 'caderninho' atualizado do aluno.",
+          "source_page": 2
+        },
+        {
+          "question": "Após o envio do plano pelo aluno, qual é o procedimento da secretária?",
+          "answer": "A secretária deve reunir os documentos (formulário, plano, histórico e documentos adicionais) e encaminhá-los para análise da CoC.",
+          "source_page": 2
+        },
+        {
+          "question": "O que acontece se o plano de término for indeferido?",
+          "answer": "Se o plano for indeferido, deve ser enviado um ofício ao aluno com as orientações para recurso, que deve ser feito em até 10 dias, conforme o artigo 254 do Regimento da USP.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as providências tomadas quando um plano de término é deferido?",
+          "answer": "Deve-se enviar um ofício ao aluno com orientações para cumprimento do plano, inserir o aluno na lista de alunos em plano de término para controle e salvar o plano com a data de aprovação da CoC no Drive do e-mail do curso.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a obrigatoriedade do aluno após a entrega de um plano de término deferido?",
+          "answer": "A partir do semestre seguinte ao da entrega do plano, o aluno deverá entregar semestralmente um relatório de seu desempenho para análise da CoC.",
+          "source_page": 3
+        },
+        {
+          "question": "Em quais condições um aluno que não entregou o plano ou teve o plano indeferido pode ser desligado?",
+          "answer": "O aluno só poderá ser desligado se o setor tiver a ciência por escrito dele (que pode ser a resposta ao e-mail).",
+          "source_page": 3
+        },
+        {
+          "question": "Como deve ser realizado o procedimento de desligamento do aluno no sistema?",
+          "answer": "O desligamento deve ser feito no Júpiter, acessando Aluno -> Informações do programa, informando o NUSP, clicando em buscar, selecionando o aluno, clicando em Encerrar e indicando o motivo de incidência.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são os motivos de incidência para o desligamento no sistema Júpiter?",
+          "answer": "Os motivos de incidência são: 'Cancelamento menos 20% créd 2 semestres' ou 'Cancelamento ultrapassou prazo máximo'.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Cancelamento do curso - artigo 76 (plano de término de curso)__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\nestipulado e pedir que enviem\n\n- Se o plano for indeferido, enviar um ofício para o aluno contendo as orientações para recurso (10 dias de acordo com o artigo 254 do Regimento da USP)\n- Se o plano for deferido:\n- – enviar um ofício para o aluno contendo as orientações para o cumprimento do plano. Há modelos disponíveis na pasta de ofícios da CoC\n- – inserir o aluno na lista de alunos em plano de término do curso para os devidos controles\n- – salvar o plano de término com a data da aprovação da CoC no Drive do e-mail do curso para fácil acesso\n- – a partir do semestre seguinte ao da entrega do plano, o aluno deverá entregar semestralmente um relatório de seu desempenho que será analisado pela CoC\n\nATENÇÃO: O aluno que não entregou o plano ou que teve o plano indeferido só poderá ser desligado, se o setor tiver a ciência por escrito dele (pode ser a resposta ao e-mail).\n\nO desligamento deve ser feito em Júpiter - Aluno - Informações do programa - informar o NUSP, clicar em buscar. Selecionar o aluno, clicar em Encerrar, indicar o motivo de incidência: Cancelamento menos 20% créd 2 semestres ou Cancelamento ultrapassou prazo máximo\n\n<!-- image -->\n\n[Página 4]\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que acontece se o plano de término do curso de um aluno for indeferido?",
+          "answer": "Se o plano for indeferido, deve ser enviado um ofício ao aluno com as orientações para recurso, que deve ser feito em até 10 dias, conforme o artigo 254 do Regimento da USP.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são os procedimentos após o deferimento do plano de término do curso?",
+          "answer": "Devem ser tomadas as seguintes medidas: enviar ofício ao aluno com orientações para cumprimento do plano, inserir o aluno na lista de controle de alunos em plano de término e salvar o plano aprovado no Drive do e-mail do curso.",
+          "source_page": 3
+        },
+        {
+          "question": "O aluno em plano de término do curso precisa entregar algum documento periodicamente?",
+          "answer": "Sim, a partir do semestre seguinte ao da entrega do plano, o aluno deve entregar semestralmente um relatório de seu desempenho para análise da CoC.",
+          "source_page": 3
+        },
+        {
+          "question": "Existe algum modelo de ofício para orientar o aluno sobre o cumprimento do plano de término?",
+          "answer": "Sim, há modelos disponíveis na pasta de ofícios da CoC.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o prazo para o aluno entrar com recurso caso seu plano seja indeferido?",
+          "answer": "O prazo para recurso é de 10 dias, de acordo com o artigo 254 do Regimento da USP.",
+          "source_page": 3
+        },
+        {
+          "question": "Um aluno que não entregou o plano ou teve o plano indeferido pode ser desligado automaticamente?",
+          "answer": "Não, o desligamento só poderá ocorrer se o setor tiver a ciência do aluno por escrito (podendo ser a resposta a um e-mail).",
+          "source_page": 3
+        },
+        {
+          "question": "Como deve ser realizado o processo de desligamento do aluno no sistema?",
+          "answer": "O desligamento deve ser feito no Júpiter, seguindo o caminho: Aluno -> Informações do programa -> informar o NUSP -> buscar -> selecionar o aluno -> clicar em Encerrar.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são os motivos de incidência que podem ser indicados no desligamento do aluno via Júpiter?",
+          "answer": "Os motivos de incidência são: 'Cancelamento menos 20% créd 2 semestres' ou 'Cancelamento ultrapassou prazo máximo'.",
+          "source_page": 3
+        },
+        {
+          "question": "Onde deve ser salvo o plano de término após a aprovação da CoC?",
+          "answer": "O plano deve ser salvo com a data da aprovação no Drive do e-mail do curso para facilitar o acesso.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem é responsável por analisar o relatório semestral de desempenho do aluno em plano de término?",
+          "answer": "O relatório de desempenho deve ser analisado pela CoC.",
+          "source_page": 3
+        }
+      ]
+    }
+  ]
+}

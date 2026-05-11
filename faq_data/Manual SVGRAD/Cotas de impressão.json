@@ -1,0 +1,65 @@
+{
+  "doc_name": "Cotas de impressão",
+  "source_path": "data\\Manual SVGRAD\\Cotas de impressão.docx",
+  "chunks": [
+    {
+      "chunk_id": "Cotas de impressão__c0",
+      "pages": [
+        1
+      ],
+      "chunk_text": "[Página 1]\n## Cotas de impressão\n\n- Os alunos possuem uma cota de 100 impressões por semestre conforme Portaria ICMC Nº 028/2016 .\n- É comum ao longo do semestre, algum aluno pedir para aumentar a cota.\n- O pedido deve ser enviado por e-mail à graduação.\n- A graduação deve verificar se o aluno está matriculado em disciplinas no semestre vigente e encaminhar o pedido à STI para análise com essa informação:\n\nPor gentileza, poderiam verificar se é possível atender a solicitação do aluno? Informamos que verificamos que o aluno está ( ou não está) matriculado em disciplinas neste semestre.\n\n- Como não será possível encaminhar o pedido recebido na OTRS para o atendimento, a orientação é criar um chamado \"filho\" direcionado à STI. Para fazer isso, cliquem em dividir e depois indiquem a fila STI.\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Qual é a cota de impressões disponível para os alunos por semestre?",
+          "answer": "Os alunos possuem uma cota de 100 impressões por semestre, conforme a Portaria ICMC Nº 028/2016.",
+          "source_page": 1
+        },
+        {
+          "question": "Como um aluno deve solicitar o aumento de sua cota de impressão?",
+          "answer": "O pedido de aumento de cota deve ser enviado por e-mail à graduação.",
+          "source_page": 1
+        },
+        {
+          "question": "O que a graduação deve verificar antes de encaminhar um pedido de aumento de cota à STI?",
+          "answer": "A graduação deve verificar se o aluno está matriculado em disciplinas no semestre vigente.",
+          "source_page": 1
+        },
+        {
+          "question": "Para quem a graduação deve encaminhar o pedido de aumento de cota de impressão?",
+          "answer": "O pedido deve ser encaminhado à STI para análise.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual informação a graduação deve fornecer à STI ao solicitar a análise de aumento de cota?",
+          "answer": "A graduação deve informar se o aluno está ou não matriculado em disciplinas no semestre vigente.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser feito o encaminhamento do pedido de cota recebido via OTRS, já que não é possível encaminhá-lo diretamente?",
+          "answer": "A orientação é criar um chamado 'filho' direcionado à STI.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual o procedimento técnico no sistema para criar o chamado 'filho' para a STI?",
+          "answer": "Para criar o chamado, deve-se clicar em 'dividir' e, em seguida, indicar a fila STI.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a base normativa para a definição da cota de 100 impressões por semestre?",
+          "answer": "A base normativa é a Portaria ICMC Nº 028/2016.",
+          "source_page": 1
+        },
+        {
+          "question": "O aluno pode pedir para aumentar a cota de impressão durante o semestre?",
+          "answer": "Sim, é comum que alunos solicitem o aumento da cota ao longo do semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "A STI decide sobre o aumento da cota de impressão baseada em quais informações?",
+          "answer": "A STI analisa a solicitação com base na informação fornecida pela graduação sobre a matrícula do aluno em disciplinas no semestre vigente.",
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}

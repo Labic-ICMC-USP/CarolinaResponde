@@ -1,0 +1,65 @@
+{
+  "doc_name": "Calendário Escolar",
+  "source_path": "data\\Manual SVGRAD\\Calendário Escolar.docx",
+  "chunks": [
+    {
+      "chunk_id": "Calendário Escolar__c0",
+      "pages": [
+        1
+      ],
+      "chunk_text": "[Página 1]\n## Calendário Escolar\n\n- O calendário escolar é elaborado anualmente pela PRG e divulgado no Júpiter. Como há feriados municipais (15/08 e 04/11) que podem interferir no número de dias letivos, as unidades do Campus definem um calendário específico.\n\n## A chefia da Graduação:\n\n- verifica com o presidente da CG se as presidências do Campus já estão tratando das alterações do calendário\n- encaminha a proposta de alteração para análise da CG\n- conversa com as chefias da demais unidades para combinar qual unidade encaminhará a proposta de alteração do calendário à PRG\n- envia a proposta de alteração à PRG\n- divulga o calendário do Campus na página do setor em Informes\n- envia a informação sobre a alteração do calendário aos alunos e professores por e-mail. (ver e-mail enviado do grad@ com assunto \"Calendário escolar 2025 \")\n- envia lembretes aos alunos/professores sobre feriados e pontes ressaltando que não haverá aula\n\n## Alteração do período de recuperação\n\n- O período de recuperação é definido pela PRG e consta no calendário oficial. As unidades podem solicitar a prorrogação. O pedido deve ser enviado dentro do prazo limite estabelecido no calendário.\n\nA chefia da Graduação:\n\n- verifica com o presidente da CG qual será a data proposta. Geralmente pede-se a prorrogação para até uma semana antes do início do semestre seguinte\n- encaminha a proposta de alteração para análise da CG\n- envia a proposta de alteração à PRG\n- envia a informação sobre a prorrogação aos professores por e-mail.",
+      "qa_pairs": [
+        {
+          "question": "Quem é responsável pela elaboração anual do calendário escolar?",
+          "answer": "O calendário escolar é elaborado anualmente pela PRG e divulgado no Júpiter.",
+          "source_page": 1
+        },
+        {
+          "question": "Por que as unidades do Campus definem um calendário específico?",
+          "answer": "As unidades definem um calendário específico pois existem feriados municipais (15/08 e 04/11) que podem interferir no número de dias letivos.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde o calendário do Campus é divulgado pela chefia da Graduação?",
+          "answer": "O calendário do Campus é divulgado na página do setor, na seção de Informes.",
+          "source_page": 1
+        },
+        {
+          "question": "Como os alunos e professores são informados sobre as alterações no calendário?",
+          "answer": "A informação sobre a alteração do calendário é enviada aos alunos e professores por e-mail.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a função da chefia da Graduação em relação aos feriados e pontes?",
+          "answer": "A chefia da Graduação deve enviar lembretes aos alunos e professores sobre feriados e pontes, ressaltando que não haverá aula.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem define o período de recuperação?",
+          "answer": "O período de recuperação é definido pela PRG e consta no calendário oficial.",
+          "source_page": 1
+        },
+        {
+          "question": "As unidades podem solicitar a prorrogação do período de recuperação?",
+          "answer": "Sim, as unidades podem solicitar a prorrogação, desde que o pedido seja enviado dentro do prazo limite estabelecido no calendário.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a data geralmente proposta para a prorrogação do período de recuperação?",
+          "answer": "Geralmente, pede-se a prorrogação para até uma semana antes do início do semestre seguinte.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual o fluxo de aprovação de uma proposta de alteração do calendário escolar?",
+          "answer": "A chefia da Graduação verifica com o presidente da CG se as presidências do Campus estão tratando das alterações, encaminha a proposta para análise da CG e, posteriormente, envia a proposta de alteração à PRG.",
+          "source_page": 1
+        },
+        {
+          "question": "Como os professores são notificados sobre a prorrogação do período de recuperação?",
+          "answer": "A chefia da Graduação envia a informação sobre a prorrogação aos professores por e-mail.",
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}

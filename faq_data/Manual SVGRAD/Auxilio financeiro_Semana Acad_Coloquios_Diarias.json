@@ -1,0 +1,66 @@
+{
+  "doc_name": "Auxilio financeiro_Semana Acad_Coloquios_Diarias",
+  "source_path": "data\\Manual SVGRAD\\Auxilio financeiro_Semana Acad_Coloquios_Diarias.docx",
+  "chunks": [
+    {
+      "chunk_id": "Auxilio financeiro_Semana Acad_Coloquios_Diarias__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Observações sobre auxílio financeiro\n\n## 1. SEMANAS ACADÊMICAS\n\n- Entrar em contato com os responsáveis pelas Semanas Acadêmicas entre fevereiro/março e solicitar a programação e o pedido de auxílio financeiro do ano vigente\n- Elaborar o ofício de solicitação de auxílio à PRG e encaminhar para Diretoria para assinatura do Diretor e envio à PRG (enviar o documento enviado pelo responsável pela Semana também)\n- A Diretoria encaminha o pedido à PRG por e-mail\n- SVGRAD abre o processo, coloca o ofício, a solicitação do responsável pela Semana e a resposta da PRG que será encaminhada pela Diretoria, e encaminha o processo à ATFN para o que couber (precisa avisar a ATFN quem é o docente responsável pela Semana)\n- Avisar o responsável pela Semana sobre o valor concedido pela PRG e orientá-lo sobre as contratações com base na DFD preenchida no ano anterior.\n- Quando a ATFN finalizar a prestação de contas, o processo voltará para o SVGRAD\n- SVGRAD deve colocar o relatório fornecido pelo responsável da Semana, pegar o de acordo da presidência da CG e encaminhar à PRG para o que couber\n- Quando o processo retornar da PRG, se não houver pendências, arquivar\n\nObs: entrar em contato com os responsáveis pelas Semanas no início do ano para solicitar o preenchimento da DFD do ano seguinte. (ver prazo estipulado pela ATAc)\n\n## 2. COLÓQUIOS LICENCIATURA\n\n- O valor já está previsto no orçamento da CG, então não precisa passar por análise\n- Há uma tabela da ATFN com o valor que pode ser concedido como prólabore. A CG prevê esse valor + o valor de incidência de imposto\n- Coordenador da LMA encaminha ofício com a informação sobre os colóquios e passa na CG apenas para comunicação\n- Cada vez que uma palestra é realizada, a coordenação entra em contato com eventos, graduação e financeiro para avisar\n- Verificar com a ATFN o que é necessário providenciar para que seja realizado o pagamento\n\n## 3. DIÁRIAS\n\n[Página 2]\n- A CG pode receber solicitações para custear diárias para docentes que participam dos Colóquios do ICMC (geralmente da LMA) e de eventos em outras cidades que dizem respeito à graduação, como o Congresso de Graduação\n- Após análise da CG (que pode ser ad referendum), enviar a informação sobre a aprovação aos setores pertinentes (chefia de departamento, ATFN, SCTRANS) e anotar na planilha de controle do orçamento da CG. Indicar na informação se se trata de diária simples ou completa e as informações que originaram o pedido (data, local, etc)\n- orientar o docente que ele deve citar no pedido que a verba é da CG\n\n## SOLICITAÇÃO DE USO DO RESTAURANTE UNIVERSITÁRIO\n\n- Alguns organizadores de evento solicitam a liberação do uso do restaurante para os participantes externos. Nesse caso, eles devem fornecer o nome completo e número do RG e do CPF das pessoas e informar os dias de utilização.\n- O SVGRAD faz o ofício dirigido ao Diretor do ICMC solicitando a liberação do uso do restaurante universitário e envio à Diretoria para as providências.\n- A Direção providenciará o de acordo do Diretor e encaminhará à Prefeitura do Campus via processo.",
+      "qa_pairs": [
+        {
+          "question": "Qual é o procedimento inicial para solicitar auxílio financeiro para as Semanas Acadêmicas?",
+          "answer": "Os responsáveis pelas Semanas Acadêmicas devem ser contatados entre fevereiro e março para solicitar a programação e o pedido de auxílio financeiro do ano vigente.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser encaminhado o pedido de auxílio financeiro para a PRG no caso das Semanas Acadêmicas?",
+          "answer": "Deve-se elaborar um ofício de solicitação de auxílio à PRG, encaminhá-lo para a Diretoria para assinatura do Diretor e, posteriormente, a Diretoria envia o pedido à PRG por e-mail, incluindo o documento enviado pelo responsável pela Semana.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a função do SVGRAD no processo de auxílio financeiro das Semanas Acadêmicas?",
+          "answer": "O SVGRAD abre o processo, anexa o ofício, a solicitação do responsável e a resposta da PRG, e encaminha o processo à ATFN, informando quem é o docente responsável.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece após a ATFN finalizar a prestação de contas de uma Semana Acadêmica?",
+          "answer": "O processo retorna ao SVGRAD, que deve anexar o relatório fornecido pelo responsável da Semana, obter o 'de acordo' da presidência da CG e encaminhar à PRG.",
+          "source_page": 1
+        },
+        {
+          "question": "Os Colóquios de Licenciatura precisam passar por análise para concessão de valor financeiro?",
+          "answer": "Não, pois o valor já está previsto no orçamento da CG.",
+          "source_page": 1
+        },
+        {
+          "question": "Como funciona a definição do valor de prólabore para os Colóquios de Licenciatura?",
+          "answer": "Existe uma tabela da ATFN com o valor que pode ser concedido como prólabore, e a CG prevê esse valor somado ao valor de incidência de imposto.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais setores a coordenação deve avisar sempre que uma palestra de Colóquio de Licenciatura é realizada?",
+          "answer": "A coordenação deve entrar em contato com os setores de eventos, graduação e financeiro.",
+          "source_page": 1
+        },
+        {
+          "question": "Em quais situações a CG pode custear diárias para docentes?",
+          "answer": "A CG pode custear diárias para docentes que participem dos Colóquios do ICMC (geralmente da LMA) e de eventos em outras cidades relacionados à graduação, como o Congresso de Graduação.",
+          "source_page": 1
+        },
+        {
+          "question": "O que o docente deve fazer ao solicitar diárias custeadas pela CG?",
+          "answer": "O docente deve citar no pedido que a verba utilizada é da CG.",
+          "source_page": 2
+        },
+        {
+          "question": "Como solicitar a liberação do Restaurante Universitário para participantes externos de um evento?",
+          "answer": "Os organizadores devem fornecer o nome completo, RG e CPF dos participantes e os dias de utilização. O SVGRAD então elabora um ofício ao Diretor do ICMC, que, após o 'de acordo', encaminha a solicitação à Prefeitura do Campus via processo.",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

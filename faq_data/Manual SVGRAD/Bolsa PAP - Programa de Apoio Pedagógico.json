@@ -1,0 +1,66 @@
+{
+  "doc_name": "Bolsa PAP - Programa de Apoio Pedagógico",
+  "source_path": "data\\Manual SVGRAD\\Bolsa PAP - Programa de Apoio Pedagógico.docx",
+  "chunks": [
+    {
+      "chunk_id": "Bolsa PAP - Programa de Apoio Pedagógico__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Programa de Apoio Pedagógico (PAP)\n\n- 1) A PRG envia o edital para a unidade divulgar. Há um edital para cada semestre.\n- 2) A chefia da Graduação\n- salva o edital e a planilha dos projetos cadastrados na pasta do Svgrad Bolsas - PAP - (ano-semestre)\n- verifica com presidente da CG como será feita a divulgação (se será para todos os professores ou apenas coordenadores), pois o projeto geralmente só pode ser submetido pela CoC ou CG\n- faz a divulgação, indicando o cronograma e ressaltando período de envio dos projetos para análise da CoC ou CG\n- insere na agenda as datas de cadastro dos projetos pelos docentes, inscrições pelos alunos e análises dos projetos e das inscrições pela CG (copiar a presidência da CG nas datas em que há ação dela) com envio de lembretes\n- após o término dos cadastros dos projetos, verifica os projetos cadastrados em Júpiter - Administrativo &gt; Docentes &gt; Projetos\n- também pode ser feita a consulta em Júpiter - Administrativo &gt; Programas especiais/Bolsas &gt; Bolsa PAP - Tutoria\n\n<!-- image -->\n\n[Página 2]\n<!-- image -->\n\n- envia e-mail aos coordenadores para informar se os projetos foram homologados pela PRG\n- encaminha e-mail aos alunos com o Edital, ressaltando o prazo para as inscrições\n- envia e-mail aos coordenadores para informá-los sobre as inscrições recebidas e orientá-los sobre a seleção dos alunos no Sistema\n- para consultar se o aluno já deu o aceito, acesse Júpiter -Administrativo &gt; Programas especiais/Bolsas &gt; Bolsa PAP - Tutoria - Clique no ícone \"\"inscritos\"\n\n·\n\n<!-- image -->\n\n- envia lembretes nos últimos dias dos prazos estabelecidos\n- envia lembrete aos coordenadores sobre a elaboração do relatório e posterior envio à CG\n- encaminha o relatório final da CG à PRG",
+      "qa_pairs": [
+        {
+          "question": "Como funciona a divulgação do edital do Programa de Apoio Pedagógico (PAP)?",
+          "answer": "A PRG envia o edital para a unidade divulgar, havendo um edital para cada semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem é responsável por salvar o edital e a planilha de projetos cadastrados do PAP?",
+          "answer": "A chefia da Graduação é a responsável por salvar esses documentos na pasta do Svgrad Bolsas - PAP - (ano-semestre).",
+          "source_page": 1
+        },
+        {
+          "question": "Quem geralmente pode submeter os projetos do PAP?",
+          "answer": "Geralmente, o projeto só pode ser submetido pela CoC ou CG.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais datas a chefia da Graduação deve inserir na agenda em relação ao PAP?",
+          "answer": "Devem ser inseridas as datas de cadastro dos projetos pelos docentes, as inscrições pelos alunos e as análises dos projetos e das inscrições pela CG.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde é possível verificar os projetos cadastrados no sistema Júpiter?",
+          "answer": "Os projetos podem ser verificados em Júpiter - Administrativo > Docentes > Projetos ou em Júpiter - Administrativo > Programas especiais/Bolsas > Bolsa PAP - Tutoria.",
+          "source_page": 1
+        },
+        {
+          "question": "Como os coordenadores são informados sobre a homologação dos projetos pela PRG?",
+          "answer": "A chefia da Graduação envia um e-mail aos coordenadores para informá-los se os projetos foram homologados pela PRG.",
+          "source_page": 2
+        },
+        {
+          "question": "Como os alunos são avisados sobre o prazo de inscrições do PAP?",
+          "answer": "A chefia da Graduação encaminha um e-mail aos alunos contendo o Edital e ressaltando o prazo para as inscrições.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a orientação dada aos coordenadores após o recebimento das inscrições?",
+          "answer": "A chefia da Graduação envia um e-mail informando sobre as inscrições recebidas e orientando os coordenadores sobre a seleção dos alunos no Sistema.",
+          "source_page": 2
+        },
+        {
+          "question": "Como consultar se um aluno já deu o 'aceito' na Bolsa PAP - Tutoria?",
+          "answer": "Deve-se acessar Júpiter - Administrativo > Programas especiais/Bolsas > Bolsa PAP - Tutoria e clicar no ícone 'inscritos'.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o procedimento final em relação ao relatório da CG?",
+          "answer": "A chefia da Graduação envia um lembrete aos coordenadores sobre a elaboração do relatório e, posteriormente, encaminha o relatório final da CG à PRG.",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

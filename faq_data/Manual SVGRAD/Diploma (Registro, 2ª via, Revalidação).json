@@ -1,0 +1,666 @@
+{
+  "doc_name": "Diploma (Registro, 2ª via, Revalidação)",
+  "source_path": "data\\Manual SVGRAD\\Diploma (Registro, 2ª via, Revalidação).docx",
+  "chunks": [
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Diploma\n\nInformações da Secretaria Geral da USP\n\nSolicitação de diploma (1ª via)\n\nLegislação:\n\nDeliberação CEE nº 37/2003 – Regulamenta o registro de diplomas no Sistema Estadual de Ensino\n\nOrientações sobre reconhecimento de firma\n\nOrientações sobre confirmação de autenticidade\n\nPortaria Interministerial n. 1, de 20 de maio de 2019 (PEC-G)\n\n- Solicitar os documentos necessários no momento em que os alunos preencherem o requerimento de colação de grau (RG atualizado, Certidão de Nascimento ou Casamento, Histórico escolar do Ensino Médio com certificado de conclusão)\n- Após a colação de grau, abrir o processo digital: Júpiter - Aluno &gt; Solicitação de Diploma - Indicar unidade e ano e clicar em buscar.\n\n·\n\n<!-- image -->\n\n- Listar pela coluna situação \"Aguardando conferência de documentos\"\n\n[Página 2]\n·\n\n·\n\n- Selecionar o aluno, rolar a tela até o final e clicar em incluir e depois em enviar.\n- Em seguida, listar pela coluna \"Aguardando processo digital\". Selecionar o aluno, clicar na aba \"Processo digital\" e depois em incluir.\n\n·\n\n<!-- image -->\n\n<!-- image -->\n\n- Anexar os arquivos na seguinte ordem e clicar em enviar: (os documentos geralmente são salvos na pasta compartilhada svgrad-Diploma-Registro de Diploma - (ano-semestre)\n1. Ofício de encaminhamento (modelo na pasta compartilhada - pode ter assinatura digitalizada da assistente acadêmica) indicando tipo \"documento\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quais documentos são necessários para a solicitação da primeira via do diploma?",
+          "answer": "Os documentos necessários são: RG atualizado, Certidão de Nascimento ou Casamento e Histórico escolar do Ensino Médio com certificado de conclusão.",
+          "source_page": 1
+        },
+        {
+          "question": "Em que momento o aluno deve entregar os documentos para a solicitação do diploma?",
+          "answer": "Os documentos devem ser solicitados no momento em que os alunos preencherem o requerimento de colação de grau.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser aberto o processo digital para solicitação de diploma após a colação de grau?",
+          "answer": "O processo deve ser aberto via Júpiter - Aluno, acessando a opção 'Solicitação de Diploma', indicando a unidade e o ano e clicando em buscar.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a legislação que regulamenta o registro de diplomas no Sistema Estadual de Ensino?",
+          "answer": "A regulamentação é feita pela Deliberação CEE nº 37/2003.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual portaria interministerial é mencionada nas orientações de diploma (PEC-G)?",
+          "answer": "A Portaria Interministerial n. 1, de 20 de maio de 2019.",
+          "source_page": 1
+        },
+        {
+          "question": "Como identificar os alunos que estão com a documentação pendente no sistema?",
+          "answer": "Deve-se listar os alunos pela coluna de situação 'Aguardando conferência de documentos'.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual o procedimento após selecionar o aluno na lista de 'Aguardando conferência de documentos'?",
+          "answer": "Deve-se rolar a tela até o final, clicar em incluir e, posteriormente, em enviar.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito quando o aluno estiver na coluna 'Aguardando processo digital'?",
+          "answer": "Deve-se selecionar o aluno, clicar na aba 'Processo digital' e depois em incluir.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual o primeiro documento que deve ser anexado ao processo digital de diploma?",
+          "answer": "O primeiro documento a ser anexado é o Ofício de encaminhamento, que pode ter a assinatura digitalizada da assistente acadêmica.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde geralmente são salvos os arquivos para o registro de diploma?",
+          "answer": "Os documentos geralmente são salvos na pasta compartilhada svgrad-Diploma-Registro de Diploma - (ano-semestre).",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n·\n\n·\n\n- Selecionar o aluno, rolar a tela até o final e clicar em incluir e depois em enviar.\n- Em seguida, listar pela coluna \"Aguardando processo digital\". Selecionar o aluno, clicar na aba \"Processo digital\" e depois em incluir.\n\n·\n\n<!-- image -->\n\n<!-- image -->\n\n- Anexar os arquivos na seguinte ordem e clicar em enviar: (os documentos geralmente são salvos na pasta compartilhada svgrad-Diploma-Registro de Diploma - (ano-semestre)\n1. Ofício de encaminhamento (modelo na pasta compartilhada - pode ter assinatura digitalizada da assistente acadêmica) indicando tipo \"documento\n\n<!-- image -->\n\n[Página 3]\noriginal\";\n\n2. Histórico escolar final (graduação USP) (pode ter assinatura digital USP Assina) indicando tipo \"documento gerado pelo sistema\";\n3. Histórico do ensino médio indicando tipo \"cópia simples\",\n\nobs: para alunos que fizeram matrícula virtual, o sistema carregará o histórico apresentado no ingresso no curso. Não precisa trocar o documento.\n\n4. Registro Geral (ou RNM) indicando tipo \"cópia simples\",\n\nobs: para alunos que fizeram matrícula virtual, o sistema carregará o documento apresentado no ingresso no curso. Neste caso, recomendase excluir e utilizar a versão recente apresentada pelo aluno para a colação.\n\n5. Certidão de nascimento/casamento indicando tipo \"cópia simples\"\n\n·\n\n<!-- image -->\n\n- Anexados todos os documentos, recomenda-se clicar no link do processo para dar uma checada se está tudo certo.\n\n·\n\n<!-- image -->\n\n- Se estiver tudo certo, clicar em enviar para registro, preencher a tela e clicar em Enviar. (Anotar na planilha de formandos que o diploma já foi solicitado",
+      "qa_pairs": [
+        {
+          "question": "Como iniciar o processo de inclusão de um aluno para registro de diploma?",
+          "answer": "Deve-se selecionar o aluno, rolar a tela até o final, clicar em 'incluir' e, posteriormente, em 'enviar'.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito após a inclusão inicial do aluno para prosseguir com o processo digital?",
+          "answer": "É necessário listar pela coluna 'Aguardando processo digital', selecionar o aluno, clicar na aba 'Processo digital' e depois em 'incluir'.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a ordem correta de anexação dos arquivos para o registro do diploma?",
+          "answer": "A ordem é: 1. Ofício de encaminhamento; 2. Histórico escolar final (graduação USP); 3. Histórico do ensino médio; 4. Registro Geral (ou RNM); 5. Certidão de nascimento/casamento.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a especificação do tipo de documento para o Ofício de encaminhamento?",
+          "answer": "O Ofício de encaminhamento deve ser indicado como tipo 'documento original'.",
+          "source_page": 2
+        },
+        {
+          "question": "Como deve ser classificado o Histórico escolar final da graduação USP no sistema?",
+          "answer": "O Histórico escolar final deve ser indicado como tipo 'documento gerado pelo sistema'.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a classificação do tipo de documento para o Histórico do ensino médio?",
+          "answer": "O Histórico do ensino médio deve ser indicado como 'cópia simples'.",
+          "source_page": 3
+        },
+        {
+          "question": "O que acontece com o histórico do ensino médio para alunos que realizaram matrícula virtual?",
+          "answer": "Para esses alunos, o sistema carregará automaticamente o histórico apresentado no ingresso no curso, não sendo necessário trocar o documento.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a recomendação para o Registro Geral (ou RNM) de alunos que fizeram matrícula virtual?",
+          "answer": "Embora o sistema carregue o documento do ingresso, recomenda-se excluir a versão antiga e utilizar a versão recente apresentada pelo aluno para a colação, indicando como 'cópia simples'.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a classificação do tipo de documento para a Certidão de nascimento ou casamento?",
+          "answer": "A Certidão de nascimento/casamento deve ser indicada como 'cópia simples'.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a etapa final após a anexação de todos os documentos e a conferência do processo?",
+          "answer": "Deve-se clicar em 'enviar para registro', preencher a tela, clicar em 'Enviar' e anotar na planilha de formandos que o diploma já foi solicitado.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\noriginal\";\n\n2. Histórico escolar final (graduação USP) (pode ter assinatura digital USP Assina) indicando tipo \"documento gerado pelo sistema\";\n3. Histórico do ensino médio indicando tipo \"cópia simples\",\n\nobs: para alunos que fizeram matrícula virtual, o sistema carregará o histórico apresentado no ingresso no curso. Não precisa trocar o documento.\n\n4. Registro Geral (ou RNM) indicando tipo \"cópia simples\",\n\nobs: para alunos que fizeram matrícula virtual, o sistema carregará o documento apresentado no ingresso no curso. Neste caso, recomendase excluir e utilizar a versão recente apresentada pelo aluno para a colação.\n\n5. Certidão de nascimento/casamento indicando tipo \"cópia simples\"\n\n·\n\n<!-- image -->\n\n- Anexados todos os documentos, recomenda-se clicar no link do processo para dar uma checada se está tudo certo.\n\n·\n\n<!-- image -->\n\n- Se estiver tudo certo, clicar em enviar para registro, preencher a tela e clicar em Enviar. (Anotar na planilha de formandos que o diploma já foi solicitado\n\n[Página 4]\n<!-- image -->\n\napenas para controle.)\n\nObs: após esta ação, a situação passará a ser \"Enviado para registro\"\n\n<!-- image -->\n\n- Quando o diploma for emitido, a situação passará a ser \"Registrado\"\n\n<!-- image -->\n\n## Quando o diploma ficar pronto:\n\n- verificar se há diploma disponível para retirada (com o perfil de Seção de alunos) no Netuno - Menu Seção de alunos - Diplomas- Listar a opção Diplomas para Retirar e clicar em buscar",
+      "qa_pairs": [
+        {
+          "question": "Quais documentos são necessários para a solicitação do diploma?",
+          "answer": "São necessários: documento original, histórico escolar final de graduação da USP (podendo ter assinatura digital USP Assina e indicação de 'documento gerado pelo sistema'), histórico do ensino médio (cópia simples), Registro Geral ou RNM (cópia simples) e certidão de nascimento ou casamento (cópia simples).",
+          "source_page": 3
+        },
+        {
+          "question": "Alunos que fizeram matrícula virtual precisam enviar novamente o histórico do ensino médio?",
+          "answer": "Não, para alunos que fizeram matrícula virtual, o sistema carregará automaticamente o histórico apresentado no ingresso no curso, não sendo necessário trocar o documento.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a recomendação sobre o Registro Geral (RG) ou RNM para alunos de matrícula virtual?",
+          "answer": "Embora o sistema carregue o documento do ingresso, recomenda-se excluir a versão antiga e utilizar a versão recente apresentada pelo aluno para a colação.",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser feito após anexar todos os documentos no sistema?",
+          "answer": "Recomenda-se clicar no link do processo para conferir se todas as informações estão corretas.",
+          "source_page": 3
+        },
+        {
+          "question": "Como finalizar o pedido de diploma após a conferência dos documentos?",
+          "answer": "Deve-se clicar em 'enviar para registro', preencher a tela correspondente e clicar em 'Enviar'.",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser anotado na planilha de formandos após a solicitação do diploma?",
+          "answer": "Deve-se anotar na planilha de formandos que o diploma já foi solicitado (esta anotação serve apenas para controle).",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a situação do processo logo após clicar em 'Enviar' para registro?",
+          "answer": "Após essa ação, a situação do processo passará a ser 'Enviado para registro'.",
+          "source_page": 4
+        },
+        {
+          "question": "Como saber se o diploma já foi emitido através do sistema?",
+          "answer": "Quando o diploma for emitido, a situação do processo passará para 'Registrado'.",
+          "source_page": 4
+        },
+        {
+          "question": "Onde verificar se o diploma já está disponível para retirada?",
+          "answer": "A verificação deve ser feita no Netuno, através do Menu Seção de alunos -> Diplomas -> Listar a opção 'Diplomas para Retirar' e clicar em buscar.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual perfil de acesso é necessário no Netuno para verificar a disponibilidade de diplomas para retirada?",
+          "answer": "É necessário utilizar o perfil de 'Seção de alunos'.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n<!-- image -->\n\napenas para controle.)\n\nObs: após esta ação, a situação passará a ser \"Enviado para registro\"\n\n<!-- image -->\n\n- Quando o diploma for emitido, a situação passará a ser \"Registrado\"\n\n<!-- image -->\n\n## Quando o diploma ficar pronto:\n\n- verificar se há diploma disponível para retirada (com o perfil de Seção de alunos) no Netuno - Menu Seção de alunos - Diplomas- Listar a opção Diplomas para Retirar e clicar em buscar\n\n[Página 5]\n·\n\n<!-- image -->\n\n- pedir para a Seção de Transporte retirá-los (não precisa enviar a lista dos diplomas)\n- quando a unidade receber os diplomas, precisa conferir se todos os listados no recibo chegaram\n- acessar o Júpiter - Aluno - Solicitação de diploma - escolher unidade e ano - depois procurar pelo aluno\n\n·\n\n<!-- image -->\n\nCréditos\n\nFale conosco\n\n- clicar na aba processo digital e depois clicar em Registrar recebimento do diploma pela Unidade\n\n-",
+      "qa_pairs": [
+        {
+          "question": "O que acontece com a situação do diploma após a ação de envio para registro?",
+          "answer": "Após essa ação, a situação do diploma passará a ser 'Enviado para registro'.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a situação do diploma quando ele é emitido?",
+          "answer": "Quando o diploma for emitido, a situação passará a ser 'Registrado'.",
+          "source_page": 4
+        },
+        {
+          "question": "Como verificar se há diplomas disponíveis para retirada no Netuno?",
+          "answer": "Deve-se utilizar o perfil de Seção de alunos, acessar o Menu Seção de alunos, ir em Diplomas, selecionar a opção 'Diplomas para Retirar' e clicar em buscar.",
+          "source_page": 4
+        },
+        {
+          "question": "Quem deve ser acionado para a retirada dos diplomas?",
+          "answer": "Deve-se pedir para a Seção de Transporte retirá-los.",
+          "source_page": 5
+        },
+        {
+          "question": "É necessário enviar a lista dos diplomas para a Seção de Transporte realizar a retirada?",
+          "answer": "Não, não é necessário enviar a lista dos diplomas.",
+          "source_page": 5
+        },
+        {
+          "question": "O que a unidade deve fazer ao receber os diplomas?",
+          "answer": "A unidade precisa conferir se todos os diplomas listados no recibo chegaram.",
+          "source_page": 5
+        },
+        {
+          "question": "Como localizar um aluno para a solicitação de diploma no sistema Júpiter?",
+          "answer": "Deve-se acessar Júpiter, ir em Aluno, depois em Solicitação de diploma, escolher a unidade e o ano, e então procurar pelo aluno.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o procedimento no Júpiter para registrar que a unidade recebeu o diploma?",
+          "answer": "Após localizar o aluno, deve-se clicar na aba 'processo digital' e, em seguida, clicar em 'Registrar recebimento do diploma pela Unidade'.",
+          "source_page": 5
+        },
+        {
+          "question": "Em qual menu do Netuno se encontra a opção de listar diplomas para retirar?",
+          "answer": "A opção encontra-se no Menu Seção de alunos, dentro da seção Diplomas.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais as etapas sequenciais de status do diploma mencionadas no texto?",
+          "answer": "O diploma passa primeiro para a situação 'Enviado para registro' e, após a emissão, passa para a situação 'Registrado'.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\n·\n\n<!-- image -->\n\n- pedir para a Seção de Transporte retirá-los (não precisa enviar a lista dos diplomas)\n- quando a unidade receber os diplomas, precisa conferir se todos os listados no recibo chegaram\n- acessar o Júpiter - Aluno - Solicitação de diploma - escolher unidade e ano - depois procurar pelo aluno\n\n·\n\n<!-- image -->\n\nCréditos\n\nFale conosco\n\n- clicar na aba processo digital e depois clicar em Registrar recebimento do diploma pela Unidade\n\n-\n\n[Página 6]\n·\n\n<!-- image -->\n\n- cadastrar a data do recebimento do diploma na unidade e salvar",
+      "qa_pairs": [
+        {
+          "question": "Como a unidade deve proceder para retirar os diplomas?",
+          "answer": "A unidade deve pedir para a Seção de Transporte retirá-los, não sendo necessário enviar a lista dos diplomas.",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser feito assim que a unidade recebe os diplomas?",
+          "answer": "A unidade precisa conferir se todos os diplomas listados no recibo chegaram.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para localizar um aluno para a solicitação de diploma?",
+          "answer": "O caminho é: Júpiter - Aluno - Solicitação de diploma - escolher unidade e ano - e então procurar pelo aluno.",
+          "source_page": 5
+        },
+        {
+          "question": "Onde clicar no Júpiter para registrar o recebimento do diploma pela Unidade?",
+          "answer": "Deve-se clicar na aba 'processo digital' e, em seguida, clicar em 'Registrar recebimento do diploma pela Unidade'.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual a etapa final após clicar em registrar o recebimento do diploma no sistema?",
+          "answer": "A etapa final é cadastrar a data do recebimento do diploma na unidade e salvar.",
+          "source_page": 6
+        },
+        {
+          "question": "É necessário enviar a lista de diplomas para a Seção de Transporte realizar a retirada?",
+          "answer": "Não, não é necessário enviar a lista dos diplomas.",
+          "source_page": 5
+        },
+        {
+          "question": "Como conferir a chegada dos diplomas na unidade?",
+          "answer": "A conferência deve ser feita comparando os diplomas recebidos com a lista contida no recibo.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais filtros devem ser selecionados no Júpiter ao acessar a Solicitação de diploma?",
+          "answer": "Devem ser selecionados a unidade e o ano.",
+          "source_page": 5
+        },
+        {
+          "question": "Em qual aba do sistema Júpiter se encontra a opção de registrar o recebimento do diploma?",
+          "answer": "A opção encontra-se na aba 'processo digital'.",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser salvo ao registrar o recebimento do diploma na unidade?",
+          "answer": "Deve ser cadastrada e salva a data do recebimento do diploma na unidade.",
+          "source_page": 6
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c5",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_text": "[Página 6]\n·\n\n<!-- image -->\n\n- cadastrar a data do recebimento do diploma na unidade e salvar\n\n[Página 7]\n·\n\n<!-- image -->\n\n- assim que essa data for cadastrada, o sistema enviará e-mail para os egressos avisando que o diploma está disponível\n- enviar e-mail aos alunos com as orientações sobre a retirada, pois assim que eles recebem o e-mail do sistema começam a entrar em contato. Ver e-mail enviado do grad@ com o assunto \"Diploma disponível para retirada\". Enviar para o e-mail alternativo!!\n- guardar o diploma juntamente com o recibo em ordem alfabética juntamente com os demais que já estão no setor\n- atualizar a relação de diplomas disponíveis para retirada na página do ICMC - Diplomas disponíveis para retirada. O documento está na pasta compartilhada svgrad-Diploma - (arquivo diplomas\\_disponiveis).\n- ao entregar o diploma, pedir documento de identificação e para o egresso confirmar se o diploma é dele e se está certo, entregar envelope para ele guardar o diploma, pedir para assinar o comprovante de entrega (caderno, no caso de diplomas mais antigos, ou recibo que está junto com o diploma no caso dos mais novos)\n- no caso do recibo, precisa digitalizar e fazer upload no Júpiter - Aluno &gt; Solicitação de Diploma - selecionar o aluno, clicar na aba processo digital e depois em incluir, preencher o tipo indicando Recibo de entrega do diploma para o aluno e \"documento gerado pelo sistema\", clicar em enviar",
+      "qa_pairs": [
+        {
+          "question": "O que acontece após o cadastro da data de recebimento do diploma na unidade?",
+          "answer": "Assim que a data for cadastrada, o sistema enviará automaticamente um e-mail para os egressos avisando que o diploma está disponível.",
+          "source_page": 7
+        },
+        {
+          "question": "Como deve ser feito o envio de orientações sobre a retirada do diploma aos alunos?",
+          "answer": "Deve-se enviar um e-mail para o endereço alternativo do aluno, utilizando como base o e-mail enviado pelo grad@ com o assunto 'Diploma disponível para retirada'.",
+          "source_page": 7
+        },
+        {
+          "question": "Como os diplomas devem ser organizados no setor enquanto aguardam a retirada?",
+          "answer": "Os diplomas devem ser guardados juntamente com o recibo, organizados em ordem alfabética com os demais documentos do setor.",
+          "source_page": 7
+        },
+        {
+          "question": "Onde a relação de diplomas disponíveis para retirada deve ser atualizada?",
+          "answer": "A relação deve ser atualizada na página do ICMC - Diplomas disponíveis para retirada, utilizando o arquivo 'diplomas_disponiveis' localizado na pasta compartilhada svgrad-Diploma.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais procedimentos devem ser adotados no momento da entrega do diploma ao egresso?",
+          "answer": "Deve-se pedir o documento de identificação, solicitar que o egresso confirme se o diploma está correto, entregar um envelope para guardar o documento e pedir a assinatura no comprovante de entrega (recibo ou caderno).",
+          "source_page": 7
+        },
+        {
+          "question": "O que deve ser feito com o recibo de entrega do diploma após a assinatura do aluno?",
+          "answer": "O recibo precisa ser digitalizado e feito o upload no sistema Júpiter.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para realizar o upload do recibo de entrega do diploma?",
+          "answer": "O caminho é: Aluno > Solicitação de Diploma > selecionar o aluno > aba processo digital > incluir.",
+          "source_page": 7
+        },
+        {
+          "question": "Como preencher as informações do recibo de entrega no processo digital do Júpiter?",
+          "answer": "Deve-se preencher o tipo indicando 'Recibo de entrega do diploma para o aluno' e selecionar 'documento gerado pelo sistema', clicando em enviar.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual a primeira etapa do processo de recebimento do diploma na unidade?",
+          "answer": "A primeira etapa consiste em cadastrar a data do recebimento do diploma na unidade e salvar a informação.",
+          "source_page": 6
+        },
+        {
+          "question": "Onde o egresso pode verificar a lista de diplomas que já estão disponíveis para retirada?",
+          "answer": "O egresso pode verificar essa informação na página do ICMC - Diplomas disponíveis para retirada.",
+          "source_page": 7
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c6",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_text": "[Página 7]\n·\n\n<!-- image -->\n\n- assim que essa data for cadastrada, o sistema enviará e-mail para os egressos avisando que o diploma está disponível\n- enviar e-mail aos alunos com as orientações sobre a retirada, pois assim que eles recebem o e-mail do sistema começam a entrar em contato. Ver e-mail enviado do grad@ com o assunto \"Diploma disponível para retirada\". Enviar para o e-mail alternativo!!\n- guardar o diploma juntamente com o recibo em ordem alfabética juntamente com os demais que já estão no setor\n- atualizar a relação de diplomas disponíveis para retirada na página do ICMC - Diplomas disponíveis para retirada. O documento está na pasta compartilhada svgrad-Diploma - (arquivo diplomas\\_disponiveis).\n- ao entregar o diploma, pedir documento de identificação e para o egresso confirmar se o diploma é dele e se está certo, entregar envelope para ele guardar o diploma, pedir para assinar o comprovante de entrega (caderno, no caso de diplomas mais antigos, ou recibo que está junto com o diploma no caso dos mais novos)\n- no caso do recibo, precisa digitalizar e fazer upload no Júpiter - Aluno &gt; Solicitação de Diploma - selecionar o aluno, clicar na aba processo digital e depois em incluir, preencher o tipo indicando Recibo de entrega do diploma para o aluno e \"documento gerado pelo sistema\", clicar em enviar\n\n[Página 8]\n·\n\n<!-- image -->\n\n## Emissão de 2ª via do Diploma\n\n## Legislação:\n\nResolução USP nº 8766/2025.\n\n## Portaria GR 8066/2023\n\nQuando algum egresso entrar em contato perguntando sobre a emissão de 2ª via do diploma, passar as seguintes informações:\n\nA 2ª via de diploma pode ser solicitada em casos de modificação de dados, extravio, dano ou destruição do original.\n\nDocumentos necessários:\n\n- requerimento de 2ª via do diploma dirigido ao Diretor (o modelo está disponível na pasta compartilhada e em https://web.icmc.usp.br/SVGRAD/Requerimento%202%C2%AA%20via%20Diploma.doc, - precisa ser o original e não pode ser assinatura eletrônica) - precisa enviar endereço completo do SVGRAD para o interessado e/ou informar os horários de atendimento\n- cópia do RG;\n- 1ª via do diploma (nos casos de danificação e/ou de modificação de dados);\n- comprovante do pagamento da taxa de emissão da segunda via (atualmente R$ 200,00 - este valor pode ser alterado pela Reitoria, a última Portaria é a GR 8.066/2023: https://leginf.usp.br/?portaria=portaria-gr-no-8066-de-21-de-junhode-2023) - precisa enviar os dados da conta para o interessado\n\nO endereço para postagem é:\n\nServiço de Graduação - Instituto de Ciências Matemáticas e de Computação-USP",
+      "qa_pairs": [
+        {
+          "question": "Como os egressos são avisados que o diploma está disponível?",
+          "answer": "Assim que a data for cadastrada no sistema, o sistema enviará automaticamente um e-mail para os egressos avisando que o diploma está disponível.",
+          "source_page": 7
+        },
+        {
+          "question": "O que deve ser feito ao entregar o diploma ao egresso?",
+          "answer": "Deve-se pedir um documento de identificação, solicitar que o egresso confirme se o diploma está correto, entregar um envelope para guardar o documento e pedir a assinatura no comprovante de entrega (recibo ou caderno).",
+          "source_page": 7
+        },
+        {
+          "question": "Onde é possível consultar a relação de diplomas disponíveis para retirada?",
+          "answer": "A relação de diplomas disponíveis para retirada é atualizada e disponibilizada na página do ICMC - Diplomas disponíveis para retirada.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual o procedimento após a entrega do diploma no caso de uso de recibo?",
+          "answer": "O recibo deve ser digitalizado e feito o upload no sistema Júpiter, no caminho: Aluno > Solicitação de Diploma > aba processo digital > incluir, preenchendo o tipo como 'Recibo de entrega do diploma para o aluno' e 'documento gerado pelo sistema'.",
+          "source_page": 7
+        },
+        {
+          "question": "Em quais situações é possível solicitar a 2ª via do diploma?",
+          "answer": "A 2ª via do diploma pode ser solicitada em casos de extravio, dano, destruição do original ou modificação de dados.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais documentos são necessários para solicitar a 2ª via do diploma?",
+          "answer": "São necessários: requerimento de 2ª via dirigido ao Diretor (original, sem assinatura eletrônica), cópia do RG, a 1ª via do diploma (em casos de danificação ou modificação de dados) e o comprovante de pagamento da taxa de emissão.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual é o valor atual da taxa para emissão da segunda via do diploma?",
+          "answer": "O valor atual é de R$ 200,00, conforme a Portaria GR 8.066/2023, podendo ser alterado pela Reitoria.",
+          "source_page": 8
+        },
+        {
+          "question": "O requerimento para a 2ª via do diploma pode ser assinado eletronicamente?",
+          "answer": "Não, o requerimento precisa ser o original e não pode conter assinatura eletrônica.",
+          "source_page": 8
+        },
+        {
+          "question": "Onde posso encontrar o modelo de requerimento para a 2ª via do diploma?",
+          "answer": "O modelo está disponível na pasta compartilhada e no endereço https://web.icmc.usp.br/SVGRAD/Requerimento%202%C2%AA%20via%20Diploma.doc",
+          "source_page": 8
+        },
+        {
+          "question": "Para onde deve ser enviada a documentação de solicitação de 2ª via do diploma?",
+          "answer": "A documentação deve ser postada para o Serviço de Graduação - Instituto de Ciências Matemáticas e de Computação-USP.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c7",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_text": "[Página 8]\n·\n\n<!-- image -->\n\n## Emissão de 2ª via do Diploma\n\n## Legislação:\n\nResolução USP nº 8766/2025.\n\n## Portaria GR 8066/2023\n\nQuando algum egresso entrar em contato perguntando sobre a emissão de 2ª via do diploma, passar as seguintes informações:\n\nA 2ª via de diploma pode ser solicitada em casos de modificação de dados, extravio, dano ou destruição do original.\n\nDocumentos necessários:\n\n- requerimento de 2ª via do diploma dirigido ao Diretor (o modelo está disponível na pasta compartilhada e em https://web.icmc.usp.br/SVGRAD/Requerimento%202%C2%AA%20via%20Diploma.doc, - precisa ser o original e não pode ser assinatura eletrônica) - precisa enviar endereço completo do SVGRAD para o interessado e/ou informar os horários de atendimento\n- cópia do RG;\n- 1ª via do diploma (nos casos de danificação e/ou de modificação de dados);\n- comprovante do pagamento da taxa de emissão da segunda via (atualmente R$ 200,00 - este valor pode ser alterado pela Reitoria, a última Portaria é a GR 8.066/2023: https://leginf.usp.br/?portaria=portaria-gr-no-8066-de-21-de-junhode-2023) - precisa enviar os dados da conta para o interessado\n\nO endereço para postagem é:\n\nServiço de Graduação - Instituto de Ciências Matemáticas e de Computação-USP\n\n[Página 9]\nAvenida Trabalhador São-carlense, 400-Centro\n\nCEP: 13566-590 - São Carlos-SP\n\nO Serviço de Graduação do ICMC atende presencialmente das 09h00 às 11h00 e das 14h00 às 16h00, de segunda a sexta-feira, e das 18h às 19h00, às terças e às quintas-feiras (durante o semestre letivo). Local: Térreo do Bloco 3 do ICMC-USP\n\nO pagamento deve ser feito para a seguinte conta:\n\nICMC- Receita\n\nBanco do Brasil\n\nAgência 6845-4\n\nConta 130113-6\n\nInstituto de Ciências Matemáticas e de Computação - ICMC/USP\n\nCNPJ 63.025.530/0051-73\n\n## Procedimentos posteriores ao pedido\n\n- Não precisa mais passar pela CG!\n- abrir processo como Registro de 2ª via de diploma e no campo detalhamento complementar as informações. Por exemplo: Solicitação de expedição de 2a. via do diploma por motivo de extravio - Curso Bacharelado em Ciências de Computação\n- instruir com os documentos enviados pelo egresso, ofício de encaminhamento e o formulário para registro do diploma (modelo está na pasta compartilhada svgrad - Diploma - 2ª via)\n- O formulário para registro do diploma deve ser preenchido pelo svgrad. No campo data de expedição deve ser informada a data atual na qual o documento está sendo preenchido (seguir os modelos que tem na pasta)\n- dar saída do processo para DRA-01\n- quando o diploma ficar pronto, será enviado juntamente com o processo\n- avisar o egresso por e-mail (ressaltar que não enviamos por correio e que ele poderá preencher uma procuração para um terceiro retirar)\n\n·\n\n## Cartão assinatura diplomas\n\n- Quando há troca de chefias/Diretor, é necessário preencher o cartão de assinaturas de diploma e enviar para a Secretaria Geral",
+      "qa_pairs": [
+        {
+          "question": "Em quais situações posso solicitar a segunda via do diploma?",
+          "answer": "A segunda via do diploma pode ser solicitada em casos de extravio, dano, destruição do original ou modificação de dados.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais documentos são necessários para pedir a 2ª via do diploma?",
+          "answer": "São necessários: requerimento de 2ª via dirigido ao Diretor (original, sem assinatura eletrônica), cópia do RG, a 1ª via do diploma (em casos de danificação ou modificação de dados) e o comprovante de pagamento da taxa de emissão.",
+          "source_page": 8
+        },
+        {
+          "question": "Onde encontro o modelo de requerimento para a 2ª via do diploma?",
+          "answer": "O modelo está disponível na pasta compartilhada e no endereço https://web.icmc.usp.br/SVGRAD/Requerimento%202%C2%AA%20via%20Diploma.doc",
+          "source_page": 8
+        },
+        {
+          "question": "Qual é o valor da taxa para emissão da segunda via do diploma?",
+          "answer": "Atualmente, a taxa é de R$ 200,00, porém este valor pode ser alterado pela Reitoria.",
+          "source_page": 8
+        },
+        {
+          "question": "Para qual conta bancária deve ser feito o pagamento da taxa de 2ª via?",
+          "answer": "O pagamento deve ser feito para o Banco do Brasil, Agência 6845-4, Conta 130113-6, em nome de ICMC- Receita (CNPJ 63.025.530/0051-73).",
+          "source_page": 9
+        },
+        {
+          "question": "Qual o endereço para postagem dos documentos de solicitação de diploma?",
+          "answer": "Serviço de Graduação - Instituto de Ciências Matemáticas e de Computação-USP, Avenida Trabalhador São-carlense, 400-Centro, CEP: 13566-590 - São Carlos-SP.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais são os horários de atendimento presencial do Serviço de Graduação do ICMC?",
+          "answer": "Durante o semestre letivo, o atendimento ocorre de segunda a sexta-feira, das 09h00 às 11h00 e das 14h00 às 16h00, e às terças e quintas-feiras, das 18h às 19h00.",
+          "source_page": 9
+        },
+        {
+          "question": "Onde fica localizado o Serviço de Graduação do ICMC-USP?",
+          "answer": "O Serviço de Graduação está localizado no Térreo do Bloco 3 do ICMC-USP.",
+          "source_page": 9
+        },
+        {
+          "question": "Como o egresso recebe o diploma após a emissão da segunda via?",
+          "answer": "O egresso é avisado por e-mail. O documento não é enviado por correio, devendo ser retirado presencialmente ou por um terceiro mediante procuração.",
+          "source_page": 9
+        },
+        {
+          "question": "O que deve ser feito quando ocorre a troca de chefias ou de Diretor em relação aos diplomas?",
+          "answer": "É necessário preencher o cartão de assinaturas de diploma e enviá-lo para a Secretaria Geral.",
+          "source_page": 9
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c8",
+      "pages": [
+        9,
+        10
+      ],
+      "chunk_text": "[Página 9]\nAvenida Trabalhador São-carlense, 400-Centro\n\nCEP: 13566-590 - São Carlos-SP\n\nO Serviço de Graduação do ICMC atende presencialmente das 09h00 às 11h00 e das 14h00 às 16h00, de segunda a sexta-feira, e das 18h às 19h00, às terças e às quintas-feiras (durante o semestre letivo). Local: Térreo do Bloco 3 do ICMC-USP\n\nO pagamento deve ser feito para a seguinte conta:\n\nICMC- Receita\n\nBanco do Brasil\n\nAgência 6845-4\n\nConta 130113-6\n\nInstituto de Ciências Matemáticas e de Computação - ICMC/USP\n\nCNPJ 63.025.530/0051-73\n\n## Procedimentos posteriores ao pedido\n\n- Não precisa mais passar pela CG!\n- abrir processo como Registro de 2ª via de diploma e no campo detalhamento complementar as informações. Por exemplo: Solicitação de expedição de 2a. via do diploma por motivo de extravio - Curso Bacharelado em Ciências de Computação\n- instruir com os documentos enviados pelo egresso, ofício de encaminhamento e o formulário para registro do diploma (modelo está na pasta compartilhada svgrad - Diploma - 2ª via)\n- O formulário para registro do diploma deve ser preenchido pelo svgrad. No campo data de expedição deve ser informada a data atual na qual o documento está sendo preenchido (seguir os modelos que tem na pasta)\n- dar saída do processo para DRA-01\n- quando o diploma ficar pronto, será enviado juntamente com o processo\n- avisar o egresso por e-mail (ressaltar que não enviamos por correio e que ele poderá preencher uma procuração para um terceiro retirar)\n\n·\n\n## Cartão assinatura diplomas\n\n- Quando há troca de chefias/Diretor, é necessário preencher o cartão de assinaturas de diploma e enviar para a Secretaria Geral\n\n[Página 10]\n- Entrar em contato com a SG para pedir que enviem o cartão pelo malote ou pedir para o motorista passar lá para retirar.\n- dúvidas sobre o assunto, o contato é diplomas@usp.br Telefone: 3091-0132\n\n## Revalidação de diploma estrangeiro\n\n## Legislação:\n\n## Resolução CoG 8397/2023\n\n## Orientações da Secretaria Geral da USP\n\n- A solicitação de revalidação é encaminhada pelo interessado diretamente à Reitoria da USP - PRG\n- A Reitoria faz a distribuição da análise à unidade que oferece o mesmo curso para o qual o interesse pleiteia a revalidação.\n- O funcionário cadastrado pela Pró-Reitoria como responsável pela Comissão de Graduação da unidade irá receber um e-mail avisando que um processo foi disponibilizado para avaliação. Exemplo: Notificação do processo para avaliação nº 24.1.5837.1.0.\n- Ao receber este e-mail, o funcionário deverá acessar o Netuno - aba Restrito - Trocal o perfil para Avaliação.\n\nTrocar Perfil\n\nClique no abaixo para trocar: perfil\n\n- Avaliação (22)\n- Seção de Alunos (12)\n\n·\n\n- Em seguida, na aba Restrito, clicar em Avaliação Diploma Estrangeiro\n\n·\n\n<!-- image -->\n\n- Escolher a opção 1-Lista dos processos para revalidação e clicar em buscar",
+      "qa_pairs": [
+        {
+          "question": "Qual é o endereço do ICMC-USP?",
+          "answer": "O ICMC-USP está localizado na Avenida Trabalhador São-carlense, 400, Centro, CEP: 13566-590, em São Carlos-SP.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais são os horários de atendimento presencial do Serviço de Graduação do ICMC?",
+          "answer": "O atendimento ocorre de segunda a sexta-feira, das 09h00 às 11h00 e das 14h00 às 16h00. Durante o semestre letivo, há também atendimento às terças e quintas-feiras, das 18h às 19h00.",
+          "source_page": 9
+        },
+        {
+          "question": "Onde fica localizado o Serviço de Graduação do ICMC?",
+          "answer": "O Serviço de Graduação localiza-se no térreo do Bloco 3 do ICMC-USP.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais são os dados bancários para a realização de pagamentos ao ICMC?",
+          "answer": "O pagamento deve ser feito para a conta ICMC-Receita no Banco do Brasil, Agência 6845-4, Conta 130113-6, CNPJ 63.025.530/0051-73.",
+          "source_page": 9
+        },
+        {
+          "question": "Como deve ser aberto o processo para solicitação de 2ª via de diploma?",
+          "answer": "O processo deve ser aberto como 'Registro de 2ª via de diploma', informando no campo de detalhamento complementar o motivo e o curso (exemplo: Solicitação de expedição de 2a. via do diploma por motivo de extravio - Curso Bacharelado em Ciências de Computação).",
+          "source_page": 9
+        },
+        {
+          "question": "Como o egresso é notificado sobre a conclusão da 2ª via do diploma e como deve ser a retirada?",
+          "answer": "O egresso é avisado por e-mail. O documento não é enviado por correio, devendo ser retirado presencialmente ou por um terceiro mediante preenchimento de procuração.",
+          "source_page": 9
+        },
+        {
+          "question": "O que deve ser feito quando ocorre a troca de chefias ou de Diretor em relação aos diplomas?",
+          "answer": "É necessário preencher o cartão de assinaturas de diploma e enviá-lo para a Secretaria Geral.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual o contato para tirar dúvidas sobre o cartão de assinaturas de diplomas?",
+          "answer": "As dúvidas podem ser sanadas através do e-mail diplomas@usp.br ou pelo telefone 3091-0132.",
+          "source_page": 10
+        },
+        {
+          "question": "Para onde deve ser encaminhada a solicitação de revalidação de diploma estrangeiro?",
+          "answer": "A solicitação de revalidação deve ser encaminhada pelo interessado diretamente à Reitoria da USP - PRG.",
+          "source_page": 10
+        },
+        {
+          "question": "Como o funcionário responsável pela Comissão de Graduação deve acessar o processo de avaliação de diploma estrangeiro no Netuno?",
+          "answer": "O funcionário deve acessar o Netuno, ir na aba 'Restrito', trocar o perfil para 'Avaliação (22)' e, em seguida, clicar em 'Avaliação Diploma Estrangeiro' e escolher a opção '1-Lista dos processos para revalidação'.",
+          "source_page": 10
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c9",
+      "pages": [
+        10,
+        11
+      ],
+      "chunk_text": "[Página 10]\n- Entrar em contato com a SG para pedir que enviem o cartão pelo malote ou pedir para o motorista passar lá para retirar.\n- dúvidas sobre o assunto, o contato é diplomas@usp.br Telefone: 3091-0132\n\n## Revalidação de diploma estrangeiro\n\n## Legislação:\n\n## Resolução CoG 8397/2023\n\n## Orientações da Secretaria Geral da USP\n\n- A solicitação de revalidação é encaminhada pelo interessado diretamente à Reitoria da USP - PRG\n- A Reitoria faz a distribuição da análise à unidade que oferece o mesmo curso para o qual o interesse pleiteia a revalidação.\n- O funcionário cadastrado pela Pró-Reitoria como responsável pela Comissão de Graduação da unidade irá receber um e-mail avisando que um processo foi disponibilizado para avaliação. Exemplo: Notificação do processo para avaliação nº 24.1.5837.1.0.\n- Ao receber este e-mail, o funcionário deverá acessar o Netuno - aba Restrito - Trocal o perfil para Avaliação.\n\nTrocar Perfil\n\nClique no abaixo para trocar: perfil\n\n- Avaliação (22)\n- Seção de Alunos (12)\n\n·\n\n- Em seguida, na aba Restrito, clicar em Avaliação Diploma Estrangeiro\n\n·\n\n<!-- image -->\n\n- Escolher a opção 1-Lista dos processos para revalidação e clicar em buscar\n\n[Página 11]\n·\n\n## AVALIAÇÃO DIPLOMAS ESTRANGEIROS\n\n<!-- image -->\n\n- Selecionar o interessado e clicar em listar andamento\n\n<!-- image -->\n\n·\n\n- Consultar os arquivos anexados pelo interessado em Listar arquivos do interessado e baixá-los\n\n·\n\n<!-- image -->\n\n- Verificar com o presidente da CG se ele irá fazer o parecer ou se indicará outro docente",
+      "qa_pairs": [
+        {
+          "question": "Como posso obter meu cartão se ele estiver na SG?",
+          "answer": "Você deve entrar em contato com a SG para solicitar que o cartão seja enviado via malote ou solicitar que o motorista passe no local para retirá-lo.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual é o e-mail e o telefone para tirar dúvidas sobre diplomas?",
+          "answer": "O e-mail de contato é diplomas@usp.br e o telefone é 3091-0132.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual a legislação que rege a revalidação de diploma estrangeiro?",
+          "answer": "A revalidação de diploma estrangeiro é regida pela Resolução CoG 8397/2023 e pelas orientações da Secretaria Geral da USP.",
+          "source_page": 10
+        },
+        {
+          "question": "Para onde deve ser encaminhada a solicitação de revalidação de diploma estrangeiro?",
+          "answer": "A solicitação de revalidação deve ser encaminhada pelo interessado diretamente à Reitoria da USP - PRG.",
+          "source_page": 10
+        },
+        {
+          "question": "Como a Reitoria distribui a análise de revalidação de diploma?",
+          "answer": "A Reitoria distribui a análise à unidade que oferece o mesmo curso para o qual o interessado pleiteia a revalidação.",
+          "source_page": 10
+        },
+        {
+          "question": "Como o responsável pela Comissão de Graduação da unidade é notificado sobre um processo de avaliação?",
+          "answer": "O funcionário cadastrado pela Pró-Reitoria como responsável recebe um e-mail avisando que um processo foi disponibilizado para avaliação (exemplo: Notificação do processo para avaliação nº 24.1.5837.1.0).",
+          "source_page": 10
+        },
+        {
+          "question": "Qual o procedimento inicial no sistema Netuno para processar a avaliação de diploma estrangeiro?",
+          "answer": "O funcionário deve acessar a aba 'Restrito' do Netuno e trocar o perfil para 'Avaliação (22)'.",
+          "source_page": 10
+        },
+        {
+          "question": "Após trocar o perfil para Avaliação no Netuno, onde deve-se clicar para acessar a revalidação?",
+          "answer": "Na aba 'Restrito', deve-se clicar em 'Avaliação Diploma Estrangeiro' e, em seguida, escolher a opção '1-Lista dos processos para revalidação' e clicar em buscar.",
+          "source_page": 10
+        },
+        {
+          "question": "Como visualizar os documentos enviados pelo interessado na revalidação de diploma?",
+          "answer": "Deve-se selecionar o interessado, clicar em 'listar andamento' e, posteriormente, em 'Listar arquivos do interessado' para consultá-los e baixá-los.",
+          "source_page": 11
+        },
+        {
+          "question": "Quem define se o presidente da CG fará o parecer da revalidação ou indicará outro docente?",
+          "answer": "O funcionário responsável deve verificar com o presidente da CG se ele próprio fará o parecer ou se indicará outro docente para a tarefa.",
+          "source_page": 11
+        }
+      ]
+    },
+    {
+      "chunk_id": "Diploma (Registro, 2ª via, Revalidação)__c10",
+      "pages": [
+        11,
+        12
+      ],
+      "chunk_text": "[Página 11]\n·\n\n## AVALIAÇÃO DIPLOMAS ESTRANGEIROS\n\n<!-- image -->\n\n- Selecionar o interessado e clicar em listar andamento\n\n<!-- image -->\n\n·\n\n- Consultar os arquivos anexados pelo interessado em Listar arquivos do interessado e baixá-los\n\n·\n\n<!-- image -->\n\n- Verificar com o presidente da CG se ele irá fazer o parecer ou se indicará outro docente\n\n[Página 12]\n- Acessar novamente o sistema e na tela anterior, clicar em Encaminhar para enviar ao docente que irá emitir o parecer. Informar o NUSP do docente e cadastrar a informação de solicitação de parecer e dar um prazo.\n- O docente receberá um e-mail do sistema. O parecer dele pode ser cadastrado diretamente no sistema, mas também há a possibilidade de inserir documentos.\n- Assim que o docente enviar o parecer, ele deve ser encaminhado para análise da CG. Após a análise, cadastrar o parecer no sistema e encaminhar para a Congregação.\n- O prazo de toda a tramitação da unidade é de 90 dias, conforme a Resolução",
+      "qa_pairs": [
+        {
+          "question": "Como iniciar o processo de avaliação de diplomas estrangeiros no sistema?",
+          "answer": "O interessado deve ser selecionado e, em seguida, deve-se clicar em 'listar andamento'.",
+          "source_page": 11
+        },
+        {
+          "question": "Onde posso encontrar os arquivos anexados pelo interessado na avaliação de diploma?",
+          "answer": "Os arquivos podem ser consultados e baixados através da opção 'Listar arquivos do interessado'.",
+          "source_page": 11
+        },
+        {
+          "question": "Quem define se o parecer da avaliação de diploma será feito pelo presidente da CG ou por outro docente?",
+          "answer": "Deve-se verificar com o presidente da CG se ele mesmo fará o parecer ou se indicará outro docente para a tarefa.",
+          "source_page": 11
+        },
+        {
+          "question": "Como encaminhar a solicitação de parecer para um docente no sistema?",
+          "answer": "Deve-se acessar o sistema, clicar em 'Encaminhar', informar o NUSP do docente, cadastrar a informação de solicitação de parecer e definir um prazo.",
+          "source_page": 12
+        },
+        {
+          "question": "Como o docente é notificado sobre a solicitação de parecer?",
+          "answer": "O docente recebe a notificação através de um e-mail enviado pelo sistema.",
+          "source_page": 12
+        },
+        {
+          "question": "De que forma o docente pode enviar o seu parecer?",
+          "answer": "O parecer pode ser cadastrado diretamente no sistema ou por meio da inserção de documentos.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual é o fluxo do processo após o docente enviar o parecer?",
+          "answer": "O parecer deve ser encaminhado para análise da CG. Após essa análise, o parecer é cadastrado no sistema e encaminhado para a Congregação.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual é o prazo total para a tramitação da unidade no processo de avaliação de diplomas?",
+          "answer": "O prazo de toda a tramitação da unidade é de 90 dias, conforme a Resolução.",
+          "source_page": 12
+        },
+        {
+          "question": "O que é necessário informar ao encaminhar o processo para o docente emitir o parecer?",
+          "answer": "É necessário informar o NUSP do docente, cadastrar a solicitação de parecer e estipular um prazo.",
+          "source_page": 12
+        },
+        {
+          "question": "Para onde o processo é enviado após a análise da CG e o cadastro do parecer no sistema?",
+          "answer": "O processo é encaminhado para a Congregação.",
+          "source_page": 12
+        }
+      ]
+    }
+  ]
+}

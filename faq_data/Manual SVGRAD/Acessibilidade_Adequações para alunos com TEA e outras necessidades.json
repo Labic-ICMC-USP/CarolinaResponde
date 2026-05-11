@@ -1,0 +1,65 @@
+{
+  "doc_name": "Acessibilidade_Adequações para alunos com TEA e outras necessidades",
+  "source_path": "data\\Manual SVGRAD\\Acessibilidade_Adequações para alunos com TEA e outras necessidades.docx",
+  "chunks": [
+    {
+      "chunk_id": "Acessibilidade_Adequações para alunos com TEA e outras necessidades__c0",
+      "pages": [
+        1
+      ],
+      "chunk_text": "[Página 1]\n## Acessibilidade/Adequações\n\n## Legislação:\n\nPortaria PRIP Nº 059/2024 - Diretrizes gerais para a Política de Inclusão das Pessoas com Transtorno do Espectro Autista (TEA)\n\nPortaria PRIP Nº 065/2024 - Diretrizes gerais para a Política de inclusão das Pessoas com Deficiência da USP\n\n## Portaria ICMC nº 006/2025.\n\n- Alunos de graduação com deficiência (física, sensorial) ou com Transtorno do Espectro Autista podem solicitar adaptações, conforme dispõe a Portaria ICMC nº 006/2025.\n- A solicitação deve ser feita por meio do preenchimento deste Formulário\n- No caso do curso interunidades Licenciatura em Ciências Exatas, o aluno deve seguir o procedimento definido pelo IFSC, e para o curso Engenharia de Computação o procedimento definido pela EESC.\n- Caso haja dúvidas sobre o procedimento ou sobre outras situações não previstas na Portaria, o aluno deve entrar em contato com a Comissão de Inclusão e Pertencimento do ICMC no cip@icmc.usp.br.\n- O SVGrad é responsável por fornecer informações aos alunos e orientá-los sobre o procedimento. (Manter a página atualizada, divulgar o link do formulário no mural do svgrad e no instagram)\n- A CIP recebe o pedido, faz a análise da documentação e encaminha para análise da CG.\n- A CG analisa se é possível atender às solicitações feitas pelo aluno, indica um tutor, se necessário, faz sugestões de alterações no texto que será enviado aos docentes\n- Os despachos das decisões da CG são enviados à CIP.\n- A CIP é responsável por entrar em contato com os docentes para tratar das adaptações.",
+      "qa_pairs": [
+        {
+          "question": "Quem pode solicitar adaptações no ICMC?",
+          "answer": "Alunos de graduação com deficiência (física, sensorial) ou com Transtorno do Espectro Autista podem solicitar adaptações, conforme a Portaria ICMC nº 006/2025.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser feita a solicitação de adaptações para alunos com deficiência ou TEA?",
+          "answer": "A solicitação deve ser feita por meio do preenchimento de um formulário específico.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual o procedimento para alunos da Licenciatura em Ciências Exatas solicitarem adaptações?",
+          "answer": "No caso do curso interunidades Licenciatura em Ciências Exatas, o aluno deve seguir o procedimento definido pelo IFSC.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual o procedimento para alunos de Engenharia de Computação solicitarem adaptações?",
+          "answer": "Para o curso de Engenharia de Computação, o aluno deve seguir o procedimento definido pela EESC.",
+          "source_page": 1
+        },
+        {
+          "question": "O que fazer em caso de dúvidas sobre o procedimento de adaptações ou situações não previstas na Portaria?",
+          "answer": "O aluno deve entrar em contato com a Comissão de Inclusão e Pertencimento do ICMC através do e-mail cip@icmc.usp.br.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a responsabilidade do SVGrad no processo de acessibilidade?",
+          "answer": "O SVGrad é responsável por fornecer informações, orientar os alunos sobre o procedimento, manter a página atualizada e divulgar o link do formulário no mural do SVGrad e no Instagram.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é o papel da CIP no fluxo de solicitação de adaptações?",
+          "answer": "A CIP recebe o pedido, realiza a análise da documentação, encaminha para a análise da CG e é responsável por entrar em contato com os docentes para tratar das adaptações.",
+          "source_page": 1
+        },
+        {
+          "question": "O que a CG faz ao analisar as solicitações de adaptação?",
+          "answer": "A CG analisa a possibilidade de atender às solicitações, indica um tutor se necessário e pode sugerir alterações no texto que será enviado aos docentes.",
+          "source_page": 1
+        },
+        {
+          "question": "Como as decisões da CG são comunicadas?",
+          "answer": "Os despachos das decisões da CG são enviados à CIP.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais legislações regem a política de inclusão de pessoas com TEA e deficiência na USP?",
+          "answer": "A Portaria PRIP Nº 059/2024 trata das diretrizes para a Política de Inclusão das Pessoas com Transtorno do Espectro Autista (TEA) e a Portaria PRIP Nº 065/2024 trata das diretrizes para a Política de inclusão das Pessoas com Deficiência da USP.",
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}

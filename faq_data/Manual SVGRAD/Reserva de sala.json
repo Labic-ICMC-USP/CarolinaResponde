@@ -1,0 +1,201 @@
+{
+  "doc_name": "Reserva de sala",
+  "source_path": "data\\Manual SVGRAD\\Reserva de sala.docx",
+  "chunks": [
+    {
+      "chunk_id": "Reserva de sala__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Reserva de sala\n\n## Legislação:\n\n## Portaria ICMC 014/2025\n\n- A reserva das salas do ICMC é feita via Sistema Intranet.\n- A definição das prioridades e quais setores são responsáveis por cada tipo de reserva são definidas pela Portaria ICMC 014/2025\n- O SvGrad é responsável por efetuar as reservas para as aulas de disciplinas ICMC ministradas para os alunos do ICMC e de disciplinas de outras unidades ministradas para os alunos do ICMC\n- Não é responsabilidade do SvGrad efetuar a distribuição e reservas de salas de disciplinas do ICMC ministradas para alunos de outras unidades. Caso a outra unidade não tenha sala disponível, poderá solicitar ao ICMC que verifique se há possibilidade de \"emprestar\" uma sala\n- O SvGrad é responsável também por efetuar as reservas para as monitorias das disciplinas da graduação\n- As reservas fixas são semestrais e ocorrem na seguinte ordem: 1º) aulas de graduação, 2º) aulas de pós-graduação, 3º) monitorias de graduação\n- O SvGrad faz a distribuição das turmas oferecidas no semestre nas salas disponíveis usando o sistema de otimização criado pelo estagiário. Depois, faz o acompanhamento dos relatórios de interações de matrícula e requerimentos para verificar se o número de inscritos está condizente com as salas alocadas. Somente após esse processo, é que são feitas as reservas na intranet de uma única vez (ver orientação abaixo)\n- As reservas eventuais para realização de provas e monitorias em salas distintas das já reservadas podem ser feitas diretamente pelo docente até 30 dias antes da data pretendida. Caso o docente solicite a reserva dentro desse período, ele deve ser orientado que poderá efetuar diretamente na intranet (repassar a portaria ao interessado)\n\n## Para efetuar a reserva:\n\n- Acessar o Sistema Intranet e efetuar o login com a senha única\n- No menu Área Acadêmica, clicar em Salas e Recursos\n\n<!-- image -->\n\n[Página 2]\n- Clicar em Reservar Salas\n- Se ainda não tiver uma sala definida, pode usar os campos de busca por horário para reservas eventuais ou fixas para verificar uma sala disponível\n\n<!-- image -->\n\n·\n\n<!-- image -->\n\n- Se já tiver uma sala definida, clicar sobre o número dela\n\n·\n\n<!-- image -->\n\n- Clicar no menu Agendar reserva (fixa ou eventual)\n\n## Agendar reserva\n\n## Fixa Eventual\n\n- No caso de reserva fixa, será necessário preencher os seguintes dados:",
+      "qa_pairs": [
+        {
+          "question": "Como é feita a reserva de salas no ICMC?",
+          "answer": "A reserva das salas do ICMC é realizada através do Sistema Intranet.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a legislação que define as prioridades e responsabilidades das reservas de salas?",
+          "answer": "As prioridades e os setores responsáveis por cada tipo de reserva são definidos pela Portaria ICMC 014/2025.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem é o responsável por reservar salas para as aulas de disciplinas do ICMC ministradas para alunos do ICMC?",
+          "answer": "O SvGrad é o responsável por efetuar essas reservas, bem como as de disciplinas de outras unidades ministradas para alunos do ICMC.",
+          "source_page": 1
+        },
+        {
+          "question": "O SvGrad reserva salas para disciplinas do ICMC ministradas para alunos de outras unidades?",
+          "answer": "Não. Não é responsabilidade do SvGrad efetuar a distribuição e reservas de salas para disciplinas do ICMC ministradas para alunos de outras unidades. Nesses casos, a outra unidade pode solicitar ao ICMC a possibilidade de 'emprestar' uma sala se não houver disponibilidade na unidade de origem.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a ordem de prioridade para as reservas fixas semestrais?",
+          "answer": "A ordem de prioridade é: 1º) aulas de graduação, 2º) aulas de pós-graduação e 3º) monitorias de graduação.",
+          "source_page": 1
+        },
+        {
+          "question": "Como o SvGrad distribui as turmas nas salas disponíveis?",
+          "answer": "O SvGrad utiliza um sistema de otimização criado pelo estagiário e, posteriormente, acompanha relatórios de interações de matrícula e requerimentos para verificar se o número de inscritos é condizente com as salas alocadas antes de realizar as reservas na intranet.",
+          "source_page": 1
+        },
+        {
+          "question": "Como um docente pode reservar uma sala para a realização de provas ou monitorias eventuais?",
+          "answer": "O docente pode efetuar a reserva diretamente via intranet até 30 dias antes da data pretendida.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual o caminho no Sistema Intranet para iniciar a reserva de uma sala?",
+          "answer": "O usuário deve acessar o Sistema Intranet com a senha única, ir ao menu 'Área Acadêmica' e clicar em 'Salas e Recursos'.",
+          "source_page": 1
+        },
+        {
+          "question": "O que fazer no sistema se eu ainda não tiver uma sala definida para a reserva?",
+          "answer": "É possível utilizar os campos de busca por horário para reservas eventuais ou fixas para verificar qual sala está disponível.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são os tipos de agendamento de reserva disponíveis no sistema?",
+          "answer": "Existem dois tipos de agendamento de reserva: fixa ou eventual.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Reserva de sala__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- Clicar em Reservar Salas\n- Se ainda não tiver uma sala definida, pode usar os campos de busca por horário para reservas eventuais ou fixas para verificar uma sala disponível\n\n<!-- image -->\n\n·\n\n<!-- image -->\n\n- Se já tiver uma sala definida, clicar sobre o número dela\n\n·\n\n<!-- image -->\n\n- Clicar no menu Agendar reserva (fixa ou eventual)\n\n## Agendar reserva\n\n## Fixa Eventual\n\n- No caso de reserva fixa, será necessário preencher os seguintes dados:\n\n[Página 3]\n<!-- image -->\n\n- No caso de reserva eventual, precisa informar o número de reservas\n- Depois, preencher os dados necessários:\n\n<!-- image -->\n\n<!-- image -->\n\n## Para remover uma reserva ou modificá-la ,\n\n- Seguir os passos anteriores, escolher a sala e clicar na opção desejada",
+      "qa_pairs": [
+        {
+          "question": "Como faço para reservar uma sala no ICMC?",
+          "answer": "Para reservar uma sala, deve-se clicar em 'Reservar Salas'. Caso não tenha uma sala definida, é possível utilizar os campos de busca por horário para verificar a disponibilidade de salas para reservas eventuais ou fixas.",
+          "source_page": 2
+        },
+        {
+          "question": "O que fazer se eu já tiver uma sala definida para reserva?",
+          "answer": "Se você já tiver uma sala definida, deve clicar sobre o número da sala e, em seguida, clicar no menu 'Agendar reserva (fixa ou eventual)'.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são os tipos de reserva de sala disponíveis?",
+          "answer": "Estão disponíveis as reservas do tipo 'Fixa' e 'Eventual'.",
+          "source_page": 2
+        },
+        {
+          "question": "O que é necessário fazer ao realizar uma reserva fixa?",
+          "answer": "No caso de reserva fixa, é necessário preencher os dados solicitados no sistema.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual informação adicional é necessária para realizar uma reserva eventual?",
+          "answer": "Para reservas eventuais, é necessário informar o número de reservas e preencher os dados necessários.",
+          "source_page": 3
+        },
+        {
+          "question": "Como posso verificar se existe uma sala disponível em um determinado horário?",
+          "answer": "Você pode usar os campos de busca por horário para reservas eventuais ou fixas para verificar a disponibilidade de salas.",
+          "source_page": 2
+        },
+        {
+          "question": "Como faço para remover uma reserva de sala?",
+          "answer": "Para remover uma reserva, deve-se seguir os passos de reserva (clicar em Reservar Salas, escolher a sala) e clicar na opção de remoção desejada.",
+          "source_page": 3
+        },
+        {
+          "question": "Como posso modificar uma reserva já existente?",
+          "answer": "Para modificar uma reserva, siga os passos iniciais de reserva, escolha a sala e clique na opção de modificação desejada.",
+          "source_page": 3
+        },
+        {
+          "question": "Onde encontro a opção de agendar reserva fixa ou eventual?",
+          "answer": "A opção encontra-se no menu 'Agendar reserva (fixa ou eventual)', acessível após a seleção da sala.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais os passos iniciais para qualquer operação de reserva de sala?",
+          "answer": "O primeiro passo é clicar na opção 'Reservar Salas'.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Reserva de sala__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n<!-- image -->\n\n- No caso de reserva eventual, precisa informar o número de reservas\n- Depois, preencher os dados necessários:\n\n<!-- image -->\n\n<!-- image -->\n\n## Para remover uma reserva ou modificá-la ,\n\n- Seguir os passos anteriores, escolher a sala e clicar na opção desejada\n\n[Página 4]\n<!-- image -->\n\n## Para fazer as reservas fixas de uma única vez\n\n- Clicar no menu Alocação, preencher a data de início e término do semestre e fazer o upload da planilha conforme modelo da intranet\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que é necessário informar ao realizar uma reserva eventual?",
+          "answer": "No caso de reserva eventual, é necessário informar o número de reservas.",
+          "source_page": 3
+        },
+        {
+          "question": "Como devo proceder após informar o número de reservas em uma reserva eventual?",
+          "answer": "Após informar o número de reservas, deve-se preencher os dados necessários.",
+          "source_page": 3
+        },
+        {
+          "question": "Como faço para remover uma reserva?",
+          "answer": "Para remover uma reserva, deve-se seguir os passos de reserva, escolher a sala e clicar na opção de remoção desejada.",
+          "source_page": 3
+        },
+        {
+          "question": "Como posso modificar uma reserva já existente?",
+          "answer": "Para modificar uma reserva, deve-se seguir os passos iniciais, escolher a sala e clicar na opção de modificação desejada.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o procedimento para realizar reservas fixas de uma única vez?",
+          "answer": "Para fazer reservas fixas de uma única vez, deve-se clicar no menu Alocação, preencher a data de início e término do semestre e realizar o upload da planilha conforme o modelo disponível na intranet.",
+          "source_page": 4
+        },
+        {
+          "question": "Onde encontro o modelo de planilha para a realização de reservas fixas?",
+          "answer": "O modelo da planilha para reservas fixas está disponível na intranet.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais datas devem ser preenchidas ao realizar a alocação de reservas fixas?",
+          "answer": "Devem ser preenchidas a data de início e a data de término do semestre.",
+          "source_page": 4
+        },
+        {
+          "question": "Em qual menu devo acessar para fazer reservas fixas?",
+          "answer": "As reservas fixas devem ser acessadas através do menu Alocação.",
+          "source_page": 4
+        },
+        {
+          "question": "Para alterar ou excluir uma reserva, preciso selecionar a sala?",
+          "answer": "Sim, para remover ou modificar uma reserva, é necessário escolher a sala após seguir os passos iniciais.",
+          "source_page": 3
+        },
+        {
+          "question": "É possível fazer o upload de uma planilha para reservas fixas?",
+          "answer": "Sim, o procedimento de reservas fixas de uma única vez inclui o upload de uma planilha conforme o modelo da intranet.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Reserva de sala__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n<!-- image -->\n\n## Para fazer as reservas fixas de uma única vez\n\n- Clicar no menu Alocação, preencher a data de início e término do semestre e fazer o upload da planilha conforme modelo da intranet\n\n<!-- image -->\n\n[Página 5]\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como faço para realizar reservas fixas de uma única vez?",
+          "answer": "Para fazer as reservas fixas de uma única vez, você deve clicar no menu Alocação, preencher a data de início e término do semestre e realizar o upload da planilha seguindo o modelo disponível na intranet.",
+          "source_page": 4
+        }
+      ]
+    }
+  ]
+}

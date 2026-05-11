@@ -1,0 +1,66 @@
+{
+  "doc_name": "Listas de e-mails",
+  "source_path": "data\\Manual SVGRAD\\Listas de e-mails.docx",
+  "chunks": [
+    {
+      "chunk_id": "Listas de e-mails__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Listas de e-mails\n\nO acesso às listas da graduação é feito pelo link https://listas.icmc.usp.br/wws (usuário grad@icmc.usp.br e senha 22nov@).\n\nO acesso ao Synclistas é feito https://synclistas.icmc.usp.br/ com a senha única. O manual está disponível em https://docs.google.com/document/d/1JXqVn8EX1mKr8ojZN0bZPXTOWp-3XgoDRalzFdVb1Ks/edit?usp=shar-\n\n## ing\n\n## Lista geral: grad-l@listas.icmc.usp.br e alunos-l@icmc.usp.br\n\nA lista alunos-l@ e grad-l@ contém todos os alunos do ICMC e da Engenharia de Computação. Elas são atualizadas automaticamente com a inclusão dos alunos que ingressam e exclusão dos alunos que têm o programa encerrado.\n\nA grad-l@ é o canal oficial para contato com os alunos, então utilizamos apenas esta lista para enviar as mensagens direcionadas a todos os alunos. A alunos-l@ é utilizada apenas para comunicação entre os alunos.\n\nListas específicas por curso: contém todos os alunos do curso, independentemente do ano de ingresso. Elas são atualizadas automaticamente com a inclusão dos alunos que ingressam e exclusão dos alunos que têm o programa encerrado.\n\nBach. Ciência de Computação: bcc@listas.icmc.usp.br\n\nBach. Ciência de Dados: bcdados@listas.icmc.usp.br\n\nBach. Estatística e Ciência de Dados: becd@listas.icmc.usp.br\n\nMatemática-Núcleo Geral, Bach. Matemática, Lic. Matemática: mat@listas.icmc.usp.br\n\nBach. Sistemas de Informação: bsi@listas.icmc.usp.br\n\nBach. Matemática Aplicada e Computação Científica: bmacc@listas.icmc.usp.br\n\nEngenharia de Computação: engcomp@listas.icmc.usp.br\n\nLicenciatura em Ciências Exatas: lce@listas.icmc.usp.br\n\n## Atenção:\n\nAs listas de alunos são atualizadas automaticamente com a inclusão dos alunos que ingressam e exclusão dos alunos que têm o programa encerrado.\n\nPara que um coordenador/secretária possa enviar e-mail para as listas específicas dos cursos, é preciso cadastrar o e-mail do docente e do secxxx@ na lista, deixando selecionada a opção \"no mail\".\n\n[Página 2]\n## Membros da lista\n\n<!-- image -->\n\nDepois, precisa acessar o Synclistas e inserir o e-mail na lista do curso como \"allow list\". Dessa forma, quando houver atualização automática, o sistema não irá excluir esses endereços de e-mail.\n\n<!-- image -->\n\nA lista cgicmc-l@listas.icmc.usp.br contém todos os membros da CG, incluindo os alunos representantes discentes, e a lista coordgrad-l@listas.icmc.usp.br é composta apenas pelos coordenadores de cursos\n\nA lista src-l@listas.icmc.usp.br é atualizada todo ano manualmente conforme a composição da Comissão de Recepção aos Calouros\n\nA lista calouros-l@listas.icmc.usp.br é atualizada manualmente com os emails dos alunos ingressantes no ano vigente. Nesta lista podem ser inseridos e-mails que não sejam @usp, pois nem todos os alunos criam a conta rapidamente. Ela serve para comunicação específica com os alunos ingressantes. A recomendação é alimentá-la conforme há as chamadas e depois atualizá-la após as etapas de confirmação de matrícula.\n\nOs professores estão cientes da existência destas listas separadas por cursos (rotineiramente envio um e-mail lembrando eles da existência delas). Quando algum docente pede para fazermos divulgação, a orientação que damos é que as divulgações devem ser feitas por eles diretamente para as listas dos alunos.",
+      "qa_pairs": [
+        {
+          "question": "Como faço para acessar as listas de e-mail da graduação?",
+          "answer": "O acesso é feito pelo link https://listas.icmc.usp.br/wws, utilizando o usuário grad@icmc.usp.br e a senha 22nov@.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a diferença entre as listas grad-l@ e alunos-l@?",
+          "answer": "A lista grad-l@ é o canal oficial para contato com os alunos, sendo utilizada para enviar mensagens direcionadas a todos. Já a lista alunos-l@ é utilizada apenas para a comunicação entre os próprios alunos.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é o e-mail da lista específica para o curso de Bacharelado em Ciência de Computação?",
+          "answer": "O e-mail da lista para o Bacharelado em Ciência de Computação é bcc@listas.icmc.usp.br.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual e-mail deve ser utilizado para contatar os alunos de Engenharia de Computação?",
+          "answer": "Deve-se utilizar a lista engcomp@listas.icmc.usp.br.",
+          "source_page": 1
+        },
+        {
+          "question": "Como funciona a atualização das listas específicas por curso?",
+          "answer": "Elas são atualizadas automaticamente, incluindo os alunos que ingressam e excluindo aqueles que têm o programa encerrado.",
+          "source_page": 1
+        },
+        {
+          "question": "O que um coordenador ou secretária deve fazer para enviar e-mails para as listas específicas dos cursos?",
+          "answer": "É necessário cadastrar o e-mail do docente e do secxxx@ na lista, selecionando a opção 'no mail'.",
+          "source_page": 1
+        },
+        {
+          "question": "Como evitar que o e-mail de um coordenador ou secretária seja excluído durante a atualização automática da lista?",
+          "answer": "É necessário acessar o Synclistas e inserir o e-mail na lista do curso como 'allow list'.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem compõe a lista coordgrad-l@listas.icmc.usp.br?",
+          "answer": "A lista coordgrad-l@listas.icmc.usp.br é composta apenas pelos coordenadores de cursos.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona a lista calouros-l@listas.icmc.usp.br e quais e-mails ela pode conter?",
+          "answer": "Ela é atualizada manualmente com os e-mails dos alunos ingressantes no ano vigente e pode conter e-mails que não sejam @usp, servindo para a comunicação específica com os ingressantes.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a orientação dada aos docentes que solicitam a divulgação de informações para os alunos?",
+          "answer": "A orientação é que as divulgações sejam feitas pelos próprios docentes diretamente para as listas dos alunos.",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "doc_name": "Trancamento de disciplina (em elaboração pela Marcela)",
+  "source_path": "data\\Manual SVGRAD\\Trancamento de disciplina (em elaboração pela Marcela).docx",
+  "chunks": [
+    {
+      "chunk_id": "Trancamento de disciplina (em elaboração pela Marcela)__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## mmaia@icmc.usp.br\n\n## Trancamento de disciplina\n\n## Legislação:\n\nRegimento da USP - art 74\n\nRESOLUÇÃO CoG Nº 3761/1990 - Regulamentação de trancamentos parciais e totais de matrícula\n\n## A chefia do setor:\n\n- trata com as demais chefias do Campus sobre um prazo comum para o trancamento de disciplina levando em conta que a data limite é definida pela PRG no calendário oficial\n- envia e-mail aos alunos com as orientações e prazos\n- cria o formulário para preenchimento dos alunos e divulga as informações na página do setor em Trancamentos\n\nO aluno poderá solicitar o trancamento de disciplinas dentro do prazo estabelecido pelo calendário da USP no semestre, desde que o trancamento não resulte na matrícula em menos de 12 créditos-aula, de acordo com o § 2º, Artigo 1º, da Resolução CoG Nº 3761, de 17/12/90 e em conformidade com o Artigo 73 do Regimento Geral da USP. A disciplina trancada continuará constando no histórico do aluno com a indicação do status T.\n\n- 1- A solicitação do aluno deve ser feita pelo formulário ( https://docs.google.com/forms/d/e/1FAIpQLSfVoRxw7RQtFC-tk4VFMM\\_a2BJ8ATz0GmVgOIfnTiKL1GKkqg/viewform?usp=sharing) disponível na página de graduação no link https://www.icmc.usp.br/graduacao/informacoes-gerais-e-servicos/formularios-e-requerimentos no item \"Trancamentos\" - Trancamento parcial de matrícula (de disciplinas).\n- 2- Nas listas dos e-mails dos alunos (grad-l@listas.icmc.usp.br) deverá ser divulgado o prazo e como deve ser feito o pedido.\n- Modelo da mensagem enviado pela SVGRAD:\n\n## \" Boa tarde.\n\nInformamos que a solicitação de trancamento de disciplinas do Xº semestre/202Y poderá ser feita até dia &lt;data&gt; .\n\nPara solicitar a exclusão é necessário preencher este formulário (obrigatório preencher logado no e-mail USP).\n\nAtenção: não será efetuada a exclusão se resultar em menos de 12 créditos-aula, de acordo com o § 3º, Artigo 1º, da Resolução CoG Nº 3761, de 17/12/90 e em conformidade com o Artigo 73 do Regimento Geral da USP.\n\n[Página 2]\nApós a matrícula na disciplina ser trancada, a disciplina continuará aparecendo no Histórico, mas estará com o status \"T\" na frente dela.\n\nAtenciosamente.\n\nServiço de Graduação - SVGRAD\n\nICMC - Universidade de São Paulo www.icmc.usp.br\"\n\n3- Os pedidos efetuados via formulário do Google (link informado no e-mail enviado aos alunos no item 2) deve ser conferido se o solicitante ficará com menos de 12 créditos-aula.\n\n3.1- Caso fique com mais de 12 créditos, pode efetuar a exclusão e avisar o aluno por e-mail.\n\na- Para efetuar o trancamento da disciplina – Sistema Júpiter\n\nAcessar o sistema Júpiter, no menu à esquerda, acessar Aluno – Requerimento – Trancamento.",
+      "qa_pairs": [
+        {
+          "question": "Como posso solicitar o trancamento de disciplinas no ICMC?",
+          "answer": "A solicitação deve ser feita através do formulário disponível na página de graduação do ICMC, no link https://www.icmc.usp.br/graduacao/informacoes-gerais-e-servicos/formularios-e-requerimentos, no item 'Trancamentos' - Trancamento parcial de matrícula (de disciplinas).",
+          "source_page": 1
+        },
+        {
+          "question": "Existe algum limite mínimo de créditos para que eu possa trancar uma disciplina?",
+          "answer": "Sim, o trancamento não pode resultar em uma matrícula com menos de 12 créditos-aula, conforme a Resolução CoG Nº 3761 e o Artigo 73 do Regimento Geral da USP.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é o prazo para solicitar o trancamento de disciplinas?",
+          "answer": "O trancamento deve ser solicitado dentro do prazo estabelecido pelo calendário oficial da USP no semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "Como serei informado sobre os prazos de trancamento de disciplinas?",
+          "answer": "A chefia do setor envia e-mails com as orientações e prazos para os alunos, e as informações também são divulgadas na página do setor em 'Trancamentos' e na lista de e-mails grad-l@listas.icmc.usp.br.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece com a disciplina trancada no meu histórico escolar?",
+          "answer": "A disciplina trancada continuará constando no histórico do aluno, mas estará identificada com o status 'T'.",
+          "source_page": 1
+        },
+        {
+          "question": "É necessário estar logado em alguma conta específica para preencher o formulário de trancamento?",
+          "answer": "Sim, é obrigatório preencher o formulário estando logado no e-mail USP.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são as legislações que regulamentam o trancamento de disciplinas?",
+          "answer": "O trancamento é regulamentado pelo Artigo 74 do Regimento da USP e pela RESOLUÇÃO CoG Nº 3761/1990.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece se o pedido de trancamento resultar em menos de 12 créditos-aula?",
+          "answer": "De acordo com as normas citadas, a exclusão da disciplina não será efetuada se resultar em menos de 12 créditos-aula.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem é o responsável por processar e conferir os pedidos de trancamento via formulário?",
+          "answer": "O Serviço de Graduação (SVGRAD) é responsável por conferir se o solicitante ficará com mais de 12 créditos-aula antes de efetuar a exclusão e avisar o aluno por e-mail.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é realizado o trancamento da disciplina no sistema administrativo?",
+          "answer": "O trancamento é efetuado via Sistema Júpiter, acessando o menu à esquerda em Aluno – Requerimento – Trancamento.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Trancamento de disciplina (em elaboração pela Marcela)__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\nApós a matrícula na disciplina ser trancada, a disciplina continuará aparecendo no Histórico, mas estará com o status \"T\" na frente dela.\n\nAtenciosamente.\n\nServiço de Graduação - SVGRAD\n\nICMC - Universidade de São Paulo www.icmc.usp.br\"\n\n3- Os pedidos efetuados via formulário do Google (link informado no e-mail enviado aos alunos no item 2) deve ser conferido se o solicitante ficará com menos de 12 créditos-aula.\n\n3.1- Caso fique com mais de 12 créditos, pode efetuar a exclusão e avisar o aluno por e-mail.\n\na- Para efetuar o trancamento da disciplina – Sistema Júpiter\n\nAcessar o sistema Júpiter, no menu à esquerda, acessar Aluno – Requerimento – Trancamento.\n\n[Página 3]\nb- Na tela seguinte deve ser informado o NUSP do aluno e selecionar o programa atual.\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que acontece com a disciplina no Histórico após o trancamento da matrícula?",
+          "answer": "A disciplina continuará aparecendo no Histórico, porém estará com o status \"T\" na frente dela.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o procedimento para efetuar o trancamento de uma disciplina através do Sistema Júpiter?",
+          "answer": "O usuário deve acessar o sistema Júpiter e, no menu à esquerda, seguir o caminho: Aluno – Requerimento – Trancamento.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser conferido nos pedidos de exclusão efetuados via formulário do Google?",
+          "answer": "Deve ser conferido se o solicitante ficará com menos de 12 créditos-aula.",
+          "source_page": 2
+        },
+        {
+          "question": "Se o aluno ficar com mais de 12 créditos após a solicitação via formulário, qual a ação a ser tomada?",
+          "answer": "Pode-se efetuar a exclusão e avisar o aluno por e-mail.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais informações devem ser preenchidas na tela seguinte ao acessar o requerimento de trancamento no Júpiter?",
+          "answer": "Devem ser informados o NUSP do aluno e a seleção do programa atual.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem é o responsável pelas informações sobre trancamento de disciplinas mencionadas no texto?",
+          "answer": "O Serviço de Graduação (SVGRAD) do ICMC - Universidade de São Paulo.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde posso encontrar mais informações sobre o ICMC?",
+          "answer": "As informações podem ser encontradas no site www.icmc.usp.br.",
+          "source_page": 2
+        },
+        {
+          "question": "Como o aluno é informado sobre o link do formulário do Google para pedidos de exclusão?",
+          "answer": "O link é informado em um e-mail enviado aos alunos.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a sigla utilizada no Histórico para indicar que uma disciplina foi trancada?",
+          "answer": "A sigla utilizada é \"T\".",
+          "source_page": 2
+        },
+        {
+          "question": "O trancamento de disciplina é feito exclusivamente por formulário do Google?",
+          "answer": "Não, o texto menciona que o trancamento também pode ser realizado via Sistema Júpiter, no menu Aluno – Requerimento – Trancamento.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Trancamento de disciplina (em elaboração pela Marcela)__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\nb- Na tela seguinte deve ser informado o NUSP do aluno e selecionar o programa atual.\n\n<!-- image -->\n\n[Página 4]\n<!-- image -->\n\n- c- Abrirá a tela do trancamento e deverá clicar no botão \"incluir\"\n- d- Na tela seguinte deverá ser preenchido os dados da solicitação de trancamento parcial (trancamento de disciplina).\n\n<!-- image -->\n\n<!-- image -->\n\ne- Na tela seguinte deverá incluir/informar a disciplina a qual está\n\nsendo solicitada o trancamento pelo aluno. Imagem será possível qdo o sistema Júpiter estiver aberto para o trancamento de disciplinas. f- Deverá ser incluído o parecer sobre a solicitação do aluno. O parecer deve ser colocado \"aprovado\" e clicar no botão salvar. g- Verificar no histórico do aluno se foi efetivado o trancamento. A parte tarjada em azul, é necessário estar com o período de trancamento parcial aberta para ter o passo a passo e as imagens do sistema. Eu não lembro o passo a passo sem ver no sistema Júpiter. 3.2- Caso o aluno fique com menos de 12 créditos: 3.2-1- Se for provável formando e a disciplina solicitada para o trancamento",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser informado na tela inicial para iniciar o processo de trancamento?",
+          "answer": "Deve ser informado o NUSP do aluno e a seleção do programa atual.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual botão deve ser clicado ao abrir a tela de trancamento?",
+          "answer": "O usuário deverá clicar no botão 'incluir'.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser preenchido após clicar em 'incluir' na tela de trancamento?",
+          "answer": "Devem ser preenchidos os dados da solicitação de trancamento parcial, que corresponde ao trancamento de disciplina.",
+          "source_page": 4
+        },
+        {
+          "question": "Como é feita a indicação da disciplina que o aluno deseja trancar?",
+          "answer": "Na tela seguinte ao preenchimento dos dados da solicitação, o aluno deve incluir ou informar a disciplina para a qual está sendo solicitado o trancamento.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a condição necessária para que a inclusão da disciplina de trancamento seja possível no sistema?",
+          "answer": "É necessário que o sistema Júpiter esteja aberto para o trancamento de disciplinas.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser feito em relação ao parecer da solicitação de trancamento?",
+          "answer": "Deve ser incluído o parecer sobre a solicitação do aluno, escrevendo 'aprovado' e clicando no botão salvar.",
+          "source_page": 4
+        },
+        {
+          "question": "Como verificar se o trancamento de disciplina foi efetivado?",
+          "answer": "O usuário deve verificar no histórico do aluno se o trancamento foi efetivado.",
+          "source_page": 4
+        },
+        {
+          "question": "O que é necessário para que o passo a passo e as imagens do sistema de trancamento parcial estejam disponíveis?",
+          "answer": "É necessário que o período de trancamento parcial esteja aberta.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual sistema é utilizado para realizar o processo de trancamento de disciplinas?",
+          "answer": "O sistema utilizado é o Júpiter.",
+          "source_page": 4
+        },
+        {
+          "question": "Existe alguma observação para casos em que o aluno fique com menos de 12 créditos após o trancamento?",
+          "answer": "O texto menciona que há procedimentos específicos para casos em que o aluno fique com menos de 12 créditos, especialmente se for provável formando, porém a instrução completa foi interrompida no documento.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Trancamento de disciplina (em elaboração pela Marcela)__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n<!-- image -->\n\n- c- Abrirá a tela do trancamento e deverá clicar no botão \"incluir\"\n- d- Na tela seguinte deverá ser preenchido os dados da solicitação de trancamento parcial (trancamento de disciplina).\n\n<!-- image -->\n\n<!-- image -->\n\ne- Na tela seguinte deverá incluir/informar a disciplina a qual está\n\nsendo solicitada o trancamento pelo aluno. Imagem será possível qdo o sistema Júpiter estiver aberto para o trancamento de disciplinas. f- Deverá ser incluído o parecer sobre a solicitação do aluno. O parecer deve ser colocado \"aprovado\" e clicar no botão salvar. g- Verificar no histórico do aluno se foi efetivado o trancamento. A parte tarjada em azul, é necessário estar com o período de trancamento parcial aberta para ter o passo a passo e as imagens do sistema. Eu não lembro o passo a passo sem ver no sistema Júpiter. 3.2- Caso o aluno fique com menos de 12 créditos: 3.2-1- Se for provável formando e a disciplina solicitada para o trancamento\n\n[Página 5]\nnão for interferir no prazo para conclusão do curso, desta forma poderá efetivar o trancamento da disciplina solicitada. A conferência deve ser feita junto à secretaria da CoC do curso do aluno.\n\n3.2-2. Se não for provável formando, o estudante deverá ser notificado por e-mail sobre a situação e deve ser informado a fazer o pedido para ficar com menos de 12 créditos (preenchimento do formulário disponível na página da graduação - https://web.icmc.usp.br/SVGRAD/Formul%C3%A1rio%20\\_12%20cr%C3%A9ditos\\_editado.pdf) para apreciação da CoC do seu respectivo curso.\n\n3.2-2.1. Após apreciação e aprovação da CoC, a solicitação deverá ser cadastrada no Sistema Júpiter, conforme descrito no ítem 3.1, e o aluno deverá ser notificado por e-mail.\n\n3.2-2.2. Se a CoC reprovar, a solicitação não será cadastrada no Sistema Júpiter e o aluno será avisado por e-mail sobre o parecer contrário dado sobre sua solicitação.",
+      "qa_pairs": []
+    }
+  ]
+}

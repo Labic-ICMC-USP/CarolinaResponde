@@ -1,0 +1,126 @@
+{
+  "doc_name": "Atendimento geral",
+  "source_path": "data\\Manual SVGRAD\\Atendimento geral.docx",
+  "chunks": [
+    {
+      "chunk_id": "Atendimento geral__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Atendimento geral\n\n## Legislação:\n\nParecer PG 0443-14- Diretrizes Acesso à informação pessoal e institucional (pasta svgrad-Legislações)\n\n## 1. Presencial (balcão):\n\n- de segunda a sexta das 9h às 11h e das 14h às 16h, de terça e quinta das 18h às 19h durante o período de aulas\n- o atendimento diurno é feito prioritariamente pelas estagiárias com o auxílio dos funcionários em caso de dúvidas específicas e em dias de maior movimentação como no período de matrícula\n- o atendimento noturno é feito em escala de revezamento entre os funcionários do setor. Nas duas primeiras semanas do 1º semestre, o setor faz o atendimento noturno em todos os dias da semana por conta da grande demanda de dúvidas, principalmente dos ingressantes\n- a recomendação é que apenas uma pessoa faça o atendimento por vez e, se necessário, outra pessoa faz o atendimento no corredor, pois o balcão é pequeno e possui a tela de acrílico e atendimentos simultâneos podem atrapalhar a comunicação\n\n## 2. Telefone/WhatsApp:\n\n- cada funcionário possui um ramal específico e há um geral na mesa das estagiárias\n- todos os ramais devem estar interligados de forma que qualquer funcionário possa puxar a ligação de outro quando for necessário\n- a recomendação é não deixar o volume do toque muito alto para não atrapalhar o restante do setor/área\n- é possível cadastrar o número do telefone fixo como WhatsApp Business. Recomenda-se essa prática, principalmente, para contato com os coordenadores\n- o uso do WhatsApp é recomendado apenas para tratativas mais urgentes com demais funcionários e coordenadores e dentro do horário de expediente\n\n## 3. OTRS (e-mail):\n\n- cada curso do ICMC possui um e-mail de atendimento específico. Todas as mensagens são direcionadas automaticamente para a OTRS.\n- alunos da Engenharia de Computação, da Licenciatura em Ciências Exatas e demais unidades da USP devem escrever para o grad@icmc.usp.br. Os e-mails desta conta também são enviados automaticamente para a OTRS\n\n[Página 2]\n- o atendimento dos professores, demais setores, funcionários e pessoas externas à USP é feito pelo grad@icmc.usp.br\n- cada funcionário é responsável pelo atendimento da fila específica do curso que secretaria, mas também deve auxiliar no atendimento da fila \"assuntos gerais\" que recebe demandas do grad@icmc.usp.br\n- e-mails que são considerados como spam e lembretes devem ser encaminhados para a fila \"lixeira\". Essa fila é esvaziada automaticamente\n- em períodos de maior demanda e/ou com prazos se esgotando, os funcionários podem se ajudar no atendimento das filas específicas por curso\n- assuntos finalizadas devem ser marcados como \"resolvidos\" para evitar acúmulo de chamados abertos\n- em períodos de férias/ausência de um funcionário que esteja responsável por determinada(s) fila(s), a chefia poderá atribuir os chamados para outro funcionário atender\n- recomenda-se ao funcionário que sairá de férias/licença e que ainda tenha chamados pendentes em seu nome que transfira a propriedade para a chefia do setor. Dessa forma, se houver alguma interação com o chamado, a chefia tomará ciência e poderá tomar as providências necessárias para o atendimento.\n- sempre orientar os alunos a escreverem para o e-mail de atendimento específico do curso e cobrar a informação sobre o número USP\n\n## Observações:\n\n- Apenas o aluno pode requerer documentos que dizem respeito à sua vida acadêmica.\n- Informações/documentos de um aluno NÃO podem ser repassadas a outro aluno, aos docentes e nem mesmo a pais/familiares.\n- É comum professores solicitarem o histórico do aluno para analisar o desempenho quando estão pleiteando alguma bolsa, mas não podemos fornecer o documento. O docente deve ser orientado a solicitar diretamente ao aluno\n- As tratativas com alunos devem ser feitas pelo e-mail @usp. O e-mail alternativo deve ser copiado apenas em situações excepcionais.\n- É comum que docentes/alunos solicitem reservas de salas, emissão de documentos, cadastro de notas, dentre outros, durante atendimento no balcão, mas eles devem ser orientados a enviar e-mail com a solicitação\n- A consulta de alunos que concluíram o curso pode ser feita diretamente https://uspdigital.usp.br/netunoweb/ntwPublicoAcesso.jsp?codmnu=2062 que é uma consulta aberta dos diplomados da USP.",
+      "qa_pairs": [
+        {
+          "question": "Quais são os horários de atendimento presencial no balcão?",
+          "answer": "O atendimento presencial ocorre de segunda a sexta, das 9h às 11h e das 14h às 16h. Durante o período de aulas, há também atendimento às terças e quintas, das 18h às 19h.",
+          "source_page": 1
+        },
+        {
+          "question": "Como funciona o atendimento noturno nas primeiras semanas do primeiro semestre?",
+          "answer": "Devido à grande demanda de dúvidas, especialmente dos ingressantes, o setor realiza o atendimento noturno em todos os dias da semana nas duas primeiras semanas do 1º semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual e-mail deve ser utilizado por alunos da Engenharia de Computação e da Licenciatura em Ciências Exatas?",
+          "answer": "Alunos da Engenharia de Computação, da Licenciatura em Ciências Exatas e de demais unidades da USP devem escrever para o e-mail grad@icmc.usp.br.",
+          "source_page": 1
+        },
+        {
+          "question": "Como professores e pessoas externas à USP devem solicitar atendimento?",
+          "answer": "O atendimento para professores, demais setores, funcionários e pessoas externas à USP é realizado através do e-mail grad@icmc.usp.br.",
+          "source_page": 2
+        },
+        {
+          "question": "Posso solicitar documentos acadêmicos de outro aluno ou de um familiar?",
+          "answer": "Não. Apenas o aluno pode requerer documentos que dizem respeito à sua vida acadêmica. Informações ou documentos de um aluno não podem ser repassados a outros alunos, docentes ou pais/familiares.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito quando um professor solicita o histórico de um aluno para análise de bolsa?",
+          "answer": "O documento não pode ser fornecido pela secretaria; o docente deve ser orientado a solicitar o histórico diretamente ao aluno.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o canal de comunicação recomendado para tratativas com os alunos?",
+          "answer": "As tratativas com alunos devem ser feitas prioritariamente pelo e-mail @usp, sendo o e-mail alternativo copiado apenas em situações excepcionais.",
+          "source_page": 2
+        },
+        {
+          "question": "Posso solicitar reserva de salas ou emissão de documentos diretamente no balcão?",
+          "answer": "Não. Solicitações de reserva de salas, emissão de documentos e cadastro de notas feitas no balcão devem ser orientadas a serem enviadas via e-mail.",
+          "source_page": 2
+        },
+        {
+          "question": "Como posso consultar se um aluno já concluiu o curso?",
+          "answer": "A consulta de alunos diplomados pode ser feita através do link público: https://uspdigital.usp.br/netunoweb/ntwPublicoAcesso.jsp?codmnu=2062",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a recomendação sobre o uso do WhatsApp para contato com coordenadores e funcionários?",
+          "answer": "O uso do WhatsApp é recomendado apenas para tratativas mais urgentes e deve ocorrer estritamente dentro do horário de expediente.",
+          "source_page": 1
+        }
+      ]
+    },
+    {
+      "chunk_id": "Atendimento geral__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- o atendimento dos professores, demais setores, funcionários e pessoas externas à USP é feito pelo grad@icmc.usp.br\n- cada funcionário é responsável pelo atendimento da fila específica do curso que secretaria, mas também deve auxiliar no atendimento da fila \"assuntos gerais\" que recebe demandas do grad@icmc.usp.br\n- e-mails que são considerados como spam e lembretes devem ser encaminhados para a fila \"lixeira\". Essa fila é esvaziada automaticamente\n- em períodos de maior demanda e/ou com prazos se esgotando, os funcionários podem se ajudar no atendimento das filas específicas por curso\n- assuntos finalizadas devem ser marcados como \"resolvidos\" para evitar acúmulo de chamados abertos\n- em períodos de férias/ausência de um funcionário que esteja responsável por determinada(s) fila(s), a chefia poderá atribuir os chamados para outro funcionário atender\n- recomenda-se ao funcionário que sairá de férias/licença e que ainda tenha chamados pendentes em seu nome que transfira a propriedade para a chefia do setor. Dessa forma, se houver alguma interação com o chamado, a chefia tomará ciência e poderá tomar as providências necessárias para o atendimento.\n- sempre orientar os alunos a escreverem para o e-mail de atendimento específico do curso e cobrar a informação sobre o número USP\n\n## Observações:\n\n- Apenas o aluno pode requerer documentos que dizem respeito à sua vida acadêmica.\n- Informações/documentos de um aluno NÃO podem ser repassadas a outro aluno, aos docentes e nem mesmo a pais/familiares.\n- É comum professores solicitarem o histórico do aluno para analisar o desempenho quando estão pleiteando alguma bolsa, mas não podemos fornecer o documento. O docente deve ser orientado a solicitar diretamente ao aluno\n- As tratativas com alunos devem ser feitas pelo e-mail @usp. O e-mail alternativo deve ser copiado apenas em situações excepcionais.\n- É comum que docentes/alunos solicitem reservas de salas, emissão de documentos, cadastro de notas, dentre outros, durante atendimento no balcão, mas eles devem ser orientados a enviar e-mail com a solicitação\n- A consulta de alunos que concluíram o curso pode ser feita diretamente https://uspdigital.usp.br/netunoweb/ntwPublicoAcesso.jsp?codmnu=2062 que é uma consulta aberta dos diplomados da USP.\n\n[Página 3]\n- A consulta referente a um vínculo ainda ativo pode ser feita em https://uspdigital.usp.br/urania/pessoaListar",
+      "qa_pairs": [
+        {
+          "question": "Qual é o e-mail para atendimento de professores, funcionários e pessoas externas à USP?",
+          "answer": "O atendimento para professores, demais setores, funcionários e pessoas externas à USP é realizado através do e-mail grad@icmc.usp.br.",
+          "source_page": 2
+        },
+        {
+          "question": "Como devem ser tratados os e-mails considerados spam ou lembretes?",
+          "answer": "E-mails considerados como spam e lembretes devem ser encaminhados para a fila 'lixeira', que é esvaziada automaticamente.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito com os assuntos que já foram finalizados no sistema de chamados?",
+          "answer": "Assuntos finalizados devem ser marcados como 'resolvidos' para evitar o acúmulo de chamados abertos.",
+          "source_page": 2
+        },
+        {
+          "question": "O que o funcionário deve fazer com chamados pendentes antes de sair de férias ou licença?",
+          "answer": "Recomenda-se que o funcionário transfira a propriedade dos chamados pendentes para a chefia do setor, para que a chefia tome ciência de eventuais interações e providencie o atendimento.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais orientações devem ser dadas aos alunos ao entrarem em contato?",
+          "answer": "Os alunos devem ser sempre orientados a escrever para o e-mail de atendimento específico do curso e devem ser cobrados a informar o número USP.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem pode requerer documentos relativos à vida acadêmica de um aluno?",
+          "answer": "Apenas o próprio aluno pode requerer documentos que dizem respeito à sua vida acadêmica.",
+          "source_page": 2
+        },
+        {
+          "question": "Informações ou documentos de um aluno podem ser passados para pais, familiares ou professores?",
+          "answer": "Não. Informações e documentos de um aluno não podem ser repassadas a outro aluno, aos docentes e nem mesmo a pais ou familiares.",
+          "source_page": 2
+        },
+        {
+          "question": "Como deve ser feita a comunicação oficial com os alunos?",
+          "answer": "As tratativas com alunos devem ser feitas pelo e-mail @usp, sendo que o e-mail alternativo deve ser copiado apenas em situações excepcionais.",
+          "source_page": 2
+        },
+        {
+          "question": "O que fazer quando docentes ou alunos solicitam reservas de salas ou emissão de documentos no balcão?",
+          "answer": "Eles devem ser orientados a enviar um e-mail com a solicitação.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde pode ser feita a consulta de alunos que já concluíram o curso?",
+          "answer": "A consulta de diplomados da USP pode ser feita através do link https://uspdigital.usp.br/netunoweb/ntwPublicoAcesso.jsp?codmnu=2062.",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

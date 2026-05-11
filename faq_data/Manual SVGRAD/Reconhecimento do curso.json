@@ -1,0 +1,126 @@
+{
+  "doc_name": "Reconhecimento do curso",
+  "source_path": "data\\Manual SVGRAD\\Reconhecimento do curso.docx",
+  "chunks": [
+    {
+      "chunk_id": "Reconhecimento do curso__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Reconhecimento do curso\n\n## Legislação:\n\nDeliberação CEE 171/2019 - Regulação, supervisão e avaliação de instituições de ensino superior e cursos superiores de graduação vinculados ao Sistema Estadual de Ensino de São Paulo\n\n## De cursos externos ao ICMC\n\n- Quando a PRG enviar pedido de parecer para outro curso, verificar com o presidente da CG se ele fará a análise ou indicará outro docente.\n- Pedir para o docente fazer o parecer e devolver em 25 dias\n- Elaborar ofício com o \"de acordo\" do presidente da CG e enviar para PRG\n- O prazo para responder a PRG é de 30 dias (geralmente)\n\n## De cursos do ICMC\n\n- Os documentos devem ser enviados à PRG com 1 ano de antecedência, pois precisa estar no CEE 9 meses antes.\n- Recomenda-se iniciar o processo no ICMC com 1 ano e meio de antecedência, pois a documentação precisa tramitar pela CG e pela Congregação antes de ser enviada à PRG (1 anos antes). O cumprimento desse prazo é essencial para que não haja problemas com a emissão de diplomas, caso o CEE não renove o curso logo após o vencimento.\n- Acompanhar a tabela de vencimentos das renovações que está disponível na pasta \"Reconhecimento de cursos\"\n- Consultar a PRG (sagcprg@usp.br) se houve alguma alteração no procedimento e nos documentos necessários (Deliberação CEE-171-2019 e Circular-PRG/A/037-2019.\n\nA última resposta dada pela PRG em 10/04/2025 foi a seguinte \"A única mudança é que a documentação não precisa ser encaminhada impressa, o ofício e relatórios devem ser encaminhados por e-mail em formato pdf. Os documentos que devem ser encaminhados são:\n\n- ofício de encaminhamento e aprovações;\n- relatório síntese;\n- projeto pedagógico;\n- relatório de outras atividades relevantes;\n- programas das disciplinas;\n- relatórios das alterações curriculares feitas no período;\n- planilha para análise de processos (somente no caso dos cursos de Licenciatura);\n\n[Página 2]\n- quadro síntese (somente no caso de cursos de Licenciatura).\n\n## À Secretaria da CoC\n\n- Dentro da pasta Reconhecimento de cursos, há uma pasta para cada curso e dentro delas há pastas nomeadas pelo ano em que a renovação tramitou. Criar uma nova pasta dentro da pasta do curso com nome referente ao ano de tramitação da documentação.\n- Copiar os arquivos dos últimos relatórios para a pasta nova e iniciar a tramitação para o preenchimento.\n- Preenchimento do relatório síntese e do quadro final do relatório de outras atividades relevantes e pelo relatório das alterações curriculares, pela emissão do projeto pedagógico atualizado e dos programas das disciplinas\n- O coordenador do curso deve ser acionado para fazer o preenchimento do relatório de outras atividades relevantes e conferência dos demais documentos.\n- Verificar se no relatório da última renovação houve alguma recomendação e se ela foi atendida\n- Caso haja algum pedido de esclarecimento por parte do parecerista da USP ou diligência do CEE, a PRG entrará em contato por e-mail e dará um prazo para resposta.\n\n## À chefia do svgrad\n\n- Assim que o CEE definir os pareceristas, a PRG enviará e-mail com o nome e contato deles para o ICMC dar andamento no agendamento das visitas\n- Tratar com a Assistência sobre o cronograma. Geralmente é a unidade que propõe a data da visita (ver modelo na pasta organização da visita). Encaminhar a proposta para manifestação do coordenador e do presidente da CG\n- Entrar em contato com os pareceristas para tratar do cronograma\n- Providenciar documentos adicionais solicitados pelos pareceristas\n- Informar a secretaria da CoC (pedir que repasse o cronograma aos demais membros da CoC)\n- Entrar em contato com a ATFn para tratar do pagamento da diária e dos honorários da visita e verificar se eles têm o cadastro e quais informações precisam. Se for o caso, solicitar os dados aos pareceristas.\n- Verificar a questão do transporte com os pareceristas e a Seção de transporte\n- Reservar o hotel, se for o caso*\n- Reservar a sala da Congregação para a visita. Solicitar café. Solicitar a instalação de equipamentos adicionais, se solicitado.",
+      "qa_pairs": [
+        {
+          "question": "Qual é a legislação que regula a supervisão e avaliação dos cursos superiores de graduação vinculados ao Sistema Estadual de Ensino de São Paulo?",
+          "answer": "A legislação aplicável é a Deliberação CEE 171/2019.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é o prazo recomendado para iniciar o processo de reconhecimento de cursos do ICMC?",
+          "answer": "Recomenda-se iniciar o processo no ICMC com 1 ano e meio de antecedência, pois a documentação deve tramitar pela CG e pela Congregação antes de ser enviada à PRG (que deve ocorrer 1 ano antes).",
+          "source_page": 1
+        },
+        {
+          "question": "Por que é essencial cumprir o prazo de antecedência no processo de renovação de cursos do ICMC?",
+          "answer": "Para evitar problemas com a emissão de diplomas, caso o CEE não renove o curso logo após o vencimento.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são os documentos que devem ser encaminhados à PRG para o reconhecimento de cursos?",
+          "answer": "Devem ser enviados por e-mail em formato PDF: ofício de encaminhamento e aprovações, relatório síntese, projeto pedagógico, relatório de outras atividades relevantes, programas das disciplinas e relatórios das alterações curriculares feitas no período. Para cursos de Licenciatura, deve-se incluir também a planilha para análise de processos e o quadro síntese.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser feita a organização dos arquivos de reconhecimento de cursos na Secretaria da CoC?",
+          "answer": "Dentro da pasta 'Reconhecimento de cursos', existe uma pasta para cada curso. Deve-se criar uma nova pasta dentro da pasta do curso com o nome referente ao ano em que a documentação tramitou.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o papel do coordenador do curso no processo de renovação de reconhecimento?",
+          "answer": "O coordenador deve ser acionado para preencher o relatório de outras atividades relevantes e realizar a conferência dos demais documentos.",
+          "source_page": 2
+        },
+        {
+          "question": "O que acontece se o parecerista da USP ou o CEE solicitarem esclarecimentos?",
+          "answer": "A PRG entrará em contato por e-mail e estabelecerá um prazo para a resposta.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona o agendamento das visitas dos pareceristas definidos pelo CEE?",
+          "answer": "A PRG envia o nome e contato dos pareceristas para o ICMC. A unidade geralmente propõe a data da visita (após manifestação do coordenador e do presidente da CG) e entra em contato com os pareceristas para tratar do cronograma.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais providências a chefia do svgrad deve tomar em relação aos pagamentos dos pareceristas?",
+          "answer": "Deve entrar em contato com a ATFn para tratar do pagamento de diárias e honorários da visita, verificando o cadastro dos pareceristas e solicitando os dados necessários, se for o caso.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são as responsabilidades logísticas da chefia do svgrad para a visita de reconhecimento?",
+          "answer": "Verificar o transporte com os pareceristas e a Seção de transporte, reservar hotel (se necessário) e reservar a sala da Congregação, solicitando café e a instalação de equipamentos adicionais, se solicitado.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Reconhecimento do curso__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- quadro síntese (somente no caso de cursos de Licenciatura).\n\n## À Secretaria da CoC\n\n- Dentro da pasta Reconhecimento de cursos, há uma pasta para cada curso e dentro delas há pastas nomeadas pelo ano em que a renovação tramitou. Criar uma nova pasta dentro da pasta do curso com nome referente ao ano de tramitação da documentação.\n- Copiar os arquivos dos últimos relatórios para a pasta nova e iniciar a tramitação para o preenchimento.\n- Preenchimento do relatório síntese e do quadro final do relatório de outras atividades relevantes e pelo relatório das alterações curriculares, pela emissão do projeto pedagógico atualizado e dos programas das disciplinas\n- O coordenador do curso deve ser acionado para fazer o preenchimento do relatório de outras atividades relevantes e conferência dos demais documentos.\n- Verificar se no relatório da última renovação houve alguma recomendação e se ela foi atendida\n- Caso haja algum pedido de esclarecimento por parte do parecerista da USP ou diligência do CEE, a PRG entrará em contato por e-mail e dará um prazo para resposta.\n\n## À chefia do svgrad\n\n- Assim que o CEE definir os pareceristas, a PRG enviará e-mail com o nome e contato deles para o ICMC dar andamento no agendamento das visitas\n- Tratar com a Assistência sobre o cronograma. Geralmente é a unidade que propõe a data da visita (ver modelo na pasta organização da visita). Encaminhar a proposta para manifestação do coordenador e do presidente da CG\n- Entrar em contato com os pareceristas para tratar do cronograma\n- Providenciar documentos adicionais solicitados pelos pareceristas\n- Informar a secretaria da CoC (pedir que repasse o cronograma aos demais membros da CoC)\n- Entrar em contato com a ATFn para tratar do pagamento da diária e dos honorários da visita e verificar se eles têm o cadastro e quais informações precisam. Se for o caso, solicitar os dados aos pareceristas.\n- Verificar a questão do transporte com os pareceristas e a Seção de transporte\n- Reservar o hotel, se for o caso*\n- Reservar a sala da Congregação para a visita. Solicitar café. Solicitar a instalação de equipamentos adicionais, se solicitado.\n\n[Página 3]\n- Pedir para a secretária da Direção agendar a reunião de abertura com o Diretor\n- Enviar e-mail aos professores pedindo a atualização do Lattes\n- Enviar e-mail para os setores do ICMC avisando sobre a visita, pois os pareceristas visitam a unidade toda\n- Tratar com a coordenação do curso sobre a indicação de professores e alunos para participar das reuniões\n- No dia da visita, a chefia do svgrad e a secretária do curso devem acompanhar o início dos trabalhos e participar das reuniões para as quais forem convidadas.\n\nNo e-mail grad@ podem ser consultadas as tratativas para a última renovação do BCC e do BECD. Os assuntos dos e-mail são \"Processo 2023/00370 - Renovação de reconhecimento do curso de Bacharelado em Ciências de Computação do ICMC/USP - Visita dos especialistas do CEE\" e o \"Processo de Renovação do Reconhecimento do Curso de Bacharelado em Estatística e Ciência de Dados do ICMC\"\n\n- Assim que o CEE publicar a renovação, a PRG encaminhará o relatório e a Portaria para o ICMC.\n- A chefia do svgrad deve ler atentamente o relatório e verificar se há recomendações e tratar delas com as áreas pertinentes. Por exemplo, se houver alguma demanda de piso tátil em algum prédio, a Atad deve ser comunicada.\n- Encaminhar o relatório e a Portaria CEE para a secretária do curso, coordenador, presidente da CG para ciências e providências, se houver alguma recomendação. Inserir na pauta (comunicações) da CG e da CoC e enviar como comunicação da CG para a Congregação.\n- Imprimir o relatório e a Portaria CEE e anexar no processo de reconhecimento do curso\n- Solicitar um novo carimbo do curso\n- Atualizar as informações sobre a renovação na estrutura curricular do curso",
+      "qa_pairs": [
+        {
+          "question": "O que a Secretaria da CoC deve fazer ao iniciar a tramitação de renovação de reconhecimento de curso?",
+          "answer": "A Secretaria da CoC deve criar uma nova pasta com o ano de tramitação dentro da pasta do curso correspondente (na pasta Reconhecimento de cursos), copiar os arquivos dos últimos relatórios para esta nova pasta e iniciar o preenchimento do relatório síntese, do quadro final de outras atividades relevantes, do relatório de alterações curriculares, além de emitir o projeto pedagógico atualizado e os programas das disciplinas.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o papel do coordenador do curso no processo de renovação de reconhecimento?",
+          "answer": "O coordenador do curso deve ser acionado para preencher o relatório de outras atividades relevantes e realizar a conferência dos demais documentos.",
+          "source_page": 2
+        },
+        {
+          "question": "Como a PRG comunica a necessidade de esclarecimentos ou diligências do CEE?",
+          "answer": "Caso haja pedido de esclarecimento do parecerista da USP ou diligência do CEE, a PRG entrará em contato por e-mail e estabelecerá um prazo para a resposta.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem é responsável por agendar as visitas dos pareceristas do CEE?",
+          "answer": "A chefia do svgrad é responsável por dar andamento ao agendamento das visitas após a PRG enviar o nome e o contato dos pareceristas definidos pelo CEE.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais providências a chefia do svgrad deve tomar em relação à logística dos pareceristas?",
+          "answer": "A chefia do svgrad deve tratar do pagamento de diárias e honorários com a ATFn, verificar a questão do transporte com os pareceristas e a Seção de transporte, e reservar hotel, se for o caso.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais preparativos de infraestrutura devem ser feitos para a visita dos pareceristas?",
+          "answer": "Deve-se reservar a sala da Congregação para a visita, solicitar café e, se necessário, solicitar a instalação de equipamentos adicionais.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais ações de comunicação a chefia do svgrad deve realizar antes da visita?",
+          "answer": "A chefia do svgrad deve pedir à secretária da Direção que agende a reunião de abertura com o Diretor, enviar e-mail aos professores solicitando a atualização do Lattes e avisar os setores do ICMC sobre a visita, pois os pareceristas visitam toda a unidade.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem deve acompanhar o início dos trabalhos no dia da visita dos pareceristas?",
+          "answer": "A chefia do svgrad e a secretária do curso devem acompanhar o início dos trabalhos e participar das reuniões para as quais forem convidadas.",
+          "source_page": 3
+        },
+        {
+          "question": "O que a chefia do svgrad deve fazer após a publicação da renovação pelo CEE?",
+          "answer": "A chefia do svgrad deve ler atentamente o relatório enviado pela PRG, verificar se há recomendações e tratá-las com as áreas pertinentes (como comunicar a Atad sobre demandas de piso tátil, por exemplo).",
+          "source_page": 3
+        },
+        {
+          "question": "Quais documentos devem ser anexados ao processo de reconhecimento do curso após a publicação da renovação?",
+          "answer": "Devem ser impressos e anexados ao processo de reconhecimento do curso o relatório e a Portaria do CEE.",
+          "source_page": 3
+        }
+      ]
+    }
+  ]
+}

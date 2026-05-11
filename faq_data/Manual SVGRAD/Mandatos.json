@@ -1,0 +1,306 @@
+{
+  "doc_name": "Mandatos",
+  "source_path": "data\\Manual SVGRAD\\Mandatos.docx",
+  "chunks": [
+    {
+      "chunk_id": "Mandatos__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Mandatos de CoCs ICMC\n\nLegislação:\n\nRegimento CG e CoC (pasta compartilhada svgrad - CoCs - Regimentos)\n\nRegimento ICMC - Resolução 7541/2018\n\nRegimento de Graduação - Resolução 7817/2019\n\nRegimento Geral da USP\n\nResolução 5500/2009 - Normas de funcionamento das CoCs\n\nResolução CoG 3741/1990 - Normas de funcionamento das CGs\n\n- O controle dos mandatos das CoCs é de responsabilidade da secretária do curso;\n- O mandato dos membros (3 anos) só inicia na data da 1ª reunião para qual os docentes (titular e suplente) são convocados, mesmo que não participem da reunião;\n- O mandato do coordenador e vice (2 anos) se inicia no dia da eleição (ou em data indicada no momento da eleição). A eleição é feita durante a reunião da CoC utilizando o sistema de votação eletrônica https://vote.usp.br/ com usuário grad@icmc.usp.br e senha Goneja=44F@\n- Importante observar que não pode haver \"lacuna\" entre um mandato ou outro, ou seja, o mandato seguinte deve começar no dia seguinte ao término do mandato que finda (ver mais informações abaixo sobre isso);\n- Faltando cerca de 60 dias para o término do mandato do coordenador, a secretária deve informar ao coordenador atual para iniciar as tratativas com demais docentes para ver quem poderia ser o próximo coordenador ou informá-lo apenas no caso de ele querer ser reconduzido. Colocar o assunto na pauta da reunião da CoC que deve ser agendada para dar continuidade ao mandato ou, se possível, numa reunião que já consta no cronograma de reuniões. Na véspera da reunião, informar aos membros que haverá a eleição para que todos compareçam.\n- Quando um novo coordenador/vice-coordenador é eleito: redigir o ofício, enviar para assinatura do Diretor, encaminhar para asistemasprg@usp.br, assistcolprg@usp.br e gprg@usp.br (no e-mail precisa indicar o NUSP e email do docente). Incluir o coordenador na lista de e-mail cgicmc-l@listas.i cmc.usp.br e coordgrad-l@listas.icmc.usp.br. Escrever para ele informando sobre o e-mail de atendimento do curso (secxxx), utilizado pela secretária, e do e-mail de atendimento que pode ser usado diretamente pelo coordenador (coordxxx). Agendar uma reunião entre o coordenador, chefia do setor e secretária do curso para uma breve apresentação sobre o funcionamento da CoC. (ver modelo Reunião Coordenador CoC\\_orientações gerais e Reunião Coordenador\\_assuntos especificos na pasta compartilhada svgrad - CoCs)\n\n[Página 2]\n- Quando o aluno for eleito representante discente (mandato de 1 ano), a secretária deve entrar em contato com ele para passar informações a respeito das reuniões. Ver modelo de e-mail enviado dos secxx@ com as boas-vindas. O mandato a ser cadastrado é o que foi informado pelo setor responsável pela eleição.\n- Um aluno de um curso Interunidades só pode ser membro de colegiados e comissões da Unidades que é responsável pela parte administrativa do curso. Por exemplo: um aluno do curso de Engenharia de Computação, que é Interunidades EESC e ICMC com a parte administrativa concentrada na EESC, só pode se candidatar e ser votado como representante nos colegiados e comissões regimentais da EESC. (e-mail do grad@ com o assunto \"Dúvida sobre participação em colegiados\"\n- O mandato deve ser cadastrado diretamente no Sistema Nereu - Mandatos - Cadastro de mandatos - selecionar o ICMC com duplo clique e depois escolher o colegiado com duplo clique também - Clicar em incluir e preencher as informações (NUSP do membro, a função, e o período) - Salvar\n\n·\n\n<!-- image -->\n\n- Na hora de inserir o suplente, fazer a vinculação ao titular",
+      "qa_pairs": [
+        {
+          "question": "Qual é a duração do mandato dos membros das CoCs?",
+          "answer": "O mandato dos membros é de 3 anos.",
+          "source_page": 1
+        },
+        {
+          "question": "Quando se inicia o mandato dos membros (titular e suplente) das CoCs?",
+          "answer": "O mandato inicia na data da primeira reunião para a qual os docentes são convocados, independentemente de terem participado da reunião.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a duração do mandato do coordenador e do vice-coordenador da CoC?",
+          "answer": "O mandato do coordenador e do vice-coordenador é de 2 anos.",
+          "source_page": 1
+        },
+        {
+          "question": "Como é realizada a eleição do coordenador e vice-coordenador?",
+          "answer": "A eleição ocorre durante a reunião da CoC através do sistema de votação eletrônica (https://vote.usp.br/), utilizando o usuário grad@icmc.usp.br e a senha Goneja=44F@.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem é o responsável pelo controle dos mandatos das CoCs?",
+          "answer": "O controle dos mandatos das CoCs é de responsabilidade da secretária do curso.",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve ser feito quando faltam cerca de 60 dias para o término do mandato do coordenador?",
+          "answer": "A secretária deve informar ao coordenador atual para que ele inicie as tratativas com outros docentes sobre a sucessão ou informe se deseja ser reconduzido, colocando o assunto na pauta de uma reunião da CoC.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a duração do mandato do representante discente eleito?",
+          "answer": "O mandato do representante discente é de 1 ano.",
+          "source_page": 2
+        },
+        {
+          "question": "Um aluno de curso Interunidades pode participar de qualquer colegiado?",
+          "answer": "Não. O aluno de curso Interunidades só pode ser membro de colegiados e comissões da Unidade que é responsável pela parte administrativa do curso.",
+          "source_page": 2
+        },
+        {
+          "question": "Em qual sistema devem ser cadastrados os mandatos?",
+          "answer": "Os mandatos devem ser cadastrados diretamente no Sistema Nereu, seguindo o caminho: Mandatos -> Cadastro de mandatos -> selecionar ICMC -> escolher o colegiado -> incluir informações (NUSP, função e período) -> Salvar.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais procedimentos devem ser adotados após a eleição de um novo coordenador ou vice-coordenador?",
+          "answer": "Deve-se redigir um ofício para assinatura do Diretor e encaminhá-lo aos e-mails asistemasprg@usp.br, assistcolprg@usp.br e gprg@usp.br (informando NUSP e e-mail do docente). O coordenador deve ser incluído nas listas de e-mail cgicmc-l@listas.icmc.usp.br e coordgrad-l@listas.icmc.usp.br, informado sobre os e-mails de atendimento (secxxx e coordxxx) e agendada uma reunião de apresentação sobre o funcionamento da CoC.",
+          "source_page": 1
+        }
+      ]
+    },
+    {
+      "chunk_id": "Mandatos__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- Quando o aluno for eleito representante discente (mandato de 1 ano), a secretária deve entrar em contato com ele para passar informações a respeito das reuniões. Ver modelo de e-mail enviado dos secxx@ com as boas-vindas. O mandato a ser cadastrado é o que foi informado pelo setor responsável pela eleição.\n- Um aluno de um curso Interunidades só pode ser membro de colegiados e comissões da Unidades que é responsável pela parte administrativa do curso. Por exemplo: um aluno do curso de Engenharia de Computação, que é Interunidades EESC e ICMC com a parte administrativa concentrada na EESC, só pode se candidatar e ser votado como representante nos colegiados e comissões regimentais da EESC. (e-mail do grad@ com o assunto \"Dúvida sobre participação em colegiados\"\n- O mandato deve ser cadastrado diretamente no Sistema Nereu - Mandatos - Cadastro de mandatos - selecionar o ICMC com duplo clique e depois escolher o colegiado com duplo clique também - Clicar em incluir e preencher as informações (NUSP do membro, a função, e o período) - Salvar\n\n·\n\n<!-- image -->\n\n- Na hora de inserir o suplente, fazer a vinculação ao titular\n\n[Página 3]\n·\n\n<!-- image -->\n\n- Depois, cadastrar o novo docente/aluno com o perfil de membro em Nereu\n- Usuários do Sistema - Listar o perfil Membro, selecionar ICMC e o colegiado. Inserir o NUSP e clicar em incluir\n- Para remover um membro, é só clicar no círculo ao lado do nome\n\n·\n\n<!-- image -->\n\n- Caso haja pedido de demissão, encerrar o mandato no Nereu e na intranet e retirar a permissão de membro do colegiado no Nereu - Usuários do Sistema\n- O sistema Nereu envia lembretes por e-mail quando os mandatos estão para vencer. Para cadastrar os lembretes: Nereu - Colegiado - Configuração dos avisos de encerramento de mandato - Duplo clique no ICMC e depois no colegiado - Preencher as informações e clicar em Salvar",
+      "qa_pairs": [
+        {
+          "question": "O que a secretaria deve fazer quando um aluno é eleito representante discente?",
+          "answer": "A secretária deve entrar em contato com o aluno para fornecer informações sobre as reuniões, utilizando o modelo de e-mail de boas-vindas enviado pelos endereços secxx@.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a duração do mandato de um representante discente?",
+          "answer": "O mandato de representante discente é de 1 ano.",
+          "source_page": 2
+        },
+        {
+          "question": "Um aluno de curso Interunidades pode ser membro de qualquer colegiado do ICMC?",
+          "answer": "Não. O aluno de curso Interunidades só pode ser membro de colegiados e comissões da Unidade que é responsável pela parte administrativa do curso.",
+          "source_page": 2
+        },
+        {
+          "question": "No caso de um aluno de Engenharia de Computação (Interunidades EESC e ICMC), onde ele pode se candidatar a representante?",
+          "answer": "Como a parte administrativa do curso de Engenharia de Computação está concentrada na EESC, o aluno só pode se candidatar e ser votado nos colegiados e comissões regimentais da EESC.",
+          "source_page": 2
+        },
+        {
+          "question": "Como deve ser feito o cadastro de um mandato no Sistema Nereu?",
+          "answer": "O cadastro é feito em: Sistema Nereu -> Mandatos -> Cadastro de mandatos -> selecionar o ICMC e o colegiado (com duplo clique) -> clicar em incluir e preencher o NUSP do membro, a função e o período, e então salvar.",
+          "source_page": 2
+        },
+        {
+          "question": "Como deve ser inserido o suplente durante o cadastro de mandato?",
+          "answer": "Ao inserir o suplente, deve-se realizar a vinculação ao titular.",
+          "source_page": 2
+        },
+        {
+          "question": "Como cadastrar um novo docente ou aluno com perfil de membro no Nereu?",
+          "answer": "Deve-se acessar Usuários do Sistema -> Listar o perfil Membro -> selecionar ICMC e o colegiado -> inserir o NUSP e clicar em incluir.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual o procedimento para remover um membro no sistema?",
+          "answer": "Para remover um membro, basta clicar no círculo ao lado do nome.",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser feito no sistema em caso de pedido de demissão de um membro?",
+          "answer": "Deve-se encerrar o mandato no Nereu e na intranet, além de retirar a permissão de membro do colegiado em Nereu -> Usuários do Sistema.",
+          "source_page": 3
+        },
+        {
+          "question": "Como configurar os lembretes de vencimento de mandatos no Sistema Nereu?",
+          "answer": "O caminho é: Nereu -> Colegiado -> Configuração dos avisos de encerramento de mandato -> duplo clique no ICMC e no colegiado -> preencher as informações e clicar em Salvar.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Mandatos__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n·\n\n<!-- image -->\n\n- Depois, cadastrar o novo docente/aluno com o perfil de membro em Nereu\n- Usuários do Sistema - Listar o perfil Membro, selecionar ICMC e o colegiado. Inserir o NUSP e clicar em incluir\n- Para remover um membro, é só clicar no círculo ao lado do nome\n\n·\n\n<!-- image -->\n\n- Caso haja pedido de demissão, encerrar o mandato no Nereu e na intranet e retirar a permissão de membro do colegiado no Nereu - Usuários do Sistema\n- O sistema Nereu envia lembretes por e-mail quando os mandatos estão para vencer. Para cadastrar os lembretes: Nereu - Colegiado - Configuração dos avisos de encerramento de mandato - Duplo clique no ICMC e depois no colegiado - Preencher as informações e clicar em Salvar\n\n[Página 4]\n·\n\n<!-- image -->\n\n- Enviar ofício de solicitação de indicação de membro titular e suplente ao Departamento logo no 1º aviso com 60 dias de antecedência do término do mandato. Se for representante da Congregação, assim que o Departamento enviar os nomes, enviar para a Diretoria fazer o encaminhamento à Congregação.\n\n## Atenção em relação às vacâncias\n\n- De acordo com os regimentos atuais das CoCs (maio/2025), havendo vacância da titularidade e da respectiva suplência proceder-se-á a nova eleição, ou seja, só poderá ocorrer a eleição de novo membro quando os cargos de titular e suplente ficam vagos concomitantemente.\n- 1) Se o cargo de titular ficar vago por qualquer motivo, o suplente será convocado para participar das reuniões até o final do mandato dele. Nesse caso, precisa entrar em contato com o suplente para que ele esteja ciente de que deverá participar das reuniões (necessidade de quórum). Caso ele manifeste impossibilidade ou desejo de não participar, verificar se ele não considera melhor solicitar a demissão para que possa ser feita uma nova eleição de titular e suplente.\n- 2) Se o cargo do suplente ficar vago por qualquer motivo, quando o titular não puder comparecer, ninguém será convocado. Nesse caso, deve-se ficar atento ao quórum para as reuniões e para a pauta de diversos. Se o titular sem suplente começar a se ausentar seguidas vezes, conversar com ele sobre a necessidade de quórum. Caso ele manifeste impossibilidade ou desejo de não participar mais, verificar se ele não considera melhor solicitar a demissão para que possa ser feita uma nova eleição de titular e suplente\n\n## Atenção em relação ao mandato dos coordenadores como membros:",
+      "qa_pairs": [
+        {
+          "question": "Como cadastrar um novo docente ou aluno com perfil de membro no sistema Nereu?",
+          "answer": "Para cadastrar, deve-se acessar 'Usuários do Sistema', listar o perfil 'Membro', selecionar o ICMC e o colegiado correspondente, inserir o NUSP e clicar em incluir.",
+          "source_page": 3
+        },
+        {
+          "question": "Como remover um membro do sistema Nereu?",
+          "answer": "Para remover um membro, basta clicar no círculo ao lado do nome do usuário.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais procedimentos devem ser adotados em caso de pedido de demissão de um membro?",
+          "answer": "Deve-se encerrar o mandato no Nereu e na intranet, além de retirar a permissão de membro do colegiado no menu 'Usuários do Sistema' do Nereu.",
+          "source_page": 3
+        },
+        {
+          "question": "Como configurar os lembretes de encerramento de mandato no Nereu?",
+          "answer": "O caminho é: Nereu -> Colegiado -> Configuração dos avisos de encerramento de mandato. Em seguida, deve-se dar um duplo clique no ICMC e no colegiado, preencher as informações e clicar em Salvar.",
+          "source_page": 3
+        },
+        {
+          "question": "Quando deve ser enviado o ofício de solicitação de indicação de membro titular e suplente ao Departamento?",
+          "answer": "O ofício deve ser enviado logo no primeiro aviso, com 60 dias de antecedência do término do mandato.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o procedimento para representantes da Congregação após o Departamento enviar os nomes dos indicados?",
+          "answer": "Assim que o Departamento enviar os nomes, estes devem ser encaminhados à Diretoria para que ela faça o encaminhamento à Congregação.",
+          "source_page": 4
+        },
+        {
+          "question": "Em que situação ocorre uma nova eleição para membros, segundo os regimentos das CoCs de maio/2025?",
+          "answer": "Uma nova eleição só poderá ocorrer quando os cargos de titular e suplente ficarem vagos concomitantemente.",
+          "source_page": 4
+        },
+        {
+          "question": "O que acontece se o cargo de titular ficar vago, mas o suplente ainda estiver no mandato?",
+          "answer": "O suplente será convocado para participar das reuniões até o final do seu mandato. É necessário entrar em contato com o suplente para informá-lo sobre a necessidade de sua participação para composição do quórum.",
+          "source_page": 4
+        },
+        {
+          "question": "O que ocorre se o cargo de suplente ficar vago e o titular não puder comparecer a uma reunião?",
+          "answer": "Nesse caso, ninguém será convocado para a reunião, sendo necessário ter atenção redobrada ao quórum para as reuniões e para a pauta de diversos.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser feito se um titular sem suplente começar a se ausentar das reuniões repetidamente?",
+          "answer": "Deve-se conversar com o titular sobre a necessidade de quórum. Caso ele manifeste impossibilidade ou desejo de não participar mais, deve-se verificar se ele prefere solicitar a demissão para que seja feita uma nova eleição de titular e suplente.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Mandatos__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n·\n\n<!-- image -->\n\n- Enviar ofício de solicitação de indicação de membro titular e suplente ao Departamento logo no 1º aviso com 60 dias de antecedência do término do mandato. Se for representante da Congregação, assim que o Departamento enviar os nomes, enviar para a Diretoria fazer o encaminhamento à Congregação.\n\n## Atenção em relação às vacâncias\n\n- De acordo com os regimentos atuais das CoCs (maio/2025), havendo vacância da titularidade e da respectiva suplência proceder-se-á a nova eleição, ou seja, só poderá ocorrer a eleição de novo membro quando os cargos de titular e suplente ficam vagos concomitantemente.\n- 1) Se o cargo de titular ficar vago por qualquer motivo, o suplente será convocado para participar das reuniões até o final do mandato dele. Nesse caso, precisa entrar em contato com o suplente para que ele esteja ciente de que deverá participar das reuniões (necessidade de quórum). Caso ele manifeste impossibilidade ou desejo de não participar, verificar se ele não considera melhor solicitar a demissão para que possa ser feita uma nova eleição de titular e suplente.\n- 2) Se o cargo do suplente ficar vago por qualquer motivo, quando o titular não puder comparecer, ninguém será convocado. Nesse caso, deve-se ficar atento ao quórum para as reuniões e para a pauta de diversos. Se o titular sem suplente começar a se ausentar seguidas vezes, conversar com ele sobre a necessidade de quórum. Caso ele manifeste impossibilidade ou desejo de não participar mais, verificar se ele não considera melhor solicitar a demissão para que possa ser feita uma nova eleição de titular e suplente\n\n## Atenção em relação ao mandato dos coordenadores como membros:\n\n[Página 5]\n- Não pode haver interrupção do mandato do coordenador como membro. Dessa forma, ao final do mandato dele como membro, se ainda permanecer como coordenador, precisará ser novamente indicado pelo departamento e a reunião para início do novo mandato deverá acontecer no dia seguinte ao término do mandato atual de membro.\n- Caso o mandato dele como membro titular vença antes do mandato do suplente, o departamento só poderá fazer uma nova indicação se o suplente solicitar a demissão do mandato atual. Nesse caso, deve-se conversar com a chefia do setor e a chefe da divisão acadêmica sobre a melhor abordagem, antes de recomendar que o suplente peça a demissão.\n- O coordenador precisa enviar relatório para a CG até 30 dias depois do término do mandato ou da saída antecipada. O relatório precisa ser analisado pela CG e pela Congregação.\n\n## Mandato da presidência da CG\n\n- A eleição é feita pela Congregação.\n- Assim que receber o resultado da eleição, providenciar o ofício sobre a eleição direcionado à PRG e enviar para assinatura do Diretor. No ofício devem constar as informações exigidas pela circular Circular PRG/A/1 2/2022 : titulação, mandatos, n' USP, departamentos, e-mail, telefone institucional e telefone celular.\n- Enviar o ofício assinado pelo Diretor para assistcolprg@usp.br, divisaoaca demicaprg@usp.br, gprg@usp.br.\n- Atualizar os mandatos no Nereu e inserir na lista de e-mail cgicmc-l@listas .icmc.usp.br e coordgrad-l@listas.icmc.usp.br.\n- Escrever para o presidente informando sobre o e-mail apoiocg@icmc.usp.br e presidentecg@icmc.usp.br.\n\n## Mandatos de CoCs externas ao ICMC\n\n- Geralmente a secretária da CoC encaminha o pedido de indicação de membro à graduação (apoiocg).\n- Verificar o regimento da CoC (verificar pasta svgrad-CoCs-regimentos e se não tiver nesta pasta, pedir à secretária). Importante verificar quem são os representantes atuais e qual será o período do novo mandato.\n- Quando constar no regimento que é representante ICMC, sem especificar o departamento, verificar quais departamentos oferecem disciplinas para o curso e encaminhar ofício a todos eles solicitando indicação de docente para escolha pela CG.\n- Inserir na pauta da CG os nomes indicados.",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito para a indicação de membro titular e suplente ao Departamento?",
+          "answer": "Deve-se enviar um ofício de solicitação de indicação de membro titular e suplente ao Departamento logo no 1º aviso, com 60 dias de antecedência do término do mandato.",
+          "source_page": 4
+        },
+        {
+          "question": "Em que situação ocorre uma nova eleição em caso de vacância nas CoCs, segundo os regimentos de maio/2025?",
+          "answer": "Uma nova eleição só poderá ocorrer quando os cargos de titular e suplente ficarem vagos concomitantemente.",
+          "source_page": 4
+        },
+        {
+          "question": "O que acontece se o cargo de titular ficar vago, mas o suplente ainda estiver no mandato?",
+          "answer": "O suplente será convocado para participar das reuniões até o final do seu mandato. Caso ele manifeste impossibilidade ou desejo de não participar, deve-se verificar se ele prefere solicitar a demissão para que ocorra uma nova eleição de titular e suplente.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a consequência se o cargo do suplente ficar vago e o titular não puder comparecer a uma reunião?",
+          "answer": "Ninguém será convocado para substituí-lo, sendo necessário ficar atento ao quórum para as reuniões e para a pauta de diversos.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona a continuidade do mandato do coordenador como membro?",
+          "answer": "Não pode haver interrupção do mandato. Se ele ainda for coordenador ao final do mandato como membro, precisará ser novamente indicado pelo departamento, e a reunião para o novo mandato deve ocorrer no dia seguinte ao término do atual.",
+          "source_page": 5
+        },
+        {
+          "question": "O que ocorre se o mandato do coordenador como membro titular vencer antes do mandato do suplente?",
+          "answer": "O departamento só poderá fazer uma nova indicação se o suplente solicitar a demissão do mandato atual. Recomenda-se conversar com a chefia do setor e a chefe da divisão acadêmica sobre a melhor abordagem antes de sugerir a demissão do suplente.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o prazo e o procedimento para o envio do relatório do coordenador após o término do mandato?",
+          "answer": "O coordenador deve enviar o relatório para a CG em até 30 dias após o término do mandato ou saída antecipada. Este relatório deve ser analisado pela CG e pela Congregação.",
+          "source_page": 5
+        },
+        {
+          "question": "Quem é responsável por eleger a presidência da CG?",
+          "answer": "A eleição da presidência da CG é feita pela Congregação.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais informações devem constar no ofício de eleição da presidência da CG direcionado à PRG?",
+          "answer": "Devem constar a titulação, mandatos, n° USP, departamentos, e-mail, telefone institucional e telefone celular, conforme a Circular PRG/A/1 2/2022.",
+          "source_page": 5
+        },
+        {
+          "question": "Como proceder quando o regimento de uma CoC externa ao ICMC solicita um representante do ICMC sem especificar o departamento?",
+          "answer": "Deve-se verificar quais departamentos oferecem disciplinas para o curso e encaminhar ofícios a todos eles solicitando a indicação de docente para que a CG realize a escolha, inserindo posteriormente os nomes indicados na pauta da CG.",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "chunk_id": "Mandatos__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\n- Não pode haver interrupção do mandato do coordenador como membro. Dessa forma, ao final do mandato dele como membro, se ainda permanecer como coordenador, precisará ser novamente indicado pelo departamento e a reunião para início do novo mandato deverá acontecer no dia seguinte ao término do mandato atual de membro.\n- Caso o mandato dele como membro titular vença antes do mandato do suplente, o departamento só poderá fazer uma nova indicação se o suplente solicitar a demissão do mandato atual. Nesse caso, deve-se conversar com a chefia do setor e a chefe da divisão acadêmica sobre a melhor abordagem, antes de recomendar que o suplente peça a demissão.\n- O coordenador precisa enviar relatório para a CG até 30 dias depois do término do mandato ou da saída antecipada. O relatório precisa ser analisado pela CG e pela Congregação.\n\n## Mandato da presidência da CG\n\n- A eleição é feita pela Congregação.\n- Assim que receber o resultado da eleição, providenciar o ofício sobre a eleição direcionado à PRG e enviar para assinatura do Diretor. No ofício devem constar as informações exigidas pela circular Circular PRG/A/1 2/2022 : titulação, mandatos, n' USP, departamentos, e-mail, telefone institucional e telefone celular.\n- Enviar o ofício assinado pelo Diretor para assistcolprg@usp.br, divisaoaca demicaprg@usp.br, gprg@usp.br.\n- Atualizar os mandatos no Nereu e inserir na lista de e-mail cgicmc-l@listas .icmc.usp.br e coordgrad-l@listas.icmc.usp.br.\n- Escrever para o presidente informando sobre o e-mail apoiocg@icmc.usp.br e presidentecg@icmc.usp.br.\n\n## Mandatos de CoCs externas ao ICMC\n\n- Geralmente a secretária da CoC encaminha o pedido de indicação de membro à graduação (apoiocg).\n- Verificar o regimento da CoC (verificar pasta svgrad-CoCs-regimentos e se não tiver nesta pasta, pedir à secretária). Importante verificar quem são os representantes atuais e qual será o período do novo mandato.\n- Quando constar no regimento que é representante ICMC, sem especificar o departamento, verificar quais departamentos oferecem disciplinas para o curso e encaminhar ofício a todos eles solicitando indicação de docente para escolha pela CG.\n- Inserir na pauta da CG os nomes indicados.\n\n[Página 6]\n- Fazer ofício com a decisão da CG e encaminhar para o solicitante, copiando o docente escolhido e o departamento na mensagem. Depois comunicar aos demais departamentos qual foi a indicação.\n- Atualizar a planilha \"Planilha de Mandatos CoCs externas com representantes ICMC e CG\" que está na pasta compartilhada svgrad-CoCs.",
+      "qa_pairs": [
+        {
+          "question": "O que acontece se o mandato de membro do coordenador terminar, mas ele ainda continuar como coordenador?",
+          "answer": "Ele precisará ser novamente indicado pelo departamento e a reunião para o início do novo mandato deve ocorrer no dia seguinte ao término do mandato atual de membro, para que não haja interrupção.",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser feito se o mandato do coordenador como membro titular vencer antes do mandato do suplente?",
+          "answer": "O departamento só poderá fazer uma nova indicação se o suplente solicitar a demissão do mandato atual. Antes de recomendar a demissão do suplente, deve-se conversar com a chefia do setor e a chefe da divisão acadêmica sobre a melhor abordagem.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual é o prazo e o procedimento para o envio do relatório do coordenador após o término do mandato?",
+          "answer": "O coordenador deve enviar o relatório para a CG em até 30 dias após o término do mandato ou saída antecipada. Este relatório precisa ser analisado pela CG e pela Congregação.",
+          "source_page": 5
+        },
+        {
+          "question": "Quem é responsável por eleger a presidência da CG?",
+          "answer": "A eleição é feita pela Congregação.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais informações devem constar no ofício de eleição da presidência da CG direcionado à PRG?",
+          "answer": "Devem constar a titulação, mandatos, n° USP, departamentos, e-mail, telefone institucional e telefone celular, conforme a Circular PRG/A/1 2/2022.",
+          "source_page": 5
+        },
+        {
+          "question": "Para quais e-mails o ofício de eleição da presidência da CG, assinado pelo Diretor, deve ser enviado?",
+          "answer": "O ofício deve ser enviado para assistcolprg@usp.br, divisaoaca demicaprg@usp.br e gprg@usp.br.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais listas de e-mail devem ser atualizadas após a eleição da presidência da CG?",
+          "answer": "Devem ser atualizadas as listas cgicmc-l@listas.icmc.usp.br e coordgrad-l@listas.icmc.usp.br.",
+          "source_page": 5
+        },
+        {
+          "question": "Como funciona o processo de indicação de membros para CoCs externas ao ICMC?",
+          "answer": "Geralmente, a secretária da CoC encaminha o pedido de indicação à graduação (apoiocg). Deve-se verificar o regimento da CoC para checar os representantes atuais e o período do novo mandato.",
+          "source_page": 5
+        },
+        {
+          "question": "O que fazer quando o regimento de uma CoC externa pede um representante do ICMC sem especificar o departamento?",
+          "answer": "Deve-se verificar quais departamentos oferecem disciplinas para o curso e encaminhar um ofício a todos eles solicitando a indicação de um docente para que a CG realize a escolha.",
+          "source_page": 5
+        },
+        {
+          "question": "Após a decisão da CG sobre a indicação para CoCs externas, quais são os próximos passos?",
+          "answer": "Deve-se fazer um ofício com a decisão da CG e encaminhá-lo ao solicitante, com cópia para o docente escolhido e o departamento. Os demais departamentos devem ser comunicados sobre a indicação e a planilha 'Planilha de Mandatos CoCs externas com representantes ICMC e CG' deve ser atualizada.",
+          "source_page": 6
+        }
+      ]
+    }
+  ]
+}

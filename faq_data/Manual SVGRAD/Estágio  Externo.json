@@ -1,0 +1,66 @@
+{
+  "doc_name": "Estágio  Externo",
+  "source_path": "data\\Manual SVGRAD\\Estágio  Externo.docx",
+  "chunks": [
+    {
+      "chunk_id": "Estágio  Externo__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Estágio Externo\n\n## Legislação:\n\nLei nº 11.788/2008 - Lei do estágio\n\nPORTARIA GR Nº 5721/2012 - Fundo de Cobertura de Acidentes Pessoais no âmbito da USP\n\nRESOLUÇÃO Nº 5528/2009 - Disciplina a concessão de estágios na Universidade de São Paulo e os realizados por seus alunos em instituições externas\n\nRESOLUÇÃO Nº 7308/2017 - Celebração de convênio da USP com agentes externos de integração conveniados com o Estado de São Paulo para fins de acesso de seus alunos às vagas de estágio ofertadas pelos entes da Administração Pública paulista.\n\nPORTARIA GR Nº 7661/2021 - Uso de assinaturas eletrônicas e USP Assina Portaria GR Nº 8321/2024 - Delegação de competência para assinatura\n\n- A parte que diz respeito à documentação dos alunos e cadastro das empresas está sendo tratada pela servidora Juliana Merlotti no C-SEC (Departamentos) exclusivamente por e-mail.\n- Quando o aluno tiver dúvidas relacionadas exclusivamente à documentação para início, término e renovação de estágio, relatório de estágio, cadastro (e renovação de empresa), deve ser orientado a verificar as orientações da página e escrever para estagiograd@icmc.usp.br\n- O estágio só pode ser iniciado após o cadastro da empresa e assinatura dos documentos.\n- Há a funcionalidade \"Estágio externo\" no Júpiter, mas a unidade ainda não adotou a sua utilização\n\n## O Serviço de Graduação é responsável por::\n\n- verificar as leis e regras da USP sobre estágio e aplicação dela aos alunos do ICMC\n- elaborar/alterar os documentos relacionados ao termo de compromisso/termo aditivo/plano de atividades/relatórios\n- orientar as empresas sobre os procedimentos para divulgação de vagas\n- tratar com os departamentos sobre os docentes que atuarão como supervisores acadêmicos e como pareceristas dos cadastros de empresa\n- encaminhar à presidência das CG os cadastros de empresas que são indeferidos para reanálise\n- enviar a lista de empresas cadastradas no período para comunicação nas reuniões da CG\n\n[Página 2]\n- atualizar as informações na página https://www.icmc.usp.br/graduacao/informacoes-gerais-e-servicos/estagios\n- enviar e-mail aos alunos com orientações detalhadas sobre matrícula em disciplinas de estágio e projetos. Ver e-mail enviado do grad@ com o assunto \"Orientações - Matrícula nas disciplinas de Estágio/Projetos/TCC do 1º semestre/2025\"\n- enviar e-mail aos alunos com orientações detalhadas sobre matrícula em disciplinas de estágio da licenciatura. Ver e-mail enviado do secmat@ no 1º semestre com o assunto \"Orientações para matrícula na disciplina de Estágio da LMA (SMA0370)\" e enviado do grad@ no 2º semestre com o assunto \"Orientações para matrícula nas disciplinas de Estágio do curso de Licenciatura em Matemática\"\n- conferir os documentos necessários para a matrícula nas disciplinas de estágio\n- esclarecer dúvidas sobre as regras e documentos para a matrícula nas disciplinas de estágio\n\nAs orientações completas sobre a matrícula estão descritas no item \" Matrícula dos veteranos\"",
+      "qa_pairs": [
+        {
+          "question": "Quem é a responsável pela documentação dos alunos e cadastro de empresas para estágios externos?",
+          "answer": "A documentação dos alunos e o cadastro das empresas são tratados pela servidora Juliana Merlotti no C-SEC (Departamentos), exclusivamente por e-mail.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual e-mail devo utilizar para tirar dúvidas sobre documentação de início, término, renovação de estágio ou relatórios?",
+          "answer": "As dúvidas relacionadas a esses temas devem ser enviadas para o e-mail estagiograd@icmc.usp.br.",
+          "source_page": 1
+        },
+        {
+          "question": "Quando posso iniciar meu estágio externo?",
+          "answer": "O estágio só pode ser iniciado após a realização do cadastro da empresa e a assinatura dos documentos necessários.",
+          "source_page": 1
+        },
+        {
+          "question": "Posso utilizar a funcionalidade 'Estágio externo' do sistema Júpiter?",
+          "answer": "Não, embora a funcionalidade exista no Júpiter, a unidade ainda não adotou a sua utilização.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são as responsabilidades do Serviço de Graduação em relação aos estágios?",
+          "answer": "O Serviço de Graduação é responsável por verificar as leis e regras da USP sobre estágio, elaborar/alterar documentos (termo de compromisso, aditivo, plano de atividades e relatórios), orientar empresas sobre divulgação de vagas, tratar com departamentos sobre supervisores acadêmicos e pareceristas, encaminhar cadastros indeferidos para reanálise e enviar a lista de empresas cadastradas para as reuniões da CG.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde posso encontrar as informações atualizadas sobre estágios no ICMC?",
+          "answer": "As informações atualizadas estão disponíveis na página https://www.icmc.usp.br/graduacao/informacoes-gerais-e-servicos/estagios.",
+          "source_page": 2
+        },
+        {
+          "question": "Como recebo as orientações detalhadas sobre a matrícula em disciplinas de estágio e projetos?",
+          "answer": "O Serviço de Graduação envia e-mails aos alunos com as orientações detalhadas. Para o 1º semestre de 2025, por exemplo, o e-mail foi enviado do endereço grad@ com o assunto 'Orientações - Matrícula nas disciplinas de Estágio/Projetos/TCC do 1º semestre/2025'.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais as orientações para matrícula na disciplina de estágio da licenciatura (LMA)?",
+          "answer": "As orientações são enviadas por e-mail: no 1º semestre, o e-mail é enviado do secmat@ com o assunto 'Orientações para matrícula na disciplina de Estágio da LMA (SMA0370)' e, no 2º semestre, o e-mail é enviado do grad@ com o assunto 'Orientações para matrícula nas disciplinas de Estágio do curso de Licenciatura em Matemática'.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem deve ser procurado para esclarecer dúvidas sobre as regras e documentos para matrícula em disciplinas de estágio?",
+          "answer": "O Serviço de Graduação é o responsável por esclarecer dúvidas sobre as regras e documentos para a matrícula nas disciplinas de estágio.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde encontro as orientações completas sobre a matrícula de veteranos?",
+          "answer": "As orientações completas sobre a matrícula estão descritas no item 'Matrícula dos veteranos'.",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

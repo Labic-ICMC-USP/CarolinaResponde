@@ -1,0 +1,66 @@
+{
+  "doc_name": "Recepção aos Calouros",
+  "source_path": "data\\Manual SVGRAD\\Recepção aos Calouros.docx",
+  "chunks": [
+    {
+      "chunk_id": "Recepção aos Calouros__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Recepção aos Calouros\n\n## Legislação:\n\nPortaria GR nº 3143/1998 - Institucionalizou na USP a Semana de Recepção aos Calouros.\n\nPortaria GR nº 3154/1999 - Proibiu o trote na USP\n\nPortaria Pró-G nº 01/1999 – Veda a compra, a venda, o fornecimento e o consumo de bebidas alcoólicas nas instituições de ensino, públicas e privadas, e proíbe expressamente as chamadas festas \"open bar\".\n\n- Todo ano é composta uma comissão de recepção aos calouros do ICMC. As tratativas são iniciadas pela chefia do SvGrad em outubro para que a Portaria seja publicada ainda em dezembro.\n- A comissão é composta por:\n- – Vice-presidente da CG que indicado como o presidente da comissão de recepção\n- – 1 professor indicado pela CG (não precisa ser membro da CG). Verificar com o presidente da CG se ele tem alguma sugestão e se gostaria que fizesse algum tipo de consulta. Colocar os nomes na pauta da CG para que seja feita a escolha\n- – 1 funcionário do SvGrad.\n- – 1 funcionário da Seção de Apoio Institucional. Solicitar a indicação à SCARPINS\n- – 1 representante discente indicado pela CCEx. Solicitar a indicação ao SVAPAC\n- – representantes discentes da CoCs. Solicitar aos coordenadores que indiquem os alunos. Não há restrição quanto ao número de alunos.\n- – Preencher a minuta da Portaria de designação da Comissão com os nomes (pasta compartilhada SvGrad - Recepção de calouros - ano)\n- – Enviar à Diretoria para numeração e assinatura e depois salvar o arquivo final na pasta compartilhada\n- – Enviar a Portaria aos membros\n- – Cadastrar o e-mail dos membros da comissão na lista de e-mails src-l@listas.icmc.usp.br\n- – A PRG é quem define o período da Recepção, o tema e os prazo para envio da programação e do relatório\n- – Assim que a PRG encaminhar as informações, salvar na pasta compartilhada e divulgar aos membros da comissão. Pode enviar diretamente para a lista src-l@listas.icmc.usp.br\n\n[Página 2]\n- – Enviar a programação aos calouros e professores\n- – Após a realização da recepção, é necessário emitir o certificado para os membros da comissão. Em 2025, um dos membros da comissão ficou responsável por essa atividade.\n\n## Observações:\n\n- Os kits ingressantes são enviados pela PRG juntamente com os cartazes\n- – A elaboração da programação e do relatório das atividades realizadas é responsabilidade da Comissão. O envio à PRG pode ser feito pelo presidente da comissão, pelo chefe do SvGrad ou pelo funcionário do setor que compõe a comissão.\n- – A página https://calouros.icmc.usp.br/ deve ser atualizada pela comissão com o cronograma das atividades\n- – Evitar o envolvimento de mais de um funcionário do setor nas atividades da semana de recepção, pois é um período de altíssima demanda no setor\n\n## Recepção Conjunta do Campus\n\nAlém da recepção que é promovida individualmente por cada unidade, há também a realização da recepção conjunta do campus que é um evento que conta com a participação dos pais/familiares e diretores das unidades.\n\n- A cerimônia é organizada pelas unidades em esquema de rodízio e geralmente realizada no salão de eventos do Campus\n- O ICMC organizou a cerimônia em 2024 e será responsável novamente em 2029.\n- No início de 2028 já será necessário tratar a respeito disso para indicar os custos na DFD. Verificar com a unidade que realizou a última para saber se houve alguma alteração no local e equipamentos utilizados\n- O custo é rateado entre as unidades. A unidade responsável pela organização costuma entrar em contato com a demais para confirmar o número de ingressantes para depois informar o valor que será pago por cada uma.\n- Assim que a unidade responsável encaminhar a previsão de gastos, é necessário encaminhar para Assistente Acadêmico, Presidente da CG e Direção para aprovação e depois para a Área Financeira\n- O cerimonial é elaborado pela unidade responsável pela organização que também terá a incumbência de confirmar a participação das autoridades de cada unidade\n- Nesta cerimônia, não há obrigatoriedade de participação da Assistente Acadêmico nem da chefia do Serviço de Graduação",
+      "qa_pairs": [
+        {
+          "question": "O trote é permitido na USP?",
+          "answer": "Não, o trote é proibido na USP, conforme a Portaria GR nº 3154/1999.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a regra sobre bebidas alcoólicas nas instituições de ensino da USP?",
+          "answer": "A Portaria Pró-G nº 01/1999 veda a compra, a venda, o fornecimento e o consumo de bebidas alcoólicas, proibindo expressamente as festas conhecidas como 'open bar'.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem compõe a comissão de recepção aos calouros do ICMC?",
+          "answer": "A comissão é composta pelo Vice-presidente da CG (que atua como presidente da comissão), um professor indicado pela CG, um funcionário do SvGrad, um funcionário da Seção de Apoio Institucional, um representante discente indicado pela CCEx e representantes discentes da CoCs.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem define o período, o tema e os prazos para a programação e relatório da Recepção aos Calouros?",
+          "answer": "Essas definições são de responsabilidade da PRG.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde os calouros podem consultar o cronograma de atividades da recepção?",
+          "answer": "O cronograma de atividades deve ser atualizado pela comissão na página https://calouros.icmc.usp.br/.",
+          "source_page": 2
+        },
+        {
+          "question": "De quem é a responsabilidade pela elaboração da programação e do relatório de atividades da recepção?",
+          "answer": "A elaboração da programação e do relatório é de responsabilidade da Comissão de recepção aos calouros.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem fornece os kits para os ingressantes e os cartazes?",
+          "answer": "Os kits ingressantes e os cartazes são enviados pela PRG.",
+          "source_page": 2
+        },
+        {
+          "question": "O que é a Recepção Conjunta do Campus e quem participa?",
+          "answer": "É um evento realizado pelas unidades do campus em esquema de rodízio, que conta com a participação de diretores das unidades e dos pais ou familiares dos alunos.",
+          "source_page": 2
+        },
+        {
+          "question": "Quando será a próxima vez que o ICMC será responsável por organizar a cerimônia de recepção conjunta do campus?",
+          "answer": "O ICMC será responsável novamente pela organização da cerimônia em 2029.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona o custeio da Recepção Conjunta do Campus?",
+          "answer": "O custo é rateado entre as unidades. A unidade organizadora confirma o número de ingressantes com as demais para informar o valor que cada unidade deverá pagar.",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "doc_name": "Bolsa PUB - Bolsa Programa Unificado de Bolsas da Reitoria",
+  "source_path": "data\\Manual SVGRAD\\Bolsa PUB - Bolsa Programa Unificado de Bolsas da Reitoria.docx",
+  "chunks": [
+    {
+      "chunk_id": "Bolsa PUB - Bolsa Programa Unificado de Bolsas da Reitoria__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Programa Unificado de Bolsas (PUB)\n\n- 1) A PRG envia o edital para a unidade divulgar. Há um edital que tem vigência de um ano (2024/2025, 2025/2026,etc)\n- 2) A Chefia da Graduação\n\n- salva o Edital e demais documentos pertinentes na pasta compartilhada PUB - (ano-ano)\n\n- insere na agenda (com envio de lembretes) as datas de cadastro dos projetos pelos docentes, inscrições pelos alunos e análise da CG\n- divulga aos professores, indicando o cronograma e ressaltando período de inscrições dos projetos. Envia lembrete nos últimos dias dos prazos estabelecidos\n- insere na agenda (com envio de lembretes) as datas de cadastro dos projetos pelos docentes, inscrições pelos alunos e análises dos projetos pela CG (copiar a presidência da CG nas datas em que há ação dela)\n- após o término dos cadastros dos projetos, verifica os projetos cadastrados em Júpiter - Administrativo &gt; Docentes &gt; Projetos e salva na pasta compartilhada\n\n·\n\n<!-- image -->\n\n- envia e-mail para o presidente da CG com a tabela e ressalta o prazo para homologação dos projetos.\n\n[Página 2]\n- encaminha e-mail aos alunos informando sobre as inscrições. Envia lembrete nos últimos dias dos prazos estabelecidos\n- envia lembrete sobre a data máxima para substituição de bolsistas\n- envia lembrete sobre relatório final de alunos e do coordenador\n- esclarece dúvidas de alunos e professores, quando possível.\n\nContatos para docentes e alunos esclarecem dúvidas que não sejam sanadas pelo SvGrad:\n\n- Vertente Ensino: pubensino@usp.br\n- Vertente Pesquisa e Inovação: pubpesquisa@usp.br\n- Vertente Cultura e Extensão: pubceu@usp.br\n- Vertente Inclusão e Pertencimento – pub.prip@usp.br",
+      "qa_pairs": [
+        {
+          "question": "Como funciona a divulgação do edital do Programa Unificado de Bolsas (PUB)?",
+          "answer": "A PRG envia o edital para a unidade divulgar, sendo que o edital possui vigência de um ano (por exemplo, 2024/2025 ou 2025/2026).",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são as responsabilidades da Chefia da Graduação em relação aos documentos do PUB?",
+          "answer": "A Chefia da Graduação deve salvar o edital e demais documentos pertinentes na pasta compartilhada PUB do respectivo ano.",
+          "source_page": 1
+        },
+        {
+          "question": "Como a Chefia da Graduação organiza as datas do PUB?",
+          "answer": "Ela insere na agenda, com envio de lembretes, as datas de cadastro dos projetos pelos docentes, as inscrições pelos alunos e a análise da CG.",
+          "source_page": 1
+        },
+        {
+          "question": "O que a Chefia da Graduação faz para informar os professores sobre o PUB?",
+          "answer": "Ela divulga as informações aos professores, indicando o cronograma e ressaltando o período de inscrições dos projetos, além de enviar lembretes nos últimos dias dos prazos.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde a Chefia da Graduação verifica os projetos cadastrados após o término dos cadastros?",
+          "answer": "Os projetos são verificados no sistema Júpiter, seguindo o caminho: Administrativo > Docentes > Projetos.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a ação da Chefia da Graduação após verificar os projetos cadastrados no Júpiter?",
+          "answer": "Ela salva os projetos na pasta compartilhada e envia um e-mail para o presidente da CG com a tabela, ressaltando o prazo para homologação dos projetos.",
+          "source_page": 1
+        },
+        {
+          "question": "Como os alunos são informados sobre as inscrições do PUB?",
+          "answer": "A Chefia da Graduação encaminha e-mail aos alunos informando sobre as inscrições e envia lembretes nos últimos dias dos prazos estabelecidos.",
+          "source_page": 2
+        },
+        {
+          "question": "Sobre quais prazos a Chefia da Graduação envia lembretes adicionais?",
+          "answer": "Ela envia lembretes sobre a data máxima para substituição de bolsistas e sobre o relatório final de alunos e do coordenador.",
+          "source_page": 2
+        },
+        {
+          "question": "Para quem devo enviar e-mail para tirar dúvidas sobre a vertente de Ensino do PUB?",
+          "answer": "As dúvidas da Vertente Ensino devem ser enviadas para o e-mail pubensino@usp.br.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são os contatos de e-mail para dúvidas do PUB que não sejam sanadas pelo SvGrad?",
+          "answer": "Os contatos são: pubensino@usp.br (Ensino), pubpesquisa@usp.br (Pesquisa e Inovação), pubceu@usp.br (Cultura e Extensão) e pub.prip@usp.br (Inclusão e Pertencimento).",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

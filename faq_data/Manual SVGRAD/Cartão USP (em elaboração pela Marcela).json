@@ -1,0 +1,186 @@
+{
+  "doc_name": "Cartão USP (em elaboração pela Marcela)",
+  "source_path": "data\\Manual SVGRAD\\Cartão USP (em elaboração pela Marcela).docx",
+  "chunks": [
+    {
+      "chunk_id": "Cartão USP (em elaboração pela Marcela)__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## mmaia@icmc.usp.br\n\n## Cartão USP\n\n- 1- O aluno deve solicitar o cartão via sistema Júpiter. O Serviço de Graduação deve entrar no sistema no menu à esquerda em \"cartão USP\".\n- 2- Abrirá algumas opções para dar andamento ao cartão USP solicitado:\n\nLocalizar Interessado\n\nListar Soliciacoes Aguaidando Pagamento\n\nLstar Soliciaçoes Aulorizadas\n\nListar 0s Cartues Enviados para Confecçuo\n\nListar Solicitacoes com Foto Rejeitada\n\nSolicitação Bilhete USP Consultar Andamento (Obs : Nao &amp; \"BILHETE ÚNICO ESTUDANTF SPTrans\") Listar 05 Bilhetes USP &amp; Disposicao da Unidade para Entrega\n\n3- Para dar andamento a uma solicitação de cartão USP o Serviço de Graduação deverá entrar na opção \"Listar Solicitações Aguardando Autorização\" e selecionar a Unidade ICMC.\n\n[Página 2]\n<!-- image -->\n\n4- Carregará as solicitações que estão aguardando autorização. Caso a foto esteja em amarelo, guardando autorização, deverá verificar se ela está adequada para documento (sem óculos escuros, sem boné, com a imagem do rosto com nitidez) e autorizar para dar andamento na solicitação do cartão. Caso a foto esteja com alguma inconformidade, ela deve ser rejeitada e deve ter uma justificativa pela recusa da foto. Desta forma o cartão também fica impedido de ser solicitado.\n\nObs1: Os pedidos com motivos de perda de cartão aparecerão para autorização após o pagamento ser efetuado, aparecerá sim na coluna Boleto Pago. Tendo sido pago, é possível autorizar.\n\nObs2: Os pedidos por motivos de furto ou roubo (exige Boletim e Ocorrência) para serem autorizados. O solicitante deverá enviar por e-mail para o Serviço de Graduação para comprovar sua justificativa na sova solicitação\n\nObs3: O cartão anterior com problema de leitura, o aluno precisa comprovar o problema para que o cartão tenha custo em sua emissão. O aluno deve verificar no setor Administrativo do ICMC ou na administração do restaurante universitário para essa aferição, cujo cartão será testado para que seja enviado um e-mail para o grad@icmc.usp.br, confirmando esta informação do problema de leitura. Desta forma, é possível dar andamento favorável à solicitação do cartão.",
+      "qa_pairs": [
+        {
+          "question": "Como o aluno deve solicitar o cartão USP?",
+          "answer": "O aluno deve realizar a solicitação do cartão através do sistema Júpiter.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual setor é responsável por processar a solicitação do cartão USP no sistema?",
+          "answer": "O Serviço de Graduação é o responsável por entrar no sistema e dar andamento à solicitação no menu 'cartão USP'.",
+          "source_page": 1
+        },
+        {
+          "question": "O que o Serviço de Graduação deve fazer para dar andamento a uma solicitação de cartão USP?",
+          "answer": "O Serviço de Graduação deve acessar a opção 'Listar Solicitações Aguardando Autorização' e selecionar a Unidade ICMC.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são os critérios para a autorização da foto do cartão USP?",
+          "answer": "A foto deve estar adequada para documento, ou seja, sem óculos escuros, sem boné e com a imagem do rosto com nitidez.",
+          "source_page": 2
+        },
+        {
+          "question": "O que acontece se a foto do aluno for considerada inadequada?",
+          "answer": "A foto deve ser rejeitada com a devida justificativa da recusa, o que impede a solicitação do cartão.",
+          "source_page": 2
+        },
+        {
+          "question": "Quando pedidos por motivo de perda de cartão ficam disponíveis para autorização?",
+          "answer": "Pedidos por perda de cartão aparecem para autorização após o pagamento ser efetuado, o que será indicado na coluna 'Boleto Pago'.",
+          "source_page": 2
+        },
+        {
+          "question": "O que é necessário para autorizar a solicitação de cartão em casos de furto ou roubo?",
+          "answer": "É exigido um Boletim de Ocorrência, que deve ser enviado por e-mail ao Serviço de Graduação para comprovar a justificativa da nova solicitação.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona a isenção de custo para emissão de cartão com problema de leitura?",
+          "answer": "O aluno precisa comprovar o problema de leitura do cartão anterior para que a nova emissão não tenha custo.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde o aluno pode realizar a aferição de um cartão com problema de leitura?",
+          "answer": "O aluno deve verificar a aferição no setor Administrativo do ICMC ou na administração do restaurante universitário.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual o procedimento final após a comprovação do problema de leitura do cartão para que a solicitação prossiga?",
+          "answer": "Após o teste do cartão, deve ser enviado um e-mail para grad@icmc.usp.br confirmando a informação do problema de leitura para que a solicitação do cartão tenha andamento favorável.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Cartão USP (em elaboração pela Marcela)__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n<!-- image -->\n\n4- Carregará as solicitações que estão aguardando autorização. Caso a foto esteja em amarelo, guardando autorização, deverá verificar se ela está adequada para documento (sem óculos escuros, sem boné, com a imagem do rosto com nitidez) e autorizar para dar andamento na solicitação do cartão. Caso a foto esteja com alguma inconformidade, ela deve ser rejeitada e deve ter uma justificativa pela recusa da foto. Desta forma o cartão também fica impedido de ser solicitado.\n\nObs1: Os pedidos com motivos de perda de cartão aparecerão para autorização após o pagamento ser efetuado, aparecerá sim na coluna Boleto Pago. Tendo sido pago, é possível autorizar.\n\nObs2: Os pedidos por motivos de furto ou roubo (exige Boletim e Ocorrência) para serem autorizados. O solicitante deverá enviar por e-mail para o Serviço de Graduação para comprovar sua justificativa na sova solicitação\n\nObs3: O cartão anterior com problema de leitura, o aluno precisa comprovar o problema para que o cartão tenha custo em sua emissão. O aluno deve verificar no setor Administrativo do ICMC ou na administração do restaurante universitário para essa aferição, cujo cartão será testado para que seja enviado um e-mail para o grad@icmc.usp.br, confirmando esta informação do problema de leitura. Desta forma, é possível dar andamento favorável à solicitação do cartão.\n\n[Página 3]\n<!-- image -->\n\n- 5- Quando chegam novos cartões no Serviço de Graduação deve clicar na opção \"Listar os Cartões que estão Retornando da Empresa\", selecionar os cartões que foram recebidos e clicar no botão \"salvar\".\n- 6- Após a operação de \"Listar os Cartões que estão Retornando da Empresa\" é necessário selecionar a opção \"Listar os Cartões à Disposição da Unidade\", selecionar os cartões recebidos e clicar em \"salvar\".\n- 7- Caso seja necessário fazer alguma consulta sobre o andamento do cartão USP ou de alguma solicitação em específico, a consultada pode ser feita na opção \"Localizar interessado\", onde deve ser informado o NUSP do solicitante e clicar em \"buscar\".\n- 7.1- Na tela seguinte vai aparecer as opções específicas para um determinado solicitante, desta forma é necessário clicar em \"listar solicitação\" onde aparecerá todas as solicitações daquele aluno, sendo possível obter a informação desejável e saber se é necessário fazer alguma autorização ou dar andamento a alguma solicitação daquele solicitante.\n\n<!-- image -->\n\n```\nNova Solicitação Listar Solicitação Ativar Cartão Cancelar Cartão Entregue ao Interessado Incluir Alterar Foto Suspender Cartão\n```",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser verificado antes de autorizar a foto para a solicitação do cartão?",
+          "answer": "Deve-se verificar se a foto está adequada para documento, ou seja, se está sem óculos escuros, sem boné e com a imagem do rosto nítida.",
+          "source_page": 2
+        },
+        {
+          "question": "O que acontece se a foto do solicitante do cartão apresentar alguma inconformidade?",
+          "answer": "A foto deve ser rejeitada com a apresentação de uma justificativa pela recusa, o que impedirá a solicitação do cartão.",
+          "source_page": 2
+        },
+        {
+          "question": "Quando os pedidos de cartão por motivo de perda ficam disponíveis para autorização?",
+          "answer": "Os pedidos por perda de cartão aparecem para autorização após a confirmação do pagamento, indicada na coluna 'Boleto Pago'.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual o procedimento para solicitar um novo cartão em casos de furto ou roubo?",
+          "answer": "O solicitante deve enviar um e-mail para o Serviço de Graduação com o Boletim de Ocorrência para comprovar a justificativa da nova solicitação.",
+          "source_page": 2
+        },
+        {
+          "question": "Como o aluno pode conseguir a isenção de custo na emissão de um cartão com problema de leitura?",
+          "answer": "O aluno deve comprovar o problema de leitura no setor Administrativo do ICMC ou na administração do restaurante universitário. Após o teste do cartão, um e-mail deve ser enviado para grad@icmc.usp.br confirmando a informação.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a primeira ação a ser tomada quando novos cartões chegam ao Serviço de Graduação?",
+          "answer": "Deve-se clicar na opção 'Listar os Cartões que estão Retornando da Empresa', selecionar os cartões recebidos e clicar em 'salvar'.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual etapa deve ser realizada após a operação de 'Listar os Cartões que estão Retornando da Empresa'?",
+          "answer": "É necessário selecionar a opção 'Listar os Cartões à Disposição da Unidade', selecionar os cartões recebidos e clicar em 'salvar'.",
+          "source_page": 3
+        },
+        {
+          "question": "Como realizar a consulta sobre o andamento de uma solicitação específica de cartão USP?",
+          "answer": "A consulta pode ser feita através da opção 'Localizar interessado', informando o NUSP do solicitante e clicando em 'buscar'.",
+          "source_page": 3
+        },
+        {
+          "question": "Como visualizar todas as solicitações de um aluno específico após localizá-lo pelo NUSP?",
+          "answer": "Na tela seguinte à busca, deve-se clicar em 'listar solicitação', onde aparecerão todas as solicitações do aluno.",
+          "source_page": 3
+        },
+        {
+          "question": "Para que serve a função 'listar solicitação' na tela de consulta do interessado?",
+          "answer": "Ela serve para obter informações sobre as solicitações do aluno e verificar se é necessário realizar alguma autorização ou dar andamento a algum processo.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Cartão USP (em elaboração pela Marcela)__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n<!-- image -->\n\n- 5- Quando chegam novos cartões no Serviço de Graduação deve clicar na opção \"Listar os Cartões que estão Retornando da Empresa\", selecionar os cartões que foram recebidos e clicar no botão \"salvar\".\n- 6- Após a operação de \"Listar os Cartões que estão Retornando da Empresa\" é necessário selecionar a opção \"Listar os Cartões à Disposição da Unidade\", selecionar os cartões recebidos e clicar em \"salvar\".\n- 7- Caso seja necessário fazer alguma consulta sobre o andamento do cartão USP ou de alguma solicitação em específico, a consultada pode ser feita na opção \"Localizar interessado\", onde deve ser informado o NUSP do solicitante e clicar em \"buscar\".\n- 7.1- Na tela seguinte vai aparecer as opções específicas para um determinado solicitante, desta forma é necessário clicar em \"listar solicitação\" onde aparecerá todas as solicitações daquele aluno, sendo possível obter a informação desejável e saber se é necessário fazer alguma autorização ou dar andamento a alguma solicitação daquele solicitante.\n\n<!-- image -->\n\n```\nNova Solicitação Listar Solicitação Ativar Cartão Cancelar Cartão Entregue ao Interessado Incluir Alterar Foto Suspender Cartão\n```\n\n[Página 4]\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito quando novos cartões chegam ao Serviço de Graduação?",
+          "answer": "Deve-se clicar na opção 'Listar os Cartões que estão Retornando da Empresa', selecionar os cartões recebidos e clicar no botão 'salvar'.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a etapa necessária após a operação de 'Listar os Cartões que estão Retornando da Empresa'?",
+          "answer": "É necessário selecionar a opção 'Listar os Cartões à Disposição da Unidade', selecionar os cartões recebidos e clicar em 'salvar'.",
+          "source_page": 3
+        },
+        {
+          "question": "Como posso consultar o andamento de um cartão USP ou de uma solicitação específica?",
+          "answer": "A consulta pode ser feita na opção 'Localizar interessado', informando o NUSP do solicitante e clicando em 'buscar'.",
+          "source_page": 3
+        },
+        {
+          "question": "O que fazer após localizar um interessado para ver suas solicitações?",
+          "answer": "É necessário clicar em 'listar solicitação', onde aparecerão todas as solicitações daquele aluno.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais informações podem ser obtidas ao listar as solicitações de um aluno?",
+          "answer": "É possível obter a informação desejada e verificar se é necessário realizar alguma autorização ou dar andamento a alguma solicitação do solicitante.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as opções disponíveis no sistema para a gestão de cartões?",
+          "answer": "As opções são: Nova Solicitação, Listar Solicitação, Ativar Cartão, Cancelar Cartão, Entregue ao Interessado, Incluir Alterar Foto e Suspender Cartão.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual dado é necessário para buscar um solicitante na opção 'Localizar interessado'?",
+          "answer": "É necessário informar o NUSP do solicitante.",
+          "source_page": 3
+        },
+        {
+          "question": "Como o sistema indica que um cartão foi recebido da empresa?",
+          "answer": "Através da opção 'Listar os Cartões que estão Retornando da Empresa', onde os cartões recebidos devem ser selecionados e salvos.",
+          "source_page": 3
+        },
+        {
+          "question": "Onde é possível verificar se um aluno possui pendências de autorização em suas solicitações?",
+          "answer": "Na tela de 'listar solicitação', acessada após a busca do interessado pelo NUSP.",
+          "source_page": 3
+        },
+        {
+          "question": "Existe a opção de suspender ou cancelar um cartão no sistema?",
+          "answer": "Sim, o sistema possui as opções 'Suspender Cartão' e 'Cancelar Cartão'.",
+          "source_page": 3
+        }
+      ]
+    }
+  ]
+}

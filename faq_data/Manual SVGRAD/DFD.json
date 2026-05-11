@@ -1,0 +1,66 @@
+{
+  "doc_name": "DFD",
+  "source_path": "data\\Manual SVGRAD\\DFD.docx",
+  "chunks": [
+    {
+      "chunk_id": "DFD__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## ORIENTAÇÕES RECEBIDAS DA ÁREA FINANCEIRA SOBRE PREVISÃO DAS DFDs\n\n- Viagens didáticas: PRECISA INDICAR NA DFD\n- SVGRAD deve indicar na DFD a previsão para: CG, Semanas Acadêmicas, Viagens Didáticas\n- O preenchimento da DFD deve ser feito considerando os gastos do ano seguinte.\n- Ainda que a verba seja oriunda da PRG, precisa prever os gastos na DFD porque o dinheiro é remanejado para o ICMC\n- Precisa da informação do responsável (e-mail, CPF, cargo)\n- Despesas que são rateadas devem ser previstas apenas por uma unidade/colegiado\n- SVGRAD precisa entrar em contato com os organizadores das semanas e pedir para preencherem a planilha de DFDs\n\n## Itens previstos no orçamento da CG:\n\nAuxílio financeiro a aluno: NÃO PRECISA INDICAR NA DFD\n\nColóquios para Licenciatura: NÃO PRECISA INDICAR NA DFD (pró-labore)\n\nSiM - Simpósio de Matemática para Graduação: PRECISA INDICAR NA DFD\n\nSemComp: PRECISA INDICAR NA DFD\n\nSemana da Estatística: PRECISA INDICAR NA DFD\n\nSemana da Eng. Computação: PRECISA INDICAR NA DFD\n\nDespesas com correio: NÃO PRECISA INDICAR NA DFD (ATAD)\n\nDespesas com almoxarifado e gráfica: NÃO PRECISA INDICAR NA DFD\n\nRecepção de Calouros: PRECISA INDICAR NA DFD QUANDO O ICMC FOR A UNIDADE RESPONSÁVEL PELA RECEPÇÃO CONJUNTA NO ANO SEGUINTE\n\nFeira de profissões: PRECISA INDICAR NA DFD, MAS SE FOR COMPARTILHADO SOMENTE UM COLEGIADO DEVE PREVER\n\nSeLIC: PRECISA INDICAR NA DFD\n\nContratação de estagiário - 50%: NÃO PRECISA INDICAR NA DFD\n\nAquisição de Licenças/assinaturas de Software/Serviços: PRECISA INDICAR NA DFD\n\nEquipamento de informática para o setor: PRECISA INDICAR NA DFD\n\nEPETUSP: NÃO PRECISA INDICAR NA DFD (auxílio financeiro PET)\n\n[Página 2]\n## Diárias: NÃO PRECISA INDICAR NA DFD\n\nTransporte: PRECISA INDICAR NA DFD (repassar informações à Seção de Transporte)\n\nAções Curricularização da Extensão: PRECISA INDICAR NA DFD se houver ações novamente que envolvam gastos com coffee break, por exemplo, mas só um colegiado deve prever se for rateado.",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser considerado ao preencher a DFD?",
+          "answer": "O preenchimento da DFD deve ser feito considerando os gastos do ano seguinte.",
+          "source_page": 1
+        },
+        {
+          "question": "As viagens didáticas precisam ser indicadas na DFD?",
+          "answer": "Sim, as viagens didáticas precisam ser indicadas na DFD.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais previsões a SVGRAD deve indicar na DFD?",
+          "answer": "A SVGRAD deve indicar a previsão para: CG, Semanas Acadêmicas e Viagens Didáticas.",
+          "source_page": 1
+        },
+        {
+          "question": "Se a verba for oriunda da PRG, ainda assim é necessário prever os gastos na DFD?",
+          "answer": "Sim, mesmo que a verba seja oriunda da PRG, os gastos precisam ser previstos na DFD porque o dinheiro é remanejado para o ICMC.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais informações do responsável são necessárias na DFD?",
+          "answer": "São necessárias as informações de e-mail, CPF e cargo do responsável.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser feita a previsão de despesas que são rateadas?",
+          "answer": "Despesas que são rateadas devem ser previstas por apenas uma unidade ou colegiado.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais eventos da graduação precisam ser indicados na DFD?",
+          "answer": "Devem ser indicados o SiM (Simpósio de Matemática para Graduação), SemComp, Semana da Estatística, Semana da Eng. Computação e SeLIC.",
+          "source_page": 1
+        },
+        {
+          "question": "A Recepção de Calouros deve ser indicada na DFD em quais condições?",
+          "answer": "A Recepção de Calouros deve ser indicada na DFD quando o ICMC for a unidade responsável pela recepção conjunta no ano seguinte.",
+          "source_page": 1
+        },
+        {
+          "question": "A aquisição de licenças de software ou equipamentos de informática para o setor deve constar na DFD?",
+          "answer": "Sim, tanto a aquisição de licenças/assinaturas de software/serviços quanto equipamentos de informática para o setor precisam ser indicados na DFD.",
+          "source_page": 1
+        },
+        {
+          "question": "As diárias e o transporte precisam ser indicados na DFD?",
+          "answer": "As diárias não precisam ser indicadas na DFD, mas o transporte precisa ser indicado (com o repasse de informações à Seção de Transporte).",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

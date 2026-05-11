@@ -1,0 +1,66 @@
+{
+  "doc_name": "Alteração_Atualização de dados pessoais",
+  "source_path": "data\\Manual SVGRAD\\Alteração_Atualização de dados pessoais.docx",
+  "chunks": [
+    {
+      "chunk_id": "Alteração_Atualização de dados pessoais__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Alteração/Atualização de dados pessoais\n\n- As informações de endereço, telefone e conta bancária podem ser alteradas diretamente pelo aluno no Júpiter. As demais alterações podem ser feitas apenas pelo SVGrad ou outro setor, Pós ou RH, se o aluno também tiver vínculo como aluno de pós ou servidor/dependente\n- A solicitação de alteração/atualização deve ser encaminhada por e-mail juntamente com o documento que comprove os dados a serem cadastrados.\n- No caso de alteração/atualização do nome, é necessário enviar a Certidão de Nascimento ou de Casamento. Obs: Mesmo que conste acento no RG, se não houver na certidão, não devemos acrescentá-lo.\n- Recomenda-se que o SVGrad envie e-mail todo semestre lembrando os alunos sobre a atualização dos dados. (Ver exemplo de e-mail enviado pelo grad@ com o assunto \"Orientações - Atualização de dados pessoais e de contato no Júpiter\"\n- Após finalizadas as etapas de confirmação de matrícula (e num momento de menor demanda no setor), é recomendável cadastrar os dados de nacionalidade e naturalidade de todos os ingressantes no Júpiter. Ver orientações nas páginas finais do documento Matrícula de ingressantes .\n- A alteração/atualização deve ser feita em Júpiter - Aluno &gt; Consultas &gt; Dados Pessoais - Fazer a alteração e salvar.\n\n## Nome Social\n\n- De acordo com a Resolução CoIP Nº 8705/2024, fica assegurado aos discentes da USP, cujo nome de registro civil não reflita a sua identidade de gênero, o direito de uso e de inclusão do seu nome social nos registros, documentos e atos da vida acadêmica. A inclusão se dará por meio da substituição do prenome constante no registro civil pelo nome social, acrescido do sobrenome civil.\n- O interessada/o deverá preencher o requerimento e enviar ao SVGrad por e-mail.\n- Assim que receber o pedido, o SVGrad deve fazer a inclusão do nome social no Júpiter - Aluno &gt; Consultas &gt; Dados Pessoais - marcar a opção \"usar o nome social (Decreto Estadual nº 55.588)\", digitar o nome e clicar em Salvar\n- Para alteração do nome no e-mail institucional, o aluno deve seguir a instrução da Superintendência de SP.\n- Depois de alterar o nome e o e-mail, é possível solicitar um novo cartão USP pelo Sistema Júpiter indicando a opção \"Decreto nº 55.888\" para que não haja cobrança.\n- ATUALIZAR O NOME NO CADERNINHO TAMBÉM\n\n[Página 2]\n## Tela do aluno no Júpiter:\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como posso alterar meu endereço, telefone ou conta bancária no ICMC?",
+          "answer": "Essas informações podem ser alteradas diretamente pelo aluno através do sistema Júpiter.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais dados pessoais não podem ser alterados diretamente pelo aluno no Júpiter?",
+          "answer": "Alterações que não sejam de endereço, telefone e conta bancária devem ser feitas apenas pelo SVGrad ou outros setores competentes (como Pós ou RH, dependendo do vínculo do aluno).",
+          "source_page": 1
+        },
+        {
+          "question": "O que devo fazer para solicitar a alteração de dados que não podem ser editados por mim no Júpiter?",
+          "answer": "A solicitação de alteração ou atualização deve ser encaminhada por e-mail, acompanhada do documento que comprove os dados a serem cadastrados.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais documentos são necessários para solicitar a alteração do nome?",
+          "answer": "Para a alteração ou atualização do nome, é necessário enviar a Certidão de Nascimento ou de Casamento.",
+          "source_page": 1
+        },
+        {
+          "question": "Se o meu RG tiver acento, mas a minha certidão não tiver, o acento será incluído no cadastro?",
+          "answer": "Não. Se o acento não constar na certidão, ele não deve ser acrescentado, mesmo que conste no RG.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é o caminho no sistema Júpiter para realizar a alteração de dados pessoais?",
+          "answer": "O caminho é: Júpiter - Aluno > Consultas > Dados Pessoais. Após fazer a alteração, é necessário salvar.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem tem direito ao uso do nome social nos registros acadêmicos do ICMC?",
+          "answer": "De acordo com a Resolução CoIP Nº 8705/2024, o direito é assegurado aos discentes da USP cujo nome de registro civil não reflita a sua identidade de gênero.",
+          "source_page": 1
+        },
+        {
+          "question": "Como faço para solicitar a inclusão do meu nome social?",
+          "answer": "O interessado deve preencher o requerimento e enviá-lo por e-mail ao SVGrad.",
+          "source_page": 1
+        },
+        {
+          "question": "Como funciona a alteração do nome no e-mail institucional para quem usa nome social?",
+          "answer": "Para alterar o nome no e-mail institucional, o aluno deve seguir as instruções da Superintendência de SP.",
+          "source_page": 1
+        },
+        {
+          "question": "É possível obter um novo cartão USP gratuito após a alteração para nome social?",
+          "answer": "Sim. Após alterar o nome e o e-mail, o aluno pode solicitar um novo cartão pelo Sistema Júpiter, indicando a opção 'Decreto nº 55.888' para que não haja cobrança.",
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}

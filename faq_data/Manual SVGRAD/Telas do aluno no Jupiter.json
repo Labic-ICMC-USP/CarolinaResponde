@@ -1,0 +1,144 @@
+{
+  "doc_name": "Telas do aluno no Jupiter",
+  "source_path": "data\\Manual SVGRAD\\Telas do aluno no Jupiter.pdf",
+  "chunks": [
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n<!-- image -->\n\n## MATRÍCULA\n\n## TSP\n\n<!-- image -->\n\n[Página 2]\n<!-- image -->\n\nTSP\n\n## PERÍODO IDEAL CALCULADO\n\n<!-- image -->\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n<!-- image -->\n\nTSP\n\n## PERÍODO IDEAL CALCULADO\n\n<!-- image -->\n\n<!-- image -->\n\n[Página 3]\n## MATRÍCULA &gt; RESULTADO DAS CONSOLIDAÇÕES\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n## MATRÍCULA &gt; RESULTADO DAS CONSOLIDAÇÕES\n\n<!-- image -->\n\n[Página 4]\n<!-- image -->\n\n## AVALIAÇÃO CONSECUTIVA\n\napenas para unidades com adesão ao oferecimento\n\nTSP\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n<!-- image -->\n\n## AVALIAÇÃO CONSECUTIVA\n\napenas para unidades com adesão ao oferecimento\n\nTSP\n\n<!-- image -->\n\n[Página 5]\n<!-- image -->\n\n## GRADE HORÁRIA\n\nTSP\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\n<!-- image -->\n\n## GRADE HORÁRIA\n\nTSP\n\n<!-- image -->\n\n[Página 6]\n<!-- image -->\n\n## ACOMPANHAMENTOS\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c5",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_text": "[Página 6]\n<!-- image -->\n\n## ACOMPANHAMENTOS\n\n<!-- image -->\n\n[Página 7]\n## CARTÃO USP\n\n<!-- image -->\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c6",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_text": "[Página 7]\n## CARTÃO USP\n\n<!-- image -->\n\n<!-- image -->\n\n[Página 8]\n## CARTÃO USP &gt; TROCAR DE FOTO\n\nPara trocar de foto o cartão deve estar ativo e somente depois solicitar o novo cartão\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como faço para trocar a foto do meu cartão USP?",
+          "answer": "Para trocar a foto, o cartão deve estar ativo e, somente após isso, deve-se solicitar o novo cartão.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c7",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_text": "[Página 8]\n## CARTÃO USP &gt; TROCAR DE FOTO\n\nPara trocar de foto o cartão deve estar ativo e somente depois solicitar o novo cartão\n\n<!-- image -->\n\n[Página 9]\n<!-- image -->\n\n## BILHETE ÚNICO &gt; SPtrans\n\nTSP\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como faço para trocar a foto do meu Cartão USP?",
+          "answer": "Para trocar a foto, o cartão deve estar ativo e, somente após isso, deve-se solicitar o novo cartão.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c8",
+      "pages": [
+        9,
+        10
+      ],
+      "chunk_text": "[Página 9]\n<!-- image -->\n\n## BILHETE ÚNICO &gt; SPtrans\n\nTSP\n\n<!-- image -->\n\n[Página 10]\n<!-- image -->\n\n## TSP\n\n## REQUERIMENTO\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c9",
+      "pages": [
+        10,
+        11
+      ],
+      "chunk_text": "[Página 10]\n<!-- image -->\n\n## TSP\n\n## REQUERIMENTO\n\n<!-- image -->\n\n[Página 11]\n## REQUERIMENTO DE MATRÍCULA\n\n<!-- image -->\n\n| Requerimento > Requerimento de Matrícula   |\n|--------------------------------------------|",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c10",
+      "pages": [
+        11,
+        12
+      ],
+      "chunk_text": "[Página 11]\n## REQUERIMENTO DE MATRÍCULA\n\n<!-- image -->\n\n| Requerimento > Requerimento de Matrícula   |\n|--------------------------------------------|\n\n[Página 12]\n<!-- image -->\n\n## REQUERIMENTO\n\nTSP\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c11",
+      "pages": [
+        12,
+        13
+      ],
+      "chunk_text": "[Página 12]\n<!-- image -->\n\n## REQUERIMENTO\n\nTSP\n\n<!-- image -->\n\n[Página 13]\n<!-- image -->\n\n## PROGRAMA DE BOLSAS\n\nTSP\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c12",
+      "pages": [
+        13,
+        14
+      ],
+      "chunk_text": "[Página 13]\n<!-- image -->\n\n## PROGRAMA DE BOLSAS\n\nTSP\n\n<!-- image -->\n\n[Página 14]\n<!-- image -->\n\n## EMISSÃO DE DOCUMENTOS\n\n## TSP\n\n<!-- image -->",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Telas do aluno no Jupiter__c13",
+      "pages": [
+        14,
+        15
+      ],
+      "chunk_text": "[Página 14]\n<!-- image -->\n\n## EMISSÃO DE DOCUMENTOS\n\n## TSP\n\n<!-- image -->\n\n[Página 15]\n<!-- image -->\n\n## MOBILIDADE DE INTERCÂMBIO\n\nTSP\n\n<!-- image -->",
+      "qa_pairs": []
+    }
+  ]
+}

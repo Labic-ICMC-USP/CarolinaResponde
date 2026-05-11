@@ -1,0 +1,786 @@
+{
+  "doc_name": "Pauta de CoC",
+  "source_path": "data\\Manual SVGRAD\\Pauta de CoC.docx",
+  "chunks": [
+    {
+      "chunk_id": "Pauta de CoC__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Pauta de reuniões das Comissões Coordenadoras de Curso\n\n- A montagem da pauta é responsabilidade da secretária do curso e é feita diretamente no Sistema Nereu, conforme instruções abaixo, com a seguinte estrutura:\n\n## I – EXPEDIENTE\n\n1. Comunicações da coordenação\n2. 1.1 (assunto)\n2. Comunicações dos membros\n3. Apreciação da ata da 100ª Sessão da CoC-BBB realizada em 01/01/2025\n\n## II – ORDEM DO DIA\n\n1. (assunto) (os assuntos aprovados \"ad referendum\") devem ser os primeiros assuntos;\n2. (assunto geral)\n3. 2.1 (casos específicos)\n\n## III – DIVERSOS\n\n1. (assunto)\n2. (assunto geral)\n3. 2.1 (casos específicos)\n- Nas comunicações da coordenação devem ser inseridos os assuntos relevantes para o curso e que não demandam análise e aprovação. A secretária pode inserir os assuntos conforme tem acesso às informações e a pedido do coordenador.\n- A ordem do dia é composta por assuntos que demandam deliberação e deve começar, preferencialmente, pelos assuntos que já foram aprovados \"ad referendum\". Para votação deste item é necessário quórum específico determinado pelo regimento da CoC.\n- O item diversos só é inserido na pauta quando alguma demanda chega após a convocação já ter sido realizada e o coordenador sempre deve ser consultado antes da inclusão. Para votação deste item é necessário quórum específico determinado pelo regimento da CoC. Se os membros concordarem, é possível apreciar o item de diversos juntamente com itens semelhantes da pauta regular.\n- Todos os assuntos inseridos na pauta devem ser do conhecimento do coordenador do curso. A pauta deve ser revisada por ele antes de sua divulgação aos demais membros da CoC que é feita no momento da convocação.\n\n[Página 2]\n- Ver exemplo completo de pauta ao final do documento\n- Para o bom andamento da reunião, celeridade nas discussões e para que se mantenha os adequados registros para consultas, recomenda-se durante a montagem da pauta:\n- Especificar o assunto no item e indicar o semestre/ano a que se refere;\n- Informar nome completo do aluno, NUSP, ano de ingresso e anexar o histórico escolar atualizado juntamente com os demais documentos;\n- Indicar a data da aprovação \"ad referendum\" e quem aprovou, se foi a CoC, o Departamento, etc;\n- Anexar todos documentos necessários para as discussões e incluir os caderninhos atualizados, se possível, em assuntos que dependam do conhecimento do que o aluno cumpriu e ainda precisa cumprir;\n- Organizar os planos de término e deixar disponíveis no drive do e-mail para fácil consulta;\n- Inserir o número do ticket do ORTS ou o número do sistema de equivalência para facilitar a localização do assunto, se necessário.\n\n## Elaboração da pauta no Sistema Nereu\n\n- Para que o funcionário do setor tenha acesso à edição da pauta de determinado colegiado, precisa ter acesso no Nereu com o perfil de Gestor de Pauta/ Secretário Colegiado.\n- Caso o coordenador queira ter acesso à pauta antes da liberação da imagem para poder analisar os itens, também precisará ter o perfil de Gestor de Pauta/ Secretário Colegiado.\n- Para cadastrar o acesso: Sistema Nereu - Usuários do sistema - Escolher o perfil, a unidade e o colegiado - Inserir o NUSP do funcionário e clicar em incluir\n\n·\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quem é o responsável pela montagem da pauta das reuniões das Comissões Coordenadoras de Curso?",
+          "answer": "A montagem da pauta é de responsabilidade da secretária do curso.",
+          "source_page": 1
+        },
+        {
+          "question": "Em qual sistema a pauta das reuniões deve ser montada?",
+          "answer": "A pauta deve ser feita diretamente no Sistema Nereu.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a estrutura básica de organização de uma pauta de reunião da CoC?",
+          "answer": "A pauta é estruturada em três partes: I – Expediente, II – Ordem do Dia e III – Diversos.",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve constar nas 'comunicações da coordenação' dentro do Expediente?",
+          "answer": "Devem ser inseridos os assuntos relevantes para o curso que não demandam análise e aprovação.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser composta a 'Ordem do Dia' e qual a prioridade de assuntos?",
+          "answer": "A Ordem do Dia é composta por assuntos que demandam deliberação e deve começar, preferencialmente, pelos assuntos que já foram aprovados 'ad referendum'.",
+          "source_page": 1
+        },
+        {
+          "question": "Em que situação o item 'Diversos' é inserido na pauta?",
+          "answer": "O item diversos só é inserido quando alguma demanda chega após a convocação já ter sido realizada, sendo necessária a consulta prévia ao coordenador.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem deve revisar a pauta antes de sua divulgação aos membros da CoC?",
+          "answer": "A pauta deve ser revisada pelo coordenador do curso antes de ser divulgada no momento da convocação.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais informações sobre o aluno devem ser informadas na montagem da pauta para melhor registro?",
+          "answer": "Devem ser informados o nome completo do aluno, NUSP, ano de ingresso e deve-se anexar o histórico escolar atualizado junto aos demais documentos.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais recomendações existem para facilitar a localização de assuntos na pauta?",
+          "answer": "Recomenda-se inserir o número do ticket do ORTS ou o número do sistema de equivalência.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual perfil de acesso no Sistema Nereu é necessário para que um funcionário ou coordenador possa editar ou analisar a pauta?",
+          "answer": "É necessário ter o perfil de Gestor de Pauta/ Secretário Colegiado.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- Ver exemplo completo de pauta ao final do documento\n- Para o bom andamento da reunião, celeridade nas discussões e para que se mantenha os adequados registros para consultas, recomenda-se durante a montagem da pauta:\n- Especificar o assunto no item e indicar o semestre/ano a que se refere;\n- Informar nome completo do aluno, NUSP, ano de ingresso e anexar o histórico escolar atualizado juntamente com os demais documentos;\n- Indicar a data da aprovação \"ad referendum\" e quem aprovou, se foi a CoC, o Departamento, etc;\n- Anexar todos documentos necessários para as discussões e incluir os caderninhos atualizados, se possível, em assuntos que dependam do conhecimento do que o aluno cumpriu e ainda precisa cumprir;\n- Organizar os planos de término e deixar disponíveis no drive do e-mail para fácil consulta;\n- Inserir o número do ticket do ORTS ou o número do sistema de equivalência para facilitar a localização do assunto, se necessário.\n\n## Elaboração da pauta no Sistema Nereu\n\n- Para que o funcionário do setor tenha acesso à edição da pauta de determinado colegiado, precisa ter acesso no Nereu com o perfil de Gestor de Pauta/ Secretário Colegiado.\n- Caso o coordenador queira ter acesso à pauta antes da liberação da imagem para poder analisar os itens, também precisará ter o perfil de Gestor de Pauta/ Secretário Colegiado.\n- Para cadastrar o acesso: Sistema Nereu - Usuários do sistema - Escolher o perfil, a unidade e o colegiado - Inserir o NUSP do funcionário e clicar em incluir\n\n·\n\n<!-- image -->\n\n[Página 3]\n- Para remover um funcionário como o perfil de gestor/secretário é o mesmo caminho, depois clicar no círculo ao lado do nome\n\n## Para remover um usuário, clique no círculo ao lado do nome.\n\n·\n\n<!-- image -->\n\n- Para iniciar a elaboração da pauta: Acessar Nereu - Sessões do Colegiado -\n\nClicar no colegiado e depois em Incluir Sessão\n\n<!-- image -->\n\n<!-- image -->\n\n·\n\n- Preencher os campos com os dados da reunião e clicar em incluir.\n\n·\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que é recomendado especificar nos itens da pauta para garantir o bom andamento da reunião?",
+          "answer": "Recomenda-se especificar o assunto no item e indicar o semestre e o ano a que se refere.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais informações do aluno devem ser informadas na montagem da pauta?",
+          "answer": "Devem ser informados o nome completo do aluno, o NUSP e o ano de ingresso, além de anexar o histórico escolar atualizado e demais documentos.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser indicado em casos de aprovação 'ad referendum' na pauta?",
+          "answer": "Deve-se indicar a data da aprovação e quem a aprovou (por exemplo, a CoC ou o Departamento).",
+          "source_page": 2
+        },
+        {
+          "question": "Quais documentos devem ser anexados para auxiliar discussões sobre o que o aluno já cumpriu ou precisa cumprir?",
+          "answer": "Devem ser anexados todos os documentos necessários para as discussões e, se possível, os caderninhos atualizados.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde devem ser organizados os planos de término para facilitar a consulta?",
+          "answer": "Os planos de término devem ser organizados e deixados disponíveis no drive do e-mail.",
+          "source_page": 2
+        },
+        {
+          "question": "Como facilitar a localização de assuntos relacionados ao ORTS ou sistema de equivalência na pauta?",
+          "answer": "Deve-se inserir o número do ticket do ORTS ou o número do sistema de equivalência.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual perfil de acesso no Sistema Nereu é necessário para que um funcionário ou coordenador possa editar ou analisar a pauta?",
+          "answer": "É necessário ter o perfil de Gestor de Pauta/Secretário Colegiado.",
+          "source_page": 2
+        },
+        {
+          "question": "Como cadastrar o acesso de um funcionário no Sistema Nereu?",
+          "answer": "O caminho é: Sistema Nereu -> Usuários do sistema -> Escolher o perfil, a unidade e o colegiado -> Inserir o NUSP do funcionário e clicar em incluir.",
+          "source_page": 2
+        },
+        {
+          "question": "Como remover um usuário com perfil de gestor/secretário no Sistema Nereu?",
+          "answer": "Deve-se seguir o mesmo caminho de cadastro e clicar no círculo ao lado do nome do usuário.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o procedimento para iniciar a elaboração de uma pauta no Sistema Nereu?",
+          "answer": "Deve-se acessar Nereu -> Sessões do Colegiado -> Clicar no colegiado -> Clicar em Incluir Sessão -> Preencher os campos com os dados da reunião e clicar em incluir.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n- Para remover um funcionário como o perfil de gestor/secretário é o mesmo caminho, depois clicar no círculo ao lado do nome\n\n## Para remover um usuário, clique no círculo ao lado do nome.\n\n·\n\n<!-- image -->\n\n- Para iniciar a elaboração da pauta: Acessar Nereu - Sessões do Colegiado -\n\nClicar no colegiado e depois em Incluir Sessão\n\n<!-- image -->\n\n<!-- image -->\n\n·\n\n- Preencher os campos com os dados da reunião e clicar em incluir.\n\n·\n\n<!-- image -->\n\n[Página 4]\n- Para excluir uma sessão, clicar no ícone Remover Sessão\n\n·\n\n<!-- image -->\n\n- Se for necessário editar as informações da reunião, clicar no ícone Alterar Sessão.\n\n·\n\n<!-- image -->\n\n- Para iniciar a redação da pauta, clicar no ícone Editar Pauta\n- Incluir inicialmente os itens que são obrigatórios. Digitar EXPEDIENTE, deixar em negrito e clicar em incluir\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como remover um funcionário do perfil de gestor ou secretário?",
+          "answer": "Para remover um funcionário do perfil de gestor/secretário, deve-se seguir o mesmo caminho de remoção de usuário e clicar no círculo ao lado do nome.",
+          "source_page": 3
+        },
+        {
+          "question": "Como faço para remover um usuário?",
+          "answer": "Para remover um usuário, deve-se clicar no círculo ao lado do nome do usuário.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o caminho para iniciar a elaboração de uma pauta?",
+          "answer": "Para iniciar a elaboração da pauta, deve-se acessar Nereu, ir em 'Sessões do Colegiado', clicar no colegiado desejado e depois em 'Incluir Sessão'.",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser feito após acessar a opção de incluir sessão no Nereu?",
+          "answer": "Devem-se preencher os campos com os dados da reunião e clicar em incluir.",
+          "source_page": 3
+        },
+        {
+          "question": "Como posso excluir uma sessão?",
+          "answer": "Para excluir uma sessão, deve-se clicar no ícone 'Remover Sessão'.",
+          "source_page": 4
+        },
+        {
+          "question": "O que fazer se for necessário editar as informações de uma reunião?",
+          "answer": "Se for necessário editar as informações da reunião, deve-se clicar no ícone 'Alterar Sessão'.",
+          "source_page": 4
+        },
+        {
+          "question": "Como iniciar a redação da pauta?",
+          "answer": "Para iniciar a redação da pauta, deve-se clicar no ícone 'Editar Pauta'.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais itens devem ser incluídos inicialmente na redação da pauta?",
+          "answer": "Devem ser incluídos inicialmente os itens que são obrigatórios.",
+          "source_page": 4
+        },
+        {
+          "question": "Como deve ser inserido o item de expediente na pauta?",
+          "answer": "Deve-se digitar 'EXPEDIENTE', deixá-lo em negrito e clicar em incluir.",
+          "source_page": 4
+        },
+        {
+          "question": "Onde encontro as opções de gestão de sessões do colegiado?",
+          "answer": "As opções de gestão de sessões do colegiado encontram-se no sistema Nereu, na seção 'Sessões do Colegiado'.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n- Para excluir uma sessão, clicar no ícone Remover Sessão\n\n·\n\n<!-- image -->\n\n- Se for necessário editar as informações da reunião, clicar no ícone Alterar Sessão.\n\n·\n\n<!-- image -->\n\n- Para iniciar a redação da pauta, clicar no ícone Editar Pauta\n- Incluir inicialmente os itens que são obrigatórios. Digitar EXPEDIENTE, deixar em negrito e clicar em incluir\n\n<!-- image -->\n\n[Página 5]\n·\n\n<!-- image -->\n\n- Depois, clicar sobre o item para selecioná-lo e clicar na seta horizontal para a esquerda para posicionar o item como I\n- Selecionar novamente o item e clicar no ícone inserir\n- Escrever Comunicações da coordenação, deixar em negrito e clicar em incluir\n\n<!-- image -->\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como faço para excluir uma sessão?",
+          "answer": "Para excluir uma sessão, deve-se clicar no ícone Remover Sessão.",
+          "source_page": 4
+        },
+        {
+          "question": "O que devo fazer se precisar editar as informações de uma reunião?",
+          "answer": "Se for necessário editar as informações da reunião, deve-se clicar no ícone Alterar Sessão.",
+          "source_page": 4
+        },
+        {
+          "question": "Como iniciar a redação da pauta?",
+          "answer": "Para iniciar a redação da pauta, deve-se clicar no ícone Editar Pauta.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais são as instruções iniciais para a redação da pauta?",
+          "answer": "Deve-se incluir inicialmente os itens que são obrigatórios, digitar EXPEDIENTE em negrito e clicar em incluir.",
+          "source_page": 4
+        },
+        {
+          "question": "Como posicionar um item como 'I' na pauta?",
+          "answer": "Deve-se clicar sobre o item para selecioná-lo e, em seguida, clicar na seta horizontal para a esquerda.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o procedimento após posicionar o item como 'I'?",
+          "answer": "Deve-se selecionar novamente o item e clicar no ícone inserir.",
+          "source_page": 5
+        },
+        {
+          "question": "Como incluir as 'Comunicações da coordenação' na pauta?",
+          "answer": "Deve-se escrever 'Comunicações da coordenação', deixar o texto em negrito e clicar em incluir.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual ícone deve ser utilizado para remover uma sessão?",
+          "answer": "Deve ser utilizado o ícone Remover Sessão.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a formatação recomendada para o item EXPEDIENTE na pauta?",
+          "answer": "O item EXPEDIENTE deve ser digitado em negrito.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a formatação recomendada para o item 'Comunicações da coordenação'?",
+          "answer": "O item 'Comunicações da coordenação' deve ser escrito em negrito.",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\n·\n\n<!-- image -->\n\n- Depois, clicar sobre o item para selecioná-lo e clicar na seta horizontal para a esquerda para posicionar o item como I\n- Selecionar novamente o item e clicar no ícone inserir\n- Escrever Comunicações da coordenação, deixar em negrito e clicar em incluir\n\n<!-- image -->\n\n<!-- image -->\n\n[Página 6]\n·\n\n## EXPEDIENTE\n\n<!-- image -->\n\n- Em seguida, clicar sobre o item Comunicações da coordenação para selecioná-lo e clicar no ícone inserir\n\n## L EXPEDIENTE\n\n<!-- image -->\n\n·\n\n- Escrever Comunicações dos membros, deixar em negrito e clicar em incluir\n\n## EXPEDIENTE\n\n- Comunicações da coordenação\n\n<!-- image -->\n\n·\n\n- Selecionar o item, clicar em alinhar à esquerda",
+      "qa_pairs": [
+        {
+          "question": "Como posicionar um item como 'I' no sistema?",
+          "answer": "Para posicionar um item como 'I', deve-se clicar sobre o item para selecioná-lo e, em seguida, clicar na seta horizontal para a esquerda.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o procedimento para inserir um item após selecioná-lo?",
+          "answer": "Após selecionar o item, deve-se clicar no ícone inserir.",
+          "source_page": 5
+        },
+        {
+          "question": "Como deve ser escrita a seção de 'Comunicações da coordenação'?",
+          "answer": "Deve-se escrever 'Comunicações da coordenação', formatar o texto em negrito e clicar em incluir.",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser feito após selecionar o item 'Comunicações da coordenação' na seção de Expediente?",
+          "answer": "Deve-se clicar no ícone inserir.",
+          "source_page": 6
+        },
+        {
+          "question": "Como adicionar as 'Comunicações dos membros' ao documento?",
+          "answer": "Deve-se escrever 'Comunicações dos membros', deixar o texto em negrito e clicar em incluir.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais itens compõem a seção de EXPEDIENTE mencionada no texto?",
+          "answer": "A seção de EXPEDIENTE inclui as 'Comunicações da coordenação'.",
+          "source_page": 6
+        },
+        {
+          "question": "Como alinhar o item selecionado na seção de Expediente?",
+          "answer": "Deve-se selecionar o item e clicar em alinhar à esquerda.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual a sequência de ações para configurar um item como 'I' e inseri-lo?",
+          "answer": "Primeiro, seleciona-se o item e clica-se na seta horizontal para a esquerda para posicioná-lo como 'I'; depois, seleciona-se o item novamente e clica-se no ícone inserir.",
+          "source_page": 5
+        },
+        {
+          "question": "Onde deve ser inserido o texto 'Comunicações da coordenação'?",
+          "answer": "O texto deve ser inserido após clicar no ícone de inserir, sendo formatado em negrito e finalizado com o clique em incluir.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual a formatação recomendada para 'Comunicações dos membros'?",
+          "answer": "O texto deve ser escrito em negrito antes de clicar em incluir.",
+          "source_page": 6
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c5",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_text": "[Página 6]\n·\n\n## EXPEDIENTE\n\n<!-- image -->\n\n- Em seguida, clicar sobre o item Comunicações da coordenação para selecioná-lo e clicar no ícone inserir\n\n## L EXPEDIENTE\n\n<!-- image -->\n\n·\n\n- Escrever Comunicações dos membros, deixar em negrito e clicar em incluir\n\n## EXPEDIENTE\n\n- Comunicações da coordenação\n\n<!-- image -->\n\n·\n\n- Selecionar o item, clicar em alinhar à esquerda\n\n[Página 7]\n- 1 Comunicações da coordenação\n\n<!-- image -->\n\nEXPEDIENTE\n\n- 1 Comunicações da coordenação\n- 2 Comunicações dos membros\n\n·\n\n·\n\n- Em seguida, clicar sobre o item Comunicações dos membros para selecionálo e clicar no ícone inserir\n\n<!-- image -->\n\n·\n\n·\n\n- Escrever Apreciação da ata da xxxª Sessão da CoC-BBB realizada em xx/xx/2025, deixar em negrito, clicar em incluir\n\n·\n\n<!-- image -->\n\n- Em seguida, selecionar o item e alinhar à esquerda\n- 2 Comunicações dos membros\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como inserir as 'Comunicações da coordenação' no expediente?",
+          "answer": "Deve-se clicar sobre o item 'Comunicações da coordenação' para selecioná-lo e, em seguida, clicar no ícone inserir.",
+          "source_page": 6
+        },
+        {
+          "question": "Como deve ser formatado o texto 'Comunicações dos membros' ao ser incluído?",
+          "answer": "O texto 'Comunicações dos membros' deve ser escrito em negrito antes de clicar em incluir.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual o alinhamento recomendado para o item 'Comunicações da coordenação'?",
+          "answer": "O item deve ser selecionado e alinhado à esquerda.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais são os itens que compõem a seção de EXPEDIENTE conforme as páginas 6 e 7?",
+          "answer": "A seção de EXPEDIENTE é composta por: 1 Comunicações da coordenação e 2 Comunicações dos membros.",
+          "source_page": 7
+        },
+        {
+          "question": "Como proceder para inserir as 'Comunicações dos membros'?",
+          "answer": "Deve-se clicar sobre o item 'Comunicações dos membros' para selecioná-lo e clicar no ícone inserir.",
+          "source_page": 7
+        },
+        {
+          "question": "Como deve ser escrita a 'Apreciação da ata' no documento?",
+          "answer": "Deve-se escrever 'Apreciação da ata da xxxª Sessão da CoC-BBB realizada em xx/xx/2025', formatar em negrito e clicar em incluir.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual o alinhamento do item '2 Comunicações dos membros'?",
+          "answer": "O item deve ser selecionado e alinhado à esquerda.",
+          "source_page": 7
+        },
+        {
+          "question": "O que deve ser feito após escrever 'Comunicações dos membros' em negrito?",
+          "answer": "Após escrever em negrito, deve-se clicar em incluir.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual a sequência numérica dos itens de comunicação no expediente?",
+          "answer": "A sequência é: 1 para Comunicações da coordenação e 2 para Comunicações dos membros.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual a ação necessária após selecionar o item 'Comunicações da coordenação' para que ele seja adicionado?",
+          "answer": "É necessário clicar no ícone inserir.",
+          "source_page": 6
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c6",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_text": "[Página 7]\n- 1 Comunicações da coordenação\n\n<!-- image -->\n\nEXPEDIENTE\n\n- 1 Comunicações da coordenação\n- 2 Comunicações dos membros\n\n·\n\n·\n\n- Em seguida, clicar sobre o item Comunicações dos membros para selecionálo e clicar no ícone inserir\n\n<!-- image -->\n\n·\n\n·\n\n- Escrever Apreciação da ata da xxxª Sessão da CoC-BBB realizada em xx/xx/2025, deixar em negrito, clicar em incluir\n\n·\n\n<!-- image -->\n\n- Em seguida, selecionar o item e alinhar à esquerda\n- 2 Comunicações dos membros\n\n<!-- image -->\n\n[Página 8]\n·\n\n·\n\n- Clicar no ícone Inserir novamente, digitar ORDEM DO DIA, deixar em negrito e clicar em incluir\n\n·\n\n<!-- image -->\n\n- Depois, clicar sobre o item para selecioná-lo e clicar na seta horizontal para a esquerda para posicionar o item como II\n\n·\n\n·\n\n<!-- image -->\n\nI\n\nEXPEDIENTE\n\n- 1\\_ Comunicações da coordenação\n- 2\\_ Comunicações dos membros\n- 3 Apreciação da ata da xxxª Sessão da CoC-BBB realizada em xx/xx/2025",
+      "qa_pairs": [
+        {
+          "question": "Quais são os itens que compõem a seção de Expediente?",
+          "answer": "A seção de Expediente é composta por: 1 Comunicações da coordenação e 2 Comunicações dos membros.",
+          "source_page": 7
+        },
+        {
+          "question": "Como deve ser escrita a apreciação da ata da Sessão da CoC-BBB?",
+          "answer": "Deve-se escrever 'Apreciação da ata da xxxª Sessão da CoC-BBB realizada em xx/xx/2025', formatando o texto em negrito.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual é o procedimento para selecionar o item 'Comunicações dos membros'?",
+          "answer": "Deve-se clicar sobre o item 'Comunicações dos membros' para selecioná-lo e, em seguida, clicar no ícone inserir.",
+          "source_page": 7
+        },
+        {
+          "question": "O que deve ser feito após escrever a apreciação da ata e clicar em incluir?",
+          "answer": "Deve-se selecionar o item e alinhá-lo à esquerda.",
+          "source_page": 7
+        },
+        {
+          "question": "Como inserir a 'ORDEM DO DIA' no documento?",
+          "answer": "Deve-se clicar no ícone Inserir, digitar 'ORDEM DO DIA', deixar o texto em negrito e clicar em incluir.",
+          "source_page": 8
+        },
+        {
+          "question": "Como posicionar o item 'ORDEM DO DIA' como II?",
+          "answer": "Deve-se clicar sobre o item para selecioná-lo e clicar na seta horizontal para a esquerda.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais itens aparecem na lista final do Expediente conforme o exemplo?",
+          "answer": "Aparecem: 1 Comunicações da coordenação, 2 Comunicações dos membros e 3 Apreciação da ata da xxxª Sessão da CoC-BBB realizada em xx/xx/2025.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual a formatação recomendada para o item 'ORDEM DO DIA'?",
+          "answer": "O item 'ORDEM DO DIA' deve ser deixado em negrito.",
+          "source_page": 8
+        },
+        {
+          "question": "Onde se localiza a seção de Comunicações da coordenação?",
+          "answer": "A seção de Comunicações da coordenação localiza-se dentro do Expediente.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual ícone deve ser utilizado para adicionar novos itens como a apreciação da ata ou a ordem do dia?",
+          "answer": "Deve-se utilizar o ícone 'inserir'.",
+          "source_page": 7
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c7",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_text": "[Página 8]\n·\n\n·\n\n- Clicar no ícone Inserir novamente, digitar ORDEM DO DIA, deixar em negrito e clicar em incluir\n\n·\n\n<!-- image -->\n\n- Depois, clicar sobre o item para selecioná-lo e clicar na seta horizontal para a esquerda para posicionar o item como II\n\n·\n\n·\n\n<!-- image -->\n\nI\n\nEXPEDIENTE\n\n- 1\\_ Comunicações da coordenação\n- 2\\_ Comunicações dos membros\n- 3 Apreciação da ata da xxxª Sessão da CoC-BBB realizada em xx/xx/2025\n\n[Página 9]\n- Para incluir os itens das Comunicações da coordenação, é só selecionar o item e clicar em inserir. Preencher a tela seguinte e clicar em incluir\n\n·\n\n<!-- image -->\n\n- Para incluir os itens da ordem do dia, é só selecionar o item e clicar em inserir. Preencher a tela seguinte e clicar em incluir. Alinhar o item incluído, se necessário\n\n·\n\n·\n\n<!-- image -->\n\n- Para anexar documentos, clicar no ícone Anexar. Depois, clicar em buscar e e em anexar\n\n·\n\n<!-- image -->\n\n·\n\n<!-- image -->\n\n- Para remover o arquivo, clicar no ícone Desanexar\n\n·\n\n<!-- image -->\n\n- Para excluir o item, clicar no ícone Excluir",
+      "qa_pairs": [
+        {
+          "question": "Como faço para inserir a 'ORDEM DO DIA' no sistema?",
+          "answer": "Você deve clicar no ícone Inserir, digitar 'ORDEM DO DIA', deixar o texto em negrito e clicar em incluir.",
+          "source_page": 8
+        },
+        {
+          "question": "Como posso posicionar o item 'ORDEM DO DIA' como item II?",
+          "answer": "Basta clicar sobre o item para selecioná-lo e clicar na seta horizontal para a esquerda.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais itens compõem a seção de EXPEDIENTE?",
+          "answer": "A seção de EXPEDIENTE é composta por: 1_ Comunicações da coordenação, 2_ Comunicações dos membros e 3 Apreciação da ata da sessão realizada.",
+          "source_page": 8
+        },
+        {
+          "question": "Como incluir itens nas 'Comunicações da coordenação'?",
+          "answer": "Selecione o item, clique em inserir, preencha a tela seguinte e clique em incluir.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual o procedimento para incluir itens na 'ordem do dia'?",
+          "answer": "Selecione o item, clique em inserir, preencha a tela seguinte, clique em incluir e alinhe o item incluído, se for necessário.",
+          "source_page": 9
+        },
+        {
+          "question": "Como faço para anexar documentos ao sistema?",
+          "answer": "Clique no ícone Anexar, depois clique em buscar e, por fim, em anexar.",
+          "source_page": 9
+        },
+        {
+          "question": "Como remover um arquivo que foi anexado?",
+          "answer": "Para remover o arquivo, deve-se clicar no ícone Desanexar.",
+          "source_page": 9
+        },
+        {
+          "question": "Como excluir um item do sistema?",
+          "answer": "Para excluir um item, clique no ícone Excluir.",
+          "source_page": 9
+        },
+        {
+          "question": "O que deve ser feito após preencher a tela de inclusão de itens da ordem do dia?",
+          "answer": "Após preencher a tela, deve-se clicar em incluir e, se necessário, alinhar o item incluído.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais são os passos iniciais para adicionar a Ordem do Dia?",
+          "answer": "Os passos são: clicar no ícone Inserir, digitar 'ORDEM DO DIA', aplicar negrito e clicar em incluir.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c8",
+      "pages": [
+        9,
+        10
+      ],
+      "chunk_text": "[Página 9]\n- Para incluir os itens das Comunicações da coordenação, é só selecionar o item e clicar em inserir. Preencher a tela seguinte e clicar em incluir\n\n·\n\n<!-- image -->\n\n- Para incluir os itens da ordem do dia, é só selecionar o item e clicar em inserir. Preencher a tela seguinte e clicar em incluir. Alinhar o item incluído, se necessário\n\n·\n\n·\n\n<!-- image -->\n\n- Para anexar documentos, clicar no ícone Anexar. Depois, clicar em buscar e e em anexar\n\n·\n\n<!-- image -->\n\n·\n\n<!-- image -->\n\n- Para remover o arquivo, clicar no ícone Desanexar\n\n·\n\n<!-- image -->\n\n- Para excluir o item, clicar no ícone Excluir\n\n[Página 10]\n<!-- image -->\n\n## Para envio da convocação aos membros:\n\n- De acordo com a Resolução 8324/2022, as reuniões podem ser realizadas por videoconferência, mas só é permitida a participação de 50% dos membros de forma remota\n- Antes de efetuar a convocação (ou imediatamente após), é necessário liberar a visualização da pauta para os membros, clicando no ícone Liberar a pauta online para os participantes do Colegiado\n- Para fazer a convocação, clicar no ícone Enviar e-mail de convocação\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como faço para incluir itens nas Comunicações da coordenação?",
+          "answer": "Para incluir itens nas Comunicações da coordenação, você deve selecionar o item, clicar em inserir, preencher a tela seguinte e clicar em incluir.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual é o procedimento para adicionar itens à ordem do dia?",
+          "answer": "Para incluir itens da ordem do dia, selecione o item, clique em inserir, preencha a tela seguinte e clique em incluir. Se necessário, alinhe o item incluído.",
+          "source_page": 9
+        },
+        {
+          "question": "Como posso anexar documentos ao sistema?",
+          "answer": "Para anexar documentos, clique no ícone Anexar, depois clique em buscar e, por fim, em anexar.",
+          "source_page": 9
+        },
+        {
+          "question": "Como remover um arquivo que foi anexado?",
+          "answer": "Para remover um arquivo, deve-se clicar no ícone Desanexar.",
+          "source_page": 9
+        },
+        {
+          "question": "Como faço para excluir um item?",
+          "answer": "Para excluir um item, clique no ícone Excluir.",
+          "source_page": 9
+        },
+        {
+          "question": "As reuniões podem ser realizadas por videoconferência?",
+          "answer": "Sim, de acordo com a Resolução 8324/2022, as reuniões podem ser realizadas por videoconferência.",
+          "source_page": 10
+        },
+        {
+          "question": "Existe um limite para a participação remota em reuniões por videoconferência?",
+          "answer": "Sim, é permitida a participação de apenas 50% dos membros de forma remota.",
+          "source_page": 10
+        },
+        {
+          "question": "O que deve ser feito antes ou logo após efetuar a convocação dos membros?",
+          "answer": "É necessário liberar a visualização da pauta para os membros, clicando no ícone 'Liberar a pauta online para os participantes do Colegiado'.",
+          "source_page": 10
+        },
+        {
+          "question": "Como enviar o e-mail de convocação aos membros?",
+          "answer": "Para fazer a convocação, deve-se clicar no ícone 'Enviar e-mail de convocação'.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual resolução regulamenta a realização de reuniões por videoconferência?",
+          "answer": "A realização de reuniões por videoconferência é regulamentada pela Resolução 8324/2022.",
+          "source_page": 10
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c9",
+      "pages": [
+        10,
+        11
+      ],
+      "chunk_text": "[Página 10]\n<!-- image -->\n\n## Para envio da convocação aos membros:\n\n- De acordo com a Resolução 8324/2022, as reuniões podem ser realizadas por videoconferência, mas só é permitida a participação de 50% dos membros de forma remota\n- Antes de efetuar a convocação (ou imediatamente após), é necessário liberar a visualização da pauta para os membros, clicando no ícone Liberar a pauta online para os participantes do Colegiado\n- Para fazer a convocação, clicar no ícone Enviar e-mail de convocação\n\n<!-- image -->\n\n[Página 11]\n·\n\n<!-- image -->\n\n·\n\n·\n\n- Preencher com os dados da reunião, selecionar apenas os membros que serão convocados (incluir a secretária e a chefia do setor) e clicar em Enviar\n\n<!-- image -->\n\n## Antes de enviar; verifique a lista de destinatários abaixo (Usuários membros do Colegiado)\n\n<!-- image -->\n\nExemplo de Pauta",
+      "qa_pairs": [
+        {
+          "question": "As reuniões do Colegiado podem ser realizadas por videoconferência?",
+          "answer": "Sim, de acordo com a Resolução 8324/2022, as reuniões podem ser realizadas por videoconferência.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual é o limite de participação remota em reuniões por videoconferência?",
+          "answer": "É permitida a participação de apenas 50% dos membros de forma remota.",
+          "source_page": 10
+        },
+        {
+          "question": "O que deve ser feito em relação à pauta antes ou logo após efetuar a convocação?",
+          "answer": "É necessário liberar a visualização da pauta para os membros, clicando no ícone 'Liberar a pauta online para os participantes do Colegiado'.",
+          "source_page": 10
+        },
+        {
+          "question": "Como deve ser feita a convocação dos membros?",
+          "answer": "A convocação deve ser feita clicando no ícone 'Enviar e-mail de convocação'.",
+          "source_page": 10
+        },
+        {
+          "question": "Quais informações devem ser preenchidas ao realizar a convocação?",
+          "answer": "Devem ser preenchidos os dados da reunião e selecionados os membros que serão convocados.",
+          "source_page": 11
+        },
+        {
+          "question": "Quem deve ser obrigatoriamente incluído na lista de convocados da reunião?",
+          "answer": "Devem ser incluídos a secretária e a chefia do setor.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual a ação final para disparar a convocação após preencher os dados e selecionar os membros?",
+          "answer": "Deve-se clicar em 'Enviar'.",
+          "source_page": 11
+        },
+        {
+          "question": "O que deve ser verificado antes de enviar a convocação?",
+          "answer": "Deve-se verificar a lista de destinatários abaixo (Usuários membros do Colegiado).",
+          "source_page": 11
+        },
+        {
+          "question": "Qual resolução fundamenta a realização de reuniões por videoconferência?",
+          "answer": "A Resolução 8324/2022.",
+          "source_page": 10
+        },
+        {
+          "question": "Como os participantes do Colegiado podem acessar a pauta da reunião?",
+          "answer": "A pauta fica disponível para visualização após o responsável clicar no ícone 'Liberar a pauta online para os participantes do Colegiado'.",
+          "source_page": 10
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c10",
+      "pages": [
+        11,
+        12
+      ],
+      "chunk_text": "[Página 11]\n·\n\n<!-- image -->\n\n·\n\n·\n\n- Preencher com os dados da reunião, selecionar apenas os membros que serão convocados (incluir a secretária e a chefia do setor) e clicar em Enviar\n\n<!-- image -->\n\n## Antes de enviar; verifique a lista de destinatários abaixo (Usuários membros do Colegiado)\n\n<!-- image -->\n\nExemplo de Pauta\n\n[Página 12]\nPauta da 100ª Sessão da CoC-BBB\n\nData:01/01/2025\n\nLocal: Sala 3-008\n\nHorário: 08:00 até 10:00\n\nItens da Pauta:\n\nI – EXPEDIENTE\n\n1. Comunicações da coordenação\n\n1.1 – Colação de grau realizada em 15/12/2024: 50 Formandos 2024-2\n\n- 1.2 – Alunos que incidiram no artigo 75 no 2º semestre/2024 e desligados pela PRG em 05/08/2024\n- 1.3 – Solicitações de desistência definitiva do curso\n- 1.4 – Solicitações de trancamento do curso\n- 1.5 – Enade\n- 1.6 – Renovação do reconhecimento do curso\n- 1.7 – Avaliação Guia da Faculdade\n- 1.8 – Viagem Didática\n- 1.9 – Colóquio da Licenciatura\n- 1.10 – Reunião da CLAP\n5. Comunicações dos membros\n6. Apreciação da ata da 100ª Sessão da CoC-BBB realizada em 01/01/2025\n\n## II – ORDEM DO DIA\n\n1. Vagas e critérios para a transferência interna 2025-1-– Aprovado \"ad referendum\" pela CoC-BBB em 01/01/2025\n2. Resultado da transferência interna 2025-1 – Aprovado \"ad referendum\" pela CoC-BBB em 01/01/2025\n3. Vagas e critérios para a transferência externa 2025-2\n4. Resultado da transferência externa 2025-2\n5. Vagas e critérios para o processo seletivo de portador de diploma 2025-1\n6. Resultado do processo seletivo de portador de diploma 2025-1\n7. Vagas PEC-G 2026",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito ao preencher os dados da reunião para convocação de membros?",
+          "answer": "Deve-se preencher os dados da reunião, selecionar apenas os membros que serão convocados (incluindo a secretária e a chefia do setor) e clicar em Enviar.",
+          "source_page": 11
+        },
+        {
+          "question": "Quem deve ser obrigatoriamente incluído na lista de convocados para a reunião?",
+          "answer": "A secretária e a chefia do setor devem ser incluídas na lista de membros convocados.",
+          "source_page": 11
+        },
+        {
+          "question": "O que deve ser verificado antes de enviar a convocação da reunião?",
+          "answer": "Deve-se verificar a lista de destinatários, que consiste nos usuários membros do Colegiado.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais informações básicas compõem o cabeçalho de uma pauta de sessão da CoC-BBB?",
+          "answer": "A pauta deve conter a data, o local e o horário (início e término) da sessão.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais itens de comunicação da coordenação são tratados no Expediente da pauta da CoC-BBB?",
+          "answer": "São tratados: colação de grau, alunos desligados pela PRG (artigo 75), solicitações de desistência definitiva, solicitações de trancamento, Enade, renovação do reconhecimento do curso, avaliação Guia da Faculdade, viagem didática, Colóquio da Licenciatura e reunião da CLAP.",
+          "source_page": 12
+        },
+        {
+          "question": "O que é apreciado no item de comunicações dos membros no Expediente?",
+          "answer": "É realizada a apreciação da ata da sessão anterior da CoC-BBB.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais assuntos sobre transferência interna constam na Ordem do Dia do exemplo de pauta?",
+          "answer": "Constam as vagas e critérios para a transferência interna 2025-1 e o resultado da transferência interna 2025-1, ambos aprovados 'ad referendum'.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais itens relativos à transferência externa estão previstos na Ordem do Dia?",
+          "answer": "Estão previstos as vagas e critérios para a transferência externa 2025-2 e o resultado da transferência externa 2025-2.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais são os tópicos relacionados ao processo seletivo de portador de diploma na pauta?",
+          "answer": "A pauta prevê a discussão sobre as vagas e critérios para o processo seletivo de portador de diploma 2025-1 e o respectivo resultado.",
+          "source_page": 12
+        },
+        {
+          "question": "Existe alguma previsão sobre vagas PEC-G na pauta da CoC-BBB?",
+          "answer": "Sim, a pauta prevê a discussão sobre as vagas PEC-G 2026.",
+          "source_page": 12
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c11",
+      "pages": [
+        12,
+        13
+      ],
+      "chunk_text": "[Página 12]\nPauta da 100ª Sessão da CoC-BBB\n\nData:01/01/2025\n\nLocal: Sala 3-008\n\nHorário: 08:00 até 10:00\n\nItens da Pauta:\n\nI – EXPEDIENTE\n\n1. Comunicações da coordenação\n\n1.1 – Colação de grau realizada em 15/12/2024: 50 Formandos 2024-2\n\n- 1.2 – Alunos que incidiram no artigo 75 no 2º semestre/2024 e desligados pela PRG em 05/08/2024\n- 1.3 – Solicitações de desistência definitiva do curso\n- 1.4 – Solicitações de trancamento do curso\n- 1.5 – Enade\n- 1.6 – Renovação do reconhecimento do curso\n- 1.7 – Avaliação Guia da Faculdade\n- 1.8 – Viagem Didática\n- 1.9 – Colóquio da Licenciatura\n- 1.10 – Reunião da CLAP\n5. Comunicações dos membros\n6. Apreciação da ata da 100ª Sessão da CoC-BBB realizada em 01/01/2025\n\n## II – ORDEM DO DIA\n\n1. Vagas e critérios para a transferência interna 2025-1-– Aprovado \"ad referendum\" pela CoC-BBB em 01/01/2025\n2. Resultado da transferência interna 2025-1 – Aprovado \"ad referendum\" pela CoC-BBB em 01/01/2025\n3. Vagas e critérios para a transferência externa 2025-2\n4. Resultado da transferência externa 2025-2\n5. Vagas e critérios para o processo seletivo de portador de diploma 2025-1\n6. Resultado do processo seletivo de portador de diploma 2025-1\n7. Vagas PEC-G 2026\n\n[Página 13]\n8. Vagas para ingresso na modalidade Competições de Conhecimento 2026\n9. Pesos e notas Enem-USP 2026\n10. Estrutura Curricular – 2º semestre/2025\n4. 10.1 Relatório Grupo I\n5. 10.2 Projeto Pedagógico do Curso\n11. Estrutura Curricular – 1º semestre/2026\n7. 11.1 Alteração da carga horária da disciplina XXX\n8. Aprovado pelo SSC em 01/01/2025\n9. 11.2 Alteração do período ideal da disciplina ZZZ\n10. 11.3 Inclusão da disciplina WWW como obrigatória no 3º período do curso\n12. Matrícula em menos de 12 créditos-aula\n12. 12.1 – Nome do aluno – NUSP – Ano de ingresso\n13. Matrícula sem requisito\n14. 13.1 – Nome do aluno – NUSP – Ano de ingresso\n14. Planos de término\n16. 14.1 – Nome do aluno – NUSP – Ano de ingresso – Artigo 75– desligado em 12/12/2024\n15. Relatórios de plano de término\n18. 15.1 – Nome do aluno – NUSP – Ano de ingresso – Artigo 75 – desligado em 12/12/2024\n19. 15.2 – Nome do aluno – NUSP – Ano de ingresso – Artigo 76\n16. Inclusão de optativas\n21. 16.1 – Nome do aluno – NUSP – Ano de ingresso\n22. (Código e nome da disciplina) como optativa livre",
+      "qa_pairs": [
+        {
+          "question": "Quando e onde ocorreu a 100ª Sessão da CoC-BBB?",
+          "answer": "A 100ª Sessão da CoC-BBB ocorreu no dia 01/01/2025, na Sala 3-008, das 08:00 até as 10:00.",
+          "source_page": 12
+        },
+        {
+          "question": "Quantos formandos participaram da colação de grau realizada em 15/12/2024?",
+          "answer": "Participaram 50 formandos do período 2024-2.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais itens de comunicação da coordenação foram abordados na pauta da 100ª Sessão da CoC-BBB?",
+          "answer": "Foram abordados: colação de grau, alunos desligados pela PRG (artigo 75), solicitações de desistência definitiva, solicitações de trancamento, Enade, renovação do reconhecimento do curso, avaliação Guia da Faculdade, Viagem Didática, Colóquio da Licenciatura e reunião da CLAP.",
+          "source_page": 12
+        },
+        {
+          "question": "O que foi decidido sobre a transferência interna 2025-1?",
+          "answer": "As vagas e os critérios, bem como o resultado da transferência interna 2025-1, foram aprovados 'ad referendum' pela CoC-BBB em 01/01/2025.",
+          "source_page": 12
+        },
+        {
+          "question": "Existem itens na pauta referentes a portadores de diploma?",
+          "answer": "Sim, a pauta inclui a discussão sobre as vagas e critérios para o processo seletivo de portador de diploma 2025-1, além do resultado desse processo.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais são as modalidades de ingresso para 2026 mencionadas no documento?",
+          "answer": "São mencionadas as vagas PEC-G 2026, vagas para ingresso na modalidade Competições de Conhecimento 2026 e os pesos e notas do Enem-USP 2026.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais alterações na estrutura curricular para o 1º semestre de 2026 foram discutidas?",
+          "answer": "Foram discutidas a alteração da carga horária da disciplina XXX, a alteração do período ideal da disciplina ZZZ e a inclusão da disciplina WWW como obrigatória no 3º período do curso.",
+          "source_page": 13
+        },
+        {
+          "question": "O que consta na pauta sobre matrículas em menos de 12 créditos-aula?",
+          "answer": "A pauta prevê a análise de casos específicos de matrícula em menos de 12 créditos-aula, identificados pelo nome do aluno, NUSP e ano de ingresso.",
+          "source_page": 13
+        },
+        {
+          "question": "O documento menciona a possibilidade de matrícula sem requisito?",
+          "answer": "Sim, o item 13 da Ordem do Dia trata de solicitações de matrícula sem requisito, detalhando o nome do aluno, NUSP e ano de ingresso.",
+          "source_page": 13
+        },
+        {
+          "question": "Quais são os tópicos relacionados a planos de término na pauta?",
+          "answer": "A pauta inclui a análise de planos de término e relatórios de plano de término, inclusive para alunos desligados com base nos artigos 75 e 76.",
+          "source_page": 13
+        }
+      ]
+    },
+    {
+      "chunk_id": "Pauta de CoC__c12",
+      "pages": [
+        13,
+        14
+      ],
+      "chunk_text": "[Página 13]\n8. Vagas para ingresso na modalidade Competições de Conhecimento 2026\n9. Pesos e notas Enem-USP 2026\n10. Estrutura Curricular – 2º semestre/2025\n4. 10.1 Relatório Grupo I\n5. 10.2 Projeto Pedagógico do Curso\n11. Estrutura Curricular – 1º semestre/2026\n7. 11.1 Alteração da carga horária da disciplina XXX\n8. Aprovado pelo SSC em 01/01/2025\n9. 11.2 Alteração do período ideal da disciplina ZZZ\n10. 11.3 Inclusão da disciplina WWW como obrigatória no 3º período do curso\n12. Matrícula em menos de 12 créditos-aula\n12. 12.1 – Nome do aluno – NUSP – Ano de ingresso\n13. Matrícula sem requisito\n14. 13.1 – Nome do aluno – NUSP – Ano de ingresso\n14. Planos de término\n16. 14.1 – Nome do aluno – NUSP – Ano de ingresso – Artigo 75– desligado em 12/12/2024\n15. Relatórios de plano de término\n18. 15.1 – Nome do aluno – NUSP – Ano de ingresso – Artigo 75 – desligado em 12/12/2024\n19. 15.2 – Nome do aluno – NUSP – Ano de ingresso – Artigo 76\n16. Inclusão de optativas\n21. 16.1 – Nome do aluno – NUSP – Ano de ingresso\n22. (Código e nome da disciplina) como optativa livre\n\n[Página 14]\n16.2 – Nome do aluno – NUSP – Ano de ingresso (Código e nome da disciplina) como optativa eletiva\n\n17. Equivalência com parecer favorável\n\n## 17.1 – Nome do aluno – NUSP – Ano de ingresso\n\nDisciplina cursada: (Código e nome da disciplina) Disciplina em que requer a equivalência: (Código e nome da disciplina)\n\nParecer favorável/contrário emitido pelo Prof. (nome do docente)\n\n## 18. Equivalência com parecer contrário\n\n18.1 – Nome do aluno – NUSP – Ano de ingresso Disciplina cursada: (Código e nome da disciplina) Disciplina em que requer a equivalência: (Código e nome da disciplina)\n\nParecer favorável/contrário emitido pelo Prof. (nome do docente)\n\nOU\n\n## 19. Equivalência – Aprovado \"ad referendum\" pela CoC-BBB\n\n19.1 – Nome do aluno – NUSP – Ano de ingresso Disciplina cursada: (Código e nome da disciplina) Disciplina em que requer a equivalência: (Código e nome da disciplina)\n\nParecer favorável/contrário emitido pelo Prof. (nome do docente)\n\n20. Equivalência – Indeferido \"ad referendum\" pela CoC-BBB\n\n20.1 – Nome do aluno – NUSP – Ano de ingresso Disciplina cursada: (Código e nome da disciplina) Disciplina em que requer a equivalência: (Código e nome da disciplina)\n\nParecer favorável/contrário emitido pelo Prof. (nome do docente)",
+      "qa_pairs": [
+        {
+          "question": "Onde posso encontrar informações sobre as vagas para ingresso na modalidade Competições de Conhecimento 2026?",
+          "answer": "As informações sobre as vagas para ingresso na modalidade Competições de Conhecimento 2026 estão listadas no item 8 do documento.",
+          "source_page": 13
+        },
+        {
+          "question": "Onde estão disponíveis os pesos e as notas do Enem-USP 2026?",
+          "answer": "Os pesos e notas do Enem-USP 2026 podem ser encontrados no item 9 do documento.",
+          "source_page": 13
+        },
+        {
+          "question": "O que consta na seção de Estrutura Curricular para o 2º semestre de 2025?",
+          "answer": "A seção de Estrutura Curricular do 2º semestre/2025 inclui o Relatório Grupo I e o Projeto Pedagógico do Curso.",
+          "source_page": 13
+        },
+        {
+          "question": "Quais alterações foram feitas na Estrutura Curricular para o 1º semestre de 2026?",
+          "answer": "As alterações incluem a mudança da carga horária da disciplina XXX, a alteração do período ideal da disciplina ZZZ e a inclusão da disciplina WWW como obrigatória no 3º período do curso.",
+          "source_page": 13
+        },
+        {
+          "question": "Quem aprovou as alterações da Estrutura Curricular do 1º semestre de 2026?",
+          "answer": "As alterações foram aprovadas pelo SSC em 01/01/2025.",
+          "source_page": 13
+        },
+        {
+          "question": "Existe registro de alunos com matrícula em menos de 12 créditos-aula?",
+          "answer": "Sim, o item 12 do documento trata de matrículas em menos de 12 créditos-aula, listando o nome do aluno, NUSP e ano de ingresso.",
+          "source_page": 13
+        },
+        {
+          "question": "O que é tratado na seção de 'Matrícula sem requisito'?",
+          "answer": "A seção 13 trata de matrículas sem requisito, identificando o aluno por nome, NUSP e ano de ingresso.",
+          "source_page": 13
+        },
+        {
+          "question": "Quais informações são registradas nos planos de término e seus respectivos relatórios?",
+          "answer": "São registrados o nome do aluno, NUSP, ano de ingresso e, em casos específicos, a menção ao Artigo 75 (com data de desligamento) ou Artigo 76.",
+          "source_page": 13
+        },
+        {
+          "question": "Como funciona a inclusão de disciplinas optativas?",
+          "answer": "A inclusão de optativas pode ocorrer como optativa livre ou optativa eletiva, registrando-se o nome do aluno, NUSP, ano de ingresso, código e nome da disciplina.",
+          "source_page": 13
+        },
+        {
+          "question": "Quais são as possibilidades de resultado para um pedido de equivalência de disciplina?",
+          "answer": "Um pedido de equivalência pode ter parecer favorável, parecer contrário, ser aprovado 'ad referendum' pela CoC-BBB ou ser indeferido 'ad referendum' pela CoC-BBB.",
+          "source_page": 14
+        }
+      ]
+    }
+  ]
+}

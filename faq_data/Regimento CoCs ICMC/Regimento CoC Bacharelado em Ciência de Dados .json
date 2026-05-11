@@ -1,0 +1,246 @@
+{
+  "doc_name": "Regimento CoC Bacharelado em Ciência de Dados ",
+  "source_path": "data\\Regimento CoCs ICMC\\Regimento CoC Bacharelado em Ciência de Dados .docx",
+  "chunks": [
+    {
+      "chunk_id": "Regimento CoC Bacharelado em Ciência de Dados __c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Regimento da Comissão Coordenadora do Curso de Bacharelado em Ciência de Dados\n\n## Da Composição\n\nArtigo 1º – A Comissão Coordenadora do curso de Bacharelado em Ciência de Dados (CoC-BCDados) estará subordinada à Comissão de Graduação (CG) do Instituto de Ciências Matemáticas e de Computação (ICMC).\n\n[Página 2]\n## Artigo 2º – A CoC-BCDados será constituída por:\n\nI. Dois representantes e respectivos suplentes do Departamento de Ciências de Computação do ICMC (SCC), eleitos pelo Conselho do Departamento do SCC;\n\nII. Dois representantes e respectivos suplentes do Departamento de Matemática Aplicada e Estatística do ICMC (SME), eleitos pelo Conselho do Departamento do SME;\n\nIII. Um representante e respectivo suplente do Departamento de Sistemas de Computação do ICMC (SSC), eleitos pelo Conselho do Departamento do SSC;\n\nIV. Um representante e respectivo suplente do Departamento de Matemática do ICMC (SMA), eleitos pelo Conselho do Departamento do SMA;\n\nV. Um membro discente e respectivo suplente, do curso de graduação em Bacharelado em Ciência de Dados.\n\nParágrafo 1º - A representação discente será eleita pelos seus pares, respeitando-se o disposto no artigo 230 do Regimento Geral.\n\nParágrafo 2º - O mandato dos membros docentes será de três anos, permitida recondução.\n\nParágrafo 3º - O mandato do membro discente será de um ano, permitida uma recondução.\n\nParágrafo 4º - Havendo vacância da titularidade e da respectiva suplência proceder-se-á a nova eleição.",
+      "qa_pairs": [
+        {
+          "question": "A qual órgão a Comissão Coordenadora do curso de Bacharelado em Ciência de Dados está subordinada?",
+          "answer": "A Comissão Coordenadora do curso de Bacharelado em Ciência de Dados (CoC-BCDados) está subordinada à Comissão de Graduação (CG) do Instituto de Ciências Matemáticas e de Computação (ICMC).",
+          "source_page": 1
+        },
+        {
+          "question": "Quem compõe a Comissão Coordenadora do curso de Bacharelado em Ciência de Dados?",
+          "answer": "A CoC-BCDados é constituída por dois representantes e suplentes do Departamento de Ciências de Computação (SCC), dois representantes e suplentes do Departamento de Matemática Aplicada e Estatística (SME), um representante e suplente do Departamento de Sistemas de Computação (SSC), um representante e suplente do Departamento de Matemática (SMA) e um membro discente e seu respectivo suplente do curso de Bacharelado em Ciência de Dados.",
+          "source_page": 2
+        },
+        {
+          "question": "Como são escolhidos os representantes do Departamento de Ciências de Computação (SCC) na CoC-BCDados?",
+          "answer": "Os dois representantes e seus respectivos suplentes do SCC são eleitos pelo Conselho do Departamento do SCC.",
+          "source_page": 2
+        },
+        {
+          "question": "Como são escolhidos os representantes do Departamento de Matemática Aplicada e Estatística (SME) na CoC-BCDados?",
+          "answer": "Os dois representantes e seus respectivos suplentes do SME são eleitos pelo Conselho do Departamento do SME.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é escolhido o representante do Departamento de Sistemas de Computação (SSC) na CoC-BCDados?",
+          "answer": "O representante e seu respectivo suplente do SSC são eleitos pelo Conselho do Departamento do SSC.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é escolhido o representante do Departamento de Matemática (SMA) na CoC-BCDados?",
+          "answer": "O representante e seu respectivo suplente do SMA são eleitos pelo Conselho do Departamento do SMA.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona a eleição do membro discente para a CoC-BCDados?",
+          "answer": "A representação discente é eleita pelos seus pares, seguindo o disposto no artigo 230 do Regimento Geral.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a duração do mandato dos membros docentes na CoC-BCDados?",
+          "answer": "O mandato dos membros docentes é de três anos, sendo permitida a recondução.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a duração do mandato do membro discente na CoC-BCDados?",
+          "answer": "O mandato do membro discente é de um ano, sendo permitida apenas uma recondução.",
+          "source_page": 2
+        },
+        {
+          "question": "O que acontece se houver vacância tanto da titularidade quanto da suplência de um membro?",
+          "answer": "Caso ocorra a vacância da titularidade e da respectiva suplência, deverá ser procedida uma nova eleição.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Regimento CoC Bacharelado em Ciência de Dados __c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n## Artigo 2º – A CoC-BCDados será constituída por:\n\nI. Dois representantes e respectivos suplentes do Departamento de Ciências de Computação do ICMC (SCC), eleitos pelo Conselho do Departamento do SCC;\n\nII. Dois representantes e respectivos suplentes do Departamento de Matemática Aplicada e Estatística do ICMC (SME), eleitos pelo Conselho do Departamento do SME;\n\nIII. Um representante e respectivo suplente do Departamento de Sistemas de Computação do ICMC (SSC), eleitos pelo Conselho do Departamento do SSC;\n\nIV. Um representante e respectivo suplente do Departamento de Matemática do ICMC (SMA), eleitos pelo Conselho do Departamento do SMA;\n\nV. Um membro discente e respectivo suplente, do curso de graduação em Bacharelado em Ciência de Dados.\n\nParágrafo 1º - A representação discente será eleita pelos seus pares, respeitando-se o disposto no artigo 230 do Regimento Geral.\n\nParágrafo 2º - O mandato dos membros docentes será de três anos, permitida recondução.\n\nParágrafo 3º - O mandato do membro discente será de um ano, permitida uma recondução.\n\nParágrafo 4º - Havendo vacância da titularidade e da respectiva suplência proceder-se-á a nova eleição.\n\n[Página 3]\nParágrafo 5º - A representação docente será renovada pelo terço.\n\nParágrafo 6º - Na falta de eleição feita pelo departamento dos incisos I e II no prazo de 60 dias, a Congregação procederá à eleição dos representantes.\n\nArtigo 3º – A CoC-BCDados terá um Coordenador e um Suplente eleitos dentre seus membros docentes, titulares da CoC.\n\nParágrafo 1º - O mandato do Coordenador e respectivo suplente será de dois anos, permitidas até duas reconduções.\n\nParágrafo 2º. – O coordenador deverá apresentar, no prazo de até 30 dias após o termino de seu mandato, relatório de atividades desenvolvidas na CoC, no período de sua coordenação, para aprovação da CG e Congregação. (Resolução CoG nº 7853, de 23.10.2019).\n\n## Da Competência\n\nArtigo 4º - Além das atribuições previstas na Resolução CoG-5.500, à CoCBCDados compete:\n\n- I. Propor à CG do ICMC a estrutura curricular do curso de Bacharelado em Ciência de Dados, ouvidos os Departamentos pertinentes;\n- II. Propor à CG os programas de ensino das disciplinas ministradas no curso de Bacharelado em Ciência de Dados, ouvidos os Departamentos pertinentes, e acompanhar sua execução;\n- III. Analisar a pertinência do conteúdo programático de cada disciplina, promovendo a integração das diferentes disciplinas que compõem o currículo;\n- IV. Promover o aperfeiçoamento constante do ensino no que diz respeito à adequação curricular, melhoria de laboratórios didáticos, biblioteca e recursos didático-pedagógicos;\n- V. Opinar sobre aplicação dos recursos financeiros destinados ao curso de Bacharelado em Ciência de Dados;\n- VI. Assessorar a elaboração do horário de aulas das disciplinas de cada semestre letivo;\n- VII. Acompanhar os processos de renovação do reconhecimento e de avaliação do curso de Bacharelado em Ciência de Dados perante os órgãos superiores do ICMC e da USP;\n- VIII. Exercer as demais funções que lhe forem atribuídas pelos órgãos superiores do ICMC e da USP.\n\n## Da Coordenação\n\nArtigo 5º – Além de seu voto, terá o coordenador da CoC-BCDados, em caso de empate, o voto de qualidade.",
+      "qa_pairs": [
+        {
+          "question": "Quem compõe a CoC-BCDados?",
+          "answer": "A CoC-BCDados é constituída por dois representantes e suplentes do Departamento de Ciências de Computação (SCC), dois representantes e suplentes do Departamento de Matemática Aplicada e Estatística (SME), um representante e suplente do Departamento de Sistemas de Computação (SSC), um representante e suplente do Departamento de Matemática (SMA) e um membro discente e suplente do curso de graduação em Bacharelado em Ciência de Dados.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é escolhido o representante discente da CoC-BCDados?",
+          "answer": "A representação discente é eleita pelos seus pares, seguindo o disposto no artigo 230 do Regimento Geral.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a duração do mandato dos membros docentes na CoC-BCDados?",
+          "answer": "O mandato dos membros docentes é de três anos, sendo permitida a recondução.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a duração do mandato do membro discente na CoC-BCDados?",
+          "answer": "O mandato do membro discente é de um ano, sendo permitida apenas uma recondução.",
+          "source_page": 2
+        },
+        {
+          "question": "O que acontece se houver vacância tanto da titularidade quanto da suplência de um membro?",
+          "answer": "Nesse caso, será procedida uma nova eleição.",
+          "source_page": 2
+        },
+        {
+          "question": "O que ocorre se os departamentos dos incisos I e II não realizarem a eleição no prazo de 60 dias?",
+          "answer": "Se a eleição não for feita no prazo de 60 dias, a Congregação procederá à eleição dos representantes.",
+          "source_page": 3
+        },
+        {
+          "question": "Como é definida a coordenação da CoC-BCDados e qual a duração do mandato?",
+          "answer": "A CoC-BCDados terá um Coordenador e um Suplente eleitos entre seus membros docentes titulares. O mandato é de dois anos, permitindo-se até duas reconduções.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a obrigação do coordenador ao término do seu mandato?",
+          "answer": "O coordenador deve apresentar, em até 30 dias após o término do mandato, um relatório de atividades desenvolvidas na CoC durante sua coordenação para aprovação da CG e Congregação.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as competências da CoC-BCDados em relação à estrutura e programas do curso?",
+          "answer": "Compete à CoC-BCDados propor à CG do ICMC a estrutura curricular e os programas de ensino das disciplinas do Bacharelado em Ciência de Dados, ouvidos os Departamentos pertinentes, além de acompanhar a execução e analisar a pertinência do conteúdo programático para promover a integração curricular.",
+          "source_page": 3
+        },
+        {
+          "question": "O coordenador da CoC-BCDados possui algum poder especial em votações?",
+          "answer": "Sim, além do seu voto, o coordenador da CoC-BCDados possui o voto de qualidade em caso de empate.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Regimento CoC Bacharelado em Ciência de Dados __c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\nParágrafo 5º - A representação docente será renovada pelo terço.\n\nParágrafo 6º - Na falta de eleição feita pelo departamento dos incisos I e II no prazo de 60 dias, a Congregação procederá à eleição dos representantes.\n\nArtigo 3º – A CoC-BCDados terá um Coordenador e um Suplente eleitos dentre seus membros docentes, titulares da CoC.\n\nParágrafo 1º - O mandato do Coordenador e respectivo suplente será de dois anos, permitidas até duas reconduções.\n\nParágrafo 2º. – O coordenador deverá apresentar, no prazo de até 30 dias após o termino de seu mandato, relatório de atividades desenvolvidas na CoC, no período de sua coordenação, para aprovação da CG e Congregação. (Resolução CoG nº 7853, de 23.10.2019).\n\n## Da Competência\n\nArtigo 4º - Além das atribuições previstas na Resolução CoG-5.500, à CoCBCDados compete:\n\n- I. Propor à CG do ICMC a estrutura curricular do curso de Bacharelado em Ciência de Dados, ouvidos os Departamentos pertinentes;\n- II. Propor à CG os programas de ensino das disciplinas ministradas no curso de Bacharelado em Ciência de Dados, ouvidos os Departamentos pertinentes, e acompanhar sua execução;\n- III. Analisar a pertinência do conteúdo programático de cada disciplina, promovendo a integração das diferentes disciplinas que compõem o currículo;\n- IV. Promover o aperfeiçoamento constante do ensino no que diz respeito à adequação curricular, melhoria de laboratórios didáticos, biblioteca e recursos didático-pedagógicos;\n- V. Opinar sobre aplicação dos recursos financeiros destinados ao curso de Bacharelado em Ciência de Dados;\n- VI. Assessorar a elaboração do horário de aulas das disciplinas de cada semestre letivo;\n- VII. Acompanhar os processos de renovação do reconhecimento e de avaliação do curso de Bacharelado em Ciência de Dados perante os órgãos superiores do ICMC e da USP;\n- VIII. Exercer as demais funções que lhe forem atribuídas pelos órgãos superiores do ICMC e da USP.\n\n## Da Coordenação\n\nArtigo 5º – Além de seu voto, terá o coordenador da CoC-BCDados, em caso de empate, o voto de qualidade.\n\n[Página 4]\nParágrafo 1º – O coordenador será substituído, em seus impedimentos, por seu suplente.\n\nParágrafo 2º – No caso de vacância das funções do coordenador ou do suplente, a eleição far-se-á no prazo de 30 dias.\n\nParágrafo 3º – No impedimento do coordenador e do suplente, responderá pela CoC-BCDados o docente mais graduado da Comissão com maior tempo de serviço docente na USP.\n\nArtigo 6º – Ao Coordenador da CoC-BCDados compete:\n\n- I. Convocar, presidir, encerrar, suspender e prorrogar as sessões, observando e fazendo observar as normas legais vigentes e as determinações deste Regimento;\n- II. Organizar e submeter à discussão e votação as matérias constantes na Ordem do Dia de cada sessão da Comissão;\n- III. Designar, quando necessário, relator para estudo preliminar de matérias a serem submetidas à apreciação da CoC-BCDados;\n- IV. Coordenar as atividades relativas à divulgação do curso;\n- V. Dar encaminhamento à matéria que lhe seja submetida pela CG.\n\n## Do Funcionamento\n\nArtigo 7º – A CoC-BCDados se reunirá, ordinariamente, uma vez a cada seis meses e, extraordinariamente, sempre que o coordenador ou um terço de seus membros a convocar.\n\nArtigo 8º – A CoC-BCDados somente funcionará e deliberará com a presença de mais da metade de seus membros.\n\nParágrafo 1º – Se até 30 minutos da hora determinada para a reunião permanecer a falta de quórum, será convocada nova reunião para, no mínimo, 24 horas depois.\n\nParágrafo 2º – Se não houver quórum para a reunião, em segunda convocação, far-se-á nova convocação para, no mínimo, 24 horas depois.\n\nParágrafo 3º – Em terceira convocação, a CoC-BCDados deliberará com qualquer número, com exceção dos casos em que se estabelece expressamente o quórum necessário.\n\nParágrafo 4º – Os assuntos constantes da pauta de Diversos serão apreciados pela CoC-BCDados quando esta assim o decidir, mediante a aprovação de dois terços dos membros que a compõe.\n\nArtigo 9º – O pedido de vista para estudo do processo pode ser solicitado por qualquer membro e deliberado pelo coordenador, ouvidos os membros da CoC-BCDados.",
+      "qa_pairs": [
+        {
+          "question": "Qual é a duração do mandato do Coordenador e do suplente da CoC-BCDados?",
+          "answer": "O mandato do Coordenador e do respectivo suplente é de dois anos, sendo permitidas até duas reconduções.",
+          "source_page": 3
+        },
+        {
+          "question": "O que o coordenador da CoC-BCDados deve apresentar ao final de seu mandato?",
+          "answer": "O coordenador deve apresentar, no prazo de até 30 dias após o término do mandato, um relatório de atividades desenvolvidas na CoC durante o período de sua coordenação para aprovação da CG e Congregação.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as competências da CoC-BCDados em relação à estrutura e programas do curso de Bacharelado em Ciência de Dados?",
+          "answer": "Compete à CoC-BCDados propor à CG a estrutura curricular e os programas de ensino das disciplinas do curso, ouvidos os Departamentos pertinentes, além de acompanhar a execução dos programas e analisar a pertinência do conteúdo programático de cada disciplina.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem possui o voto de qualidade em caso de empate na CoC-BCDados?",
+          "answer": "O coordenador da CoC-BCDados possui o voto de qualidade em caso de empate, além de seu voto regular.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem substitui o coordenador da CoC-BCDados em caso de impedimento?",
+          "answer": "Em caso de impedimentos, o coordenador será substituído por seu suplente.",
+          "source_page": 4
+        },
+        {
+          "question": "O que acontece se houver vacância nas funções de coordenador ou suplente?",
+          "answer": "No caso de vacância das funções do coordenador ou do suplente, a eleição deve ser realizada no prazo de 30 dias.",
+          "source_page": 4
+        },
+        {
+          "question": "Quem responde pela CoC-BCDados se tanto o coordenador quanto o suplente estiverem impedidos?",
+          "answer": "Responderá pela CoC-BCDados o docente mais graduado da Comissão que possua o maior tempo de serviço docente na USP.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais são as principais atribuições do Coordenador da CoC-BCDados?",
+          "answer": "Ao coordenador compete convocar, presidir, encerrar, suspender e prorrogar as sessões; organizar a Ordem do Dia; designar relatores para estudos preliminares; coordenar a divulgação do curso e dar encaminhamento a matérias submetidas pela CG.",
+          "source_page": 4
+        },
+        {
+          "question": "Com que frequência a CoC-BCDados se reúne ordinariamente?",
+          "answer": "A CoC-BCDados se reúne ordinariamente uma vez a cada seis meses.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o quórum necessário para que a CoC-BCDados funcione e delibere?",
+          "answer": "A CoC-BCDados somente funcionará e deliberará com a presença de mais da metade de seus membros. Caso não haja quórum em primeira e segunda convocações, em terceira convocação a comissão deliberará com qualquer número, exceto nos casos em que houver quórum expressamente estabelecido.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Regimento CoC Bacharelado em Ciência de Dados __c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\nParágrafo 1º – O coordenador será substituído, em seus impedimentos, por seu suplente.\n\nParágrafo 2º – No caso de vacância das funções do coordenador ou do suplente, a eleição far-se-á no prazo de 30 dias.\n\nParágrafo 3º – No impedimento do coordenador e do suplente, responderá pela CoC-BCDados o docente mais graduado da Comissão com maior tempo de serviço docente na USP.\n\nArtigo 6º – Ao Coordenador da CoC-BCDados compete:\n\n- I. Convocar, presidir, encerrar, suspender e prorrogar as sessões, observando e fazendo observar as normas legais vigentes e as determinações deste Regimento;\n- II. Organizar e submeter à discussão e votação as matérias constantes na Ordem do Dia de cada sessão da Comissão;\n- III. Designar, quando necessário, relator para estudo preliminar de matérias a serem submetidas à apreciação da CoC-BCDados;\n- IV. Coordenar as atividades relativas à divulgação do curso;\n- V. Dar encaminhamento à matéria que lhe seja submetida pela CG.\n\n## Do Funcionamento\n\nArtigo 7º – A CoC-BCDados se reunirá, ordinariamente, uma vez a cada seis meses e, extraordinariamente, sempre que o coordenador ou um terço de seus membros a convocar.\n\nArtigo 8º – A CoC-BCDados somente funcionará e deliberará com a presença de mais da metade de seus membros.\n\nParágrafo 1º – Se até 30 minutos da hora determinada para a reunião permanecer a falta de quórum, será convocada nova reunião para, no mínimo, 24 horas depois.\n\nParágrafo 2º – Se não houver quórum para a reunião, em segunda convocação, far-se-á nova convocação para, no mínimo, 24 horas depois.\n\nParágrafo 3º – Em terceira convocação, a CoC-BCDados deliberará com qualquer número, com exceção dos casos em que se estabelece expressamente o quórum necessário.\n\nParágrafo 4º – Os assuntos constantes da pauta de Diversos serão apreciados pela CoC-BCDados quando esta assim o decidir, mediante a aprovação de dois terços dos membros que a compõe.\n\nArtigo 9º – O pedido de vista para estudo do processo pode ser solicitado por qualquer membro e deliberado pelo coordenador, ouvidos os membros da CoC-BCDados.\n\n[Página 5]\nParágrafo 1º – Não cabe pedido de vista para assunto declarado em regime de urgência.\n\nParágrafo 2º – O prazo máximo de vista é de dez dias.\n\nDisposições Gerais Artigo 10º – Os casos omissos neste Regimento serão resolvidos pela CoC-BCDados, salvo competência específica de outro órgão.\n\nDisposições Transitórias Artigo 11º – O coordenador do curso de Bacharelado em Ciência de Dados e seu suplente, com mandatos vigentes na ocasião de constituição da CoC-BCDados, deverão ser membros titulares da CoC-BCDados, desempenhando as funções de Coordenador e de Suplente de Coordenador até completarem seus respectivos mandatos.\n\nRegimento aprovado pela CG em 19.06.2020 e pela Congregação em 26.06.2020",
+      "qa_pairs": [
+        {
+          "question": "Quem substitui o coordenador da CoC-BCDados em caso de impedimento?",
+          "answer": "O coordenador será substituído por seu suplente.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o prazo para a realização de nova eleição caso ocorra vacância nas funções de coordenador ou suplente?",
+          "answer": "A eleição deverá ser realizada no prazo de 30 dias.",
+          "source_page": 4
+        },
+        {
+          "question": "Quem responde pela CoC-BCDados se tanto o coordenador quanto o suplente estiverem impedidos?",
+          "answer": "Responderá o docente mais graduado da Comissão que possua o maior tempo de serviço docente na USP.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais são as competências do Coordenador da CoC-BCDados?",
+          "answer": "Compete ao coordenador convocar, presidir, encerrar, suspender e prorrogar as sessões; organizar e submeter matérias à discussão e votação; designar relator para estudos preliminares; coordenar a divulgação do curso e dar encaminhamento a matérias submetidas pela CG.",
+          "source_page": 4
+        },
+        {
+          "question": "Com que frequência a CoC-BCDados se reúne ordinariamente?",
+          "answer": "A CoC-BCDados se reúne ordinariamente uma vez a cada seis meses.",
+          "source_page": 4
+        },
+        {
+          "question": "Quem pode convocar reuniões extraordinárias da CoC-BCDados?",
+          "answer": "As reuniões extraordinárias podem ser convocadas pelo coordenador ou por um terço de seus membros.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o quórum necessário para que a CoC-BCDados funcione e delibere?",
+          "answer": "A comissão somente funcionará e deliberará com a presença de mais da metade de seus membros.",
+          "source_page": 4
+        },
+        {
+          "question": "O que acontece se não houver quórum na primeira e na segunda convocação de uma reunião?",
+          "answer": "Se não houver quórum na primeira convocação, nova reunião será convocada para no mínimo 24 horas depois. Se persistir a falta de quórum na segunda convocação, será feita nova convocação para, no mínimo, 24 horas depois.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o prazo máximo para o pedido de vista de um processo e em qual situação ele não é permitido?",
+          "answer": "O prazo máximo de vista é de dez dias. O pedido de vista não é permitido para assuntos declarados em regime de urgência.",
+          "source_page": 5
+        },
+        {
+          "question": "Como são resolvidos os casos omissos no Regimento da CoC-BCDados?",
+          "answer": "Os casos omissos serão resolvidos pela própria CoC-BCDados, a menos que a competência específica seja de outro órgão.",
+          "source_page": 5
+        }
+      ]
+    }
+  ]
+}

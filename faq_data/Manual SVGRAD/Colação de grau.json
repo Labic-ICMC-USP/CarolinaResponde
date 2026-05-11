@@ -1,0 +1,726 @@
+{
+  "doc_name": "Colação de grau",
+  "source_path": "data\\Manual SVGRAD\\Colação de grau.docx",
+  "chunks": [
+    {
+      "chunk_id": "Colação de grau__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Colação de grau\n\n## Legislação:\n\nRegimento de Graduação - art 6º\n\nRegimento Geral da USP - art 63\n\nResolução nº 4871/2001 - Código de Ética da USP - art 23 - I\n\nPortaria Interna Pro-G 04 (pasta svgrad- Legislações)\n\nPORTARIA GR Nº 3688/2006 - Delegação competência para assinatura dos históricos\n\nPORTARIA GR Nº 7661/2021 - Uso de assinaturas eletrônicas e USP Assina\n\nRESOLUÇÃO CoG Nº 6565/2013 -Prazo máximo para integralização dos créditos\n\nPortaria GR nº 7141/2018 - Regras de permissão de acesso aos serviços computacionais (e-mail após encerramento do vínculo)\n\n- São realizadas 3 cerimônias gerais (no mesmo dia) e 1 antecipada por semestre.\n- Logo no início do semestre, a chefia deve tratar com a Assistente Acadêmica sobre a definição da data da cerimônia geral e da antecipada e consultar a disponibilidade da Direção. Geralmente são realizadas cerimônias em fevereiro e agosto e a antecipada agenda para logo depois que o semestre terminar.\n- Caso algum aluno termine o curso, mas não cole grau, o programa dele deve ser encerrado normalmente, mas a graduação não deve fornecer o histórico final nem solicitar o diploma. Recomenda-se anotar o nome deste aluno na planilha da colação de grau do semestre subsequente para verificar se ele irá participar da outra colação.\n\n## Assim que a data for definida:\n\n- Atualizar a data da próxima colação na página do setor em Colação de grau\n- Enviar e-mail aos coordenadores, presidente da CG, funcionários/setores envolvidos na cerimônia (SVGRAD,STI, Eventos, Admin) informando a data da cerimônia geral. Não precisa informar sobre a antecipada, pois nesta cerimônia não há participação do Eventos e da STI.\n- Inserir os eventos na agenda do grad@ e convidar as pessoas envolvidas.\n- Enviar e-mail aos alunos sobre as datas e horários das colações e sobre as orientações para participação na cerimônia antecipada. Ver e-mails enviados do grad@ com o assunto \"Data da colação de grau dos formandos 2025-2\" e \" Orientações sobre a colação de grau antecipada dos formandos 2025-2\"\n\n[Página 2]\n- Enviar e-mail para a lista de professores avisando sobre a data da colação e pedindo a colaboração no cadastro das notas dentro dos prazos estabelecidos no calendário. Ver e-mail enviado do grad@ com assunto \"Data da colação de grau dos formandos 2025-1 e cadastro de notas\"\n\n## Elaboração da lista de prováveis formandos:\n\n- Criar uma planilha de prováveis formandos em uma pasta referente ao semestre/ano de conclusão do curso no drive do grad\n- Após terminar o prazo de trancamento de disciplinas, a chefia já pode solicitar que as secretárias dos cursos elaborem a lista dos prováveis formandos e insiram os nomes na planilha compartilhada no link acima dentro de um prazo estabelecido. O ideal é que a lista seja divulgada aos alunos até início de junho e novembro.\n- Para iniciar a conferência, a secretária do curso deve emitir uma lista de alunos que já cumpriram determinada quantidade de créditos em Júpiter - Aluno &gt; Relatórios - Administrativo - Relação dos alunos com média ponderada e créditos cumpridos - Preencher as informações de cada curso e indicar apenas número mínimo de créditos - Formato Excel - Gerar\n- Em seguida, efetuar a conferência das disciplinas obrigatórias já cumpridas pelos alunos, as optativas, AACs/ATPA, horas de curricularização. Isso é feito comparando-se os dados do histórico atual do aluno com o caderninho (planilha\n\n<!-- image -->\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quantas cerimônias de colação de grau são realizadas por semestre?",
+          "answer": "São realizadas 3 cerimônias gerais (no mesmo dia) e 1 cerimônia antecipada por semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "Em quais meses geralmente ocorrem as cerimônias de colação de grau?",
+          "answer": "Geralmente, as cerimônias são realizadas em fevereiro e agosto.",
+          "source_page": 1
+        },
+        {
+          "question": "Quando costuma ser agendada a colação de grau antecipada?",
+          "answer": "A colação antecipada é geralmente agendada para logo após o término do semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece se um aluno terminar o curso, mas não colar grau?",
+          "answer": "O programa do aluno deve ser encerrado normalmente, porém a graduação não deve fornecer o histórico final nem solicitar o diploma. Recomenda-se anotar o nome do aluno na planilha de colação do semestre seguinte para verificar a participação futura.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais setores devem ser informados por e-mail sobre a data da cerimônia geral de colação?",
+          "answer": "Devem ser informados os coordenadores, o presidente da CG e os funcionários/setores envolvidos: SVGRAD, STI, Eventos e Admin.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais setores não participam da cerimônia de colação antecipada?",
+          "answer": "Os setores de Eventos e a STI não participam da cerimônia antecipada.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a orientação para os professores em relação à colação de grau?",
+          "answer": "Os professores são avisados sobre a data da colação e solicitados a colaborar no cadastro das notas dentro dos prazos estabelecidos no calendário.",
+          "source_page": 2
+        },
+        {
+          "question": "Quando a chefia pode solicitar a elaboração da lista de prováveis formandos?",
+          "answer": "A chefia pode solicitar a elaboração da lista após o término do prazo de trancamento de disciplinas.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o período ideal para a divulgação da lista de prováveis formandos aos alunos?",
+          "answer": "O ideal é que a lista seja divulgada aos alunos até o início de junho e novembro.",
+          "source_page": 2
+        },
+        {
+          "question": "Como a secretária do curso deve iniciar a conferência dos prováveis formandos no sistema Júpiter?",
+          "answer": "A secretária deve emitir uma lista de alunos que cumpriram uma quantidade mínima de créditos através do caminho: Aluno > Relatórios - Administrativo - Relação dos alunos com média ponderada e créditos cumpridos, preenchendo as informações do curso e gerando o arquivo em formato Excel.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- Enviar e-mail para a lista de professores avisando sobre a data da colação e pedindo a colaboração no cadastro das notas dentro dos prazos estabelecidos no calendário. Ver e-mail enviado do grad@ com assunto \"Data da colação de grau dos formandos 2025-1 e cadastro de notas\"\n\n## Elaboração da lista de prováveis formandos:\n\n- Criar uma planilha de prováveis formandos em uma pasta referente ao semestre/ano de conclusão do curso no drive do grad\n- Após terminar o prazo de trancamento de disciplinas, a chefia já pode solicitar que as secretárias dos cursos elaborem a lista dos prováveis formandos e insiram os nomes na planilha compartilhada no link acima dentro de um prazo estabelecido. O ideal é que a lista seja divulgada aos alunos até início de junho e novembro.\n- Para iniciar a conferência, a secretária do curso deve emitir uma lista de alunos que já cumpriram determinada quantidade de créditos em Júpiter - Aluno &gt; Relatórios - Administrativo - Relação dos alunos com média ponderada e créditos cumpridos - Preencher as informações de cada curso e indicar apenas número mínimo de créditos - Formato Excel - Gerar\n- Em seguida, efetuar a conferência das disciplinas obrigatórias já cumpridas pelos alunos, as optativas, AACs/ATPA, horas de curricularização. Isso é feito comparando-se os dados do histórico atual do aluno com o caderninho (planilha\n\n<!-- image -->\n\n<!-- image -->\n\n[Página 3]\nde cada aluno que foi criada com a grade do ano de ingresso dele no curso e que é alimentada periodicamente com as decisões tomadas pela CoC sobre equivalências/inclusão de optativas, dispensas)\n\n- É possível fazer uma conferência das disciplinas cumpridas pelo aluno por tipo (obrigatória ou optativa) e das faltantes em Júpiter - Aluno &gt; Relatórios Informações do Programa - Situação do aluno\n\n<!-- image -->\n\n<!-- image -->\n\n## Divulgação da lista:\n\n- Criar o formulário de colação de grau para preenchimento por parte dos alunos, com campos específicos para que anexem os documentos necessários para a conferência dos dados pessoais e solicitação do diploma (RG atualizado, Certidão de nascimento/casamento, Histórico do Ensino Médio e Certificado de conclusão do Ensino Médio). (ver modelos anteriores no drive do grad)\n- Criar o formulário de Certificados de Estudos Especiais para os formandos solicitarem a emissão (isso deve ser feito até que a STI não finalize o sistema). Depois que o sistema ficar pronto, a emissão do CEE poderá ser feita ao longo do ano, sem vinculação com a colação de grau.\n- Enviar a lista de prováveis formandos aos alunos por e-mail com algumas orientações gerais sobre a colação e comissão de formatura. (se possível, enviar a lista separada por curso diretamente do e-mail de atendimento do curso e copiar o coordenador, pois há várias trocas de e-mails entre os alunos e a secretária após a divulgação da lista). Ver e-mail enviado diretamente dos secbcc@ com o",
+      "qa_pairs": [
+        {
+          "question": "Como os professores são avisados sobre a data da colação de grau e o prazo de cadastro de notas?",
+          "answer": "Os professores são avisados através de um e-mail enviado pela lista grad@ com o assunto 'Data da colação de grau dos formandos 2025-1 e cadastro de notas'.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde deve ser criada a planilha de prováveis formandos?",
+          "answer": "A planilha deve ser criada em uma pasta referente ao semestre/ano de conclusão do curso no drive do grad.",
+          "source_page": 2
+        },
+        {
+          "question": "Quando a chefia pode solicitar que as secretárias dos cursos elaborem a lista de prováveis formandos?",
+          "answer": "A solicitação pode ser feita após o término do prazo de trancamento de disciplinas.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o período ideal para a divulgação da lista de prováveis formandos aos alunos?",
+          "answer": "O ideal é que a lista seja divulgada aos alunos até o início de junho e novembro.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para emitir a relação de alunos com média ponderada e créditos cumpridos?",
+          "answer": "O caminho é: Aluno > Relatórios - Administrativo - Relação dos alunos com média ponderada e créditos cumpridos.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é feita a conferência das disciplinas obrigatórias, optativas, AACs/ATPA e horas de curricularização?",
+          "answer": "A conferência é feita comparando-se os dados do histórico atual do aluno com a planilha (caderninho) de cada aluno, que contém a grade do ano de ingresso e as decisões da CoC sobre equivalências, inclusão de optativas e dispensas.",
+          "source_page": 2
+        },
+        {
+          "question": "Como verificar as disciplinas cumpridas por tipo e as faltantes no sistema Júpiter?",
+          "answer": "A verificação pode ser feita através do caminho: Aluno > Relatórios Informações do Programa - Situação do aluno.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais documentos os alunos devem anexar no formulário de colação de grau para conferência de dados e solicitação do diploma?",
+          "answer": "Os alunos devem anexar RG atualizado, Certidão de nascimento/casamento, Histórico do Ensino Médio e Certificado de conclusão do Ensino Médio.",
+          "source_page": 3
+        },
+        {
+          "question": "Como deve ser feita a solicitação de Certificados de Estudos Especiais (CEE) para os formandos atualmente?",
+          "answer": "Atualmente, deve-se criar um formulário específico para que os formandos solicitem a emissão, até que a STI finalize o sistema.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a recomendação para o envio da lista de prováveis formandos aos alunos por e-mail?",
+          "answer": "Recomenda-se enviar a lista separada por curso diretamente do e-mail de atendimento do curso, com cópia para o coordenador.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\nde cada aluno que foi criada com a grade do ano de ingresso dele no curso e que é alimentada periodicamente com as decisões tomadas pela CoC sobre equivalências/inclusão de optativas, dispensas)\n\n- É possível fazer uma conferência das disciplinas cumpridas pelo aluno por tipo (obrigatória ou optativa) e das faltantes em Júpiter - Aluno &gt; Relatórios Informações do Programa - Situação do aluno\n\n<!-- image -->\n\n<!-- image -->\n\n## Divulgação da lista:\n\n- Criar o formulário de colação de grau para preenchimento por parte dos alunos, com campos específicos para que anexem os documentos necessários para a conferência dos dados pessoais e solicitação do diploma (RG atualizado, Certidão de nascimento/casamento, Histórico do Ensino Médio e Certificado de conclusão do Ensino Médio). (ver modelos anteriores no drive do grad)\n- Criar o formulário de Certificados de Estudos Especiais para os formandos solicitarem a emissão (isso deve ser feito até que a STI não finalize o sistema). Depois que o sistema ficar pronto, a emissão do CEE poderá ser feita ao longo do ano, sem vinculação com a colação de grau.\n- Enviar a lista de prováveis formandos aos alunos por e-mail com algumas orientações gerais sobre a colação e comissão de formatura. (se possível, enviar a lista separada por curso diretamente do e-mail de atendimento do curso e copiar o coordenador, pois há várias trocas de e-mails entre os alunos e a secretária após a divulgação da lista). Ver e-mail enviado diretamente dos secbcc@ com o\n\n[Página 4]\nassunto \"Prováveis Formandos 2024-2 do BCC\"\n\n- Caso haja pedidos de revisão da lista (inclusão ou retirada de nome), a secretária do curso deve efetuar uma nova análise.\n\n- É comum os alunos solicitarem algum tipo de declaração informando que eles são prováveis formandos. A declaração pode ser feita diretamente pelo Júpiter Aluno &gt; Emissão de documentos - Atestado de aluno. (indicar a situação do aluno, o semestre/ano de provável conclusão do curso e a data da colação de grau)\n\n- Enviar a previsão do número de formandos ao setor de eventos para aluguel de becas\n\n## Comissão de Formatura:\n\n- No e-mail com a lista dos prováveis formandos já deve ser solicitada a manifestação de interessados para a formação da comissão de formatura.\n\n- A comissão é responsável pela escolha do:\n- patrono (um só para as 3 cerimônias),\n- paraninfos (um para cada curso),\n- professores homenageados (um para cada curso),\n- funcionário homenageado (um só para as 3 cerimônias),\n- alunos que farão o juramento, discurso, homenagem aos pais e entrega das placas aos docentes (patrono, paraninfo, homenageado) e ao funcionário homenageado.\n\nA comissão (ou setor de eventos) é responsável por entrar em contato com os docentes/funcionário escolhidos para informá-los e para solicitar a confirmação de presença na cerimônia.\n\n- Anotar os nomes, e-mails, curso e whatsApp dos interessados em participar da Comissão para repassar ao Eventos (ou criar um grupo no whatsApp para as futuras comunicações, se isso ficar sob responsabilidade do svgrad)\n\n## Prêmio destaque acadêmico e destaque SBC:\n\n- Esses prêmios (certificados impressos) são entregues apenas uma vez por ano, na colação de grau do início do ano que é referente ao 2º semestre e que geralmente é realizada em fevereiro\n\n- A secretária do curso dele elaborar a lista dos alunos formados no 1º semestre e formandos do 2º semestre contendo a média ponderada e enviar aos coordenadores para escolha dos alunos que receberão o Prêmio Destaque Acadêmico (até 3 alunos de todos os cursos) e o Prêmio Destaque SBC (1 aluno de cada curso da área de computação).",
+      "qa_pairs": [
+        {
+          "question": "Como posso conferir quais disciplinas obrigatórias ou optativas já cumpri e quais ainda faltam?",
+          "answer": "A conferência pode ser feita no sistema Júpiter, seguindo o caminho: Aluno > Relatórios Informações do Programa - Situação do aluno.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais documentos são necessários anexar no formulário de colação de grau?",
+          "answer": "Os alunos devem anexar RG atualizado, Certidão de nascimento/casamento, Histórico do Ensino Médio e Certificado de conclusão do Ensino Médio.",
+          "source_page": 3
+        },
+        {
+          "question": "Como solicitar a emissão do Certificado de Estudos Especiais (CEE) para formandos?",
+          "answer": "Atualmente, os formandos devem solicitar a emissão através de um formulário específico, até que a STI finalize o sistema que permitirá a emissão ao longo do ano sem vínculo com a colação de grau.",
+          "source_page": 3
+        },
+        {
+          "question": "O que fazer caso meu nome não esteja na lista de prováveis formandos ou precise ser retirado?",
+          "answer": "Deve-se solicitar a revisão da lista à secretária do curso, que efetuará uma nova análise do caso.",
+          "source_page": 4
+        },
+        {
+          "question": "Como emitir uma declaração de provável formando?",
+          "answer": "A declaração pode ser emitida diretamente pelo Júpiter, no caminho: Aluno > Emissão de documentos - Atestado de aluno, indicando a situação do aluno, o semestre/ano de provável conclusão e a data da colação.",
+          "source_page": 4
+        },
+        {
+          "question": "Quem é responsável por escolher o patrono, paraninfos e homenageados da formatura?",
+          "answer": "A escolha é de responsabilidade da Comissão de Formatura.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a diferença entre a escolha do patrono e a dos paraninfos?",
+          "answer": "O patrono é único para as três cerimônias, enquanto os paraninfos são escolhidos individualmente (um para cada curso).",
+          "source_page": 4
+        },
+        {
+          "question": "Quem deve entrar em contato com os docentes e funcionários escolhidos como homenageados para confirmar presença?",
+          "answer": "Essa responsabilidade é da Comissão de Formatura ou do setor de eventos.",
+          "source_page": 4
+        },
+        {
+          "question": "Quando são entregues os prêmios Destaque Acadêmico e Destaque SBC?",
+          "answer": "Esses prêmios são entregues apenas uma vez por ano, na colação de grau do início do ano referente ao 2º semestre, geralmente realizada em fevereiro.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona a seleção para os prêmios Destaque Acadêmico e Destaque SBC?",
+          "answer": "A secretária do curso elabora uma lista com a média ponderada dos alunos formados no 1º semestre e formandos do 2º semestre, e os coordenadores escolhem até 3 alunos de todos os cursos para o Destaque Acadêmico e 1 aluno de cada curso da área de computação para o Destaque SBC.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\nassunto \"Prováveis Formandos 2024-2 do BCC\"\n\n- Caso haja pedidos de revisão da lista (inclusão ou retirada de nome), a secretária do curso deve efetuar uma nova análise.\n\n- É comum os alunos solicitarem algum tipo de declaração informando que eles são prováveis formandos. A declaração pode ser feita diretamente pelo Júpiter Aluno &gt; Emissão de documentos - Atestado de aluno. (indicar a situação do aluno, o semestre/ano de provável conclusão do curso e a data da colação de grau)\n\n- Enviar a previsão do número de formandos ao setor de eventos para aluguel de becas\n\n## Comissão de Formatura:\n\n- No e-mail com a lista dos prováveis formandos já deve ser solicitada a manifestação de interessados para a formação da comissão de formatura.\n\n- A comissão é responsável pela escolha do:\n- patrono (um só para as 3 cerimônias),\n- paraninfos (um para cada curso),\n- professores homenageados (um para cada curso),\n- funcionário homenageado (um só para as 3 cerimônias),\n- alunos que farão o juramento, discurso, homenagem aos pais e entrega das placas aos docentes (patrono, paraninfo, homenageado) e ao funcionário homenageado.\n\nA comissão (ou setor de eventos) é responsável por entrar em contato com os docentes/funcionário escolhidos para informá-los e para solicitar a confirmação de presença na cerimônia.\n\n- Anotar os nomes, e-mails, curso e whatsApp dos interessados em participar da Comissão para repassar ao Eventos (ou criar um grupo no whatsApp para as futuras comunicações, se isso ficar sob responsabilidade do svgrad)\n\n## Prêmio destaque acadêmico e destaque SBC:\n\n- Esses prêmios (certificados impressos) são entregues apenas uma vez por ano, na colação de grau do início do ano que é referente ao 2º semestre e que geralmente é realizada em fevereiro\n\n- A secretária do curso dele elaborar a lista dos alunos formados no 1º semestre e formandos do 2º semestre contendo a média ponderada e enviar aos coordenadores para escolha dos alunos que receberão o Prêmio Destaque Acadêmico (até 3 alunos de todos os cursos) e o Prêmio Destaque SBC (1 aluno de cada curso da área de computação).\n\n[Página 5]\n- A lista dos alunos já formados no 1º semestre pode ser consultada em Júpiter Aluno &gt; Relatórios - Administrativo - Relação dos alunos com média ponderada e créditos cumpridos - Preencher as informações de cada curso, marcar o campo \"Somente alunos formados\" e indicar o ano/semestre - Gerar\n- Assim que o coordenador definir os nomes, a lista dos alunos que receberão o Prêmio Destaque Acadêmico deve ser encaminhada para o Eventos providenciar a emissão do certificado. É importante conferir se o aluno indicado realmente irá concluir o curso.\n- Enviar a relação dos alunos que receberão o Prêmio Destaque SBC para o representante no ICMC tratar diretamente com a SBC. Assim que ele enviar os certificados, encaminhar para o Eventos providenciar a impressão. É importante conferir se o aluno indicado realmente irá concluir o curso.\n- Caso haja indicação de aluno que já concluiu o curso no 1º semestre, como ele já colou grau e não terá que participar da colação de grau de fevereiro, será necessário entrar em contato com ele (pelo e-mail alternativo) para informar sobre o prêmio e verificar se ele poderá comparecer à cerimônia.\n- Avisar o Eventos sobre a participação ou não do aluno já formado na cerimônia para que eles possam redigir o cerimonial corretamente. Caso ele não participe, poderá retirar o certificado depois no svgrad.\n\n<!-- image -->\n\n## Conferência dos dados pessoais dos formandos:\n\n- Verificar se o aluno que preencheu o requerimento de colação está na lista de provável formando. Se não estiver, enviar e-mail para ele avisando que",
+      "qa_pairs": [
+        {
+          "question": "Como posso obter uma declaração de provável formando?",
+          "answer": "A declaração pode ser emitida diretamente pelo Júpiter Aluno, acessando a opção 'Emissão de documentos - Atestado de aluno', onde deve ser indicada a situação do aluno, o semestre/ano de provável conclusão do curso e a data da colação de grau.",
+          "source_page": 4
+        },
+        {
+          "question": "O que acontece se houver um pedido de revisão da lista de prováveis formandos?",
+          "answer": "Caso haja pedidos de inclusão ou retirada de nome na lista, a secretária do curso deve efetuar uma nova análise.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais são as responsabilidades da Comissão de Formatura em relação à escolha de homenageados?",
+          "answer": "A comissão é responsável por escolher o patrono (um para as três cerimônias), os paraninfos (um por curso), os professores homenageados (um por curso), o funcionário homenageado (um para as três cerimônias), além de definir os alunos para o juramento, discurso, homenagem aos pais e entrega de placas.",
+          "source_page": 4
+        },
+        {
+          "question": "Quem deve entrar em contato com os docentes e funcionários escolhidos para a formatura?",
+          "answer": "A responsabilidade de entrar em contato para informar e solicitar a confirmação de presença na cerimônia é da comissão de formatura ou do setor de eventos.",
+          "source_page": 4
+        },
+        {
+          "question": "Quando são entregues os prêmios Destaque Acadêmico e Destaque SBC?",
+          "answer": "Esses prêmios são entregues apenas uma vez por ano, na colação de grau do início do ano referente ao 2º semestre, que geralmente ocorre em fevereiro.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona a escolha dos alunos para o Prêmio Destaque Acadêmico?",
+          "answer": "A secretária do curso elabora uma lista com a média ponderada de alunos formados no 1º semestre e formandos do 2º semestre e envia aos coordenadores, que escolhem até 3 alunos de todos os cursos para receber o prêmio.",
+          "source_page": 4
+        },
+        {
+          "question": "Quantos alunos recebem o Prêmio Destaque SBC?",
+          "answer": "O Prêmio Destaque SBC é concedido a 1 aluno de cada curso da área de computação.",
+          "source_page": 4
+        },
+        {
+          "question": "Onde a secretária do curso pode consultar a lista de alunos já formados no 1º semestre com média ponderada?",
+          "answer": "A consulta é feita no Júpiter Aluno, seguindo o caminho: Relatórios > Administrativo > Relação dos alunos com média ponderada e créditos cumpridos, preenchendo as informações do curso, marcando 'Somente alunos formados' e indicando o ano/semestre.",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser feito se um aluno indicado para prêmio já tiver colado grau no 1º semestre?",
+          "answer": "Deve-se entrar em contato com o aluno via e-mail alternativo para informar sobre o prêmio e verificar se ele poderá comparecer à cerimônia de fevereiro. O setor de Eventos deve ser avisado sobre a participação ou não do aluno para a redação do cerimonial.",
+          "source_page": 5
+        },
+        {
+          "question": "O que acontece se um aluno premiado que já colou grau não puder comparecer à cerimônia de fevereiro?",
+          "answer": "Caso o aluno não participe da cerimônia, ele poderá retirar o certificado posteriormente no svgrad.",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\n- A lista dos alunos já formados no 1º semestre pode ser consultada em Júpiter Aluno &gt; Relatórios - Administrativo - Relação dos alunos com média ponderada e créditos cumpridos - Preencher as informações de cada curso, marcar o campo \"Somente alunos formados\" e indicar o ano/semestre - Gerar\n- Assim que o coordenador definir os nomes, a lista dos alunos que receberão o Prêmio Destaque Acadêmico deve ser encaminhada para o Eventos providenciar a emissão do certificado. É importante conferir se o aluno indicado realmente irá concluir o curso.\n- Enviar a relação dos alunos que receberão o Prêmio Destaque SBC para o representante no ICMC tratar diretamente com a SBC. Assim que ele enviar os certificados, encaminhar para o Eventos providenciar a impressão. É importante conferir se o aluno indicado realmente irá concluir o curso.\n- Caso haja indicação de aluno que já concluiu o curso no 1º semestre, como ele já colou grau e não terá que participar da colação de grau de fevereiro, será necessário entrar em contato com ele (pelo e-mail alternativo) para informar sobre o prêmio e verificar se ele poderá comparecer à cerimônia.\n- Avisar o Eventos sobre a participação ou não do aluno já formado na cerimônia para que eles possam redigir o cerimonial corretamente. Caso ele não participe, poderá retirar o certificado depois no svgrad.\n\n<!-- image -->\n\n## Conferência dos dados pessoais dos formandos:\n\n- Verificar se o aluno que preencheu o requerimento de colação está na lista de provável formando. Se não estiver, enviar e-mail para ele avisando que\n\n[Página 6]\npreencheu o requerimento, mas não está na lista e o preenchimento será desconsiderado.\n\n- Conferir os documentos enviados via formulário de colação de grau e atualizar os dados pessoais do aluno no Júpiter - Aluno &gt; Consultas &gt; Dados Pessoais\n\nAtenção: No diploma constará o nome completo do aluno, a nacionalidade, o número do RG, a data de nascimento e o estado de naturalidade. Por isso, esses dados devem ser conferidos e atualizados no Júpiter, de acordo com os documentos apresentados pelo aluno. A grafia do nome deve estar igual a da certidão de nascimento ou casamento.\n\n- Atualizar também o e-mail alternativo do aluno, pois será o meio de comunicação com o egresso e ele o utilizará para acesso à plataforma Alumni USP.\n- É importante também deixar a grafia do nome do aluno correta na planilha de formandos, principalmente nos casos em que há acento que pode gerar diferenças na pronúncia, pois é de lá que será retirada a lista final para ser repassada ao Eventos para a montagem do cerimonial.\n\n- Fazer download dos documentos para posterior emissão do diploma e salvar na pasta compartilhada svgrad - Diploma - Registro de diploma - (ano-semestre). Recomenda-se salvar pelo nome completo do aluno seguido da sigla do documento (ex: Camila Carlo Silvestre\\_RG), pois isso facilitará no momento de anexar os documentos no processo digital de diploma. Se algum documento estiver incompleto ou errado, entrar em contato com o aluno por e-mail para solicitar o documento correto ou a complementação.\n\n## Encerramento do programa:\n\n- Assim que o semestre terminar, conferir as pendências dos alunos e enviar e-mail aos docentes sobre cadastro de notas e aos coordenadores sobre análise de AACs e pedidos de equivalência/inclusão de optativas\n- No caso dos alunos do BMA e LMA, é necessário verificar qual habilitação estão concluindo e se têm interesse em abrir a outra antes de encerrar o programa, pois depois de encerrado não é mais possível abrir.\n- Para abrir outra habilitação: Júpiter - Aluno &gt; Informações do programa Informar o NUSP e clicar em buscar. Depois, selecionar a linha correspondente ao ingresso do aluno e no segundo quadro clicar em Inserir. Escolher a habilitação que será aberta e clicar em salvar",
+      "qa_pairs": [
+        {
+          "question": "Como consultar a lista de alunos já formados no 1º semestre?",
+          "answer": "A consulta deve ser feita no Júpiter Aluno, seguindo o caminho: Relatórios > Administrativo > Relação dos alunos com média ponderada e créditos cumpridos. É necessário preencher as informações do curso, marcar a opção 'Somente alunos formados', indicar o ano/semestre e clicar em Gerar.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o procedimento para a emissão do certificado do Prêmio Destaque Acadêmico?",
+          "answer": "Após a definição dos nomes pelo coordenador, a lista dos alunos deve ser encaminhada para o setor de Eventos para que providenciem a emissão do certificado, certificando-se de que o aluno indicado realmente concluirá o curso.",
+          "source_page": 5
+        },
+        {
+          "question": "Como funciona a entrega do Prêmio Destaque SBC?",
+          "answer": "A relação dos alunos deve ser enviada ao representante no ICMC para tratamento direto com a SBC. Após o recebimento dos certificados, estes devem ser encaminhados ao setor de Eventos para impressão.",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser feito se um aluno indicado a prêmio já tiver colado grau no 1º semestre?",
+          "answer": "Deve-se entrar em contato com o aluno via e-mail alternativo para informar sobre o prêmio e verificar sua disponibilidade para comparecer à cerimônia, avisando posteriormente o setor de Eventos para a redação do cerimonial.",
+          "source_page": 5
+        },
+        {
+          "question": "Onde o aluno pode retirar o certificado de prêmio caso não participe da cerimônia de colação de grau?",
+          "answer": "O aluno poderá retirar o certificado posteriormente no svgrad.",
+          "source_page": 5
+        },
+        {
+          "question": "O que acontece se um aluno preencher o requerimento de colação, mas não estiver na lista de provável formando?",
+          "answer": "O aluno deve ser avisado por e-mail que, por não estar na lista, o preenchimento do requerimento será desconsiderado.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais dados pessoais do aluno devem ser conferidos e atualizados no Júpiter para a emissão do diploma?",
+          "answer": "Devem ser conferidos o nome completo (com grafia idêntica à certidão de nascimento ou casamento), nacionalidade, número do RG, data de nascimento e estado de naturalidade.",
+          "source_page": 6
+        },
+        {
+          "question": "Por que é importante atualizar o e-mail alternativo do aluno no sistema?",
+          "answer": "Porque o e-mail alternativo será o meio de comunicação com o egresso e será utilizado por ele para acessar a plataforma Alumni USP.",
+          "source_page": 6
+        },
+        {
+          "question": "Como devem ser salvos os documentos dos formandos na pasta compartilhada do svgrad?",
+          "answer": "Os documentos devem ser salvos no caminho 'svgrad - Diploma - Registro de diploma - (ano-semestre)', utilizando o nome completo do aluno seguido da sigla do documento (ex: Camila Carlo Silvestre_RG).",
+          "source_page": 6
+        },
+        {
+          "question": "Qual a recomendação para alunos de BMA e LMA antes do encerramento do programa?",
+          "answer": "É necessário verificar qual habilitação estão concluindo e se possuem interesse em abrir outra habilitação, pois isso não será mais possível após o encerramento do programa.",
+          "source_page": 6
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c5",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_text": "[Página 6]\npreencheu o requerimento, mas não está na lista e o preenchimento será desconsiderado.\n\n- Conferir os documentos enviados via formulário de colação de grau e atualizar os dados pessoais do aluno no Júpiter - Aluno &gt; Consultas &gt; Dados Pessoais\n\nAtenção: No diploma constará o nome completo do aluno, a nacionalidade, o número do RG, a data de nascimento e o estado de naturalidade. Por isso, esses dados devem ser conferidos e atualizados no Júpiter, de acordo com os documentos apresentados pelo aluno. A grafia do nome deve estar igual a da certidão de nascimento ou casamento.\n\n- Atualizar também o e-mail alternativo do aluno, pois será o meio de comunicação com o egresso e ele o utilizará para acesso à plataforma Alumni USP.\n- É importante também deixar a grafia do nome do aluno correta na planilha de formandos, principalmente nos casos em que há acento que pode gerar diferenças na pronúncia, pois é de lá que será retirada a lista final para ser repassada ao Eventos para a montagem do cerimonial.\n\n- Fazer download dos documentos para posterior emissão do diploma e salvar na pasta compartilhada svgrad - Diploma - Registro de diploma - (ano-semestre). Recomenda-se salvar pelo nome completo do aluno seguido da sigla do documento (ex: Camila Carlo Silvestre\\_RG), pois isso facilitará no momento de anexar os documentos no processo digital de diploma. Se algum documento estiver incompleto ou errado, entrar em contato com o aluno por e-mail para solicitar o documento correto ou a complementação.\n\n## Encerramento do programa:\n\n- Assim que o semestre terminar, conferir as pendências dos alunos e enviar e-mail aos docentes sobre cadastro de notas e aos coordenadores sobre análise de AACs e pedidos de equivalência/inclusão de optativas\n- No caso dos alunos do BMA e LMA, é necessário verificar qual habilitação estão concluindo e se têm interesse em abrir a outra antes de encerrar o programa, pois depois de encerrado não é mais possível abrir.\n- Para abrir outra habilitação: Júpiter - Aluno &gt; Informações do programa Informar o NUSP e clicar em buscar. Depois, selecionar a linha correspondente ao ingresso do aluno e no segundo quadro clicar em Inserir. Escolher a habilitação que será aberta e clicar em salvar\n\n[Página 7]\n-\n\n<!-- image -->\n\n- Se estiver tudo certo, encerrar o programa em Júpiter - Aluno &gt; Informações do programa, informar NUSP e clicar em buscar. Depois, selecionar a linha correspondente ao ingresso do aluno e no segundo quadro clicar em Alterar.\n- Preencher os seguintes dados:\n- Fim: (indicar a data de término do semestre),\n- Data de colação de grau: (indicar a data em que o aluno irá colar grau da antecipada ou da geral),\n- Data da expedição do diploma: (indicar a data da colação de grau - da antecipada ou da geral),\n- Tipo de encerramento: (Conclusão)\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quais dados do aluno constarão no diploma?",
+          "answer": "No diploma constarão o nome completo do aluno, a nacionalidade, o número do RG, a data de nascimento e o estado de naturalidade.",
+          "source_page": 6
+        },
+        {
+          "question": "Onde o aluno deve conferir e atualizar seus dados pessoais para a colação de grau?",
+          "answer": "Os dados devem ser conferidos e atualizados no sistema Júpiter, seguindo o caminho: Aluno > Consultas > Dados Pessoais.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual a orientação sobre a grafia do nome do aluno para a emissão do diploma?",
+          "answer": "A grafia do nome deve estar exatamente igual à da certidão de nascimento ou casamento.",
+          "source_page": 6
+        },
+        {
+          "question": "Por que é importante atualizar o e-mail alternativo do aluno?",
+          "answer": "Porque o e-mail alternativo será o meio de comunicação com o egresso e será utilizado para o acesso à plataforma Alumni USP.",
+          "source_page": 6
+        },
+        {
+          "question": "De onde é retirada a lista final de nomes para a montagem do cerimonial de eventos?",
+          "answer": "A lista final é retirada da planilha de formandos.",
+          "source_page": 6
+        },
+        {
+          "question": "Como devem ser salvos os documentos baixados para a emissão do diploma na pasta compartilhada?",
+          "answer": "Recomenda-se salvar os arquivos pelo nome completo do aluno seguido da sigla do documento (exemplo: Camila Carlo Silvestre_RG).",
+          "source_page": 6
+        },
+        {
+          "question": "O que deve ser feito ao final do semestre em relação às pendências dos alunos?",
+          "answer": "Deve-se conferir as pendências e enviar e-mails aos docentes sobre o cadastro de notas e aos coordenadores sobre a análise de AACs e pedidos de equivalência ou inclusão de optativas.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual a recomendação específica para alunos de BMA e LMA antes do encerramento do programa?",
+          "answer": "É necessário verificar qual habilitação estão concluindo e se possuem interesse em abrir outra habilitação, pois após o encerramento do programa não é mais possível abri-la.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual o procedimento no Júpiter para abrir outra habilitação para um aluno?",
+          "answer": "Acessar Júpiter - Aluno > Informações do programa, informar o NUSP, buscar, selecionar a linha de ingresso do aluno, clicar em 'Inserir' no segundo quadro, escolher a habilitação e salvar.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais dados devem ser preenchidos no Júpiter ao realizar o encerramento do programa do aluno?",
+          "answer": "Devem ser preenchidos: a data de fim (término do semestre), a data de colação de grau (antecipada ou geral), a data de expedição do diploma (mesma data da colação) e o tipo de encerramento (Conclusão).",
+          "source_page": 7
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c6",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_text": "[Página 7]\n-\n\n<!-- image -->\n\n- Se estiver tudo certo, encerrar o programa em Júpiter - Aluno &gt; Informações do programa, informar NUSP e clicar em buscar. Depois, selecionar a linha correspondente ao ingresso do aluno e no segundo quadro clicar em Alterar.\n- Preencher os seguintes dados:\n- Fim: (indicar a data de término do semestre),\n- Data de colação de grau: (indicar a data em que o aluno irá colar grau da antecipada ou da geral),\n- Data da expedição do diploma: (indicar a data da colação de grau - da antecipada ou da geral),\n- Tipo de encerramento: (Conclusão)\n\n<!-- image -->\n\n[Página 8]\n<!-- image -->\n\n## Emissão do histórico final com certificado de conclusão do curso:\n\n- Emitir o histórico final em Júpiter - Aluno &gt; Consultas &gt; Histórico escolar\n- Informar NUSP, programa e curso encerrado, marcar as opções: Final (sem reprovações e trancamentos), Com classificação na turma, Com média do curso Buscar",
+      "qa_pairs": [
+        {
+          "question": "Como encerrar o programa de um aluno no sistema Júpiter?",
+          "answer": "O encerramento deve ser feito em Júpiter - Aluno > Informações do programa, informando o NUSP e clicando em buscar. Em seguida, deve-se selecionar a linha correspondente ao ingresso do aluno e, no segundo quadro, clicar em Alterar.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais dados devem ser preenchidos ao encerrar o programa do aluno?",
+          "answer": "Devem ser preenchidos: a data de término do semestre (Fim), a data de colação de grau (antecipada ou geral), a data da expedição do diploma (mesma data da colação de grau) e o tipo de encerramento, que deve ser 'Conclusão'.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual data deve ser informada no campo 'Data da expedição do diploma'?",
+          "answer": "Deve ser informada a data da colação de grau, seja ela a antecipada ou a geral.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual a opção de 'Tipo de encerramento' deve ser selecionada para alunos que concluíram o curso?",
+          "answer": "A opção a ser selecionada é 'Conclusão'.",
+          "source_page": 7
+        },
+        {
+          "question": "Onde é emitida a emissão do histórico final com certificado de conclusão do curso?",
+          "answer": "O histórico final é emitido no sistema Júpiter, seguindo o caminho: Aluno > Consultas > Histórico escolar.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais informações são necessárias para buscar o histórico escolar no Júpiter?",
+          "answer": "É necessário informar o NUSP, o programa e o curso encerrado.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais opções devem ser marcadas para a emissão do histórico final?",
+          "answer": "Devem ser marcadas as opções: Final (sem reprovações e trancamentos), Com classificação na turma e Com média do curso.",
+          "source_page": 8
+        },
+        {
+          "question": "Como proceder para indicar a data de colação de grau no encerramento do programa?",
+          "answer": "Deve-se indicar a data em que o aluno irá colar grau, podendo ser a data da colação antecipada ou da geral.",
+          "source_page": 7
+        },
+        {
+          "question": "O que deve ser feito após buscar o NUSP do aluno na seção de Informações do programa?",
+          "answer": "Deve-se selecionar a linha correspondente ao ingresso do aluno e clicar em 'Alterar' no segundo quadro.",
+          "source_page": 7
+        },
+        {
+          "question": "O histórico final emitido via Júpiter pode incluir a média do curso?",
+          "answer": "Sim, para isso deve-se marcar a opção 'Com média do curso' ao emitir o documento.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c7",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_text": "[Página 8]\n<!-- image -->\n\n## Emissão do histórico final com certificado de conclusão do curso:\n\n- Emitir o histórico final em Júpiter - Aluno &gt; Consultas &gt; Histórico escolar\n- Informar NUSP, programa e curso encerrado, marcar as opções: Final (sem reprovações e trancamentos), Com classificação na turma, Com média do curso Buscar\n\n[Página 9]\nAluno\n\nConsultas\n\nHistórico escolar\n\nBeneficios € Bolsas\n\nDados Pessoais\n\nEvolução no curso\n\nGrade horaria\n\nHistórico escolar\n\nRendimento ac\n\n<!-- image -->\n\n- Criar lotes no USP Assina e enviar para assinatura da Assistente Acadêmica e a chefia do SVGRAD\n- Fazer download dos históricos assinados e salvar na pasta compartilhada svgrad\n- Diploma - Registro de diploma - (ano-semestre). Recomenda-se salvar pelo nome completo do aluno seguido da sigla do documento (ex: Camila Carlo Silvestre\\_HUSP), pois isso facilitará no momento de anexar ao processo digital de emissão do diploma e para posterior envio aos alunos por e-mail\n\n## Assim que a lista de formandos estiver fechada:\n\n- Informar a lista final de formandos (e nomes dos alunos destaque acadêmico e SBC) ao Eventos para a montagem do cerimonial e os dados (peso e altura) para a locação das becas\n- Enviar a lista final dos formandos e nome do patrono, dos paraninfos e dos homenageados na lista de professores. Ver e-mail enviado do grad@ com o",
+      "qa_pairs": [
+        {
+          "question": "Como emitir o histórico final com certificado de conclusão do curso no Júpiter?",
+          "answer": "O aluno deve acessar Júpiter > Aluno > Consultas > Histórico escolar, informar o NUSP, o programa e o curso encerrado, e marcar as opções: Final (sem reprovações e trancamentos), Com classificação na turma e Com média do curso.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais opções devem ser marcadas ao emitir o histórico final no sistema Júpiter?",
+          "answer": "Devem ser marcadas as opções: Final (sem reprovações e trancamentos), Com classificação na turma e Com média do curso.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual o procedimento para a assinatura dos históricos escolares?",
+          "answer": "Devem ser criados lotes no USP Assina e enviados para a assinatura da Assistente Acadêmica e da chefia do SVGRAD.",
+          "source_page": 9
+        },
+        {
+          "question": "Onde devem ser salvos os históricos escolares após a assinatura?",
+          "answer": "Os históricos assinados devem ser baixados e salvos na pasta compartilhada svgrad.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual a recomendação de nomenclatura para salvar os arquivos de histórico escolar (HUSP)?",
+          "answer": "Recomenda-se salvar pelo nome completo do aluno seguido da sigla do documento (exemplo: Camila Carlo Silvestre_HUSP).",
+          "source_page": 9
+        },
+        {
+          "question": "Por que é importante seguir a recomendação de nomear o arquivo do histórico com o nome completo do aluno?",
+          "answer": "Para facilitar o momento de anexar o documento ao processo digital de emissão do diploma e o posterior envio aos alunos por e-mail.",
+          "source_page": 9
+        },
+        {
+          "question": "O que deve ser informado ao setor de Eventos assim que a lista de formandos for fechada?",
+          "answer": "Deve-se informar a lista final de formandos, os nomes dos alunos destaque acadêmico e SBC para a montagem do cerimonial, além dos dados de peso e altura para a locação das becas.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais informações sobre os professores devem ser enviadas após o fechamento da lista de formandos?",
+          "answer": "Devem ser enviados os nomes do patrono, dos paraninfos e dos homenageados na lista de professores.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais dados dos alunos são necessários para a locação das becas?",
+          "answer": "São necessários os dados de peso e altura dos formandos.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais informações adicionais sobre os alunos, além da lista de formandos, são enviadas para a montagem do cerimonial?",
+          "answer": "São enviados os nomes dos alunos destaque acadêmico e SBC.",
+          "source_page": 9
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c8",
+      "pages": [
+        9,
+        10
+      ],
+      "chunk_text": "[Página 9]\nAluno\n\nConsultas\n\nHistórico escolar\n\nBeneficios € Bolsas\n\nDados Pessoais\n\nEvolução no curso\n\nGrade horaria\n\nHistórico escolar\n\nRendimento ac\n\n<!-- image -->\n\n- Criar lotes no USP Assina e enviar para assinatura da Assistente Acadêmica e a chefia do SVGRAD\n- Fazer download dos históricos assinados e salvar na pasta compartilhada svgrad\n- Diploma - Registro de diploma - (ano-semestre). Recomenda-se salvar pelo nome completo do aluno seguido da sigla do documento (ex: Camila Carlo Silvestre\\_HUSP), pois isso facilitará no momento de anexar ao processo digital de emissão do diploma e para posterior envio aos alunos por e-mail\n\n## Assim que a lista de formandos estiver fechada:\n\n- Informar a lista final de formandos (e nomes dos alunos destaque acadêmico e SBC) ao Eventos para a montagem do cerimonial e os dados (peso e altura) para a locação das becas\n- Enviar a lista final dos formandos e nome do patrono, dos paraninfos e dos homenageados na lista de professores. Ver e-mail enviado do grad@ com o\n\n[Página 10]\nassunto \"Formandos 2024-2 e homenageados\"\n\n- Enviar a lista final dos formandos aos alunos com as orientações finais sobre a cerimônia. Ver e-mail enviado do secbcc@ com o assunto \"Lista final - Formandos BCC 2024-2\"\n- Verificar se os formandos preencheram a cápsula do tempo na lista que está na pasta compartilhada svgrad - Colação de Grau. Colocar em um envelope nominal e entregar aos alunos assim que chegarem na cerimônia\n- Elaborar o termo de colação de grau, sendo 1 para cada horário (imprimir em papel cartão) (ver modelo da colação anterior na pasta compartilhada svgrad - Colação. Se houver participação simbólica de aluno que já colou grau antecipadamente, o nome deste aluno não deve constar no termo. Neste caso, fazer uma lista de presença separada apenas para ele ter um documento para assinar no momento da colação.\n\nTratativas sobre a cerimônia de colação: (responsabilidade do svgrad ou Eventos - em discussão)\n\n## Eventos\n\n- Informar ao Eventos: nome do patrono, dos paraninfos, dos professores homenageados, do funcionário homenageado, dos alunos que farão o juramento, discurso, homenagem aos pais e entrega das placas, a lista final dos formandos.\n- Enviar e-mail solicitando a confirmação de presença dos coordenadores\n- Enviar e-mail aos docentes (patrono, paraninfos e homenageados) com orientações sobre suas participações e tempo dos discursos. Ver e-mail enviado do grad@ com o assunto \"Discurso - Colação de grau\"\n- Enviar e-mail de orientação aos alunos que farão discursos e entrega de homenagens. Ver e-mail enviado do grad@ com o assunto \"Orientações sobre discursos da colação de 14/02/2025\"\n\n## SVgrad\n\n- Imprimir a mensagem aos formandos e colocar dentro dos canudos (modelo na pasta svgrad-colação)\n- Definir as fileiras que serão ocupadas pelos formandos. No auditório Fernão:\n\n1ª fileira - geralmente é reservada para mesa estendida e para convidados com dificuldade de locomoção. Se houver um número alto de formandos do BCC na 1ª colação, ela poderá ser usada para acomodar os alunos também, pois a mesa de honra (do palco) é suficiente para acomodar o diretor e docentes que participarão da cerimônia.\n\n2ª fileira - 16 lugares (na 2ª e 3ª cerimônia, é comum pedir para o diretor e membros da mesa de honra se acomodarem nesta fileira para que os membros da mesa estendida se acomodem na 1ª fileira, pois os membros da mesa de honra serão chamados para ocupar seus lugares antes da entrada dos formandos)",
+      "qa_pairs": [
+        {
+          "question": "Como devem ser salvos os arquivos de histórico escolar para facilitar a emissão do diploma?",
+          "answer": "Recomenda-se salvar o arquivo pelo nome completo do aluno seguido da sigla do documento (exemplo: Camila Carlo Silvestre_HUSP).",
+          "source_page": 9
+        },
+        {
+          "question": "Qual o procedimento para a assinatura dos históricos escolares?",
+          "answer": "Devem ser criados lotes no USP Assina e enviados para a assinatura da Assistente Acadêmica e da chefia do SVGRAD.",
+          "source_page": 9
+        },
+        {
+          "question": "Onde devem ser salvos os históricos escolares após o download das assinaturas?",
+          "answer": "Os históricos assinados devem ser salvos na pasta compartilhada svgrad.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais informações sobre os formandos devem ser enviadas ao setor de Eventos para a montagem do cerimonial?",
+          "answer": "Deve-se informar a lista final de formandos, os nomes dos alunos destaque acadêmico e SBC, além dos dados de peso e altura para a locação das becas.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais nomes devem constar na lista de professores enviada para a formatura?",
+          "answer": "Devem constar a lista final dos formandos e os nomes do patrono, dos paraninfos e dos homenageados.",
+          "source_page": 9
+        },
+        {
+          "question": "Como funciona a organização da cápsula do tempo para os formandos?",
+          "answer": "Deve-se verificar se os formandos preencheram a cápsula do tempo na lista da pasta compartilhada svgrad - Colação de Grau, colocar em um envelope nominal e entregar aos alunos na chegada da cerimônia.",
+          "source_page": 10
+        },
+        {
+          "question": "Quem deve constar no termo de colação de grau?",
+          "answer": "O termo deve ser elaborado para cada horário; no entanto, alunos que já colaram grau antecipadamente e terão participação simbólica não devem constar no termo, devendo assinar uma lista de presença separada.",
+          "source_page": 10
+        },
+        {
+          "question": "Quais orientações o setor de Eventos deve enviar aos docentes patronos, paraninfos e homenageados?",
+          "answer": "Devem ser enviados e-mails com orientações sobre suas participações e o tempo destinado aos discursos.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual a responsabilidade do SVgrad em relação aos canudos da cerimônia?",
+          "answer": "O SVgrad é responsável por imprimir a mensagem aos formandos e colocá-la dentro dos canudos, utilizando o modelo disponível na pasta svgrad-colação.",
+          "source_page": 10
+        },
+        {
+          "question": "Como é organizada a ocupação das fileiras no auditório Fernão durante a colação?",
+          "answer": "A 1ª fileira é geralmente reservada para a mesa estendida e convidados com dificuldade de locomoção (podendo acomodar alunos do BCC se houver muitos formandos). A 2ª fileira possui 16 lugares e, na 2ª e 3ª cerimônia, é comum que o diretor e membros da mesa de honra se acomodem nela.",
+          "source_page": 10
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c9",
+      "pages": [
+        10,
+        11
+      ],
+      "chunk_text": "[Página 10]\nassunto \"Formandos 2024-2 e homenageados\"\n\n- Enviar a lista final dos formandos aos alunos com as orientações finais sobre a cerimônia. Ver e-mail enviado do secbcc@ com o assunto \"Lista final - Formandos BCC 2024-2\"\n- Verificar se os formandos preencheram a cápsula do tempo na lista que está na pasta compartilhada svgrad - Colação de Grau. Colocar em um envelope nominal e entregar aos alunos assim que chegarem na cerimônia\n- Elaborar o termo de colação de grau, sendo 1 para cada horário (imprimir em papel cartão) (ver modelo da colação anterior na pasta compartilhada svgrad - Colação. Se houver participação simbólica de aluno que já colou grau antecipadamente, o nome deste aluno não deve constar no termo. Neste caso, fazer uma lista de presença separada apenas para ele ter um documento para assinar no momento da colação.\n\nTratativas sobre a cerimônia de colação: (responsabilidade do svgrad ou Eventos - em discussão)\n\n## Eventos\n\n- Informar ao Eventos: nome do patrono, dos paraninfos, dos professores homenageados, do funcionário homenageado, dos alunos que farão o juramento, discurso, homenagem aos pais e entrega das placas, a lista final dos formandos.\n- Enviar e-mail solicitando a confirmação de presença dos coordenadores\n- Enviar e-mail aos docentes (patrono, paraninfos e homenageados) com orientações sobre suas participações e tempo dos discursos. Ver e-mail enviado do grad@ com o assunto \"Discurso - Colação de grau\"\n- Enviar e-mail de orientação aos alunos que farão discursos e entrega de homenagens. Ver e-mail enviado do grad@ com o assunto \"Orientações sobre discursos da colação de 14/02/2025\"\n\n## SVgrad\n\n- Imprimir a mensagem aos formandos e colocar dentro dos canudos (modelo na pasta svgrad-colação)\n- Definir as fileiras que serão ocupadas pelos formandos. No auditório Fernão:\n\n1ª fileira - geralmente é reservada para mesa estendida e para convidados com dificuldade de locomoção. Se houver um número alto de formandos do BCC na 1ª colação, ela poderá ser usada para acomodar os alunos também, pois a mesa de honra (do palco) é suficiente para acomodar o diretor e docentes que participarão da cerimônia.\n\n2ª fileira - 16 lugares (na 2ª e 3ª cerimônia, é comum pedir para o diretor e membros da mesa de honra se acomodarem nesta fileira para que os membros da mesa estendida se acomodem na 1ª fileira, pois os membros da mesa de honra serão chamados para ocupar seus lugares antes da entrada dos formandos)\n\n[Página 11]\n3ª fileira - 15 lugares\n\n4ª fileira - 16 lugares\n\n5ª fileira - 17 lugares\n\n- Dividir o trabalho da equipe do SVGRAD em cada cerimônia. No dia da colação todos os funcionários e estagiários são demandados (em escala) para auxiliar. A divisão, geralmente, é feita da seguinte forma:\n\n## 1 na recepção\n\n1 na formação da fila e recados e controle de convidados enquanto os alunos entram\n\n1 no controle da entrada dos formandos\n\n1 do lado direito das poltronas para direcionar os alunos no momento em que serão chamados ao palco\n\n1 do lado direito do palco para entregar os canudos aos docentes e placas aos alunos\n\n1 do lado esquerdo das poltronas para direcionar os alunos aos lugares e depois ficar próximo ao palco para auxiliar no momento da assinatura do termo\n\n1 na mesa do termo\n\n## Após a colação de grau:\n\n- Emitir a declaração de participação na cerimônia para os formandos que solicitaram. Assinar pelo USP Assina e enviar por e-mail.\n- Enviar o histórico final (juntamente com o certificado de estudos especiais) por e-mail aos formandos com as orientações sobre a emissão do diploma e o acesso à plataforma Alumni USP. Ver e-mail enviado do grad@ com o assunto \"Certificado de conclusão do curso \"\n- Emitir o histórico final em inglês para os formandos que solicitarem. Neste caso, não precisa emitir com os campos de assinatura.\n- Solicitar o diploma, conforme orientações disponibilizadas no item Diploma\n\n- Enviar o link das fotos da colação aos formandos (o Reinaldo compartilha conosco o link após alguns dias) (responsabilidade do svgrad ou Eventos - em discussão)\n\n## Colação antecipada\n\n- Assim que a data for definida, inserir o evento na agenda do grad@ e convidar as pessoas envolvidas (assistente, chefia e funcionários do svgrad, presidente da CG, diretoria e diretor)",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito em relação à cápsula do tempo para os formandos?",
+          "answer": "Deve-se verificar se os formandos preencheram a cápsula do tempo na lista da pasta compartilhada 'svgrad - Colação de Grau', colocar cada uma em um envelope nominal e entregá-las aos alunos assim que eles chegarem à cerimônia.",
+          "source_page": 10
+        },
+        {
+          "question": "Como deve ser elaborado o termo de colação de grau e quem não deve constar nele?",
+          "answer": "O termo deve ser elaborado em papel cartão, sendo um para cada horário. Alunos que já colaram grau antecipadamente não devem constar no termo; para eles, deve ser feita uma lista de presença separada para assinatura no momento da colação.",
+          "source_page": 10
+        },
+        {
+          "question": "Quais informações devem ser informadas ao setor de Eventos para a cerimônia?",
+          "answer": "Devem ser informados: o nome do patrono, dos paraninfos, dos professores e funcionário homenageados, a lista final dos formandos, além dos alunos que farão o juramento, discurso, homenagem aos pais e entrega de placas.",
+          "source_page": 10
+        },
+        {
+          "question": "Quais orientações são enviadas aos docentes que atuarão como patronos, paraninfos e homenageados?",
+          "answer": "São enviados e-mails com orientações sobre suas participações e o tempo destinado aos discursos.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual a responsabilidade do SVgrad em relação aos canudos da cerimônia?",
+          "answer": "O SVgrad é responsável por imprimir a mensagem aos formandos (conforme modelo na pasta svgrad-colação) e colocá-la dentro dos canudos.",
+          "source_page": 10
+        },
+        {
+          "question": "Como funciona a organização das fileiras no auditório Fernão para os formandos?",
+          "answer": "A 1ª fileira é geralmente para a mesa estendida e convidados com dificuldade de locomoção, podendo acomodar alunos do BCC se houver muitos formandos. A 2ª fileira possui 16 lugares e é comum que o diretor e membros da mesa de honra se acomodem nela na 2ª e 3ª cerimônia. A 3ª fileira tem 15 lugares, a 4ª tem 16 e a 5ª tem 17 lugares.",
+          "source_page": 10
+        },
+        {
+          "question": "Como é dividida a equipe do SVGRAD durante o dia da colação?",
+          "answer": "A equipe é distribuída em escala: um na recepção; um na formação da fila, recados e controle de convidados; um no controle da entrada dos formandos; um à direita das poltronas para direcionar alunos ao palco; um à direita do palco para entregar canudos e placas; um à esquerda das poltronas para direcionar alunos e auxiliar na assinatura do termo; e um na mesa do termo.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais documentos são enviados aos formandos após a cerimônia de colação de grau?",
+          "answer": "São enviados a declaração de participação na cerimônia (para quem solicitou), o histórico final e o certificado de estudos especiais, acompanhados de orientações sobre a emissão do diploma e acesso à plataforma Alumni USP.",
+          "source_page": 11
+        },
+        {
+          "question": "É possível emitir o histórico final em inglês?",
+          "answer": "Sim, o histórico final em inglês é emitido para os formandos que solicitarem, sendo que, neste caso, não é necessário emitir com os campos de assinatura.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual o procedimento para organizar a colação antecipada?",
+          "answer": "Assim que a data for definida, o evento deve ser inserido na agenda do grad@, convidando o assistente, a chefia e funcionários do svgrad, o presidente da CG, a diretoria e o diretor.",
+          "source_page": 11
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c10",
+      "pages": [
+        11,
+        12
+      ],
+      "chunk_text": "[Página 11]\n3ª fileira - 15 lugares\n\n4ª fileira - 16 lugares\n\n5ª fileira - 17 lugares\n\n- Dividir o trabalho da equipe do SVGRAD em cada cerimônia. No dia da colação todos os funcionários e estagiários são demandados (em escala) para auxiliar. A divisão, geralmente, é feita da seguinte forma:\n\n## 1 na recepção\n\n1 na formação da fila e recados e controle de convidados enquanto os alunos entram\n\n1 no controle da entrada dos formandos\n\n1 do lado direito das poltronas para direcionar os alunos no momento em que serão chamados ao palco\n\n1 do lado direito do palco para entregar os canudos aos docentes e placas aos alunos\n\n1 do lado esquerdo das poltronas para direcionar os alunos aos lugares e depois ficar próximo ao palco para auxiliar no momento da assinatura do termo\n\n1 na mesa do termo\n\n## Após a colação de grau:\n\n- Emitir a declaração de participação na cerimônia para os formandos que solicitaram. Assinar pelo USP Assina e enviar por e-mail.\n- Enviar o histórico final (juntamente com o certificado de estudos especiais) por e-mail aos formandos com as orientações sobre a emissão do diploma e o acesso à plataforma Alumni USP. Ver e-mail enviado do grad@ com o assunto \"Certificado de conclusão do curso \"\n- Emitir o histórico final em inglês para os formandos que solicitarem. Neste caso, não precisa emitir com os campos de assinatura.\n- Solicitar o diploma, conforme orientações disponibilizadas no item Diploma\n\n- Enviar o link das fotos da colação aos formandos (o Reinaldo compartilha conosco o link após alguns dias) (responsabilidade do svgrad ou Eventos - em discussão)\n\n## Colação antecipada\n\n- Assim que a data for definida, inserir o evento na agenda do grad@ e convidar as pessoas envolvidas (assistente, chefia e funcionários do svgrad, presidente da CG, diretoria e diretor)\n\n[Página 12]\n- Enviar e-mail aos alunos sobre a data e horário e orientações para participação na cerimônia antecipada com prazo para encaminhamento das solicitações. Ver e-mail enviado do grad@ com o assunto \"Orientações sobre a colação de grau antecipada dos formandos 2025-1\"\n- O aluno precisa preencher o requerimento, indicar uma justificativa e enviar o comprovante da justificativa. No momento em que o funcionário acusar o recebimento do pedido, reforçar ao aluno que ele somente poderá participar da cerimônia antecipada se todas as pendências (notas, equivalências, etc) estiverem sanadas até 2 dias antes da cerimônia. O aluno é responsável por verificar se conseguirá cumprir esse prazo, principalmente se tiver ficado de recuperação de alguma disciplina.\n- Assim que o aluno enviar o requerimento e a justificativa, conferir a justificativa e se o aluno está na lista dos prováveis formandos.\n- Salvar os documentos na pasta compartilhada svgrad - Colação de Grau - (ano / sem)\n- Assim que terminar o prazo para as solicitações, reunir todos os pedidos e encaminhar para análise da Direção.\n- Reservar a sala de reuniões da Direção ou da Congregação, dependendo do número de alunos\n- Pedir para a secretária do curso verificar se o aluno já cumpriu tudo que faltava, encerrar o programa e gerar o histórico conforme as orientações acima.\n- Enviar e-mail aos alunos que solicitaram a colação antecipada com orientações sobre a cerimônia (local, horário, convidados, roupa), pedir para um deles fazer o juramento, pedir para indicarem se irão participar ou não simbolicamente da colação de grau geral. Ver e-mail enviado do grad@ com o assunto \"Orientações sobre a colação antecipada\"\n- Enviar e-mail para os coordenadores dos cursos envolvidos convidando para a colação\n- Fazer o termo de colação e imprimir - (ver modelo da colação anterior na pasta compartilhada svgrad - Colação). Durante a colação, os alunos serão chamados para assinarem o documento. No final da cerimônia, a assistente fica responsável por coletar as assinaturas do diretor e docentes presentes.\n- Fazer o cerimonial curto e enviar por e-mail à Direção e à Assistência Acadêmica (ver modelo da colação anterior na pasta compartilhada svgrad - Colação). Somente o diretor é que fará a leitura do cerimonial.\n- No dia da colação de grau levar o termo de colação, o juramento e o cerimonial, explicar aos presentes como será a cerimônia, deixar o discurso com o aluno que o proferirá. Pedir que os alunos sentem nas fileiras em frente à mesa da Direção e que os familiares e amigos se acomodem e desliguem o som dos celulares\n- Caso haja participação remota:",
+      "qa_pairs": [
+        {
+          "question": "Como é feita a divisão de tarefas da equipe do SVGRAD durante a cerimônia de colação de grau?",
+          "answer": "A equipe é distribuída em funções específicas: um na recepção; um na formação da fila, recados e controle de convidados; um no controle da entrada dos formandos; um do lado direito das poltronas para direcionar alunos ao palco; um do lado direito do palco para entrega de canudos e placas; um do lado esquerdo das poltronas para direcionar alunos aos lugares e auxiliar na assinatura do termo; e um na mesa do termo.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais documentos são enviados por e-mail aos formandos após a colação de grau?",
+          "answer": "São enviados a declaração de participação na cerimônia (para quem solicitou), o histórico final e, se aplicável, o certificado de estudos especiais, acompanhados de orientações sobre a emissão do diploma e acesso à plataforma Alumni USP.",
+          "source_page": 11
+        },
+        {
+          "question": "É possível solicitar o histórico final em inglês? Há alguma particularidade na emissão?",
+          "answer": "Sim, o histórico final em inglês pode ser emitido aos formandos que solicitarem, e neste caso não é necessário emitir com os campos de assinatura.",
+          "source_page": 11
+        },
+        {
+          "question": "Como funciona o agendamento da colação antecipada?",
+          "answer": "Assim que a data é definida, o evento é inserido na agenda do grad@ e são convidadas as pessoas envolvidas, incluindo assistente, chefia e funcionários do svgrad, presidente da CG, diretoria e diretor.",
+          "source_page": 11
+        },
+        {
+          "question": "O que o aluno deve apresentar para solicitar a colação de grau antecipada?",
+          "answer": "O aluno deve preencher o requerimento, indicar uma justificativa e enviar o comprovante correspondente a essa justificativa.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual a condição necessária para que um aluno participe da cerimônia de colação antecipada?",
+          "answer": "O aluno somente poderá participar se todas as pendências, como notas e equivalências, estiverem sanadas até 2 dias antes da cerimônia.",
+          "source_page": 12
+        },
+        {
+          "question": "Quem analisa os pedidos de colação antecipada após o encerramento do prazo de solicitação?",
+          "answer": "Após o término do prazo, todos os pedidos são reunidos e encaminhados para análise da Direção.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais orientações são enviadas aos alunos que terão a colação antecipada?",
+          "answer": "São enviadas orientações sobre o local, horário, convidados e roupa. Além disso, é solicitado que um aluno se candidate para fazer o juramento e que indiquem se participarão ou não simbolicamente da colação de grau geral.",
+          "source_page": 12
+        },
+        {
+          "question": "Como é formalizada a colação antecipada em termos de documentação e assinaturas?",
+          "answer": "É elaborado um termo de colação que deve ser assinado pelos alunos durante a cerimônia e, ao final, a assistente coleta as assinaturas do diretor e dos docentes presentes.",
+          "source_page": 12
+        },
+        {
+          "question": "Quem é responsável pela leitura do cerimonial na colação antecipada?",
+          "answer": "O cerimonial é elaborado em formato curto e enviado à Direção e à Assistência Acadêmica, sendo a leitura realizada exclusivamente pelo diretor.",
+          "source_page": 12
+        }
+      ]
+    },
+    {
+      "chunk_id": "Colação de grau__c11",
+      "pages": [
+        12,
+        13
+      ],
+      "chunk_text": "[Página 12]\n- Enviar e-mail aos alunos sobre a data e horário e orientações para participação na cerimônia antecipada com prazo para encaminhamento das solicitações. Ver e-mail enviado do grad@ com o assunto \"Orientações sobre a colação de grau antecipada dos formandos 2025-1\"\n- O aluno precisa preencher o requerimento, indicar uma justificativa e enviar o comprovante da justificativa. No momento em que o funcionário acusar o recebimento do pedido, reforçar ao aluno que ele somente poderá participar da cerimônia antecipada se todas as pendências (notas, equivalências, etc) estiverem sanadas até 2 dias antes da cerimônia. O aluno é responsável por verificar se conseguirá cumprir esse prazo, principalmente se tiver ficado de recuperação de alguma disciplina.\n- Assim que o aluno enviar o requerimento e a justificativa, conferir a justificativa e se o aluno está na lista dos prováveis formandos.\n- Salvar os documentos na pasta compartilhada svgrad - Colação de Grau - (ano / sem)\n- Assim que terminar o prazo para as solicitações, reunir todos os pedidos e encaminhar para análise da Direção.\n- Reservar a sala de reuniões da Direção ou da Congregação, dependendo do número de alunos\n- Pedir para a secretária do curso verificar se o aluno já cumpriu tudo que faltava, encerrar o programa e gerar o histórico conforme as orientações acima.\n- Enviar e-mail aos alunos que solicitaram a colação antecipada com orientações sobre a cerimônia (local, horário, convidados, roupa), pedir para um deles fazer o juramento, pedir para indicarem se irão participar ou não simbolicamente da colação de grau geral. Ver e-mail enviado do grad@ com o assunto \"Orientações sobre a colação antecipada\"\n- Enviar e-mail para os coordenadores dos cursos envolvidos convidando para a colação\n- Fazer o termo de colação e imprimir - (ver modelo da colação anterior na pasta compartilhada svgrad - Colação). Durante a colação, os alunos serão chamados para assinarem o documento. No final da cerimônia, a assistente fica responsável por coletar as assinaturas do diretor e docentes presentes.\n- Fazer o cerimonial curto e enviar por e-mail à Direção e à Assistência Acadêmica (ver modelo da colação anterior na pasta compartilhada svgrad - Colação). Somente o diretor é que fará a leitura do cerimonial.\n- No dia da colação de grau levar o termo de colação, o juramento e o cerimonial, explicar aos presentes como será a cerimônia, deixar o discurso com o aluno que o proferirá. Pedir que os alunos sentem nas fileiras em frente à mesa da Direção e que os familiares e amigos se acomodem e desliguem o som dos celulares\n- Caso haja participação remota:\n\n[Página 13]\n- providenciar um termo de colação individual para o aluno, enviar para assinatura dele pelo USP Assina, pedir que ele assine, imprimir e levar no dia da colação para assinatura da assistente e do diretor\n- orientar o aluno e familiares para deixarem o som desligado durante a cerimônia. O aluno deve ligar o som no momento do juramento.\n- pedir o auxílio da STI, se for o caso, para realizar a conexão dos aparelhos de som e imagem da sala\n- Após a colação, enviar o histórico final por e-mail. Ver e-mail enviado do grad@ com o assunto \"Certificado de conclusão do curso\" e solicitar o diploma, conforme orientações disponibilizadas no item Diploma",
+      "qa_pairs": [
+        {
+          "question": "O que o aluno deve fazer para solicitar a colação de grau antecipada?",
+          "answer": "O aluno precisa preencher o requerimento, indicar uma justificativa e enviar o comprovante da justificativa.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual é a condição necessária para que o aluno participe da cerimônia antecipada?",
+          "answer": "O aluno somente poderá participar se todas as pendências, como notas e equivalências, estiverem sanadas até 2 dias antes da cerimônia.",
+          "source_page": 12
+        },
+        {
+          "question": "De quem é a responsabilidade de verificar se o prazo de sanar pendências será cumprido, especialmente em casos de recuperação?",
+          "answer": "A responsabilidade é do próprio aluno.",
+          "source_page": 12
+        },
+        {
+          "question": "Quem analisa os pedidos de colação de grau antecipada após o término do prazo de solicitação?",
+          "answer": "Os pedidos são reunidos e encaminhados para análise da Direção.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais orientações são enviadas aos alunos que solicitaram a colação antecipada?",
+          "answer": "São enviadas orientações sobre o local, horário, convidados e roupa da cerimônia, além do pedido para indicarem se participarão ou não simbolicamente da colação de grau geral.",
+          "source_page": 12
+        },
+        {
+          "question": "Como funciona a assinatura do termo de colação durante a cerimônia?",
+          "answer": "Os alunos são chamados para assinar o documento durante a colação e, ao final da cerimônia, a assistente coleta as assinaturas do diretor e dos docentes presentes.",
+          "source_page": 12
+        },
+        {
+          "question": "Quem é responsável pela leitura do cerimonial na cerimônia de colação?",
+          "answer": "Somente o diretor fará a leitura do cerimonial.",
+          "source_page": 12
+        },
+        {
+          "question": "Como deve ser procedida a assinatura do termo de colação para alunos que participam remotamente?",
+          "answer": "Deve ser providenciado um termo de colação individual, enviado para assinatura do aluno via USP Assina, impresso e levado no dia da colação para assinatura da assistente e do diretor.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual a orientação para alunos e familiares em relação ao som durante a cerimônia remota?",
+          "answer": "Devem deixar o som desligado durante a cerimônia, devendo o aluno ligar o som apenas no momento do juramento.",
+          "source_page": 13
+        },
+        {
+          "question": "O que acontece após a realização da colação de grau?",
+          "answer": "O histórico final é enviado por e-mail ao aluno e é solicitada a emissão do diploma, conforme as orientações do item Diploma.",
+          "source_page": 13
+        }
+      ]
+    }
+  ]
+}

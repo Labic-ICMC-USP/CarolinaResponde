@@ -1,0 +1,126 @@
+{
+  "doc_name": "Emissão de documentos",
+  "source_path": "data\\Manual SVGRAD\\Emissão de documentos.docx",
+  "chunks": [
+    {
+      "chunk_id": "Emissão de documentos__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Emissão de documentos\n\n## Legislação:\n\nPORTARIA GR Nº 3688/2006 - Delegação competência para assinatura dos históricos\n\nPORTARIA GR Nº 7661/2021 - Uso de assinaturas eletrônicas e USP Assina\n\n- Os docentes possuem acesso à emissão de alguns documentos pelo Júpiter. Por essa razão, sempre que pedirem relatórios de carga didática e de projetos que já tiveram, por exemplo, a orientação é que eles mesmos emitam os documentos diretamente pelo Júpiter.\n- Os alunos possuem acesso à emissão de alguns documentos pelo Júpiter.\n\n·\n\n<!-- image -->\n\n[Página 2]\n<!-- image -->\n\n- O Serviço de Graduação emite:\n- demais documentos, a pedido do aluno, como declarações mais completas do aquelas em português e/ou inglês em word ou diretamente pelo Júpiter (há campos em que podemos colocar observações), declaração de previsão de conclusão do curso, de provável formando, de participação na colação de grau, etc.\n- históricos de alunos desligados e de egressos. (O histórico é emitido com os campos de assinatura somente se o aluno deixar explícito que precisa delas.)\n- tradução simples do diploma para o inglês. (Pedir para o aluno enviar a versão digitalizada do diploma)\n\n## Observações:\n\n- caso algum egresso mais antigo solicite o histórico e não conste no Júpiter, será necessário solicitar à PRG que efetue a migração dos dados dele do antigo sistema Quiron para o Júpiter. Após a migração, o svgrad",
+      "qa_pairs": [
+        {
+          "question": "Como os docentes podem obter relatórios de carga didática e de projetos?",
+          "answer": "Os docentes devem emitir esses documentos diretamente pelo sistema Júpiter, pois possuem acesso à emissão de alguns documentos por meio dele.",
+          "source_page": 1
+        },
+        {
+          "question": "Os alunos podem emitir documentos pelo sistema Júpiter?",
+          "answer": "Sim, os alunos possuem acesso à emissão de alguns documentos através do Júpiter.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais legislações regem a assinatura de históricos e o uso de assinaturas eletrônicas?",
+          "answer": "A assinatura de históricos é regida pela PORTARIA GR Nº 3688/2006 e o uso de assinaturas eletrônicas e do USP Assina pela PORTARIA GR Nº 7661/2021.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais tipos de declarações o Serviço de Graduação pode emitir a pedido do aluno?",
+          "answer": "O Serviço de Graduação emite declarações mais completas (em português e/ou inglês), declaração de previsão de conclusão do curso, de provável formando e de participação na colação de grau, entre outras.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem é responsável pela emissão de históricos de alunos desligados e de egressos?",
+          "answer": "A emissão de históricos de alunos desligados e de egressos é realizada pelo Serviço de Graduação.",
+          "source_page": 2
+        },
+        {
+          "question": "Em que condição o histórico de um egresso ou aluno desligado é emitido com campos de assinatura?",
+          "answer": "O histórico é emitido com os campos de assinatura somente se o aluno deixar explícito que precisa delas.",
+          "source_page": 2
+        },
+        {
+          "question": "O Serviço de Graduação realiza tradução de diploma?",
+          "answer": "Sim, o Serviço de Graduação realiza a tradução simples do diploma para o inglês, sendo necessário que o aluno envie a versão digitalizada do documento.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito se o histórico de um egresso antigo não constar no sistema Júpiter?",
+          "answer": "Será necessário solicitar à PRG que efetue a migração dos dados do egresso do antigo sistema Quiron para o Júpiter.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde podem ser inseridas observações em declarações emitidas pelo Júpiter?",
+          "answer": "Existem campos específicos no sistema Júpiter onde podem ser colocadas observações nas declarações.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a orientação para docentes que solicitam relatórios de projetos que já coordenaram ou participaram?",
+          "answer": "A orientação é que os próprios docentes emitam esses documentos diretamente pelo sistema Júpiter.",
+          "source_page": 1
+        }
+      ]
+    },
+    {
+      "chunk_id": "Emissão de documentos__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n<!-- image -->\n\n- O Serviço de Graduação emite:\n- demais documentos, a pedido do aluno, como declarações mais completas do aquelas em português e/ou inglês em word ou diretamente pelo Júpiter (há campos em que podemos colocar observações), declaração de previsão de conclusão do curso, de provável formando, de participação na colação de grau, etc.\n- históricos de alunos desligados e de egressos. (O histórico é emitido com os campos de assinatura somente se o aluno deixar explícito que precisa delas.)\n- tradução simples do diploma para o inglês. (Pedir para o aluno enviar a versão digitalizada do diploma)\n\n## Observações:\n\n- caso algum egresso mais antigo solicite o histórico e não conste no Júpiter, será necessário solicitar à PRG que efetue a migração dos dados dele do antigo sistema Quiron para o Júpiter. Após a migração, o svgrad\n\n[Página 3]\nprecisará cadastrar as datas de colação de grau e expedição de diploma para encerrar o vínculo e possibilitar a geração do histórico. Essas datas podem ser consultadas na pasta compartilhada svgrad - Diploma - Diplomas escaneados\n\n- o atestado de matrícula só é gerado se o aluno estiver matriculado em disciplinas e depois que terminar o período de matrícula. Antes disso, só é possível gerar o atestado de aluno\n- as declarações podem ser assinadas diretamente pelo funcionário que a emitiu via USP Assina\n- somente o interessado pode solicitar documentos que lhe dizem respeito\n- documentos impressos só podem ser retirados por terceiros com procuração\n- o histórico escolar do aluno não deve ser fornecido a docentes ou outros funcionários. O interessado no histórico deve solicitar diretamente ao aluno\n- o SvGrad não atesta a frequência de alunos. Isso somente pode ser feito pelos docentes.\n- quando algum aluno pede para carimbar algum tipo de documento que atesta frequência, devemos orientar que ele solicite diretamente ao docente ou então que peça ao docente para enviar e-mail para a graduação informando que o aluno está comparecendo nas aulas. (não precisa pedir para todos os docentes das disciplinas em que está matriculado, pode ser apenas para um). Daí o svgrad poderá carimbar o documento\n- quando o aluno pedir para carimbar o formulário de carteira de ônibus, pedir para ele preencher os dados pessoais e deixar no setor para a conferência. o SvGrad deverá verificar se o aluno está com programa ativo, bater o carimbo com as informações do curso e do ICMC e assinar nos campos necessários. Mesmo que esteja indicado Diretor no campo, pode ser o carimbo e assinatura do funcionário do setor",
+      "qa_pairs": [
+        {
+          "question": "Quais documentos o Serviço de Graduação pode emitir a pedido do aluno?",
+          "answer": "O Serviço de Graduação emite declarações completas (em português e/ou inglês), declaração de previsão de conclusão do curso, declaração de provável formando e declaração de participação na colação de grau, entre outros.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona a emissão de históricos para alunos desligados e egressos?",
+          "answer": "O Serviço de Graduação emite esses históricos, sendo que os campos de assinatura são incluídos apenas se o aluno deixar explícito que precisa deles.",
+          "source_page": 2
+        },
+        {
+          "question": "O ICMC fornece tradução de diploma?",
+          "answer": "Sim, o Serviço de Graduação realiza a tradução simples do diploma para o inglês, sendo necessário que o aluno envie a versão digitalizada do documento.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito se o histórico de um egresso antigo não constar no sistema Júpiter?",
+          "answer": "É necessário solicitar à PRG a migração dos dados do antigo sistema Quiron para o Júpiter. Após a migração, o svgrad deve cadastrar as datas de colação de grau e expedição de diploma para encerrar o vínculo e permitir a geração do histórico.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a diferença entre a emissão do atestado de matrícula e o atestado de aluno?",
+          "answer": "O atestado de matrícula só é gerado se o aluno estiver matriculado em disciplinas e após o término do período de matrícula; antes disso, apenas o atestado de aluno pode ser gerado.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem pode solicitar documentos acadêmicos e como funciona a retirada de documentos impressos?",
+          "answer": "Somente o interessado pode solicitar documentos que lhe dizem respeito. Documentos impressos só podem ser retirados por terceiros mediante a apresentação de procuração.",
+          "source_page": 3
+        },
+        {
+          "question": "Professores ou funcionários podem solicitar o histórico escolar de um aluno?",
+          "answer": "Não, o histórico escolar do aluno não deve ser fornecido a docentes ou outros funcionários; o interessado no documento deve solicitá-lo diretamente ao aluno.",
+          "source_page": 3
+        },
+        {
+          "question": "O Serviço de Graduação (SvGrad) pode atestar a frequência de alunos?",
+          "answer": "Não, o SvGrad não atesta a frequência de alunos; essa atribuição é exclusiva dos docentes.",
+          "source_page": 3
+        },
+        {
+          "question": "Como proceder para carimbar um documento que atesta a frequência do aluno?",
+          "answer": "O aluno deve solicitar o atestado diretamente ao docente ou pedir que o docente envie um e-mail para a graduação informando a frequência (pode ser apenas um docente de qualquer disciplina em que esteja matriculado). Com isso, o svgrad poderá carimbar o documento.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual o procedimento para carimbar o formulário de carteira de ônibus?",
+          "answer": "O aluno deve preencher os dados pessoais e deixar o formulário no setor para conferência. O SvGrad verificará se o programa do aluno está ativo, aplicará o carimbo com as informações do curso e do ICMC e assinará os campos necessários (mesmo que o campo indique 'Diretor', a assinatura do funcionário do setor é válida).",
+          "source_page": 3
+        }
+      ]
+    }
+  ]
+}

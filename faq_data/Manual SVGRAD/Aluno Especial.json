@@ -1,0 +1,246 @@
+{
+  "doc_name": "Aluno Especial",
+  "source_path": "data\\Manual SVGRAD\\Aluno Especial.docx",
+  "chunks": [
+    {
+      "chunk_id": "Aluno Especial__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Aluno Especial\n\n## Legislação:\n\n- Resolução CoG 3757/1990\n- Poderá ser concedida matrícula em disciplinas de graduação do ICMC-USP na condição de Estudante Especial, havendo vagas disponíveis após a matrícula dos alunos regulares da USP.\n- A data da inscrição do aluno é definida no calendário da PRG e é feita via formulário disponibilizado na página da graduação.\n- Atualizar a página semestralmente com as datas de inscrição e o link do formulário.\n- Conforme decisão da Comissão de Graduação (CG) para a inscrição será aceito o pedido de inscrição em até duas disciplinas por interessado em cada semestre letivo e não serão disponibilizadas para inscrição disciplinas do 1º ano de cada curso.\n- Caso haja vaga, o aluno será matriculado exclusivamente na turma inscrita. Não serão analisados pedidos de reconsideração ou troca de turma.\n- Além dos campos para preenchimento dos dados pessoais e das disciplinas, o formulário de inscrição deve conter campos obrigatórios para anexação dos seguintes documentos: Cópia simples do RG; Cópia simples do certificado de conclusão do segundo grau/ensino médio; Cópia do histórico escolar com reprovações (histórico sujo);\n- Após o término das inscrições, é feita a conferência dos documentos dos inscritos e verificação das disciplinas em que houve inscrição (se é de 1º ano dos cursos e se a turma está lotada).\n- NÃO É MAIS NECESSÁRIO CONSULTAR OS DOCENTES. O presidente da CG concordou que a matrícula poderá ser realizada sem a consulta, se houver vaga.\n- Se estiver tudo certo, verificar se o aluno possui cadastro em Júpiter Aluno - Consultas - Dados pessoais. Se tiver, anota o NUSP para fazer a matrícula. Se não tiver, clica em Incluir nova pessoa e preenche os dados.\n\n[Página 2]\n<!-- image -->\n\n- Em seguida, cadastrar vagas específicas para aluno especial nas turmas das disciplinas requeridas em Júpiter - Turmas &gt; Informações da Turma, preenche o código e o número da turma e escolhe a versão vigente.\n\n·\n\n<!-- image -->\n\n- clicar no ícone \"editar\" e cadastra a vaga no campo \"especiais\" e salva\n\n·\n\n<!-- image -->\n\n- Efetuar a matrícula dos alunos nas disciplinas em Júpiter - Administrativo &gt; Inscrição de Alunos Especiais . Informar a disciplina, clicar em buscar.",
+      "qa_pairs": [
+        {
+          "question": "Quem pode se matricular em disciplinas de graduação do ICMC-USP como aluno especial?",
+          "answer": "A matrícula na condição de Estudante Especial pode ser concedida desde que haja vagas disponíveis após a matrícula dos alunos regulares da USP.",
+          "source_page": 1
+        },
+        {
+          "question": "Como e onde é feita a inscrição para aluno especial?",
+          "answer": "A inscrição é feita via formulário disponibilizado na página da graduação, seguindo a data definida no calendário da PRG.",
+          "source_page": 1
+        },
+        {
+          "question": "Existe um limite de disciplinas que um aluno especial pode cursar por semestre?",
+          "answer": "Sim, conforme decisão da Comissão de Graduação (CG), é aceito o pedido de inscrição em até duas disciplinas por interessado em cada semestre letivo.",
+          "source_page": 1
+        },
+        {
+          "question": "Alunos especiais podem se inscrever em disciplinas do primeiro ano dos cursos?",
+          "answer": "Não, disciplinas do 1º ano de cada curso não serão disponibilizadas para inscrição de alunos especiais.",
+          "source_page": 1
+        },
+        {
+          "question": "É possível solicitar a troca de turma ou pedir reconsideração após a matrícula do aluno especial?",
+          "answer": "Não, caso haja vaga, o aluno será matriculado exclusivamente na turma inscrita, e não serão analisados pedidos de reconsideração ou troca de turma.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais documentos devem ser anexados ao formulário de inscrição do aluno especial?",
+          "answer": "Devem ser anexadas cópias simples do RG, do certificado de conclusão do segundo grau/ensino médio e do histórico escolar com reprovações (histórico sujo).",
+          "source_page": 1
+        },
+        {
+          "question": "É necessária a consulta aos docentes para a matrícula de aluno especial?",
+          "answer": "Não é mais necessário consultar os docentes; a matrícula poderá ser realizada sem a consulta, desde que haja vaga, conforme concordado pelo presidente da CG.",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve ser feito se o aluno especial não possuir cadastro no Júpiter Aluno?",
+          "answer": "Deve-se clicar em 'Incluir nova pessoa' e preencher os dados necessários para criar o cadastro.",
+          "source_page": 1
+        },
+        {
+          "question": "Como são cadastradas as vagas para alunos especiais no sistema Júpiter?",
+          "answer": "As vagas são cadastradas em Júpiter - Turmas > Informações da Turma, onde se informa o código e o número da turma, escolhe-se a versão vigente, clica-se no ícone 'editar' e preenche-se o campo 'especiais'.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para efetuar a matrícula dos alunos especiais?",
+          "answer": "A matrícula é efetuada em Júpiter - Administrativo > Inscrição de Alunos Especiais, informando a disciplina e clicando em buscar.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Aluno Especial__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n<!-- image -->\n\n- Em seguida, cadastrar vagas específicas para aluno especial nas turmas das disciplinas requeridas em Júpiter - Turmas &gt; Informações da Turma, preenche o código e o número da turma e escolhe a versão vigente.\n\n·\n\n<!-- image -->\n\n- clicar no ícone \"editar\" e cadastra a vaga no campo \"especiais\" e salva\n\n·\n\n<!-- image -->\n\n- Efetuar a matrícula dos alunos nas disciplinas em Júpiter - Administrativo &gt; Inscrição de Alunos Especiais . Informar a disciplina, clicar em buscar.\n\n[Página 3]\n·\n\n- Em seguida clicar em Incluir\n\n·\n\n<!-- image -->\n\n- -- incluir a turma específica e salvar.\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como cadastrar vagas para aluno especial nas turmas de disciplinas no Júpiter?",
+          "answer": "O cadastro deve ser feito em Júpiter, acessando o caminho Turmas > Informações da Turma, onde se deve preencher o código e o número da turma e escolher a versão vigente.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde especificamente devo inserir a quantidade de vagas para alunos especiais?",
+          "answer": "Deve-se clicar no ícone 'editar' e cadastrar a vaga no campo 'especiais', salvando a alteração em seguida.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para efetuar a matrícula de alunos especiais?",
+          "answer": "A matrícula deve ser efetuada em Júpiter, seguindo o caminho Administrativo > Inscrição de Alunos Especiais.",
+          "source_page": 2
+        },
+        {
+          "question": "Como localizar a disciplina para a matrícula de um aluno especial no Júpiter?",
+          "answer": "No menu de Inscrição de Alunos Especiais, deve-se informar a disciplina e clicar em buscar.",
+          "source_page": 2
+        },
+        {
+          "question": "Após buscar a disciplina para a matrícula do aluno especial, qual o próximo passo?",
+          "answer": "O próximo passo é clicar em 'Incluir'.",
+          "source_page": 3
+        },
+        {
+          "question": "Como finalizar a inclusão de um aluno especial em uma turma específica?",
+          "answer": "Deve-se incluir a turma específica e salvar.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais informações são necessárias para acessar as Informações da Turma no Júpiter?",
+          "answer": "É necessário preencher o código e o número da turma, além de escolher a versão vigente.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito após clicar no ícone 'editar' no cadastro de vagas?",
+          "answer": "Deve-se cadastrar a vaga no campo 'especiais' e salvar.",
+          "source_page": 2
+        },
+        {
+          "question": "Em qual seção do Júpiter é feita a gestão de inscrições de alunos especiais?",
+          "answer": "Na seção Administrativo > Inscrição de Alunos Especiais.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a sequência de ações para matricular um aluno especial após clicar em 'Incluir'?",
+          "answer": "A sequência é incluir a turma específica e salvar.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Aluno Especial__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n·\n\n- Em seguida clicar em Incluir\n\n·\n\n<!-- image -->\n\n- -- incluir a turma específica e salvar.\n\n<!-- image -->\n\n[Página 4]\n·\n\n<!-- image -->\n\n- Clicar na linha correspondente da turma, depois na aba Inscritos e em seguida em Incluir, preenche o NUSP do aluno e seleciona o tipo Especial e salva\n\n·\n\n<!-- image -->\n\n- depois seleciona o aluno e cadastra o parecer favorável.\n\n·\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como faço para incluir uma turma específica no sistema?",
+          "answer": "Para incluir uma turma específica, deve-se clicar em 'Incluir', inserir a turma desejada e salvar.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o procedimento para inscrever um aluno de tipo 'Especial' em uma turma?",
+          "answer": "Deve-se clicar na linha correspondente da turma, acessar a aba 'Inscritos', clicar em 'Incluir', preencher o NUSP do aluno, selecionar o tipo 'Especial' e salvar.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser feito após cadastrar um aluno do tipo 'Especial' na turma?",
+          "answer": "Após a inscrição, deve-se selecionar o aluno e cadastrar o parecer favorável.",
+          "source_page": 4
+        },
+        {
+          "question": "Onde encontro a opção para incluir alunos em uma turma já existente?",
+          "answer": "A opção de inclusão de alunos encontra-se na aba 'Inscritos', após selecionar a linha correspondente da turma.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais informações são necessárias para inscrever um aluno na aba de Inscritos?",
+          "answer": "É necessário preencher o NUSP do aluno e selecionar o tipo de inscrição (como, por exemplo, o tipo 'Especial').",
+          "source_page": 4
+        },
+        {
+          "question": "Como finalizo a inclusão de uma turma no sistema?",
+          "answer": "A inclusão é finalizada clicando em 'Incluir', inserindo a turma específica e clicando em salvar.",
+          "source_page": 3
+        },
+        {
+          "question": "Como faço para registrar o parecer favorável de um aluno?",
+          "answer": "O parecer favorável é cadastrado selecionando o aluno previamente inscrito na turma.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o caminho para acessar a lista de inscritos de uma turma?",
+          "answer": "O usuário deve clicar na linha correspondente da turma e, em seguida, clicar na aba 'Inscritos'.",
+          "source_page": 4
+        },
+        {
+          "question": "É possível inscrever alunos com a categoria 'Especial'?",
+          "answer": "Sim, ao incluir um aluno na aba 'Inscritos', é possível selecionar o tipo 'Especial'.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a sequência de cliques para adicionar um novo aluno a uma turma?",
+          "answer": "A sequência é: clicar na linha da turma -> aba 'Inscritos' -> 'Incluir' -> preencher NUSP -> selecionar tipo -> salvar.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Aluno Especial__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n·\n\n<!-- image -->\n\n- Clicar na linha correspondente da turma, depois na aba Inscritos e em seguida em Incluir, preenche o NUSP do aluno e seleciona o tipo Especial e salva\n\n·\n\n<!-- image -->\n\n- depois seleciona o aluno e cadastra o parecer favorável.\n\n·\n\n<!-- image -->\n\n[Página 5]\n- Emitir o atestado de matrícula em Júpiter - Aluno &gt; Consultas &gt; Atestado de Matrícula (Aluno Especial e Intercâmbio de Graduação) e enviar por e-mail ao aluno juntamente com as orientações sobre início das aulas, local, acesso ao ICMC e ao sistema Júpiter (ver e-mail enviado do grad@ com o assunto \"Matrícula - Estudante Especial\")\n- Enviar e-mail aos demais inscritos que tiveram a solicitação indeferida para para informar resultado da solicitação\n- Enviar a relação dos alunos com inscrição deferida ao Apoio Administrativo para liberação de QR Code para acesso aos prédios do ICMC.\n- Emitir o histórico no final do semestre e enviar por e-mail quando o aluno solicitar.",
+      "qa_pairs": [
+        {
+          "question": "Como incluir um aluno especial em uma turma?",
+          "answer": "Deve-se clicar na linha correspondente da turma, acessar a aba 'Inscritos', clicar em 'Incluir', preencher o NUSP do aluno, selecionar o tipo 'Especial' e salvar.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser feito após incluir o aluno especial no sistema?",
+          "answer": "Após a inclusão, deve-se selecionar o aluno e cadastrar o parecer favorável.",
+          "source_page": 4
+        },
+        {
+          "question": "Como emitir o atestado de matrícula para Aluno Especial e Intercâmbio de Graduação?",
+          "answer": "O atestado deve ser emitido no sistema Júpiter, seguindo o caminho: Aluno > Consultas > Atestado de Matrícula (Aluno Especial e Intercâmbio de Graduação).",
+          "source_page": 5
+        },
+        {
+          "question": "Quais informações devem ser enviadas ao aluno junto com o atestado de matrícula?",
+          "answer": "Devem ser enviadas orientações sobre o início das aulas, local, acesso ao ICMC e ao sistema Júpiter, conforme o modelo de e-mail enviado pelo grad@ com o assunto 'Matrícula - Estudante Especial'.",
+          "source_page": 5
+        },
+        {
+          "question": "Como proceder com os inscritos que tiveram a solicitação indeferida?",
+          "answer": "Deve-se enviar um e-mail aos demais inscritos informando o resultado do indeferimento da solicitação.",
+          "source_page": 5
+        },
+        {
+          "question": "Como é feita a liberação do acesso aos prédios do ICMC para alunos com inscrição deferida?",
+          "answer": "A relação dos alunos com inscrição deferida deve ser enviada ao Apoio Administrativo para a liberação do QR Code de acesso.",
+          "source_page": 5
+        },
+        {
+          "question": "Quando e como o aluno especial recebe seu histórico escolar?",
+          "answer": "O histórico é emitido ao final do semestre e enviado por e-mail quando o aluno solicitar.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o caminho no Júpiter para consultar o atestado de matrícula de intercâmbio?",
+          "answer": "O caminho é Aluno > Consultas > Atestado de Matrícula (Aluno Especial e Intercâmbio de Graduação).",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o procedimento para registrar a aprovação de um aluno especial na turma?",
+          "answer": "Após a inclusão do aluno na aba de inscritos, é necessário selecioná-lo e cadastrar o parecer favorável.",
+          "source_page": 4
+        },
+        {
+          "question": "Quem é responsável por liberar o QR Code de acesso aos prédios do ICMC?",
+          "answer": "O Apoio Administrativo é o responsável pela liberação do QR Code após receber a relação de alunos com inscrição deferida.",
+          "source_page": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "doc_name": "Desistência definitiva do curso",
+  "source_path": "data\\Manual SVGRAD\\Desistência definitiva do curso.docx",
+  "chunks": [
+    {
+      "chunk_id": "Desistência definitiva do curso__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Desistência definitiva do curso\n\n- Para solicitar o desligamento definitivo do curso, o aluno deve acessar o Sistema Júpiter, menu Aluno&gt; Requerimento&gt; Desistência Definitiva do Curso\n- Uma vez processado o desligamento, não será possível solicitar o cancelamento do pedido\n- No início do ano, é comum pedidos de desligamento de ingressantes que fizeram matrícula nos cursos do ICMC e que são chamados para matrícula em outro curso da USP (1) ou em outra Universidade (2). Nestes casos, a PRG orienta que a graduação não processe os pedidos, se ainda estiver ocorrendo chamadas na USP. A própria PRG tem lidado com esses pedidos para melhor controlar as vagas e as chamadas. No caso 1, o aluno nem precisa solicitar o desligamento, pois quando ele faz a matrícula no outro curso da USP, o vínculo atual é encerrado automaticamente.\n- O Júpiter encaminha mensagem automática para o grad@icmc.usp.br quando um aluno cadastra pedido de desistência do curso\n- Quando o e-mail chegar, verificar no Júpiter de qual curso é o aluno em Aluno &gt; Requerimento &gt; Desistência definitiva do curso - listar os pedidos na situação \"em análise\"\n- Colocar o chamado na fila da OTRS do curso do aluno para a secretária verificar o motivo, deferir e depois colocar como comunicação na reunião CoC\n- Não é necessário consultar o aluno ou o coordenador do curso para deferir o pedido, mas se notarem algo estranho na justificativa, antes de deferir conversem com a chefia, pois já tivemos casos de alunos relatando situações específicas um pouco mais sérias que acabaram sendo tratadas pela presidência da CG\n- Se estiver tudo ok, é só clicar em deferir\n\n<!-- image -->\n\n[Página 2]\n·\n\n<!-- image -->\n\n- Se tiver que indeferir o pedido, é só clicar em indeferir e preencher o campo do parecer com a justificativa (Ex: o aluno desistiu do desligamento após reunião com o presidente da CG)\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como faço para solicitar o desligamento definitivo do curso?",
+          "answer": "O aluno deve acessar o Sistema Júpiter e seguir o caminho: menu Aluno > Requerimento > Desistência Definitiva do Curso.",
+          "source_page": 1
+        },
+        {
+          "question": "É possível cancelar um pedido de desligamento definitivo após ele ter sido processado?",
+          "answer": "Não, uma vez que o desligamento seja processado, não será possível solicitar o cancelamento do pedido.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece se um aluno ingressante no ICMC for chamado para outro curso da USP?",
+          "answer": "Nesse caso, o aluno nem precisa solicitar o desligamento, pois o vínculo atual é encerrado automaticamente ao realizar a matrícula no outro curso da USP.",
+          "source_page": 1
+        },
+        {
+          "question": "Como a secretaria do ICMC é notificada sobre um pedido de desistência de curso?",
+          "answer": "O Sistema Júpiter encaminha uma mensagem automática para o e-mail grad@icmc.usp.br quando um aluno cadastra o pedido.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde a secretaria pode verificar a lista de pedidos de desistência que estão 'em análise' no Júpiter?",
+          "answer": "A verificação deve ser feita no caminho: Aluno > Requerimento > Desistência definitiva do curso.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é o procedimento administrativo após a chegada do e-mail de desistência?",
+          "answer": "O chamado deve ser colocado na fila da OTRS do curso do aluno para que a secretária verifique o motivo, defira o pedido e, posteriormente, o registre como comunicação na reunião da CoC.",
+          "source_page": 1
+        },
+        {
+          "question": "É necessário consultar o aluno ou o coordenador do curso para deferir um pedido de desistência?",
+          "answer": "Não é necessário, mas caso seja notada algo estranho na justificativa, a chefia deve ser consultada antes do deferimento.",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve ser feito se a justificativa de desistência de um aluno relatar situações sérias?",
+          "answer": "Essas situações devem ser tratadas pela presidência da CG.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser procedido o indeferimento de um pedido de desligamento?",
+          "answer": "Deve-se clicar em indeferir e preencher o campo do parecer com a justificativa do indeferimento.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a orientação da PRG para pedidos de desligamento de ingressantes que buscam outra universidade no início do ano?",
+          "answer": "A PRG orienta que a graduação não processe esses pedidos enquanto ainda estiverem ocorrendo chamadas na USP, pois a própria PRG lida com esses pedidos para melhor controlar as vagas e chamadas.",
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}

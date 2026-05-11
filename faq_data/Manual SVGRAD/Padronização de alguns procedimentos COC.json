@@ -1,0 +1,66 @@
+{
+  "doc_name": "Padronização de alguns procedimentos COC",
+  "source_path": "data\\Manual SVGRAD\\Padronização de alguns procedimentos COC.docx",
+  "chunks": [
+    {
+      "chunk_id": "Padronização de alguns procedimentos COC__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Padronização de alguns procedimentos - CoCs\n\n1. Utilização apenas dos e-mails secxx@ e do coordxx@ (mesmo que o assunto tenha sido iniciado no grad@)\n2. Agendamento de 3 reuniões por semestre\n\nSugestão: a secretária pode sugerir as 3 melhores datas ao coordenador, de acordo com o calendário dos assuntos que precisam ser tratados.\n\n## Por exemplo:\n\n- 1ª reunião: análise das matrículas em menos de 12 créditos-aula e sem requisitos e outros assuntos\n- 2ª reunião: análise dos relatórios de plano de término e outros assuntos\n- 3ª reunião: análise dos planos de término e outros assuntos.\n3. Inserir a reunião da agenda do secxx@, convidar todos os membros e o grad@ apenas para todos terem conhecimento das agendas de reuniões\n4. Pedir café e água para atendimento@icmc.usp.br pelo e-mail secxx@ (não copiar o grad@) com antecedência (não enviar somente depois de soltar a pauta porque pode não ser um tempo suficiente para atendimento pela ATAd)\n5. Solicitar indicação de membros aos deptos pelo e-mail secxx@ com 60 dias de antecedência (secretária faz ofício e chefia assina)\n6. Assuntos a serem encaminhados para a CG, encaminhar apenas para apoiocg@ (sem copiar o camilacarlo@ ou presidentecg@)\n7. Equivalência SEED e requerimentos de matrícula Júpiter: cadastro do despacho diretamente no Júpiter/SEED, sem necessidade de troca de e-mails\n8. Liberar a visualização da pauta aos membros (não liberar a edição, mesmo que o coordenador solicite)\n9. Inserir os itens na pauta diariamente/semanalmente com os respectivos arquivos\n10. Escrever para o coordenador avisando que os itens x,y,z (copiar o texto do item) da pauta precisam da análise da CoC e informar que os documentos estão anexados à pauta. Caso ele peça para encaminhar aos membros, podemos fazer o mesmo tipo de encaminhamento indicando que se trata da análise dos itens x,y, z da pauta, etc\n\n## Observação:\n\n-meros despachos avisando o aluno que 1) um pedido rotineiro foi aprovado/indeferido e 2) que o relatório de plano de término foi deferido podem ser feitos por e-mail.\n\n[Página 2]\n- quando se tratar de 3) indeferimento de relatório de plano de término e 4) deferimento ou indeferimento de plano de término, ainda é necessário fazer ofício informando o aluno da decisão da CoC, conforme os modelos que temos disponíveis.",
+      "qa_pairs": [
+        {
+          "question": "Quais e-mails devem ser utilizados para a comunicação dos CoCs?",
+          "answer": "Devem ser utilizados apenas os e-mails secxx@ e coordxx@, mesmo que o assunto tenha sido iniciado no grad@.",
+          "source_page": 1
+        },
+        {
+          "question": "Quantas reuniões devem ser agendadas por semestre?",
+          "answer": "Devem ser agendadas 3 reuniões por semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são as sugestões de pauta para as três reuniões semestrais?",
+          "answer": "A 1ª reunião deve focar na análise de matrículas em menos de 12 créditos-aula e sem requisitos; a 2ª reunião na análise dos relatórios de plano de término; e a 3ª reunião na análise dos planos de término, além de outros assuntos.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser feito o pedido de café e água para as reuniões?",
+          "answer": "O pedido deve ser feito pelo e-mail secxx@ para o endereço atendimento@icmc.usp.br, com antecedência, sem copiar o grad@.",
+          "source_page": 1
+        },
+        {
+          "question": "Com qual antecedência deve ser solicitada a indicação de membros aos departamentos?",
+          "answer": "A solicitação deve ser feita com 60 dias de antecedência, via e-mail secxx@, através de ofício elaborado pela secretária e assinado pela chefia.",
+          "source_page": 1
+        },
+        {
+          "question": "Para qual e-mail devem ser encaminhados os assuntos destinados à CG?",
+          "answer": "Devem ser encaminhados apenas para apoiocg@, sem copiar camilacarlo@ ou presidentecg@.",
+          "source_page": 1
+        },
+        {
+          "question": "Como deve ser feito o cadastro de equivalência SEED e requerimentos de matrícula Júpiter?",
+          "answer": "O despacho deve ser cadastrado diretamente no Júpiter/SEED, sem a necessidade de troca de e-mails.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a regra de visualização e edição da pauta para os membros?",
+          "answer": "A visualização da pauta deve ser liberada aos membros, porém a edição não deve ser permitida, mesmo que haja solicitação do coordenador.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais despachos para alunos podem ser realizados apenas por e-mail?",
+          "answer": "Podem ser feitos por e-mail os despachos que avisem o aluno sobre a aprovação ou indeferimento de um pedido rotineiro, ou que o relatório de plano de término foi deferido.",
+          "source_page": 1
+        },
+        {
+          "question": "Em quais situações é obrigatório o uso de ofício para informar o aluno sobre a decisão da CoC?",
+          "answer": "É necessário fazer ofício nos casos de indeferimento de relatório de plano de término e de deferimento ou indeferimento de plano de término.",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

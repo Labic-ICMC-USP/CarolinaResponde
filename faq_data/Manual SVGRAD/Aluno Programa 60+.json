@@ -1,0 +1,65 @@
+{
+  "doc_name": "Aluno Programa 60+",
+  "source_path": "data\\Manual SVGRAD\\Aluno Programa 60+.docx",
+  "chunks": [
+    {
+      "chunk_id": "Aluno Programa 60+__c0",
+      "pages": [
+        1
+      ],
+      "chunk_text": "[Página 1]\n## Matrícula dos alunos do Programa 60+\n\n## Informações da PRCEU\n\n- SVAPAC recebe inscrição e consulta o docente e encaminha para o SVGrad\n- SVGrad confere se o aluno já possui dados pessoais cadastrados no Júpiter. Se não tiver, precisa cadastrar para poder fazer a matrícula.\n- Em seguida, cadastrar vagas específicas para aluno especial nas turmas das disciplinas requeridas.\n- Efetuar a matrícula dos alunos nas disciplinas. Administrativo - Inscrição de alunos especiais. Informar a disciplina, código da turma, e escolher o tipo Especial. Em seguida, clicar em Incluir para incluir a turma específica e salvar. Clicar na linha correspondente da turma e clicar na aba inscritos. Clicar em incluir para incluir o aluno, preencher o NUSP e escolher o tipo Especial e depois cadastrar o parecer favorável.\n- Emitir o atestado de matrícula e enviar por e-mail ao SVAPAC. Júpiter Aluno &gt; Consultas &gt; Atestado de Matrícula(Aluno Especial e Intercâmbio de Graduação)\n- No final do semestre, emitir o histórico, a pedido do SVAPAC",
+      "qa_pairs": [
+        {
+          "question": "Qual é o fluxo inicial de inscrição para alunos do Programa 60+?",
+          "answer": "O SVAPAC recebe a inscrição, consulta o docente e encaminha a solicitação para o SVGrad.",
+          "source_page": 1
+        },
+        {
+          "question": "O que o SVGrad deve verificar antes de realizar a matrícula do aluno do Programa 60+?",
+          "answer": "O SVGrad deve conferir se o aluno já possui dados pessoais cadastrados no sistema Júpiter; caso contrário, é necessário realizar o cadastro para viabilizar a matrícula.",
+          "source_page": 1
+        },
+        {
+          "question": "Como devem ser tratadas as vagas nas turmas para alunos do Programa 60+?",
+          "answer": "Devem ser cadastradas vagas específicas para aluno especial nas turmas das disciplinas requeridas.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual o procedimento administrativo para efetuar a matrícula de alunos especiais?",
+          "answer": "Deve-se acessar 'Administrativo - Inscrição de alunos especiais', informar a disciplina e o código da turma, selecionar o tipo 'Especial', clicar em 'Incluir' para a turma específica e salvar.",
+          "source_page": 1
+        },
+        {
+          "question": "Como incluir o aluno na turma após a configuração da disciplina?",
+          "answer": "Deve-se clicar na linha correspondente da turma, acessar a aba 'inscritos', clicar em 'incluir', preencher o NUSP, escolher o tipo 'Especial' e cadastrar o parecer favorável.",
+          "source_page": 1
+        },
+        {
+          "question": "Como é emitido o atestado de matrícula para alunos especiais?",
+          "answer": "O atestado é emitido através do caminho: Júpiter Aluno > Consultas > Atestado de Matrícula (Aluno Especial e Intercâmbio de Graduação).",
+          "source_page": 1
+        },
+        {
+          "question": "Para quem deve ser enviado o atestado de matrícula do aluno do Programa 60+?",
+          "answer": "O atestado de matrícula deve ser enviado por e-mail ao SVAPAC.",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve ser feito ao final do semestre em relação ao histórico do aluno?",
+          "answer": "Ao final do semestre, deve-se emitir o histórico do aluno, mediante pedido do SVAPAC.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a categoria de matrícula utilizada para os alunos do Programa 60+ no sistema?",
+          "answer": "A categoria utilizada é a de 'Especial'.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais informações são necessárias para incluir o aluno na turma no sistema Júpiter?",
+          "answer": "É necessário preencher o NUSP, escolher o tipo 'Especial' e cadastrar o parecer favorável.",
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}

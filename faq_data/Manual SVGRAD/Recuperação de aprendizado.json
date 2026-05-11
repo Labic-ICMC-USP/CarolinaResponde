@@ -1,0 +1,65 @@
+{
+  "doc_name": "Recuperação de aprendizado",
+  "source_path": "data\\Manual SVGRAD\\Recuperação de aprendizado.docx",
+  "chunks": [
+    {
+      "chunk_id": "Recuperação de aprendizado__c0",
+      "pages": [
+        1
+      ],
+      "chunk_text": "[Página 1]\n## Recuperação de aprendizado (em elaboração) Legislação:\n\nResolução CoG Nº 8754/2025\n\nDeliberação CG (a ser apreciada em 6/6/25)",
+      "qa_pairs": [
+        {
+          "question": "Qual a legislação que rege a recuperação de aprendizado?",
+          "answer": "A recuperação de aprendizado é regida pela Resolução CoG Nº 8754/2025.",
+          "source_page": 1
+        },
+        {
+          "question": "Existe alguma deliberação pendente sobre a recuperação de aprendizado?",
+          "answer": "Sim, há uma Deliberação CG prevista para ser apreciada em 6/6/25.",
+          "source_page": 1
+        },
+        {
+          "question": "O regulamento de recuperação de aprendizado já está finalizado?",
+          "answer": "Não, o texto indica que a recuperação de aprendizado está em elaboração.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a resolução do CoG referente à recuperação de aprendizado?",
+          "answer": "A resolução é a Nº 8754/2025.",
+          "source_page": 1
+        },
+        {
+          "question": "Quando será apreciada a Deliberação CG sobre a recuperação de aprendizado?",
+          "answer": "A Deliberação CG será apreciada em 6/6/25.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde encontro a base legal para a recuperação de aprendizado no ICMC?",
+          "answer": "A base legal consiste na Resolução CoG Nº 8754/2025 e em uma Deliberação CG a ser apreciada em 6/6/25.",
+          "source_page": 1
+        },
+        {
+          "question": "A recuperação de aprendizado já possui normas definitivas?",
+          "answer": "O documento indica que o tema ainda está em elaboração, mencionando a Resolução CoG Nº 8754/2025 e uma deliberação futura.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a data prevista para a análise da Deliberação CG sobre recuperação?",
+          "answer": "A data prevista é 6/6/25.",
+          "source_page": 1
+        },
+        {
+          "question": "A Resolução CoG Nº 8754/2025 trata de qual assunto?",
+          "answer": "Trata da recuperação de aprendizado.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais documentos fundamentam a recuperação de aprendizado segundo o texto?",
+          "answer": "A Resolução CoG Nº 8754/2025 e a Deliberação CG (com apreciação prevista para 6/6/25).",
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "doc_name": "Trancamento total do curso (em elaboração pela Marcela)",
+  "source_path": "data\\Manual SVGRAD\\Trancamento total do curso (em elaboração pela Marcela).docx",
+  "chunks": [
+    {
+      "chunk_id": "Trancamento total do curso (em elaboração pela Marcela)__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## mmaia@icmc.usp.br\n\n## Trancamento total do curso\n\n## Legislação:\n\n## Regimento da USP - art 74\n\n## RESOLUÇÃO CoG Nº 3761/1990 - Regulamentação de trancamentos parciais e totais de matrícula\n\nEntende-se por trancamento total de matrícula a interrupção das atividades escolares em todas as disciplinas em que o aluno estiver matriculado no semestre.\n\nO aluno deverá solicitar trancamento total a qualquer época do ano, de cordo com a Resolução CoG Nº 3761, de 17/12/90, devendo preencher o formulário que consta na página de Serviço de Graduação no link https://web.icmc.usp.br/SVGRAD/trancamentototal.pdf.\n\n## Condições para o trancamento:\n\na) Já possuir 24 créditos cursados e aprovados no currículo (sem contar os aproveitamentos de estudos), ressalvados os casos excepcionais, que serão julgados pela CoC do curso do aluno (caso ao aluno não contemple esta regra, a CoC poderá avaliar e aprovar excepcionalmente).\n\nb) não se encontrar reprovado por faltas em disciplinas cuja soma de créditos ultrapasse vinte e cinco por cento do total de créditos de sua matrícula no correspondente período letivo.\n\nobs: é possível saber se o aluno foi/está reprovado ou não por frequência, fazendo a consulta aos docentes responsáveis pelas disciplinas em que o solicitante se encontra matriculado no semestre.\n\n## Após conferência da frequência:\n\nApós a entrega o formulário e conferência se o aluno contempla as condições para o trancamento total:\n\na) Caso não possa ser efetuado o trancamento (tenha sido reprovado por frequência ou tenha tido sua solicitação negada pela CoC, após análise da excepcionalidade), informaremos, via e-mail, ao aluno que não foi possível efetivar o trancamento e ele seguirá com seu programa destrancado.\n\nb) Caso possa ser efetuado o trancamento, seguimos para efetivar o trancamento total no Sistema Júpiter e após cadastro, notificaremos o aluno por e-mail.\n\n- c) Cadastro no sistema Júpiter:\n\ni. Caminho no sistema Júpiter: Menu à esquerda – Aluno - Requerimento – Trancamento. Na tela seguinte, inserir o NUSP do solicitante e selecionar o programa mais recente.\n\n[Página 2]\n<!-- image -->\n\nii. Na tela seguinte clicar no botão incluir, abrirá uma janela para selecionar o tipo de trancamento, a data do cadastramento e clicar em \"salvar\". Caso tenha a necessidade de fazer o trancamento referente ao semestre seguinte, deverá ser",
+      "qa_pairs": [
+        {
+          "question": "O que é considerado trancamento total de matrícula?",
+          "answer": "O trancamento total de matrícula é a interrupção das atividades escolares em todas as disciplinas em que o aluno estiver matriculado no semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "Como devo solicitar o trancamento total do curso?",
+          "answer": "O aluno deve preencher o formulário disponível na página de Serviço de Graduação, através do link https://web.icmc.usp.br/SVGRAD/trancamentototal.pdf.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a quantidade de créditos cursados e aprovados necessária para solicitar o trancamento?",
+          "answer": "O aluno deve possuir 24 créditos cursados e aprovados no currículo, sem contar aproveitamentos de estudos.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece se eu não tiver os 24 créditos necessários para o trancamento?",
+          "answer": "Em casos excepcionais, a CoC do curso do aluno poderá avaliar e aprovar a solicitação de trancamento mesmo que o aluno não contemple a regra dos 24 créditos.",
+          "source_page": 1
+        },
+        {
+          "question": "Existe alguma restrição relacionada a reprovações por faltas para efetuar o trancamento?",
+          "answer": "Sim. O aluno não pode estar reprovado por faltas em disciplinas cuja soma de créditos ultrapasse 25% do total de créditos de sua matrícula no período letivo correspondente.",
+          "source_page": 1
+        },
+        {
+          "question": "Como posso verificar se fui reprovado por frequência em alguma disciplina?",
+          "answer": "O aluno pode realizar a consulta diretamente com os docentes responsáveis pelas disciplinas em que está matriculado no semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "Como serei avisado caso meu pedido de trancamento total seja negado?",
+          "answer": "Caso o trancamento não possa ser efetuado (seja por reprovação por frequência ou negativa da CoC), o aluno será informado via e-mail e seguirá com seu programa destrancado.",
+          "source_page": 1
+        },
+        {
+          "question": "Como serei notificado quando o trancamento total for efetivado?",
+          "answer": "Após a efetivação do trancamento total no Sistema Júpiter, o aluno será notificado por e-mail.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é o caminho para realizar o cadastro de trancamento no Sistema Júpiter?",
+          "answer": "O caminho é: Menu à esquerda – Aluno - Requerimento – Trancamento. Em seguida, deve-se inserir o NUSP do solicitante e selecionar o programa mais recente.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais as etapas finais para salvar o trancamento no Sistema Júpiter?",
+          "answer": "Na tela de requerimento, deve-se clicar no botão 'incluir', selecionar o tipo de trancamento, a data do cadastramento e clicar em 'salvar'.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Trancamento total do curso (em elaboração pela Marcela)__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n<!-- image -->\n\nii. Na tela seguinte clicar no botão incluir, abrirá uma janela para selecionar o tipo de trancamento, a data do cadastramento e clicar em \"salvar\". Caso tenha a necessidade de fazer o trancamento referente ao semestre seguinte, deverá ser\n\n[Página 3]\nselecionada a data futura. Na tela seguinte, clicar no \"sim\" para confirmar a operação selecionada.\n\n<!-- image -->\n\nConfirmc\n\nFoi solicitado 0 Trancamento Total para\n\n00:00:00, com 35 créditos, pelo aluno semestre de 2025\n\nconfrma?\n\nTipo:\n\nJustilicativa:\n\nTrancamcato Total\n\nFol solicitado\n\nTrancan segundo\n\nData de soliatação: 02/07/2025\n\nSim\n\nClose semestre de 2025\n\n2: 02/07/2025\n\nSalvar iii. Na próxima tela, o requerimento criado vai aparecer e deverá clicar sobre ele e depois clicar em \"parecer\". Abrirá uma tela onde poderá ser colocado o resultado, data, justificativa e o n° USP do responsável (usamos sempre o nº USP do Presidente da CG) e clica em salvar.\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como faço para iniciar o processo de trancamento no sistema?",
+          "answer": "Na tela do sistema, deve-se clicar no botão 'incluir', selecionar o tipo de trancamento e a data do cadastramento, e então clicar em 'salvar'.",
+          "source_page": 2
+        },
+        {
+          "question": "O que fazer se eu precisar solicitar o trancamento para o semestre seguinte?",
+          "answer": "Caso seja necessário realizar o trancamento referente ao semestre seguinte, deve ser selecionada uma data futura no momento do cadastramento.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o passo final após selecionar a data e salvar a solicitação de trancamento?",
+          "answer": "Na tela seguinte, o usuário deve clicar em 'sim' para confirmar a operação selecionada.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais informações aparecem na tela de confirmação do Trancamento Total?",
+          "answer": "A tela de confirmação exibe o tipo de trancamento (Trancamento Total), a data de solicitação, o semestre de referência, a quantidade de créditos e a justificativa.",
+          "source_page": 3
+        },
+        {
+          "question": "Como proceder após a criação do requerimento de trancamento?",
+          "answer": "Após a criação, o requerimento aparecerá na tela; o usuário deve clicar sobre ele e, em seguida, clicar em 'parecer'.",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser preenchido na tela de 'parecer' do requerimento?",
+          "answer": "Na tela de parecer, devem ser inseridos o resultado, a data, a justificativa e o número USP do responsável, finalizando com o clique em 'salvar'.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual número USP deve ser utilizado como responsável no parecer do trancamento?",
+          "answer": "Deve-se utilizar sempre o número USP do Presidente da CG.",
+          "source_page": 3
+        },
+        {
+          "question": "É possível inserir uma justificativa no pedido de trancamento?",
+          "answer": "Sim, a tela de confirmação de solicitação de trancamento prevê um campo para a justificativa.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as etapas sequenciais para registrar um trancamento no sistema?",
+          "answer": "As etapas são: clicar em incluir, selecionar tipo e data, salvar, confirmar a operação clicando em 'sim', selecionar o requerimento criado, clicar em 'parecer', preencher os dados do responsável e salvar.",
+          "source_page": 3
+        },
+        {
+          "question": "Onde o usuário confirma a operação de trancamento após a seleção da data?",
+          "answer": "A confirmação é feita clicando no botão 'sim' na tela que sucede a seleção da data e o salvamento inicial.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Trancamento total do curso (em elaboração pela Marcela)__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\nselecionada a data futura. Na tela seguinte, clicar no \"sim\" para confirmar a operação selecionada.\n\n<!-- image -->\n\nConfirmc\n\nFoi solicitado 0 Trancamento Total para\n\n00:00:00, com 35 créditos, pelo aluno semestre de 2025\n\nconfrma?\n\nTipo:\n\nJustilicativa:\n\nTrancamcato Total\n\nFol solicitado\n\nTrancan segundo\n\nData de soliatação: 02/07/2025\n\nSim\n\nClose semestre de 2025\n\n2: 02/07/2025\n\nSalvar iii. Na próxima tela, o requerimento criado vai aparecer e deverá clicar sobre ele e depois clicar em \"parecer\". Abrirá uma tela onde poderá ser colocado o resultado, data, justificativa e o n° USP do responsável (usamos sempre o nº USP do Presidente da CG) e clica em salvar.\n\n<!-- image -->\n\n[Página 4]\n<!-- image -->\n\niv. Conferir no histórico do estudante solicitante se o trancamento foi cadastrado conforme a solicitação feita e enviar um e-mail notificando o solicitante sobre o trancamento.\n\n## Modelo do E-mail:\n\n\"Boa tarde XXXXX,\n\nO trancamento foi realizado, atendendo sua solicitação.\n\nO trancamento é renovado automaticamente a cada semestre. Para retornar ao curso, você deverá entrar em contato com o Serviço de Graduação para solicitar o destrancamento do seu programa.\n\nRecomendamos que faça a solicitação antes de terminar o período de matrícula/requerimento de matrícula do semestre que pretende retornar para que você possa se inscrever nas disciplinas que pretende cursar. Ressaltamos que você pode ficar em trancamento total por até 4 semestres.\n\nEm casos excepcionais, poderá efetuar uma nova solicitação por até mais 2 semestres, totalizando 6 semestres de trancamento. Esta nova solicitação deverá ser encaminhada ao Serviço de Graduação antes do término do 4º semestre de trancamento, pois precisará ser analisada pela CG.\"\n\n- A soma dos períodos de trancamento total de matrícula do aluno não poderá exceder a três anos, nas seguintes condições:",
+      "qa_pairs": [
+        {
+          "question": "Como confirmar a operação de Trancamento Total no sistema?",
+          "answer": "Após selecionar a data futura, o usuário deve clicar em 'sim' na tela seguinte para confirmar a operação.",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser feito após a criação do requerimento de trancamento?",
+          "answer": "Deve-se clicar sobre o requerimento criado e, em seguida, clicar em 'parecer', onde serão inseridos o resultado, a data, a justificativa e o número USP do responsável (geralmente o do Presidente da CG), finalizando com o clique em 'salvar'.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a última etapa para finalizar o processo de trancamento?",
+          "answer": "É necessário conferir no histórico do estudante se o trancamento foi cadastrado corretamente e enviar um e-mail notificando o solicitante.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona a renovação do trancamento?",
+          "answer": "O trancamento é renovado automaticamente a cada semestre.",
+          "source_page": 4
+        },
+        {
+          "question": "O que o aluno deve fazer para retornar ao curso após um trancamento?",
+          "answer": "O aluno deve entrar em contato com o Serviço de Graduação para solicitar o destrancamento do seu programa.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a recomendação de prazo para solicitar o destrancamento?",
+          "answer": "Recomenda-se que a solicitação seja feita antes do término do período de matrícula/requerimento de matrícula do semestre de retorno, para que o aluno possa se inscrever nas disciplinas desejadas.",
+          "source_page": 4
+        },
+        {
+          "question": "Por quanto tempo um aluno pode ficar em trancamento total?",
+          "answer": "O aluno pode ficar em trancamento total por até 4 semestres.",
+          "source_page": 4
+        },
+        {
+          "question": "É possível estender o período de trancamento total além de 4 semestres?",
+          "answer": "Sim, em casos excepcionais, pode-se efetuar uma nova solicitação por até mais 2 semestres, totalizando no máximo 6 semestres de trancamento.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o procedimento para solicitar a extensão do trancamento para até 6 semestres?",
+          "answer": "A nova solicitação deve ser encaminhada ao Serviço de Graduação antes do término do 4º semestre de trancamento, pois precisará de análise pela CG.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o limite máximo de tempo permitido para a soma dos períodos de trancamento total de matrícula?",
+          "answer": "A soma dos períodos de trancamento total de matrícula do aluno não poderá exceder a três anos.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Trancamento total do curso (em elaboração pela Marcela)__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n<!-- image -->\n\niv. Conferir no histórico do estudante solicitante se o trancamento foi cadastrado conforme a solicitação feita e enviar um e-mail notificando o solicitante sobre o trancamento.\n\n## Modelo do E-mail:\n\n\"Boa tarde XXXXX,\n\nO trancamento foi realizado, atendendo sua solicitação.\n\nO trancamento é renovado automaticamente a cada semestre. Para retornar ao curso, você deverá entrar em contato com o Serviço de Graduação para solicitar o destrancamento do seu programa.\n\nRecomendamos que faça a solicitação antes de terminar o período de matrícula/requerimento de matrícula do semestre que pretende retornar para que você possa se inscrever nas disciplinas que pretende cursar. Ressaltamos que você pode ficar em trancamento total por até 4 semestres.\n\nEm casos excepcionais, poderá efetuar uma nova solicitação por até mais 2 semestres, totalizando 6 semestres de trancamento. Esta nova solicitação deverá ser encaminhada ao Serviço de Graduação antes do término do 4º semestre de trancamento, pois precisará ser analisada pela CG.\"\n\n- A soma dos períodos de trancamento total de matrícula do aluno não poderá exceder a três anos, nas seguintes condições:\n\n[Página 5]\na) Até dois anos, sem necessidade de justificativa;\n\nb) Após esse período, até mais um ano, quando a solicitação for devidamente justificada, a critério da CG.\n\nO período em que o aluno estiver legalmente afastado, em virtude de trancamento total de matrícula, não será computado nos cálculos relativos ao cancelamento de matrícula (Resoluções CoG 3761/90 e 4811/00).",
+      "qa_pairs": [
+        {
+          "question": "Como sou notificado sobre a realização do trancamento da minha matrícula?",
+          "answer": "O solicitante recebe um e-mail de notificação confirmando que o trancamento foi realizado conforme a solicitação.",
+          "source_page": 4
+        },
+        {
+          "question": "O trancamento da matrícula precisa ser renovado a cada semestre?",
+          "answer": "Não, o trancamento é renovado automaticamente a cada semestre.",
+          "source_page": 4
+        },
+        {
+          "question": "O que devo fazer para retornar ao curso após um período de trancamento?",
+          "answer": "Para retornar ao curso, o aluno deve entrar em contato com o Serviço de Graduação para solicitar o destrancamento do seu programa.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é a recomendação de prazo para solicitar o destrancamento da matrícula?",
+          "answer": "Recomenda-se que a solicitação seja feita antes do término do período de matrícula/requerimento de matrícula do semestre de retorno, para que o aluno possa se inscrever nas disciplinas desejadas.",
+          "source_page": 4
+        },
+        {
+          "question": "Por quanto tempo posso ficar em trancamento total de matrícula?",
+          "answer": "O aluno pode ficar em trancamento total por até 4 semestres.",
+          "source_page": 4
+        },
+        {
+          "question": "É possível estender o trancamento total além dos 4 semestres iniciais?",
+          "answer": "Sim, em casos excepcionais, pode-se solicitar até mais 2 semestres, totalizando 6 semestres de trancamento.",
+          "source_page": 4
+        },
+        {
+          "question": "Como deve ser feita a solicitação para estender o trancamento para até 6 semestres?",
+          "answer": "A nova solicitação deve ser encaminhada ao Serviço de Graduação antes do término do 4º semestre de trancamento, pois precisará de análise pela CG.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o limite máximo total de tempo que a soma dos períodos de trancamento total de matrícula pode exceder?",
+          "answer": "A soma dos períodos de trancamento total de matrícula do aluno não poderá exceder a três anos.",
+          "source_page": 4
+        },
+        {
+          "question": "Até quanto tempo de trancamento posso solicitar sem a necessidade de apresentar justificativa?",
+          "answer": "O trancamento pode ser realizado por até dois anos sem a necessidade de justificativa.",
+          "source_page": 5
+        },
+        {
+          "question": "O período de trancamento total de matrícula conta para o cálculo de cancelamento de matrícula?",
+          "answer": "Não, o período em que o aluno estiver legalmente afastado por trancamento total de matrícula não será computado nos cálculos relativos ao cancelamento de matrícula.",
+          "source_page": 5
+        }
+      ]
+    }
+  ]
+}

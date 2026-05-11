@@ -1,0 +1,65 @@
+{
+  "doc_name": "Bolsa Monitoria de Departamento",
+  "source_path": "data\\Manual SVGRAD\\Bolsa Monitoria de Departamento.docx",
+  "chunks": [
+    {
+      "chunk_id": "Bolsa Monitoria de Departamento__c0",
+      "pages": [
+        1
+      ],
+      "chunk_text": "[Página 1]\n## Relatório de Monitoria de Departamento\n\n- O processo de seleção/divulgação/emissão de comprovantes é feito pelos próprios departamentos.\n- A Comissão de Graduação é responsável apenas pela emissão de relatório geral.\n- De acordo com a Resolução 7541/2018 - Regimento do ICMC https://leginf.usp.br/?resolucao=resolucao-no-7541-de-20-de-julho-de-2018-2 Artigo 72 – Os(As) monitores(as) de disciplinas de graduação deverão apresentar relatório (sucinto mensal) das atividades desempenhadas, que será apreciado semestralmente pelo departamento respectivo, pela\n- Comissão de Graduação e, em seguida, comunicado no CTA.\n\nA chefia da Graduação:\n\n- solicita os relatórios semestrais aos departamentos\n- salva os relatórios na pasta SvGrad- Bolsas - Monitorias de Departamento - (ano-semestre)\n- compartilha com o presidente da CG em https://drive.google.com/drive/folders/1jhLi6rHC8DUYF54jtC8yReThzOp\\_fu44 ou encaminha diretamente por e-mail e solicita a emissão do relatório geral\n- encaminha o relatório da CG ao CTA para comunicação",
+      "qa_pairs": [
+        {
+          "question": "Quem é responsável pelo processo de seleção, divulgação e emissão de comprovantes de monitoria?",
+          "answer": "Esses processos são realizados pelos próprios departamentos.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a responsabilidade da Comissão de Graduação no processo de monitoria?",
+          "answer": "A Comissão de Graduação é responsável apenas pela emissão do relatório geral.",
+          "source_page": 1
+        },
+        {
+          "question": "Com que frequência os monitores de disciplinas de graduação devem apresentar relatórios de suas atividades?",
+          "answer": "Os monitores devem apresentar relatórios sucintos mensalmente.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem aprecia os relatórios de atividades dos monitores semestralmente?",
+          "answer": "Os relatórios são apreciados semestralmente pelo departamento respectivo e pela Comissão de Graduação.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde as atividades de monitoria são comunicadas após a apreciação do departamento e da Comissão de Graduação?",
+          "answer": "As atividades são comunicadas no CTA.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual resolução do Regimento do ICMC disciplina a apresentação de relatórios de monitoria?",
+          "answer": "A Resolução 7541/2018, especificamente no Artigo 72.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a função da chefia da Graduação em relação aos relatórios semestrais?",
+          "answer": "A chefia da Graduação solicita os relatórios semestrais aos departamentos.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde a chefia da Graduação salva os relatórios de monitoria?",
+          "answer": "Os relatórios são salvos na pasta SvGrad- Bolsas - Monitorias de Departamento - (ano-semestre).",
+          "source_page": 1
+        },
+        {
+          "question": "Como a chefia da Graduação compartilha os relatórios com o presidente da CG?",
+          "answer": "O compartilhamento é feito através do link https://drive.google.com/drive/folders/1jhLi6rHC8DUYF54jtC8yReThzOp_fu44 ou encaminhado diretamente por e-mail.",
+          "source_page": 1
+        },
+        {
+          "question": "O que a chefia da Graduação faz após receber o relatório da CG?",
+          "answer": "A chefia da Graduação encaminha o relatório da CG ao CTA para comunicação.",
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}

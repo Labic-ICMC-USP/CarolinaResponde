@@ -1,0 +1,306 @@
+{
+  "doc_name": "Transferência externa",
+  "source_path": "data\\Manual SVGRAD\\Transferência externa.docx",
+  "chunks": [
+    {
+      "chunk_id": "Transferência externa__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Transferência externa\n\n## Legislação:\n\nLEI Nº 9.536/1997 - Transferência ex officio\n\nRegimento da USP - art 77 e 78\n\nRESOLUÇÃO CoG Nº 8398-2023 - Conceito de Vaga para Transferência\n\nRESOLUÇÃO CoG Nº 4844/2001 - Aproveitamento de estudos e dispensa de disciplinas dos ingressantes em curso da USP, por exame de transferência.\n\nResolução CoG - Verificar publicação no DO, pois em cada ano é publicada uma resolução diferente, específica para o processo seletivo do ano\n\n- Quando há vagas remanescentes da transferência interna, ocorre o processo seletivo de transferência externa para ingresso no 2º semestre letivo. As vagas disponíveis, bem como as regras de seleção e período de inscrição são divulgadas em Edital.\n- Todos os cursos do ICMC estão participando da 1ª fase realizada pela Fuvest e da 2ª fase realizada pelo ICMC.\n- A PRG define uma data no calendário para cadastro pela unidade do número de vagas remanescentes da transferência interna que serão ofertadas para a transferência externa.\n- A PRG também define uma data máxima para publicação do edital da seleção da 1ª fase Fuvest (feita pela própria PRG) e do edital de 2ª fase da unidade (feita pelo ICMC).\n- Toda a tramitação sobre o processo de transferência externa deve seguir os prazos estabelecidos pela PRG.\n- Caso o edital da 2ª fase ainda não tenha sido aprovado em todas as instâncias, pode ser enviado ofício à PRG informando o número de vagas e os critérios de seleção pela Fuvest (para cumprir os prazos da Fuvest) ressaltando que o edital da 2ª fase ICMC será enviado posteriormente (dentro do prazo estabelecido).\n\n## obs: verificar o artigo 77 do Regimento da USP e se haverá alterações\n\nA chefia do setor deve:\n\n- consultar os coordenadores se as vagas remanescentes da transferência interna serão ofertadas no processo de transferência externa e cadastrar o número de vagas que serão disponibilizadas em: Júpiter - Administrativo &gt; Vagas para transferência, listar ano anterior e unidade e buscar, selecionar o curso, clicar em alterar e preencher a coluna \"VDTE-Vagas disponíveis para transferência externa\", clicar em salvar. Fazer isso dentro do prazo previsto pela PRG no calendário oficial.\n\n[Página 2]\nobs: se todas as vagas da transferência externa forem ofertadas via Fuvest (1ª fase), NÃO MARCAR o campo \"Não enviar vagas p/ Fuvest\"\n\n<!-- image -->\n\n- preencher a minuta do edital com as informações sobre as vagas disponíveis\n- propor um cronograma para o período de inscrições para a 2ª fase (levando em conta os prazos da Fuvest), análise pelos coordenadores, divulgação do resultado e matrícula. O prazo para a última chamada deve levar em conta a data do início do 2º semestre\n- caso a chefia ainda não tenha informações sobre as datas da Fuvest, deixar apenas esses campos para preenchimento posterior e tramitar o edital que seja possível cumprir os prazos\n- encaminhar para análise das CoCs\n\n## As CoCs devem:\n\n- definir se todas as vagas disponíveis serão ofertadas. Caso opte por não oferecer todas as vagas, será necessário justificar a decisão\n- vagas para o núcleo geral da Matemática devem ser analisadas pela CoCBMA e CoC-LMA\n- analisar os critérios de classificação e propor alterações, se achar necessário\n\n## A chefia do setor deve:\n\n- após a análise pelas CoCs, finalizar o edital e enviar para apreciação da CG e da Congregação\n- enviar para a PRG\n- divulgar na página do setor e por e-mail aos alunos\n- tratar dos trâmites da seleção conforme item abaixo Procedimentos da seleção e da matrícula do aluno no curso conforme item abaixo",
+      "qa_pairs": [
+        {
+          "question": "Quando ocorre o processo seletivo de transferência externa no ICMC?",
+          "answer": "O processo seletivo de transferência externa ocorre para ingresso no 2º semestre letivo, quando há vagas remanescentes da transferência interna.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde posso encontrar as vagas disponíveis, as regras de seleção e o período de inscrição para transferência externa?",
+          "answer": "Essas informações são divulgadas em Edital.",
+          "source_page": 1
+        },
+        {
+          "question": "Como funciona a divisão de fases no processo de transferência externa dos cursos do ICMC?",
+          "answer": "Todos os cursos do ICMC participam de duas fases: a 1ª fase é realizada pela Fuvest e a 2ª fase é realizada pelo próprio ICMC.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem define as datas do calendário para o cadastro de vagas remanescentes e a publicação dos editais?",
+          "answer": "A PRG (Pró-Reitoria de Graduação) é quem define a data para o cadastro do número de vagas remanescentes e a data máxima para a publicação dos editais da 1ª fase (Fuvest) e da 2ª fase (unidade/ICMC).",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve ser feito caso o edital da 2ª fase ainda não tenha sido aprovado em todas as instâncias nos prazos da Fuvest?",
+          "answer": "Pode ser enviado um ofício à PRG informando o número de vagas e os critérios de seleção pela Fuvest, ressaltando que o edital da 2ª fase do ICMC será enviado posteriormente, dentro do prazo estabelecido.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual o procedimento para a chefia do setor cadastrar as vagas de transferência externa no sistema Júpiter?",
+          "answer": "A chefia deve acessar Júpiter - Administrativo > Vagas para transferência, listar o ano anterior e a unidade, buscar e selecionar o curso, clicar em alterar, preencher a coluna 'VDTE-Vagas disponíveis para transferência externa' e salvar, respeitando o prazo da PRG.",
+          "source_page": 1
+        },
+        {
+          "question": "O que a chefia do setor deve considerar ao propor o cronograma de inscrições para a 2ª fase?",
+          "answer": "Deve levar em conta os prazos da Fuvest, o tempo para análise pelos coordenadores, a divulgação do resultado, a matrícula e garantir que o prazo para a última chamada considere a data de início do 2º semestre.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a responsabilidade das CoCs em relação às vagas de transferência externa?",
+          "answer": "As CoCs devem definir se todas as vagas disponíveis serão ofertadas (justificando caso optem por não oferecer todas) e analisar os critérios de classificação, propondo alterações se necessário.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem deve analisar as vagas destinadas ao núcleo geral da Matemática?",
+          "answer": "As vagas para o núcleo geral da Matemática devem ser analisadas pela CoCBMA e pela CoC-LMA.",
+          "source_page": 2
+        },
+        {
+          "question": "Após a análise das CoCs, quais são os passos finais da chefia do setor para a publicação do edital?",
+          "answer": "A chefia deve finalizar o edital, enviá-lo para apreciação da CG e da Congregação, encaminhá-lo à PRG e, por fim, divulgá-lo na página do setor e por e-mail aos alunos.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Transferência externa__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\nobs: se todas as vagas da transferência externa forem ofertadas via Fuvest (1ª fase), NÃO MARCAR o campo \"Não enviar vagas p/ Fuvest\"\n\n<!-- image -->\n\n- preencher a minuta do edital com as informações sobre as vagas disponíveis\n- propor um cronograma para o período de inscrições para a 2ª fase (levando em conta os prazos da Fuvest), análise pelos coordenadores, divulgação do resultado e matrícula. O prazo para a última chamada deve levar em conta a data do início do 2º semestre\n- caso a chefia ainda não tenha informações sobre as datas da Fuvest, deixar apenas esses campos para preenchimento posterior e tramitar o edital que seja possível cumprir os prazos\n- encaminhar para análise das CoCs\n\n## As CoCs devem:\n\n- definir se todas as vagas disponíveis serão ofertadas. Caso opte por não oferecer todas as vagas, será necessário justificar a decisão\n- vagas para o núcleo geral da Matemática devem ser analisadas pela CoCBMA e CoC-LMA\n- analisar os critérios de classificação e propor alterações, se achar necessário\n\n## A chefia do setor deve:\n\n- após a análise pelas CoCs, finalizar o edital e enviar para apreciação da CG e da Congregação\n- enviar para a PRG\n- divulgar na página do setor e por e-mail aos alunos\n- tratar dos trâmites da seleção conforme item abaixo Procedimentos da seleção e da matrícula do aluno no curso conforme item abaixo\n\n[Página 3]\n## Procedimentos da matrícula .\n\nObs: A PRG informa a lista dos alunos aprovados na 1ª fase Fuvest. Se estiver liberado, também é possível consultar no Júpiter: Administrativo &gt; Vagas para transferência, indica o ano anterior a unidade e clica em \"relação de convocados 2ª fase\"\n\n- orientar as secretárias dos cursos a efetuar a matrícula do aluno nas disciplinas\n- assim que o processo terminar (todas as chamadas previstas forem realizadas), consultar os coordenadores se as vagas remanescentes serão ofertadas no processo de portador de diploma, informar à PRG sobre o número de vagas ocupadas e de vagas disponíveis que serão ofertadas para portador de diploma\n\n## Procedimentos da seleção:\n\n- salvar a relação dos candidatos aprovados na 1ª fase Fuvest na pasta compartilhada svgrad - Ingresso - Transferência externa - (ano)\n- divulgar a lista dos alunos convocados para a 2ª fase (de acordo com as regras do edital) na página Transferência externa\n- criar o formulário de inscrição e divulgar na página em Transferência externa. (abrir somente no período definido no edital)\n- depois que o prazo de inscrição terminar, analisar as inscrições: verificar se estão de acordo com os critérios estabelecidos no edital e se os inscritos realmente passaram pela 1ª fase e obtiveram a nota de corte. Somente os aprovados na 1ª fase poderão se inscrever na 2ª\n- divulgar o resultado da análise das inscrições: se foi deferida ou indeferida\n- encaminhar a relação dos candidatos aprovados na 1ª fase Fuvest (com as respectivas notas), as inscrições deferidas e documentos correspondentes aos coordenadores para análise e pedir que encaminhem a classificação final dos candidatos, conforme os critérios e prazos estabelecidos no edital\n- reunir as informações enviadas pelos coordenadores, encaminhar o resultado final para o presidente da CG e divulgar na página no prazo previsto no edital\n- criar o formulário de matrícula e divulgar na página (abrir somente no período definido no edital)\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula\n- caso haja vagas remanescentes, verificar os próximos candidatos, fazer a convocação de matrícula da 1ª lista de espera e divulgar na página no prazo previsto no edital",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito se todas as vagas de transferência externa forem ofertadas via Fuvest (1ª fase)?",
+          "answer": "Nesse caso, NÃO deve ser marcado o campo 'Não enviar vagas p/ Fuvest'.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais informações devem constar na minuta do edital de transferência externa?",
+          "answer": "A minuta deve conter as informações sobre as vagas disponíveis e a proposta de um cronograma que inclua o período de inscrições para a 2ª fase (considerando os prazos da Fuvest), a análise pelos coordenadores, a divulgação do resultado e a matrícula, além de prever a data da última chamada com base no início do 2º semestre.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a responsabilidade das CoCs em relação às vagas disponíveis?",
+          "answer": "As CoCs devem definir se todas as vagas disponíveis serão ofertadas; caso optem por não oferecer todas, deverão justificar a decisão.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem deve analisar as vagas destinadas ao núcleo geral da Matemática?",
+          "answer": "As vagas para o núcleo geral da Matemática devem ser analisadas pela CoCBMA e pela CoC-LMA.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são as etapas finais de responsabilidade da chefia do setor após a análise das CoCs?",
+          "answer": "A chefia deve finalizar o edital, enviá-lo para apreciação da CG e da Congregação, encaminhá-lo para a PRG, divulgá-lo na página do setor e por e-mail aos alunos, e tratar dos trâmites de seleção e matrícula.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é possível consultar a lista de alunos aprovados na 1ª fase da Fuvest?",
+          "answer": "A lista é informada pela PRG, mas também pode ser consultada no Júpiter através do caminho: Administrativo > Vagas para transferência, selecionando o ano anterior, a unidade e clicando em 'relação de convocados 2ª fase'.",
+          "source_page": 3
+        },
+        {
+          "question": "O que acontece com as vagas remanescentes após a conclusão de todas as chamadas de transferência?",
+          "answer": "Os coordenadores são consultados para definir se as vagas remanescentes serão ofertadas no processo de portador de diploma, e a PRG deve ser informada sobre o número de vagas ocupadas e as disponíveis para portadores de diploma.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem pode se inscrever na 2ª fase do processo de transferência externa?",
+          "answer": "Somente os candidatos que foram aprovados na 1ª fase da Fuvest e obtiveram a nota de corte podem se inscrever na 2ª fase.",
+          "source_page": 3
+        },
+        {
+          "question": "Como funciona a análise das inscrições para a 2ª fase?",
+          "answer": "As inscrições são analisadas para verificar se estão de acordo com os critérios do edital e se os inscritos realmente passaram pela 1ª fase com a nota de corte. Após isso, é divulgado se a inscrição foi deferida ou indeferida.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual o procedimento caso haja vagas remanescentes após o prazo de matrícula?",
+          "answer": "Deve-se verificar os próximos candidatos, realizar a convocação de matrícula da 1ª lista de espera e divulgar a informação na página no prazo previsto no edital.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Transferência externa__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n## Procedimentos da matrícula .\n\nObs: A PRG informa a lista dos alunos aprovados na 1ª fase Fuvest. Se estiver liberado, também é possível consultar no Júpiter: Administrativo &gt; Vagas para transferência, indica o ano anterior a unidade e clica em \"relação de convocados 2ª fase\"\n\n- orientar as secretárias dos cursos a efetuar a matrícula do aluno nas disciplinas\n- assim que o processo terminar (todas as chamadas previstas forem realizadas), consultar os coordenadores se as vagas remanescentes serão ofertadas no processo de portador de diploma, informar à PRG sobre o número de vagas ocupadas e de vagas disponíveis que serão ofertadas para portador de diploma\n\n## Procedimentos da seleção:\n\n- salvar a relação dos candidatos aprovados na 1ª fase Fuvest na pasta compartilhada svgrad - Ingresso - Transferência externa - (ano)\n- divulgar a lista dos alunos convocados para a 2ª fase (de acordo com as regras do edital) na página Transferência externa\n- criar o formulário de inscrição e divulgar na página em Transferência externa. (abrir somente no período definido no edital)\n- depois que o prazo de inscrição terminar, analisar as inscrições: verificar se estão de acordo com os critérios estabelecidos no edital e se os inscritos realmente passaram pela 1ª fase e obtiveram a nota de corte. Somente os aprovados na 1ª fase poderão se inscrever na 2ª\n- divulgar o resultado da análise das inscrições: se foi deferida ou indeferida\n- encaminhar a relação dos candidatos aprovados na 1ª fase Fuvest (com as respectivas notas), as inscrições deferidas e documentos correspondentes aos coordenadores para análise e pedir que encaminhem a classificação final dos candidatos, conforme os critérios e prazos estabelecidos no edital\n- reunir as informações enviadas pelos coordenadores, encaminhar o resultado final para o presidente da CG e divulgar na página no prazo previsto no edital\n- criar o formulário de matrícula e divulgar na página (abrir somente no período definido no edital)\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula\n- caso haja vagas remanescentes, verificar os próximos candidatos, fazer a convocação de matrícula da 1ª lista de espera e divulgar na página no prazo previsto no edital\n\n[Página 4]\n- reabrir o formulário de matrícula no período definido no edital\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula e caso ainda haja vagas remanescentes, repetir o procedimento convocação e matrícula da 2ª lista de espera\n- conferir se todos os documentos enviados para a matrícula estão corretos e salvar na pasta compartilhada svgrad - Ingresso - Transferência Externa (ano)\n- fazer a matrícula no Júpiter\n- enviar e-mail aos novos alunos com as orientações sobre a matrícula em disciplinas (ver modelo nos enviados do grad@ com o assunto \"Orientações - Matrícula transferência interna\" (com especificidades da externa como\n- NUSP)\n\n## Procedimentos da matrícula:\n\n- Verifica se o aluno possui cadastro em Júpiter - Aluno - Consultas - Dados pessoais. Se tiver, anota o NUSP para fazer a matrícula. Se não tiver, clica em Incluir nova pessoa e preenche os dados.\n- faz a matrícula no curso em: Júpiter - Administrativo &gt; Inscrição em Cursos - Seleciona unidade, curso e complemento, deixa o campo resultado sem preenchimento, clica em buscar\n\n<!-- image -->\n\n·\n\n- clica em incluir, preenche o NUSP do aluno, seleciona o tipo \"Transf",
+      "qa_pairs": [
+        {
+          "question": "Como posso consultar a lista de alunos aprovados na 1ª fase da Fuvest no sistema Júpiter?",
+          "answer": "A consulta pode ser feita no Júpiter seguindo o caminho: Administrativo > Vagas para transferência, indicando o ano anterior e a unidade, e clicando em 'relação de convocados 2ª fase'.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem pode se inscrever na 2ª fase do processo de transferência externa?",
+          "answer": "Somente os candidatos que foram aprovados na 1ª fase da Fuvest e obtiveram a nota de corte podem se inscrever na 2ª fase.",
+          "source_page": 3
+        },
+        {
+          "question": "Onde é divulgada a lista de alunos convocados para a 2ª fase da transferência externa?",
+          "answer": "A lista é divulgada na página de Transferência externa, de acordo com as regras do edital.",
+          "source_page": 3
+        },
+        {
+          "question": "O que acontece após o término do prazo de inscrição para a transferência externa?",
+          "answer": "As inscrições são analisadas para verificar se estão de acordo com os critérios do edital e se os inscritos passaram pela 1ª fase com a nota de corte.",
+          "source_page": 3
+        },
+        {
+          "question": "Como é definida a classificação final dos candidatos na transferência externa?",
+          "answer": "A relação de candidatos aprovados na 1ª fase, as inscrições deferidas e os documentos são encaminhados aos coordenadores, que realizam a análise e encaminham a classificação final conforme os critérios e prazos do edital.",
+          "source_page": 3
+        },
+        {
+          "question": "O que é feito caso haja vagas remanescentes após a primeira convocação de matrícula?",
+          "answer": "São verificados os próximos candidatos, é realizada a convocação de matrícula da 1ª lista de espera e o resultado é divulgado na página no prazo previsto no edital.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual o procedimento se ainda houver vagas após a 1ª lista de espera?",
+          "answer": "O formulário de matrícula é reaberto no período definido no edital e, se ainda houver vagas, repete-se o procedimento de convocação e matrícula da 2ª lista de espera.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser feito com os documentos enviados para a matrícula de transferência externa?",
+          "answer": "Deve-se conferir se todos os documentos estão corretos e salvá-los na pasta compartilhada svgrad - Ingresso - Transferência Externa (ano).",
+          "source_page": 4
+        },
+        {
+          "question": "Como a secretaria verifica se um aluno já possui cadastro no sistema Júpiter?",
+          "answer": "A verificação é feita através do caminho: Júpiter - Aluno - Consultas - Dados pessoais. Caso não possua, deve-se clicar em 'Incluir nova pessoa' e preencher os dados.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para realizar a matrícula do aluno no curso?",
+          "answer": "O caminho é: Júpiter - Administrativo > Inscrição em Cursos, selecionando a unidade, o curso e o complemento, e clicando em buscar.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Transferência externa__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n- reabrir o formulário de matrícula no período definido no edital\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula e caso ainda haja vagas remanescentes, repetir o procedimento convocação e matrícula da 2ª lista de espera\n- conferir se todos os documentos enviados para a matrícula estão corretos e salvar na pasta compartilhada svgrad - Ingresso - Transferência Externa (ano)\n- fazer a matrícula no Júpiter\n- enviar e-mail aos novos alunos com as orientações sobre a matrícula em disciplinas (ver modelo nos enviados do grad@ com o assunto \"Orientações - Matrícula transferência interna\" (com especificidades da externa como\n- NUSP)\n\n## Procedimentos da matrícula:\n\n- Verifica se o aluno possui cadastro em Júpiter - Aluno - Consultas - Dados pessoais. Se tiver, anota o NUSP para fazer a matrícula. Se não tiver, clica em Incluir nova pessoa e preenche os dados.\n- faz a matrícula no curso em: Júpiter - Administrativo &gt; Inscrição em Cursos - Seleciona unidade, curso e complemento, deixa o campo resultado sem preenchimento, clica em buscar\n\n<!-- image -->\n\n·\n\n- clica em incluir, preenche o NUSP do aluno, seleciona o tipo \"Transf\n\n[Página 5]\nExterna\", preenche o campo data da inscrição com a data da inscrição estabelecida no edital (pode ser o primeiro dia de inscrição da fuvest), clica em salvar\n\n<!-- image -->\n\nobs: se for aluno da USP, precisa encerrar o programa dele primeiro com o motivo transferência externa (sempre com ciência do aluno)\n\n- seleciona a linha em que consta o aluno e clica em parecer, preenche o campo resultado com \"aceito\", indica no campo data da seleção o dia da divulgação do resultado, no tipo de avaliação indica prova/análise de currículo, informa o NUSP do presidente da CG no campo responsável e na descrição pode colocar somente \"aprovado\". Preencher os dados de Origem Externa e clicar em salvar",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito após o término do prazo de matrícula para verificar vagas remanescentes?",
+          "answer": "Deve-se verificar se todos os convocados efetuaram a matrícula e, caso ainda haja vagas remanescentes, repetir o procedimento de convocação e matrícula da 2ª lista de espera.",
+          "source_page": 4
+        },
+        {
+          "question": "Onde devem ser salvos os documentos de matrícula de transferência externa?",
+          "answer": "Os documentos devem ser conferidos e salvos na pasta compartilhada svgrad - Ingresso - Transferência Externa (ano).",
+          "source_page": 4
+        },
+        {
+          "question": "Como os novos alunos são orientados sobre a matrícula em disciplinas?",
+          "answer": "É enviado um e-mail aos novos alunos com as orientações, utilizando o modelo disponível nos enviados do grad@ com o assunto 'Orientações - Matrícula transferência interna'.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o procedimento inicial para verificar se o aluno já possui cadastro no Júpiter?",
+          "answer": "Deve-se acessar Júpiter - Aluno - Consultas - Dados pessoais. Se o aluno já possuir cadastro, anota-se o NUSP; caso contrário, deve-se clicar em 'Incluir nova pessoa' e preencher os dados.",
+          "source_page": 4
+        },
+        {
+          "question": "Em qual caminho do sistema Júpiter é realizada a matrícula no curso?",
+          "answer": "A matrícula é feita em: Júpiter - Administrativo > Inscrição em Cursos, selecionando a unidade, o curso e o complemento.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual tipo de inscrição deve ser selecionada para alunos de transferência externa no Júpiter?",
+          "answer": "Deve-se selecionar o tipo 'Transf Externa'.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual data deve ser preenchida no campo 'data da inscrição' para transferências externas?",
+          "answer": "Deve ser preenchida a data da inscrição estabelecida no edital (podendo ser o primeiro dia de inscrição da fuvest).",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser feito se o aluno de transferência externa já for aluno da USP?",
+          "answer": "É necessário encerrar o programa anterior do aluno com o motivo 'transferência externa', sempre com a ciência do aluno.",
+          "source_page": 5
+        },
+        {
+          "question": "Como deve ser preenchido o campo 'resultado' e 'data da seleção' no parecer do aluno?",
+          "answer": "O campo resultado deve ser preenchido como 'aceito' e o campo data da seleção deve indicar o dia da divulgação do resultado.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais informações devem constar no parecer de seleção do aluno no sistema?",
+          "answer": "Deve-se indicar 'prova/análise de currículo' no tipo de avaliação, informar o NUSP do presidente da CG no campo responsável, preencher os dados de Origem Externa e, na descrição, pode-se colocar 'aprovado'.",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "chunk_id": "Transferência externa__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\nExterna\", preenche o campo data da inscrição com a data da inscrição estabelecida no edital (pode ser o primeiro dia de inscrição da fuvest), clica em salvar\n\n<!-- image -->\n\nobs: se for aluno da USP, precisa encerrar o programa dele primeiro com o motivo transferência externa (sempre com ciência do aluno)\n\n- seleciona a linha em que consta o aluno e clica em parecer, preenche o campo resultado com \"aceito\", indica no campo data da seleção o dia da divulgação do resultado, no tipo de avaliação indica prova/análise de currículo, informa o NUSP do presidente da CG no campo responsável e na descrição pode colocar somente \"aprovado\". Preencher os dados de Origem Externa e clicar em salvar\n\n[Página 6]\n·\n\n<!-- image -->\n\n- assim que o aluno encaminhar a grade horária assinada pelo coordenador, efetuar a matrícula dele nas disciplinas, se houver vagas.\n- quando o aluno não tem o requisito, não é necessário deixar a matrícula pendente para análise da CoC. A secretária do curso pode finalizar a matrícula porque o coordenador assinou a grade, autorizando a matrícula.",
+      "qa_pairs": [
+        {
+          "question": "Como deve ser preenchido o campo de data da inscrição para transferências externas?",
+          "answer": "O campo data da inscrição deve ser preenchido com a data estabelecida no edital, podendo ser o primeiro dia de inscrição da Fuvest.",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser feito se o aluno de transferência externa já for aluno da USP?",
+          "answer": "Se o aluno já for da USP, é necessário encerrar o programa atual dele primeiro, utilizando o motivo 'transferência externa', sempre com a ciência do aluno.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais informações devem ser preenchidas no campo 'resultado' e 'data da seleção' ao dar o parecer de um aluno?",
+          "answer": "O campo resultado deve ser preenchido como 'aceito' e o campo data da seleção deve conter o dia da divulgação do resultado.",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser indicado no campo 'tipo de avaliação' durante o processo de parecer?",
+          "answer": "No tipo de avaliação, deve-se indicar 'prova/análise de currículo'.",
+          "source_page": 5
+        },
+        {
+          "question": "Quem deve ser informado no campo 'responsável' ao preencher o parecer do aluno?",
+          "answer": "Deve ser informado o NUSP do presidente da CG.",
+          "source_page": 5
+        },
+        {
+          "question": "O que pode ser escrito no campo de descrição ao aprovar um aluno no parecer?",
+          "answer": "No campo de descrição, pode ser colocado somente 'aprovado'.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais dados adicionais devem ser preenchidos antes de salvar o parecer do aluno?",
+          "answer": "Devem ser preenchidos os dados de Origem Externa.",
+          "source_page": 5
+        },
+        {
+          "question": "Quando deve ser efetuada a matrícula do aluno nas disciplinas?",
+          "answer": "A matrícula deve ser efetuada assim que o aluno encaminhar a grade horária assinada pelo coordenador, desde que haja vagas.",
+          "source_page": 6
+        },
+        {
+          "question": "É necessário deixar a matrícula pendente para análise da CoC quando o aluno não possui o requisito?",
+          "answer": "Não, não é necessário deixar a matrícula pendente para análise da CoC nesses casos.",
+          "source_page": 6
+        },
+        {
+          "question": "Quem pode finalizar a matrícula de um aluno que não tem o requisito, mas possui a grade assinada?",
+          "answer": "A secretária do curso pode finalizar a matrícula, pois a assinatura do coordenador na grade já serve como autorização.",
+          "source_page": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "doc_name": "Transferência interna",
+  "source_path": "data\\Manual SVGRAD\\Transferência interna.docx",
+  "chunks": [
+    {
+      "chunk_id": "Transferência interna__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Transferência interna\n\n## Legislação:\n\nRegimento da USP - art 77 e 78\n\nRESOLUÇÃO CoG Nº 8398-2023 - Conceito de Vaga para Transferência\n\n## LEI Nº 9.536/1997 - Transferência ex officio\n\n- Quando há vagas disponíveis, ocorre o processo seletivo de transferência interna para ingresso no 1º semestre letivo. As vagas disponíveis, bem como as regras de seleção e período de inscrição são divulgadas em Edital.\n- A PRG define uma data no calendário para cadastro pela unidade do número de vagas disponíveis (geralmente novembro) e um prazo máximo (geralmente início de dezembro) para que a unidade cadastre no Júpiter quantas vagas serão ofertadas\n- A PRG também define uma data máxima para matrícula dos alunos da transferência e para cadastro no Júpiter das vagas que foram ocupadas (meados do 1º semestre)\n\n## A chefia do setor deve:\n\n- verificar quantas vagas estão disponíveis e para quais cursos em Júpiter Administrativo &gt; Vagas para transferência, listar ano anterior e unidade e buscar\n\n## Administrativo &gt; para transferência Vagas\n\n<!-- image -->\n\n[Página 2]\n- preencher a minuta do edital com as informações sobre as vagas disponíveis\n- propor um cronograma para o período de inscrições, análise pelos coordenadores, divulgação do resultado e matrícula. O prazo para a última chamada deve levar em conta o prazo que a PRG definiu para matrícula e cadastro das vagas ocupadas\n- encaminhar para análise das CoCs\n\nObs: Em relação às vagas para o curso interunidades Engenharia de Computação, é o SVGRAD da EESC que faz o levantamento de vagas e o processo seletivo. O edital é encaminhado ao ICMC apenas para aprovação.\n\nAs CoCs devem:\n\n- definir se todas as vagas disponíveis serão ofertadas. Caso opte por não oferecer todas as vagas, será necessário justificar a decisão\n- vagas para o núcleo geral da Matemática devem ser analisadas pela CoCBMA e CoC-LMA\n- analisar os critérios de classificação e propor alterações, se achar necessário\n\nA chefia do setor deve:\n\n- após a análise pelas CoCs, finalizar o edital e enviar para apreciação da CG e da Congregação (verificar se é necessário enviar à PRG ou se o preenchimento das vagas no Júpiter é o suficiente)\n- cadastrar o número de vagas que serão ofertadas: Júpiter - Administrativo &gt; Vagas para transferência, listar ano anterior e unidade e buscar, selecionar o curso, clicar em alterar e preencher a coluna \"VDTI-Vagas disponíveis para transferência interna (após análise da unidade)\", clicar em salvar. Fazer isso dentro do prazo previsto pela PRG no calendário oficial.\n- divulgar na página do setor e por e-mail aos alunos\n- tratar dos trâmites da seleção e da matrícula do aluno no curso\n- orientar as secretárias dos cursos a efetuar a matrícula do aluno nas disciplinas\n- assim que o processo terminar (todas as chamadas previstas forem realizadas), cadastrar o número de vagas que foram preenchidas: Júpiter - Administrativo &gt; Vagas para transferência, listar ano anterior e unidade e buscar, selecionar o curso, clicar em alterar e preencher a coluna \"VPTI-Vagas preenchidas após processo de transferência interna\", clicar em salvar. Fazer isso dentro do prazo previsto pela PRG no calendário oficial.\n- consultar os coordenadores se as vagas remanescentes serão ofertadas no processo de transferência externa e cadastrar o número de vagas que serão disponibilizadas em: Júpiter - Administrativo &gt; Vagas para transferência, listar ano anterior e unidade e buscar, selecionar o curso, clicar em alterar e",
+      "qa_pairs": [
+        {
+          "question": "Quando ocorre o processo seletivo de transferência interna?",
+          "answer": "O processo seletivo de transferência interna ocorre para ingresso no 1º semestre letivo, sempre que houver vagas disponíveis.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde são divulgadas as regras de seleção, o período de inscrição e as vagas disponíveis para transferência interna?",
+          "answer": "Essas informações são divulgadas em Edital.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a responsabilidade da PRG em relação ao cadastro de vagas de transferência?",
+          "answer": "A PRG define a data no calendário para que a unidade cadastre o número de vagas disponíveis (geralmente em novembro), o prazo máximo para esse cadastro no Júpiter (geralmente início de dezembro), além da data máxima para matrícula dos alunos e cadastro das vagas ocupadas (meados do 1º semestre).",
+          "source_page": 1
+        },
+        {
+          "question": "Como a chefia do setor verifica a disponibilidade de vagas para transferência no sistema?",
+          "answer": "A chefia deve acessar o Júpiter Administrativo > Vagas para transferência, listar o ano anterior e a unidade e realizar a busca.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais etapas a chefia do setor deve seguir ao elaborar o edital de transferência?",
+          "answer": "A chefia deve preencher a minuta do edital com as vagas disponíveis, propor um cronograma (inscrições, análise, resultado e matrícula) e encaminhar para análise das CoCs.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem é responsável pelo levantamento de vagas e processo seletivo do curso de Engenharia de Computação?",
+          "answer": "A responsabilidade é do SVGRAD da EESC, sendo o edital encaminhado ao ICMC apenas para aprovação.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o papel das CoCs no processo de transferência interna?",
+          "answer": "As CoCs devem definir se todas as vagas disponíveis serão ofertadas (justificando caso contrário), analisar critérios de classificação e, no caso do núcleo geral da Matemática, a análise deve ser feita pela CoCBMA e CoC-LMA.",
+          "source_page": 2
+        },
+        {
+          "question": "Após a análise das CoCs, quais são os próximos passos da chefia do setor para a formalização do edital?",
+          "answer": "A chefia deve finalizar o edital, enviá-lo para apreciação da CG e da Congregação, cadastrar o número de vagas ofertadas no Júpiter dentro do prazo da PRG e divulgar o processo na página do setor e por e-mail aos alunos.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é feito o cadastro de vagas preenchidas no sistema Júpiter após o término do processo?",
+          "answer": "A chefia do setor deve acessar Júpiter - Administrativo > Vagas para transferência, listar ano anterior e unidade, selecionar o curso, clicar em alterar e preencher a coluna 'VPTI-Vagas preenchidas após processo de transferência interna', salvando a alteração dentro do prazo da PRG.",
+          "source_page": 2
+        },
+        {
+          "question": "O que acontece com as vagas remanescentes do processo de transferência interna?",
+          "answer": "A chefia do setor deve consultar os coordenadores para verificar se as vagas remanescentes serão ofertadas no processo de transferência externa e, em caso positivo, cadastrá-las no Júpiter.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Transferência interna__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- preencher a minuta do edital com as informações sobre as vagas disponíveis\n- propor um cronograma para o período de inscrições, análise pelos coordenadores, divulgação do resultado e matrícula. O prazo para a última chamada deve levar em conta o prazo que a PRG definiu para matrícula e cadastro das vagas ocupadas\n- encaminhar para análise das CoCs\n\nObs: Em relação às vagas para o curso interunidades Engenharia de Computação, é o SVGRAD da EESC que faz o levantamento de vagas e o processo seletivo. O edital é encaminhado ao ICMC apenas para aprovação.\n\nAs CoCs devem:\n\n- definir se todas as vagas disponíveis serão ofertadas. Caso opte por não oferecer todas as vagas, será necessário justificar a decisão\n- vagas para o núcleo geral da Matemática devem ser analisadas pela CoCBMA e CoC-LMA\n- analisar os critérios de classificação e propor alterações, se achar necessário\n\nA chefia do setor deve:\n\n- após a análise pelas CoCs, finalizar o edital e enviar para apreciação da CG e da Congregação (verificar se é necessário enviar à PRG ou se o preenchimento das vagas no Júpiter é o suficiente)\n- cadastrar o número de vagas que serão ofertadas: Júpiter - Administrativo &gt; Vagas para transferência, listar ano anterior e unidade e buscar, selecionar o curso, clicar em alterar e preencher a coluna \"VDTI-Vagas disponíveis para transferência interna (após análise da unidade)\", clicar em salvar. Fazer isso dentro do prazo previsto pela PRG no calendário oficial.\n- divulgar na página do setor e por e-mail aos alunos\n- tratar dos trâmites da seleção e da matrícula do aluno no curso\n- orientar as secretárias dos cursos a efetuar a matrícula do aluno nas disciplinas\n- assim que o processo terminar (todas as chamadas previstas forem realizadas), cadastrar o número de vagas que foram preenchidas: Júpiter - Administrativo &gt; Vagas para transferência, listar ano anterior e unidade e buscar, selecionar o curso, clicar em alterar e preencher a coluna \"VPTI-Vagas preenchidas após processo de transferência interna\", clicar em salvar. Fazer isso dentro do prazo previsto pela PRG no calendário oficial.\n- consultar os coordenadores se as vagas remanescentes serão ofertadas no processo de transferência externa e cadastrar o número de vagas que serão disponibilizadas em: Júpiter - Administrativo &gt; Vagas para transferência, listar ano anterior e unidade e buscar, selecionar o curso, clicar em alterar e\n\n[Página 3]\npreencher a coluna \"VDTE-Vagas disponíveis para transferência externa\", clicar em salvar. Fazer isso dentro do prazo previsto pela PRG no calendário oficial.\n\nobs: se todas as vagas da transferência externa forem ofertadas via Fuvest (1ª fase), NÃO MARCAR o campo \"Não enviar vagas p/ Fuvest\"\n\n<!-- image -->\n\n## Procedimentos da seleção:\n\n- criar o formulário de inscrição e divulgar na página em Transferência interna. (abrir somente no período definido no edital)\n- depois que o prazo de inscrição terminar, analisar as inscrições e verificar se estão de acordo com os critérios estabelecidos no edital\n- divulgar o resultado da análise das inscrições: se foi deferida ou indeferida\n- encaminhar as inscrições deferidas e documentos correspondentes aos coordenadores para análise e pedir que encaminhem a classificação final dos candidatos, conforme os critérios e prazos estabelecidos no edital\n- reunir as informações enviadas pelos coordenadores, encaminhar o resultado final para o presidente da CG e divulgar na página no prazo previsto no edital\n- criar o formulário de matrícula e divulgar na página (abrir somente no período definido no edital)\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula",
+      "qa_pairs": [
+        {
+          "question": "Quem é responsável pelo levantamento de vagas e pelo processo seletivo do curso interunidades de Engenharia de Computação?",
+          "answer": "O levantamento de vagas e o processo seletivo para o curso de Engenharia de Computação são realizados pelo SVGRAD da EESC, sendo o edital encaminhado ao ICMC apenas para aprovação.",
+          "source_page": 2
+        },
+        {
+          "question": "O que as CoCs devem fazer em relação às vagas disponíveis?",
+          "answer": "As CoCs devem definir se todas as vagas disponíveis serão ofertadas; caso optem por não oferecer todas, deverão justificar a decisão. Além disso, devem analisar os critérios de classificação e propor alterações, se necessário.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem deve analisar as vagas destinadas ao núcleo geral da Matemática?",
+          "answer": "As vagas para o núcleo geral da Matemática devem ser analisadas pela CoCBMA e CoC-LMA.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é o fluxo de aprovação do edital após a análise das CoCs?",
+          "answer": "Após a análise pelas CoCs, a chefia do setor deve finalizar o edital e enviá-lo para apreciação da CG e da Congregação.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é feito o cadastro do número de vagas ofertadas para transferência interna no sistema Júpiter?",
+          "answer": "O cadastro é feito em: Júpiter - Administrativo > Vagas para transferência, listar ano anterior e unidade e buscar, selecionar o curso, clicar em alterar e preencher a coluna 'VDTI-Vagas disponíveis para transferência interna (após análise da unidade)', clicando em salvar.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são as responsabilidades da chefia do setor após a finalização do edital?",
+          "answer": "A chefia deve cadastrar as vagas no Júpiter, divulgar o edital na página do setor e por e-mail aos alunos, tratar dos trâmites de seleção e matrícula, e orientar as secretarias dos cursos a matricular os alunos nas disciplinas.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito no sistema Júpiter após a conclusão de todas as chamadas do processo de transferência interna?",
+          "answer": "Deve-se cadastrar o número de vagas preenchidas em: Júpiter - Administrativo > Vagas para transferência, listar ano anterior e unidade e buscar, selecionar o curso, clicar em alterar e preencher a coluna 'VPTI-Vagas preenchidas após processo de transferência interna'.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é definido o número de vagas para a transferência externa?",
+          "answer": "A chefia do setor deve consultar os coordenadores para saber se as vagas remanescentes serão ofertadas no processo de transferência externa e, em seguida, cadastrar a quantidade na coluna 'VDTE-Vagas disponíveis para transferência externa' no sistema Júpiter.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a orientação sobre o campo 'Não enviar vagas p/ Fuvest' na transferência externa?",
+          "answer": "Se todas as vagas da transferência externa forem ofertadas via Fuvest (1ª fase), o campo 'Não enviar vagas p/ Fuvest' NÃO deve ser marcado.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as etapas dos procedimentos de seleção após a divulgação do edital?",
+          "answer": "As etapas incluem: criar e divulgar o formulário de inscrição, analisar as inscrições conforme os critérios do edital, divulgar o resultado (deferido ou indeferido), encaminhar inscrições deferidas aos coordenadores para classificação final, divulgar o resultado final após aprovação do presidente da CG, e criar/divulgar o formulário de matrícula.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Transferência interna__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\npreencher a coluna \"VDTE-Vagas disponíveis para transferência externa\", clicar em salvar. Fazer isso dentro do prazo previsto pela PRG no calendário oficial.\n\nobs: se todas as vagas da transferência externa forem ofertadas via Fuvest (1ª fase), NÃO MARCAR o campo \"Não enviar vagas p/ Fuvest\"\n\n<!-- image -->\n\n## Procedimentos da seleção:\n\n- criar o formulário de inscrição e divulgar na página em Transferência interna. (abrir somente no período definido no edital)\n- depois que o prazo de inscrição terminar, analisar as inscrições e verificar se estão de acordo com os critérios estabelecidos no edital\n- divulgar o resultado da análise das inscrições: se foi deferida ou indeferida\n- encaminhar as inscrições deferidas e documentos correspondentes aos coordenadores para análise e pedir que encaminhem a classificação final dos candidatos, conforme os critérios e prazos estabelecidos no edital\n- reunir as informações enviadas pelos coordenadores, encaminhar o resultado final para o presidente da CG e divulgar na página no prazo previsto no edital\n- criar o formulário de matrícula e divulgar na página (abrir somente no período definido no edital)\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula\n\n[Página 4]\n- caso haja vagas remanescentes, verificar os próximos candidatos, fazer a convocação de matrícula da 1ª lista de espera e divulgar na página no prazo previsto no edital\n- reabrir o formulário de matrícula no período definido no edital\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula e caso ainda haja vagas remanescentes, repetir o procedimento convocação e matrícula da 2ª lista de espera\n- conferir se todos os documentos enviados para a matrícula estão corretos e salvar na pasta compartilhada svgrad - Ingresso - Transferência Interna (ano)\n- fazer a matrícula no Júpiter (no curso) conforme procedimentos da matrícula listas abaixo\n- enviar e-mail aos novos alunos com as orientações sobre a matrícula em disciplinas (ver modelo nos enviados do grad@ com o assunto \"Orientações\n- Matrícula transferência interna\"\n- cadastrar o número de vagas ocupadas\n\n## Procedimentos da matrícula:\n\n- Júpiter - Administrativo &gt; Inscrição em Cursos - Seleciona unidade, curso e complemento, deixa o campo resultado sem preenchimento, clica em buscar\n- clica em incluir, preenche o NUSP do aluno, seleciona o tipo \"Transf USP\", preenche o campo data da inscrição com a data da inscrição estabelecida\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito na coluna 'VDTE-Vagas disponíveis para transferência externa'?",
+          "answer": "Deve-se preencher a coluna e clicar em salvar, respeitando o prazo previsto pela PRG no calendário oficial.",
+          "source_page": 3
+        },
+        {
+          "question": "Quando NÃO devo marcar o campo 'Não enviar vagas p/ Fuvest'?",
+          "answer": "Não se deve marcar esse campo se todas as vagas da transferência externa forem ofertadas via Fuvest (1ª fase).",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são os primeiros passos dos procedimentos de seleção de transferência interna?",
+          "answer": "Os primeiros passos são criar o formulário de inscrição e divulgá-lo na página de Transferência interna, abrindo-o apenas no período definido no edital.",
+          "source_page": 3
+        },
+        {
+          "question": "Como funciona a análise das inscrições após o término do prazo?",
+          "answer": "As inscrições são analisadas para verificar se estão de acordo com os critérios do edital, e posteriormente é divulgado o resultado informando se a inscrição foi deferida ou indeferida.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o papel dos coordenadores no processo de seleção de transferência interna?",
+          "answer": "Os coordenadores recebem as inscrições deferidas e os documentos correspondentes para análise e devem encaminhar a classificação final dos candidatos, seguindo os critérios e prazos do edital.",
+          "source_page": 3
+        },
+        {
+          "question": "O que acontece após a reunião das informações enviadas pelos coordenadores?",
+          "answer": "O resultado final é encaminhado para o presidente da CG e divulgado na página dentro do prazo previsto no edital.",
+          "source_page": 3
+        },
+        {
+          "question": "Como é procedido o preenchimento de vagas remanescentes?",
+          "answer": "Verificam-se os próximos candidatos, faz-se a convocação de matrícula da 1ª lista de espera e divulga-se na página. Se ainda houver vagas, repete-se o procedimento para a 2ª lista de espera.",
+          "source_page": 4
+        },
+        {
+          "question": "Onde devem ser salvos os documentos de matrícula da Transferência Interna?",
+          "answer": "Os documentos devem ser conferidos e salvos na pasta compartilhada 'svgrad - Ingresso - Transferência Interna (ano)'.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual orientação deve ser enviada aos novos alunos após a matrícula?",
+          "answer": "Deve ser enviado um e-mail com orientações sobre a matrícula em disciplinas, utilizando o modelo disponível nos enviados do grad@ com o assunto 'Orientações - Matrícula transferência interna'.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para realizar a inscrição em cursos de transferência?",
+          "answer": "O caminho é: Júpiter - Administrativo > Inscrição em Cursos. Deve-se selecionar a unidade, curso e complemento, deixar o campo resultado vazio, clicar em buscar, incluir o NUSP do aluno, selecionar o tipo 'Transf USP' e preencher a data da inscrição.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Transferência interna__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n- caso haja vagas remanescentes, verificar os próximos candidatos, fazer a convocação de matrícula da 1ª lista de espera e divulgar na página no prazo previsto no edital\n- reabrir o formulário de matrícula no período definido no edital\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula e caso ainda haja vagas remanescentes, repetir o procedimento convocação e matrícula da 2ª lista de espera\n- conferir se todos os documentos enviados para a matrícula estão corretos e salvar na pasta compartilhada svgrad - Ingresso - Transferência Interna (ano)\n- fazer a matrícula no Júpiter (no curso) conforme procedimentos da matrícula listas abaixo\n- enviar e-mail aos novos alunos com as orientações sobre a matrícula em disciplinas (ver modelo nos enviados do grad@ com o assunto \"Orientações\n- Matrícula transferência interna\"\n- cadastrar o número de vagas ocupadas\n\n## Procedimentos da matrícula:\n\n- Júpiter - Administrativo &gt; Inscrição em Cursos - Seleciona unidade, curso e complemento, deixa o campo resultado sem preenchimento, clica em buscar\n- clica em incluir, preenche o NUSP do aluno, seleciona o tipo \"Transf USP\", preenche o campo data da inscrição com a data da inscrição estabelecida\n\n<!-- image -->\n\n[Página 5]\nno edital (pode ser o primeiro dia), clica em salvar\n\n<!-- image -->\n\n- seleciona a linha em que consta o aluno e clica em parecer, preenche o campo resultado com \"aceito\", indica no campo data da seleção o dia da divulgação do resultado, no tipo de avaliação indica análise de currículo, informa o NUSP do presidente da CG no campo responsável e na descrição pode colocar somente \"aprovado\", clicar em salvar\n- assim que o aluno encaminhar a grade horária assinada pelo coordenador,\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que acontece se sobrarem vagas após a primeira convocação de matrícula?",
+          "answer": "Caso haja vagas remanescentes, devem ser verificados os próximos candidatos, realizada a convocação de matrícula da 1ª lista de espera e a divulgação na página dentro do prazo previsto no edital.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona o processo de preenchimento de vagas após a primeira lista de espera?",
+          "answer": "Após o término do prazo da 1ª lista, verifica-se se todos os convocados efetuaram a matrícula; se ainda houver vagas remanescentes, repete-se o procedimento de convocação e matrícula para a 2ª lista de espera.",
+          "source_page": 4
+        },
+        {
+          "question": "Onde devem ser salvos os documentos de matrícula conferidos?",
+          "answer": "Os documentos devem ser salvos na pasta compartilhada svgrad - Ingresso - Transferência Interna (ano).",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a orientação para a comunicação com os novos alunos após a matrícula no Júpiter?",
+          "answer": "Deve-se enviar um e-mail aos novos alunos com orientações sobre a matrícula em disciplinas, utilizando o modelo disponível nos enviados do grad@ com o assunto 'Orientações - Matrícula transferência interna'.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais informações devem ser preenchidas no Júpiter para a inscrição em cursos de transferência interna?",
+          "answer": "Deve-se selecionar a unidade, curso e complemento, deixar o campo resultado em branco, clicar em buscar, incluir o NUSP do aluno, selecionar o tipo 'Transf USP' e preencher a data da inscrição conforme estabelecido no edital.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual data deve ser utilizada no campo 'data da inscrição' no sistema Júpiter?",
+          "answer": "Deve ser utilizada a data da inscrição estabelecida no edital, podendo ser o primeiro dia.",
+          "source_page": 5
+        },
+        {
+          "question": "Como deve ser preenchido o parecer de aceitação do aluno no sistema?",
+          "answer": "Deve-se selecionar a linha do aluno, clicar em parecer, preencher o resultado como 'aceito', indicar a data da divulgação do resultado no campo 'data da seleção', definir o tipo de avaliação como 'análise de currículo' e informar o NUSP do presidente da CG no campo responsável.",
+          "source_page": 5
+        },
+        {
+          "question": "O que pode ser escrito no campo de descrição do parecer do aluno?",
+          "answer": "No campo de descrição, pode ser colocado somente 'aprovado'.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual a etapa final mencionada após a emissão do parecer de aceitação?",
+          "answer": "O processo prossegue assim que o aluno encaminhar a grade horária assinada pelo coordenador.",
+          "source_page": 5
+        },
+        {
+          "question": "Além da matrícula no sistema, qual registro administrativo deve ser feito sobre as vagas?",
+          "answer": "Deve-se cadastrar o número de vagas ocupadas.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Transferência interna__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\nno edital (pode ser o primeiro dia), clica em salvar\n\n<!-- image -->\n\n- seleciona a linha em que consta o aluno e clica em parecer, preenche o campo resultado com \"aceito\", indica no campo data da seleção o dia da divulgação do resultado, no tipo de avaliação indica análise de currículo, informa o NUSP do presidente da CG no campo responsável e na descrição pode colocar somente \"aprovado\", clicar em salvar\n- assim que o aluno encaminhar a grade horária assinada pelo coordenador,\n\n<!-- image -->\n\n[Página 6]\nefetuar a matrícula dele nas disciplinas, se houver vagas.\n\n- quando o aluno não tem o requisito, não é necessário deixar a matrícula pendente para análise da CoC. A secretária do curso pode finalizar a matrícula porque o coordenador assinou a grade, autorizando a matrícula.",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser preenchido no campo 'resultado' ao emitir o parecer do aluno?",
+          "answer": "O campo resultado deve ser preenchido com a palavra 'aceito'.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual data deve ser indicada no campo 'data da seleção' durante o preenchimento do parecer?",
+          "answer": "Deve ser indicado o dia da divulgação do resultado.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual tipo de avaliação deve ser indicado no sistema ao processar o parecer do aluno?",
+          "answer": "Deve ser indicado 'análise de currículo'.",
+          "source_page": 5
+        },
+        {
+          "question": "Quem deve ser informado no campo 'responsável' ao preencher o parecer?",
+          "answer": "Deve ser informado o NUSP do presidente da CG.",
+          "source_page": 5
+        },
+        {
+          "question": "O que pode ser escrito no campo de descrição do parecer do aluno?",
+          "answer": "No campo de descrição, pode ser colocado somente 'aprovado'.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual a condição para que a matrícula do aluno nas disciplinas seja efetuada?",
+          "answer": "A matrícula é efetuada assim que o aluno encaminhar a grade horária assinada pelo coordenador, desde que haja vagas.",
+          "source_page": 5
+        },
+        {
+          "question": "O que acontece quando o aluno não possui o requisito para a disciplina?",
+          "answer": "Não é necessário deixar a matrícula pendente para análise da CoC.",
+          "source_page": 6
+        },
+        {
+          "question": "Quem pode finalizar a matrícula do aluno que não possui o requisito, mas tem a grade assinada?",
+          "answer": "A secretária do curso pode finalizar a matrícula.",
+          "source_page": 6
+        },
+        {
+          "question": "Por que a secretária do curso pode finalizar a matrícula mesmo sem o requisito do aluno?",
+          "answer": "Porque o coordenador assinou a grade, autorizando a matrícula.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual a ação final após preencher as informações de parecer do aluno no sistema?",
+          "answer": "Deve-se clicar em salvar.",
+          "source_page": 5
+        }
+      ]
+    }
+  ]
+}

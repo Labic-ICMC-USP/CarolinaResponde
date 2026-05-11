@@ -1,0 +1,66 @@
+{
+  "doc_name": "Aluno especial convênio USP, UNESP e UNICAMP",
+  "source_path": "data\\Manual SVGRAD\\Aluno especial convênio USP, UNESP e UNICAMP.docx",
+  "chunks": [
+    {
+      "chunk_id": "Aluno especial convênio USP, UNESP e UNICAMP__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Aluno especial convênio USP, UNESP e UNICAMP\n\n## Legislação:\n\nPrograma de intercâmbio acadêmico entre as universidades estaduais paulistas (pasta compartilhada svgrad - Legislações)\n\n- Estudantes da UNESP e UNICAMP podem solicitar matrícula por meio do Convênio entre as universidades paulistas (UNESP, UNICAMP e USP).\n- Definir um período para o prazo de envio dos documentos e atualizar a informação na página.\n- O interessado deverá encaminhar os documentos a seguir ao e-mail apoiocg@icmc.usp.br para análise da Comissão de Graduação do ICMC.:\n\n1) Ofício da universidade de origem solicitando vaga em disciplinas do ICMC, endereçada ao presidente da Comissão de Graduação do ICMC-USP, Prof. Leandro Fiorini Aurichi, e que contenha nome completo do estudante interessado, curso, plano de estudos com as disciplinas que pretende cursar através do Programa de Intercâmbio Acadêmico entre as Universidades Estaduais Paulistas e o período (1º. Semestre de 2025);\n\n2) Declaração que está regularmente matriculado;\n\n## 3) Histórico escolar;\n\n## 4 RG\n\n- Assim que receber os documentos, efetuar a conferência e verificar se há vaga nas disciplinas requeridas\n- Enviar a solicitação à CG para análise.Pode ser ad referendum.\n- conferir se o aluno já possui dados pessoais cadastrados no Júpiter. Se não tiver, precisa cadastrar para poder fazer a matrícula.\n- Em seguida, cadastrar vagas específicas para aluno especial nas turmas das disciplinas requeridas.\n- Efetuar a matrícula dos alunos nas disciplinas. Administrativo - Inscrição de alunos especiais. Informar a disciplina, código da turma, e escolher o tipo Especial. Em seguida clicar em Incluir para incluir a turma específica e salvar. Clicar na linha correspondente da turma e clicar na aba inscritos. Clicar em incluir para incluir o aluno, preencher o NUSP e escolher o tipo Especial e depois cadastrar o parecer favorável.\n- Emitir o atestado de matrícula (Júpiter - Aluno &gt; Consultas &gt; Atestado de Matrícula(Aluno Especial e Intercâmbio de Graduação) e enviar por e-mail ao aluno juntamente com as orientações sobre início das aulas, local, acesso ao ICMC e ao sistema Júpiter\n- Enviar a relação dos alunos com inscrição deferida ao Apoio Administrativo para liberação de QR Code para acesso aos prédios do ICMC.\n\n[Página 2]\n- Emitir o histórico no final do semestre e enviar por e-mail quando o aluno solicitar.",
+      "qa_pairs": [
+        {
+          "question": "Quem pode solicitar matrícula como aluno especial através do convênio entre as universidades paulistas?",
+          "answer": "Estudantes da UNESP e UNICAMP podem solicitar matrícula por meio do Convênio entre as universidades paulistas (UNESP, UNICAMP e USP).",
+          "source_page": 1
+        },
+        {
+          "question": "Para qual e-mail devem ser encaminhados os documentos para análise da Comissão de Graduação do ICMC?",
+          "answer": "Os documentos devem ser encaminhados ao e-mail apoiocg@icmc.usp.br.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais documentos são necessários para solicitar a vaga em disciplinas do ICMC via convênio?",
+          "answer": "São necessários: 1) Ofício da universidade de origem solicitando a vaga (endereçado ao presidente da Comissão de Graduação do ICMC-USP, Prof. Leandro Fiorini Aurichi), contendo nome completo do estudante, curso, plano de estudos e período; 2) Declaração de matrícula regular; 3) Histórico escolar; 4) RG.",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve constar obrigatoriamente no ofício da universidade de origem?",
+          "answer": "O ofício deve conter o nome completo do estudante interessado, o curso, o plano de estudos com as disciplinas que pretende cursar através do Programa de Intercâmbio Acadêmico entre as Universidades Estaduais Paulistas e o período (ex: 1º Semestre de 2025).",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece se o aluno especial não possuir dados pessoais cadastrados no sistema Júpiter?",
+          "answer": "Se o aluno não possuir dados cadastrados no Júpiter, é necessário cadastrá-lo para que a matrícula possa ser efetuada.",
+          "source_page": 1
+        },
+        {
+          "question": "Como é feita a inscrição de alunos especiais nas turmas de disciplinas?",
+          "answer": "O administrativo deve informar a disciplina, o código da turma, escolher o tipo 'Especial', clicar em 'Incluir' para a turma específica e salvar. Depois, na aba de inscritos, deve-se incluir o aluno preenchendo o NUSP, escolher o tipo 'Especial' e cadastrar o parecer favorável.",
+          "source_page": 1
+        },
+        {
+          "question": "Como o aluno especial recebe a confirmação de sua matrícula e as orientações iniciais?",
+          "answer": "O ICMC emite o atestado de matrícula via sistema Júpiter e o envia por e-mail ao aluno, juntamente com orientações sobre o início das aulas, local, acesso ao ICMC e ao sistema Júpiter.",
+          "source_page": 1
+        },
+        {
+          "question": "Como é feito o controle de acesso aos prédios do ICMC para alunos com inscrição deferida?",
+          "answer": "A relação dos alunos com inscrição deferida é enviada ao Apoio Administrativo para a liberação de QR Code para acesso aos prédios do ICMC.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem é o atual presidente da Comissão de Graduação do ICMC-USP para quem os ofícios devem ser endereçados?",
+          "answer": "O presidente da Comissão de Graduação do ICMC-USP é o Prof. Leandro Fiorini Aurichi.",
+          "source_page": 1
+        },
+        {
+          "question": "Como o aluno especial obtém o seu histórico escolar ao final do semestre?",
+          "answer": "O histórico é emitido ao final do semestre e enviado por e-mail quando o aluno solicitar.",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

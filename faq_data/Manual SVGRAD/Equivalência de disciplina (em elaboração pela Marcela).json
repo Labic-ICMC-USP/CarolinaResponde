@@ -1,0 +1,486 @@
+{
+  "doc_name": "Equivalência de disciplina (em elaboração pela Marcela)",
+  "source_path": "data\\Manual SVGRAD\\Equivalência de disciplina (em elaboração pela Marcela).docx",
+  "chunks": [
+    {
+      "chunk_id": "Equivalência de disciplina (em elaboração pela Marcela)__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## mmaia@icmc.usp.br\n\n## Equivalência de disciplina\n\n## Legislação:\n\nRESOLUÇÃO CoG Nº 4844/ 2001 - Aproveitamento de estudos e dispensa de disciplinas dos ingressantes em curso da USP, por exame de transferência.\n\nRESOLUÇÃO CoG Nº 7854/2019 - Extraordinário Aproveitamento nos Estudos\n\n## RESOLUÇÃO CoG Nº 6612/2013 - Dispõe sobre Aproveitamento de Estudos (AE) e Dispensa por provas de Suficiência (DS) nos cursos de graduação da USP.\n\n## Artigo 79 do Regimento da USP\n\n- A tabela só pode ser atualizada se a relação de equivalência for aprovada pelo Departamento responsável pela disciplina e pela CoC do curso para o qual a disciplina é oferecida.\n- 1- As solicitações de equivalência (solicitação utilizando disciplinas de códigos diferentes), inclusão de disciplinas cursadas em programas anteriores (implica em disciplinas de mesmo código) e de inclusão de optativas (disciplinas que não fazem parte da grade do aluno e o solicitante deseja que que ela seja considerada optativa no curso atual) dos alunos de graduação do ICMC devem ser feitas por meio do Sistema SEED (https://seed.icmc.usp.br). As dúvidas de acesso podem ser sanadas no Manual do SEED (\n\nhttps://web.icmc.usp.br/SVGRAD/Manual%20Sistema%20SEED%20alunos.pdf)\n\ne pelo Serviço de Graduação no e-mail da respectiva secretaria do curso.\n\n## · EQUIVALÊNCIA\n\n- 2- Após ser feita a solicitação do aluno pelo SEED, receberemos a notificação no e-mail da secretaria do curso.\n- 3- Os documentos enviados devem ser conferidos.\n- a. Observar/Verificar: i) Se a disciplina cursada foi obtida aprovação. Caso o solicitante não tenha obtido aprovação ou a disciplina ainda não tenha sido validada, fazer a devolução ao solicitante, pois desta forma não possibilita o cadastro da disciplina no sistema Júpiter. ii) Se a ementa presentada trata-se somente da ementa das disciplinas envolvidas na solicitação, não é recomendável que o aluno anexe a ementa de todas as disciplinas do curso na solicitação.\n\n[Página 2]\n- b. Caso precise de alguma correção, a solicitação deve ser devolvida ao solicitante com a justificativa de que não está em conformidade.\n- c. Caso o documento esteja \"ok\", deve ser encaminhado para apreciação ou seguirá para cadastro, caso trate de uma solicitação de equivalência automática.\n\n<!-- image -->\n\nOBS: Existem dois tipos de equivalência: Automática e não automática. A automática trata-se do envolvimento de duas disciplinas que são consideradas equivalentes por já ter prévia aprovação do departamento responsável pela disciplina a ser solicitada. A informação e listagem das disciplinas que possuem equivalência automática estão na tabela na página da graduação no link https://web.icmc.usp.br/SVGRAD/Tabela%20de%20equival%C3%AAncias%202024.xls. A não automática, são todas as solicitações de equivalências que não conste na tabela mencionada acima.\n\n- 4- Caso a solicitação trate de uma equivalência automática, esta poderá ser cadastrada no sistema Júpiter (seguir as instruções presentes no item 8) e finalizada no SEED com o parecer \"equivalência automática, cadastrada no sistema Júpiter\". Para conferir se é automática ou não deverá ser consultada a tabela que está disponível no link https://web.icmc.usp.br/SVGRAD/Tabela%20de%20equival%C3%AAncias%202024.xls.\n- 5- Caso os documentos estejam \"ok\" e não seja uma solicitação de equivalência automática, deverá ser encaminhada para análise do departamento responsável. No SEED ao clicar no botão \"Encaminhar para Departamento\" aparecerá as opções de qual departamento deverá ser enviado. Após selecionado o departamento, clicar no botão \"exibir e enviar\", pois a mensagem modelo já vai estar escrita para o envio .",
+      "qa_pairs": [
+        {
+          "question": "Como devo solicitar a equivalência de disciplinas, inclusão de disciplinas de programas anteriores ou inclusão de optativas no ICMC?",
+          "answer": "As solicitações devem ser feitas por meio do Sistema SEED, disponível no endereço https://seed.icmc.usp.br.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde posso encontrar ajuda caso tenha dúvidas sobre o acesso ao Sistema SEED?",
+          "answer": "As dúvidas de acesso podem ser sanadas no Manual do SEED (https://web.icmc.usp.br/SVGRAD/Manual%20Sistema%20SEED%20alunos.pdf) ou através do e-mail da secretaria do respectivo curso no Serviço de Graduação.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são as condições necessárias para que a tabela de equivalência de disciplinas seja atualizada?",
+          "answer": "A tabela só pode ser atualizada se a relação de equivalência for aprovada pelo Departamento responsável pela disciplina e pela CoC do curso para o qual a disciplina é oferecida.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece se o aluno solicitar equivalência de uma disciplina na qual não obteve aprovação?",
+          "answer": "Caso o solicitante não tenha obtido aprovação ou a disciplina ainda não tenha sido validada, a solicitação será devolvida ao aluno, pois isso impossibilita o cadastro da disciplina no sistema Júpiter.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a recomendação sobre o anexo de ementas no momento da solicitação de equivalência?",
+          "answer": "Recomenda-se que o aluno anexe apenas a ementa das disciplinas envolvidas na solicitação, e não a ementa de todas as disciplinas do curso.",
+          "source_page": 1
+        },
+        {
+          "question": "O que ocorre quando uma solicitação de equivalência precisa de correções?",
+          "answer": "A solicitação deve ser devolvida ao solicitante com a justificativa de que não está em conformidade.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a diferença entre equivalência automática e não automática?",
+          "answer": "A equivalência automática envolve disciplinas que já possuem prévia aprovação do departamento responsável. A não automática engloba todas as solicitações de equivalências que não constam na tabela de equivalências.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde posso consultar a lista de disciplinas que possuem equivalência automática?",
+          "answer": "A listagem das disciplinas com equivalência automática está disponível na tabela na página da graduação, no link: https://web.icmc.usp.br/SVGRAD/Tabela%20de%20equival%C3%AAncias%202024.xls.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é processada no sistema uma solicitação de equivalência automática?",
+          "answer": "Ela é cadastrada no sistema Júpiter e finalizada no SEED com o parecer 'equivalência automática, cadastrada no sistema Júpiter'.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual o procedimento para solicitações de equivalência que não são automáticas e estão com a documentação correta?",
+          "answer": "A solicitação deve ser encaminhada para análise do departamento responsável através do botão 'Encaminhar para Departamento' no SEED, selecionando o departamento correspondente e clicando em 'exibir e enviar'.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Equivalência de disciplina (em elaboração pela Marcela)__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- b. Caso precise de alguma correção, a solicitação deve ser devolvida ao solicitante com a justificativa de que não está em conformidade.\n- c. Caso o documento esteja \"ok\", deve ser encaminhado para apreciação ou seguirá para cadastro, caso trate de uma solicitação de equivalência automática.\n\n<!-- image -->\n\nOBS: Existem dois tipos de equivalência: Automática e não automática. A automática trata-se do envolvimento de duas disciplinas que são consideradas equivalentes por já ter prévia aprovação do departamento responsável pela disciplina a ser solicitada. A informação e listagem das disciplinas que possuem equivalência automática estão na tabela na página da graduação no link https://web.icmc.usp.br/SVGRAD/Tabela%20de%20equival%C3%AAncias%202024.xls. A não automática, são todas as solicitações de equivalências que não conste na tabela mencionada acima.\n\n- 4- Caso a solicitação trate de uma equivalência automática, esta poderá ser cadastrada no sistema Júpiter (seguir as instruções presentes no item 8) e finalizada no SEED com o parecer \"equivalência automática, cadastrada no sistema Júpiter\". Para conferir se é automática ou não deverá ser consultada a tabela que está disponível no link https://web.icmc.usp.br/SVGRAD/Tabela%20de%20equival%C3%AAncias%202024.xls.\n- 5- Caso os documentos estejam \"ok\" e não seja uma solicitação de equivalência automática, deverá ser encaminhada para análise do departamento responsável. No SEED ao clicar no botão \"Encaminhar para Departamento\" aparecerá as opções de qual departamento deverá ser enviado. Após selecionado o departamento, clicar no botão \"exibir e enviar\", pois a mensagem modelo já vai estar escrita para o envio .\n\n[Página 3]\n<!-- image -->\n\n- 6- Após análise do departamento responsável, a solicitação é encaminhada para apreciação da CoC do curso do solicitante.No SEED ao clicar no botão \"encaminhar para a Comissão do Curso (CoC)\", na próxima tela apresentará as opções de qual departamento deverá ser enviado a solicitação. Após selecionada a CoC, clicar no botão \"exibir e enviar\", pois a mensagem modelo já vai estar escrita para o envio .\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que acontece se uma solicitação de equivalência precisar de correções?",
+          "answer": "A solicitação deve ser devolvida ao solicitante com a justificativa de que não está em conformidade.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são os dois tipos de equivalência existentes?",
+          "answer": "Existem a equivalência Automática e a não automática.",
+          "source_page": 2
+        },
+        {
+          "question": "O que caracteriza uma equivalência automática?",
+          "answer": "Trata-se do envolvimento de duas disciplinas que são consideradas equivalentes por já possuírem a prévia aprovação do departamento responsável pela disciplina a ser solicitada.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde posso encontrar a listagem das disciplinas que possuem equivalência automática?",
+          "answer": "A informação e a listagem estão disponíveis na tabela na página da graduação, através do link: https://web.icmc.usp.br/SVGRAD/Tabela%20de%20equival%C3%AAncias%202024.xls.",
+          "source_page": 2
+        },
+        {
+          "question": "O que é considerado uma equivalência não automática?",
+          "answer": "São todas as solicitações de equivalências que não constam na tabela de equivalências automáticas disponível no link da graduação.",
+          "source_page": 2
+        },
+        {
+          "question": "Como deve ser procedido o cadastro de uma equivalência automática no sistema?",
+          "answer": "Ela poderá ser cadastrada no sistema Júpiter e finalizada no SEED com o parecer 'equivalência automática, cadastrada no sistema Júpiter'.",
+          "source_page": 2
+        },
+        {
+          "question": "Para onde é encaminhada a solicitação de equivalência se os documentos estiverem corretos, mas ela não for automática?",
+          "answer": "A solicitação deverá ser encaminhada para análise do departamento responsável.",
+          "source_page": 2
+        },
+        {
+          "question": "Como realizar o encaminhamento de uma solicitação para o departamento no sistema SEED?",
+          "answer": "Deve-se clicar no botão 'Encaminhar para Departamento', selecionar a opção do departamento desejado e, em seguida, clicar no botão 'exibir e enviar'.",
+          "source_page": 2
+        },
+        {
+          "question": "Para quem é encaminhada a solicitação após a análise do departamento responsável?",
+          "answer": "A solicitação é encaminhada para apreciação da Comissão do Curso (CoC) do solicitante.",
+          "source_page": 3
+        },
+        {
+          "question": "Como é feito o envio da solicitação para a CoC no sistema SEED?",
+          "answer": "Deve-se clicar no botão 'encaminhar para a Comissão do Curso (CoC)', selecionar a opção de qual departamento a solicitação deverá ser enviada e clicar no botão 'exibir e enviar'.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Equivalência de disciplina (em elaboração pela Marcela)__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n<!-- image -->\n\n- 6- Após análise do departamento responsável, a solicitação é encaminhada para apreciação da CoC do curso do solicitante.No SEED ao clicar no botão \"encaminhar para a Comissão do Curso (CoC)\", na próxima tela apresentará as opções de qual departamento deverá ser enviado a solicitação. Após selecionada a CoC, clicar no botão \"exibir e enviar\", pois a mensagem modelo já vai estar escrita para o envio .\n\n<!-- image -->\n\n[Página 4]\n<!-- image -->\n\n- 7- Após apreciação da CoC, é colocada a decisão da CoC no sistema SEED e finalizada a solicitação com o despacho da CoC para que o solicitante receba a notificação da decisão..\n\n<!-- image -->\n\n<!-- image -->\n\nExemplo de despacho: \"Aprovado/Reprovado pela CoC-BCC, reunida em 25/06/2025\".\n\n- 8- Caso a solicitação seja aprovada pela CoC do curso do solicitante, deve ser cadastrada equivalência no Sistema Júpiter.\n- 8.1. Caminho no Sistema: Aluno – Requerimento – Dispensa. É",
+      "qa_pairs": [
+        {
+          "question": "Para onde é encaminhada a solicitação após a análise do departamento responsável?",
+          "answer": "A solicitação é encaminhada para apreciação da Comissão do Curso (CoC) do solicitante.",
+          "source_page": 3
+        },
+        {
+          "question": "Como deve ser feito o encaminhamento para a CoC no sistema SEED?",
+          "answer": "O usuário deve clicar no botão 'encaminhar para a Comissão do Curso (CoC)', selecionar o departamento para o qual a solicitação deve ser enviada e, em seguida, clicar no botão 'exibir e enviar'.",
+          "source_page": 3
+        },
+        {
+          "question": "O que acontece após a apreciação da solicitação pela CoC?",
+          "answer": "A decisão da CoC é inserida no sistema SEED e a solicitação é finalizada com o despacho da CoC, para que o solicitante seja notificado da decisão.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o exemplo de despacho utilizado pela CoC para notificar a decisão?",
+          "answer": "Um exemplo de despacho é: 'Aprovado/Reprovado pela CoC-BCC, reunida em 25/06/2025'.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser feito caso a solicitação seja aprovada pela CoC do curso do solicitante?",
+          "answer": "Deve ser cadastrada a equivalência no Sistema Júpiter.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o caminho no Sistema Júpiter para cadastrar a dispensa/equivalência?",
+          "answer": "O caminho é: Aluno – Requerimento – Dispensa.",
+          "source_page": 4
+        },
+        {
+          "question": "Como o solicitante recebe a notificação sobre a decisão da CoC?",
+          "answer": "O solicitante recebe a notificação após a CoC colocar a decisão no sistema SEED e finalizar a solicitação com o despacho.",
+          "source_page": 4
+        },
+        {
+          "question": "É necessário escrever a mensagem de envio ao encaminhar a solicitação para a CoC no SEED?",
+          "answer": "Não, pois ao clicar em 'exibir e enviar', a mensagem modelo já estará escrita para o envio.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem é responsável por analisar a solicitação antes de ela ser enviada para a CoC?",
+          "answer": "A análise inicial é feita pelo departamento responsável.",
+          "source_page": 3
+        },
+        {
+          "question": "Em qual sistema é registrada a decisão final da CoC para que o aluno seja notificado?",
+          "answer": "A decisão é registrada no sistema SEED.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Equivalência de disciplina (em elaboração pela Marcela)__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n<!-- image -->\n\n- 7- Após apreciação da CoC, é colocada a decisão da CoC no sistema SEED e finalizada a solicitação com o despacho da CoC para que o solicitante receba a notificação da decisão..\n\n<!-- image -->\n\n<!-- image -->\n\nExemplo de despacho: \"Aprovado/Reprovado pela CoC-BCC, reunida em 25/06/2025\".\n\n- 8- Caso a solicitação seja aprovada pela CoC do curso do solicitante, deve ser cadastrada equivalência no Sistema Júpiter.\n- 8.1. Caminho no Sistema: Aluno – Requerimento – Dispensa. É\n\n[Página 5]\nnecessário inserir o nºUSP do solicitante, selecionar o programa do aluno (o programa em que está tratando a equivalência é o programa mais recente, sendo o número 1 o primeiro programa, número 2 o segundo programa e assim sucessivamente de modo que o maior programa é o mais recente), e clicar em \"buscar\".\n\n<!-- image -->\n\n- 8.2. Temos 5 tipos principais de equivalências: USP, Específica, Externa Dispensa USP-Pós e Dispensa sem equivalência.\n- a) Dispensa USP – Aluno deve ter cursado uma disciplina no curso da USP anterior ao curso que está matriculado atualmente.\n- b) Dispensa Específica - Aluno deve ter cursado uma disciplina na USP, mas durante o curso que está matriculado atualmente, com um código diferente do programa atual em que está matriculado, sendo considerada uma disciplina de \"outro curso\".\n- c) Dispensa Externa – Aluno deve ter cursado disciplina fora da USP, em outra universidade seja Instituição brasileira ou do exterior.\n- d) Dispensa USP-Pós – O aluno deve ter cursado e obtido aprovação na disciplina da pós-graduação que cursou como aluno especial da USP.\n- e) Dispensa sem Equivalência – para as disciplinas que o aluno consegue dispensa em uma ou mais disciplinas por ter tido alto desempenho acadêmico na prova da transferência externa ou por análise de mérito feita pela CoC (ocorre geralmente para ingressantes: Portador de Diploma e Transferência interna e externa).",
+      "qa_pairs": [
+        {
+          "question": "Como o solicitante é notificado sobre a decisão da CoC?",
+          "answer": "A decisão da CoC é colocada no sistema SEED e a solicitação é finalizada com o despacho da CoC para que o solicitante receba a notificação.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser feito após a aprovação de uma solicitação pela CoC do curso?",
+          "answer": "Deve ser cadastrada a equivalência no Sistema Júpiter.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o caminho no Sistema Júpiter para cadastrar a dispensa de disciplina?",
+          "answer": "O caminho é: Aluno – Requerimento – Dispensa.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais informações são necessárias para buscar o aluno no sistema de dispensa do Júpiter?",
+          "answer": "É necessário inserir o nºUSP do solicitante e selecionar o programa do aluno.",
+          "source_page": 5
+        },
+        {
+          "question": "Como identificar o programa mais recente de um aluno no sistema de equivalências?",
+          "answer": "O programa mais recente é aquele com o maior número (por exemplo, se houver programas 1 e 2, o número 2 é o mais recente).",
+          "source_page": 5
+        },
+        {
+          "question": "Quais são os 5 tipos principais de equivalências disponíveis?",
+          "answer": "Os tipos são: USP, Específica, Externa, Dispensa USP-Pós e Dispensa sem equivalência.",
+          "source_page": 5
+        },
+        {
+          "question": "Quando deve ser utilizada a 'Dispensa USP'?",
+          "answer": "Quando o aluno cursou uma disciplina em um curso da USP anterior ao curso no qual está matriculado atualmente.",
+          "source_page": 5
+        },
+        {
+          "question": "O que caracteriza a 'Dispensa Específica'?",
+          "answer": "Ocorre quando o aluno cursou uma disciplina na USP durante o curso atual, mas com um código diferente do programa em que está matriculado, sendo considerada uma disciplina de 'outro curso'.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual a diferença entre Dispensa Externa e Dispensa USP-Pós?",
+          "answer": "A Dispensa Externa é para disciplinas cursadas fora da USP (instituições brasileiras ou estrangeiras), enquanto a Dispensa USP-Pós é para disciplinas de pós-graduação cursadas como aluno especial da USP.",
+          "source_page": 5
+        },
+        {
+          "question": "Em quais situações ocorre a 'Dispensa sem Equivalência'?",
+          "answer": "Ocorre geralmente para ingressantes (Portador de Diploma e Transferência interna e externa) que conseguem dispensa por alto desempenho acadêmico na prova de transferência externa ou por análise de mérito feita pela CoC.",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "chunk_id": "Equivalência de disciplina (em elaboração pela Marcela)__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\nnecessário inserir o nºUSP do solicitante, selecionar o programa do aluno (o programa em que está tratando a equivalência é o programa mais recente, sendo o número 1 o primeiro programa, número 2 o segundo programa e assim sucessivamente de modo que o maior programa é o mais recente), e clicar em \"buscar\".\n\n<!-- image -->\n\n- 8.2. Temos 5 tipos principais de equivalências: USP, Específica, Externa Dispensa USP-Pós e Dispensa sem equivalência.\n- a) Dispensa USP – Aluno deve ter cursado uma disciplina no curso da USP anterior ao curso que está matriculado atualmente.\n- b) Dispensa Específica - Aluno deve ter cursado uma disciplina na USP, mas durante o curso que está matriculado atualmente, com um código diferente do programa atual em que está matriculado, sendo considerada uma disciplina de \"outro curso\".\n- c) Dispensa Externa – Aluno deve ter cursado disciplina fora da USP, em outra universidade seja Instituição brasileira ou do exterior.\n- d) Dispensa USP-Pós – O aluno deve ter cursado e obtido aprovação na disciplina da pós-graduação que cursou como aluno especial da USP.\n- e) Dispensa sem Equivalência – para as disciplinas que o aluno consegue dispensa em uma ou mais disciplinas por ter tido alto desempenho acadêmico na prova da transferência externa ou por análise de mérito feita pela CoC (ocorre geralmente para ingressantes: Portador de Diploma e Transferência interna e externa).\n\n[Página 6]\n<!-- image -->\n\n- f) Após escolhido a opção do tipo de dispensa, deve ser escolhida a disciplina do programa atual envolvida na solicitação de equivalência do aluno e clicar no botão \"avançar\":\n- g) A próxima tela tratará de selecionar a disciplina que o solicitante cursou. Após selecionar a disciplina cursada ou as disciplinas cursadas na solicitação, clicar o botão \"salvar\".\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quais informações são necessárias para iniciar a busca de equivalência no sistema?",
+          "answer": "É necessário inserir o nºUSP do solicitante, selecionar o programa do aluno (sendo o maior número o programa mais recente) e clicar em 'buscar'.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais são os 5 tipos principais de equivalências disponíveis?",
+          "answer": "Os tipos são: USP, Específica, Externa, Dispensa USP-Pós e Dispensa sem equivalência.",
+          "source_page": 5
+        },
+        {
+          "question": "Quando deve ser solicitada a 'Dispensa USP'?",
+          "answer": "A Dispensa USP deve ser solicitada quando o aluno cursou uma disciplina em um curso da USP anterior ao curso em que está matriculado atualmente.",
+          "source_page": 5
+        },
+        {
+          "question": "O que caracteriza a 'Dispensa Específica'?",
+          "answer": "Ocorre quando o aluno cursou uma disciplina na USP durante o curso atual, porém com um código diferente do programa em que está matriculado, sendo a disciplina considerada de 'outro curso'.",
+          "source_page": 5
+        },
+        {
+          "question": "Como funciona a 'Dispensa Externa'?",
+          "answer": "A Dispensa Externa é aplicada quando o aluno cursou a disciplina fora da USP, em outra universidade, seja ela uma instituição brasileira ou do exterior.",
+          "source_page": 5
+        },
+        {
+          "question": "Quem pode solicitar a 'Dispensa USP-Pós'?",
+          "answer": "O aluno que cursou e obteve aprovação em disciplina de pós-graduação da USP na condição de aluno especial.",
+          "source_page": 5
+        },
+        {
+          "question": "O que é a 'Dispensa sem Equivalência' e para quem ela geralmente se aplica?",
+          "answer": "É a dispensa de uma ou mais disciplinas devido ao alto desempenho acadêmico na prova de transferência externa ou por análise de mérito da CoC. Aplica-se geralmente a ingressantes Portadores de Diploma e Transferências internas e externas.",
+          "source_page": 5
+        },
+        {
+          "question": "Como identificar o programa mais recente do aluno no sistema de equivalência?",
+          "answer": "O programa mais recente é identificado pelo maior número (ex: número 1 é o primeiro, número 2 o segundo, e assim sucessivamente).",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o procedimento após escolher o tipo de dispensa no sistema?",
+          "answer": "Deve-se escolher a disciplina do programa atual envolvida na solicitação de equivalência e clicar no botão 'avançar'.",
+          "source_page": 6
+        },
+        {
+          "question": "Como finalizar a seleção da disciplina cursada na solicitação de equivalência?",
+          "answer": "Após selecionar a disciplina ou as disciplinas que o solicitante cursou na tela correspondente, deve-se clicar no botão 'salvar'.",
+          "source_page": 6
+        }
+      ]
+    },
+    {
+      "chunk_id": "Equivalência de disciplina (em elaboração pela Marcela)__c5",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_text": "[Página 6]\n<!-- image -->\n\n- f) Após escolhido a opção do tipo de dispensa, deve ser escolhida a disciplina do programa atual envolvida na solicitação de equivalência do aluno e clicar no botão \"avançar\":\n- g) A próxima tela tratará de selecionar a disciplina que o solicitante cursou. Após selecionar a disciplina cursada ou as disciplinas cursadas na solicitação, clicar o botão \"salvar\".\n\n<!-- image -->\n\n[Página 7]\n<!-- image -->\n\nObs: Caso seja uma solicitação de uma disciplina cursada fora da USP, aparecerá na tela locais para ser inseridas as informações da(s) disciplina(s) cursada(s) pelo solicitante, que deverá ser preenchida com base no histórico e ementas apresentadas na solicitação enviada pelo SEED. Após preenchidas todas as informações, clicar em \"salvar\".\n\nObs1: O período a ser colocado sempre será o período que o aluno solicitou a equivalência e não quando ele cursou a disciplina na Universidade de origem. Pode ocorrer dele ter cursado num período anterior ao que ele ingressou no curso da USP e poderá gerar inconsistência e erro no cadastro.\n\nObs2: Caso sejam usadas duas ou mais disciplinas (da universidade de origem do aluno) para a equivalência de uma disciplina na USP. Esta tela abaixo deverá ser preenchida duas vezes ou mais com as informações das respectivas disciplinas utilizadas na solicitação do estudante.",
+      "qa_pairs": [
+        {
+          "question": "Como devo proceder após escolher a opção do tipo de dispensa no sistema?",
+          "answer": "O usuário deve escolher a disciplina do programa atual envolvida na solicitação de equivalência do aluno e clicar no botão 'avançar'.",
+          "source_page": 6
+        },
+        {
+          "question": "O que deve ser feito na tela seguinte à seleção da disciplina do programa atual?",
+          "answer": "O solicitante deve selecionar a disciplina ou as disciplinas que cursou e, em seguida, clicar no botão 'salvar'.",
+          "source_page": 6
+        },
+        {
+          "question": "O que acontece no sistema quando a disciplina cursada é de fora da USP?",
+          "answer": "Aparecerão na tela locais para a inserção das informações da(s) disciplina(s) cursada(s), que devem ser preenchidas com base no histórico e ementas apresentadas na solicitação enviada pelo SEED.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual a ação final após preencher as informações de disciplinas cursadas fora da USP?",
+          "answer": "Após preencher todas as informações, deve-se clicar em 'salvar'.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual período deve ser informado ao solicitar a equivalência de uma disciplina?",
+          "answer": "Deve ser colocado sempre o período que o aluno solicitou a equivalência, e não o período em que ele cursou a disciplina na universidade de origem.",
+          "source_page": 7
+        },
+        {
+          "question": "O que pode ocorrer se for informado o período em que o aluno cursou a disciplina na universidade de origem em vez do período da solicitação?",
+          "answer": "Caso o aluno tenha cursado a disciplina em um período anterior ao seu ingresso no curso da USP, isso poderá gerar inconsistência e erro no cadastro.",
+          "source_page": 7
+        },
+        {
+          "question": "Como proceder se forem utilizadas duas ou mais disciplinas de outra universidade para a equivalência de uma única disciplina na USP?",
+          "answer": "A tela de informações das disciplinas deve ser preenchida duas ou mais vezes, contemplando as informações de cada disciplina utilizada na solicitação do estudante.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais documentos servem de base para o preenchimento de disciplinas cursadas fora da USP?",
+          "answer": "O preenchimento deve ser feito com base no histórico e nas ementas apresentadas na solicitação enviada pelo SEED.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual o botão utilizado para prosseguir após a escolha da disciplina do programa atual na solicitação de equivalência?",
+          "answer": "O botão 'avançar'.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual o botão utilizado para finalizar a seleção da disciplina cursada?",
+          "answer": "O botão 'salvar'.",
+          "source_page": 6
+        }
+      ]
+    },
+    {
+      "chunk_id": "Equivalência de disciplina (em elaboração pela Marcela)__c6",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_text": "[Página 7]\n<!-- image -->\n\nObs: Caso seja uma solicitação de uma disciplina cursada fora da USP, aparecerá na tela locais para ser inseridas as informações da(s) disciplina(s) cursada(s) pelo solicitante, que deverá ser preenchida com base no histórico e ementas apresentadas na solicitação enviada pelo SEED. Após preenchidas todas as informações, clicar em \"salvar\".\n\nObs1: O período a ser colocado sempre será o período que o aluno solicitou a equivalência e não quando ele cursou a disciplina na Universidade de origem. Pode ocorrer dele ter cursado num período anterior ao que ele ingressou no curso da USP e poderá gerar inconsistência e erro no cadastro.\n\nObs2: Caso sejam usadas duas ou mais disciplinas (da universidade de origem do aluno) para a equivalência de uma disciplina na USP. Esta tela abaixo deverá ser preenchida duas vezes ou mais com as informações das respectivas disciplinas utilizadas na solicitação do estudante.\n\n[Página 8]\n<!-- image -->\n\n- h) Após este passo, o requerimento gerado aparecerá na tela apresentada na imagem após o item \"c\" e deverá ser dado o parecer. Para isso, será necessário clicar em cima da seta amarela da tela das solicitações de dispensa.\n- i) Será aberta a tela para inserir as informações do parecer (data: que pode ser a data do dia do cadastro/ Parecer: deve ser favorável/ descrição do parecer: pode ser usado o texto semelhante ao apresentado no item 7). Inserir o NUSP do presidente da CG como responsável pelo parecer. Após isso, clique no botão \"salvar\".\n3. 9- Atualização do \"caderninho\" do aluno.\n\n<!-- image -->\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito quando a solicitação de disciplina cursada é de fora da USP?",
+          "answer": "Devem ser inseridas as informações da(s) disciplina(s) cursada(s) pelo solicitante, preenchendo os campos com base no histórico e ementas apresentadas na solicitação enviada pelo SEED, e depois clicar em 'salvar'.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual período deve ser informado ao solicitar a equivalência de uma disciplina?",
+          "answer": "Deve ser colocado sempre o período que o aluno solicitou a equivalência, e não o período em que ele cursou a disciplina na universidade de origem.",
+          "source_page": 7
+        },
+        {
+          "question": "O que acontece se for informado o período em que a disciplina foi cursada na universidade de origem em vez do período da solicitação?",
+          "answer": "Caso o aluno tenha cursado a disciplina em um período anterior ao seu ingresso no curso da USP, isso poderá gerar inconsistência e erro no cadastro.",
+          "source_page": 7
+        },
+        {
+          "question": "Como proceder se forem utilizadas duas ou mais disciplinas de outra universidade para a equivalência de uma única disciplina na USP?",
+          "answer": "A tela de informações das disciplinas deve ser preenchida duas ou mais vezes, com as informações de cada disciplina utilizada na solicitação do estudante.",
+          "source_page": 7
+        },
+        {
+          "question": "Como acessar a tela para dar o parecer em um requerimento de dispensa?",
+          "answer": "É necessário clicar em cima da seta amarela na tela das solicitações de dispensa.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais informações devem ser inseridas na tela de parecer?",
+          "answer": "Devem ser inseridas a data (que pode ser a data do dia do cadastro), o parecer (que deve ser favorável) e a descrição do parecer.",
+          "source_page": 8
+        },
+        {
+          "question": "Quem deve ser indicado como responsável pelo parecer no sistema?",
+          "answer": "Deve-se inserir o NUSP do presidente da CG como responsável pelo parecer.",
+          "source_page": 8
+        },
+        {
+          "question": "O que deve ser feito após preencher as informações do parecer?",
+          "answer": "Após preencher as informações, deve-se clicar no botão 'salvar'.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual a orientação sobre o texto da descrição do parecer?",
+          "answer": "A descrição do parecer pode utilizar um texto semelhante ao apresentado no item 7 do documento.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual a etapa seguinte ao processo de inserção do parecer?",
+          "answer": "A etapa seguinte é a atualização do 'caderninho' do aluno.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "Equivalência de disciplina (em elaboração pela Marcela)__c7",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_text": "[Página 8]\n<!-- image -->\n\n- h) Após este passo, o requerimento gerado aparecerá na tela apresentada na imagem após o item \"c\" e deverá ser dado o parecer. Para isso, será necessário clicar em cima da seta amarela da tela das solicitações de dispensa.\n- i) Será aberta a tela para inserir as informações do parecer (data: que pode ser a data do dia do cadastro/ Parecer: deve ser favorável/ descrição do parecer: pode ser usado o texto semelhante ao apresentado no item 7). Inserir o NUSP do presidente da CG como responsável pelo parecer. Após isso, clique no botão \"salvar\".\n3. 9- Atualização do \"caderninho\" do aluno.\n\n<!-- image -->\n\n<!-- image -->\n\n[Página 9]\n9.1- Os arquivos estão no compartilhamento da graduação – \"Currículos- caderninhos\" - \"Caderninho eletrônico a partir 2016\" – escolher o curso e o ano de ingresso do aluno solicitante – abrir o arquivo correspondente ao aluno e cadastrar as alterações aprovadas e cadastradas no sistema Júpiter e depois salvar o arquivo.\n\nObs: Nenhum aproveitamento de estudos, seja Equivalência ou Inclusão de disciplina entra no cálculo de qualquer média do aluno no histórico escolar.",
+      "qa_pairs": [
+        {
+          "question": "Como deve ser procedido o parecer após a geração do requerimento de dispensa?",
+          "answer": "O usuário deve clicar na seta amarela da tela das solicitações de dispensa para abrir a tela de inserção das informações do parecer.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais informações devem ser inseridas na tela de parecer de dispensa?",
+          "answer": "Devem ser inseridos a data (que pode ser a do dia do cadastro), o parecer (que deve ser favorável) e a descrição do parecer.",
+          "source_page": 8
+        },
+        {
+          "question": "Quem deve ser indicado como responsável pelo parecer no sistema?",
+          "answer": "Deve-se inserir o NUSP do presidente da CG como responsável pelo parecer.",
+          "source_page": 8
+        },
+        {
+          "question": "O que deve ser feito após preencher as informações do parecer?",
+          "answer": "Após preencher as informações, deve-se clicar no botão 'salvar'.",
+          "source_page": 8
+        },
+        {
+          "question": "Onde se localizam os arquivos para atualização do 'caderninho' do aluno?",
+          "answer": "Os arquivos estão no compartilhamento da graduação, no caminho: 'Currículos- caderninhos' -> 'Caderninho eletrônico a partir 2016'.",
+          "source_page": 9
+        },
+        {
+          "question": "Como encontrar o arquivo específico de um aluno para atualizar o caderninho eletrônico?",
+          "answer": "Deve-se escolher o curso e o ano de ingresso do aluno solicitante para então abrir o arquivo correspondente.",
+          "source_page": 9
+        },
+        {
+          "question": "O que deve ser registrado no caderninho eletrônico do aluno?",
+          "answer": "Devem ser cadastradas as alterações que foram aprovadas e já cadastradas no sistema Júpiter.",
+          "source_page": 9
+        },
+        {
+          "question": "Qual a ação final após cadastrar as alterações no arquivo do caderninho do aluno?",
+          "answer": "Após cadastrar as alterações, o arquivo deve ser salvo.",
+          "source_page": 9
+        },
+        {
+          "question": "O aproveitamento de estudos por equivalência entra no cálculo da média do histórico escolar?",
+          "answer": "Não, nenhum aproveitamento de estudos por equivalência entra no cálculo de qualquer média do aluno no histórico escolar.",
+          "source_page": 9
+        },
+        {
+          "question": "A inclusão de disciplina impacta o cálculo das médias no histórico escolar do aluno?",
+          "answer": "Não, a inclusão de disciplina, assim como a equivalência, não entra no cálculo de qualquer média do aluno no histórico escolar.",
+          "source_page": 9
+        }
+      ]
+    }
+  ]
+}

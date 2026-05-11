@@ -1,0 +1,735 @@
+{
+  "doc_name": "Matrícula de ingressantes",
+  "source_path": "data\\Manual SVGRAD\\Matrícula de ingressantes.docx",
+  "chunks": [
+    {
+      "chunk_id": "Matrícula de ingressantes__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Matrícula de ingressantes\n\n## Legislação:\n\nRESOLUÇÃO Nº 4387/1997 - Veda matrícula concomitante em cursos de graduação\n\nRESOLUÇÃO CoG Nº 7954/2020 - Prazo para a apresentação de certificado de conclusão e de histórico escolar do Ensino Médio\n\nRESOLUÇÃO Nº 8725/2024 - Formas de ingresso\n\nPortaria GR nº 7141/2018 - Regras de permissão de acesso aos serviços computacionais\n\n- A PRG define a data das chamadas, das matrículas e das confirmações, informa o SVGRAD e dá orientações sobre a análise dos documentos.\n- A partir de 2025, cada unidade ficou responsável por analisar a matrícula de seus ingressantes, mas a Central de Matrículas da USP ainda continua sendo responsável por tirar as dúvidas dos candidatos e das unidades.\n- A chefia do setor define quais funcionários auxiliarão nesse procedimento, levando em conta as demais atividades do setor que ocorrem no período e a escala de férias da equipe.\n- O prazo e horário de análise devem ser seguidos rigorosamente para não prejudicar o candidato. Como há outras demandas nesse período e é possível que haja bastante interrupção, a chefia pode reservar outra sala para fazer as análises, principalmente na 1º chamada da Fuvest que tem um número alto de candidatos.\n- A cada chamada os funcionários devem acessar o Júpiter - Administrativo &gt; Ingressante &gt; Etapa virtual: Análise de documentos para matrícula e seguir as orientações abaixo para listar os alunos da chamada que está sendo analisada e efetuar a conferência.\n- Recomenda-se salvar os dados de todas as etapas de matrículas com os nomes/e-mails dos candidatos com matrícula deferida para controle do envio de e-mails, da inserção na lista calouros e da matrícula em disciplinas.\n- Após a matrícula ser deferida, enviar e-mail aos alunos com orientações sobre as aulas e semana de recepção aos calouros (ver e-mail enviado do grad@ com o assunto \"Informações aos ingressantes 2025\") e com orientações sobre adequação da grade (ver e-mail enviado do grad@ com o assunto \"Orientações sobre adequação da grade do 1º semestre/2025\").\n- Salvar a relação dos alunos com matrícula deferida na pasta compartilhada svgrad - Ingresso para as secretárias dos cursos fazerem as matrículas nas disciplinas. (verificar se a matrícula será feita manualmente ou se o setor utilizará a alocação de turmas (Júpiter - Administrativo &gt; Ingressante &gt; Alocação de turmas para ingressantes).\n\n[Página 2]\n- Inserir o e-mail alternativo dos alunos na lista calouros-l@listas.icmc.usp.br\n- Geralmente há 2 etapas de confirmação de matrícula cujas datas são definidas pela PRG. Os alunos são obrigados a participar desta etapa. Caso não participem, perdem a vaga. A PRG envia e-mail aos alunos já matriculados, mas é importante que o SVGRAD também envie um lembrete.\n- Os funcionários devem acessar o Júpiter - Administrativo &gt; Ingressante &gt; Etapa virtual: Análise de documentos para matrícula e seguir as orientações abaixo para listar os alunos da confirmação que está sendo analisada e efetuar a conferência.\n- Caso o SVGRAD observe que algum aluno não fez a confirmação, a orientação da PRG é para que os funcionários entrem em contato com ele por e-mail, telefone e até presencialmente.\n\n## Análise da matrícula:\n\n- Júpiter - Administrativo &gt; Ingressante &gt; Etapa virtual: Análise de documentos para matrícula\n- Preenche os dados necessários. Fluxo: matrícula, Ano: vigente, Forma de ingresso: (escolher), Situação da matrícula: documentos enviados, aguardando análise, Unidade: 55, Lista: (escolher), clica em Buscar",
+      "qa_pairs": [
+        {
+          "question": "É permitido cursar duas graduações simultaneamente?",
+          "answer": "Não, a RESOLUÇÃO Nº 4387/1997 veda a matrícula concomitante em cursos de graduação.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem é responsável por analisar a matrícula dos ingressantes a partir de 2025?",
+          "answer": "A partir de 2025, cada unidade ficou responsável por analisar a matrícula de seus ingressantes.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a função da Central de Matrículas da USP após a mudança de responsabilidade para as unidades?",
+          "answer": "A Central de Matrículas da USP continua sendo responsável por tirar as dúvidas dos candidatos e das unidades.",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve ser feito após a matrícula do aluno ser deferida?",
+          "answer": "Deve-se enviar e-mails aos alunos com orientações sobre as aulas, semana de recepção aos calouros e orientações sobre a adequação da grade.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde os funcionários devem acessar o sistema Júpiter para realizar a análise de documentos para matrícula?",
+          "answer": "Os funcionários devem acessar o caminho: Júpiter - Administrativo > Ingressante > Etapa virtual: Análise de documentos para matrícula.",
+          "source_page": 1
+        },
+        {
+          "question": "Como é feita a matrícula dos ingressantes nas disciplinas?",
+          "answer": "A relação de alunos com matrícula deferida é salva na pasta compartilhada 'svgrad - Ingresso' para que as secretárias dos cursos realizem as matrículas, podendo ser feito manualmente ou via alocação de turmas no Júpiter.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece se o aluno não participar das etapas de confirmação de matrícula?",
+          "answer": "Caso o aluno não participe da etapa de confirmação de matrícula, ele perde a vaga.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a recomendação da PRG caso o SVGRAD observe que um aluno não realizou a confirmação de matrícula?",
+          "answer": "A orientação é que os funcionários entrem em contato com o aluno por e-mail, telefone e até presencialmente.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem define as datas das chamadas, matrículas e confirmações?",
+          "answer": "A PRG (Pró-Reitoria de Graduação) é quem define as datas das chamadas, das matrículas e das confirmações.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais filtros devem ser utilizados no Júpiter para buscar alunos aguardando análise de matrícula?",
+          "answer": "Deve-se selecionar Fluxo: matrícula, Ano: vigente, a Forma de ingresso correspondente, Situação da matrícula: documentos enviados, aguardando análise, Unidade: 55 e a Lista correspondente.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- Inserir o e-mail alternativo dos alunos na lista calouros-l@listas.icmc.usp.br\n- Geralmente há 2 etapas de confirmação de matrícula cujas datas são definidas pela PRG. Os alunos são obrigados a participar desta etapa. Caso não participem, perdem a vaga. A PRG envia e-mail aos alunos já matriculados, mas é importante que o SVGRAD também envie um lembrete.\n- Os funcionários devem acessar o Júpiter - Administrativo &gt; Ingressante &gt; Etapa virtual: Análise de documentos para matrícula e seguir as orientações abaixo para listar os alunos da confirmação que está sendo analisada e efetuar a conferência.\n- Caso o SVGRAD observe que algum aluno não fez a confirmação, a orientação da PRG é para que os funcionários entrem em contato com ele por e-mail, telefone e até presencialmente.\n\n## Análise da matrícula:\n\n- Júpiter - Administrativo &gt; Ingressante &gt; Etapa virtual: Análise de documentos para matrícula\n- Preenche os dados necessários. Fluxo: matrícula, Ano: vigente, Forma de ingresso: (escolher), Situação da matrícula: documentos enviados, aguardando análise, Unidade: 55, Lista: (escolher), clica em Buscar\n\n[Página 3]\n<!-- image -->\n\n- seleciona o aluno na tela que será mostrada a seguir clicando duas vezes\n\n·\n\n<!-- image -->\n\n- confere os documentos enviados: Foto, RG, Histórico Escolar do Ensino Médio e Certificado de Conclusão do Ensino Médio ou Declaração de Conclusão do ensino médio\n- se estiver tudo certo, cadastra parecer \"aceito\" e clica em Salvar. No caso da Declaração de Conclusão do ensino médio será necessário cadastrar uma data de validade (que é fornecida pela PRG)",
+      "qa_pairs": [
+        {
+          "question": "O que acontece se o aluno não participar das etapas de confirmação de matrícula?",
+          "answer": "Caso os alunos não participem das etapas de confirmação de matrícula, eles perdem a vaga.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem define as datas das etapas de confirmação de matrícula?",
+          "answer": "As datas das etapas de confirmação de matrícula são definidas pela PRG.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a orientação para o SVGRAD caso observe que um aluno não realizou a confirmação da matrícula?",
+          "answer": "A orientação da PRG é que os funcionários entrem em contato com o aluno por e-mail, telefone e, se necessário, presencialmente.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde os funcionários devem acessar no sistema Júpiter para realizar a análise de documentos para matrícula?",
+          "answer": "Devem acessar: Júpiter - Administrativo > Ingressante > Etapa virtual: Análise de documentos para matrícula.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais dados devem ser preenchidos no fluxo de análise de matrícula no Júpiter?",
+          "answer": "Devem ser preenchidos: Fluxo (matrícula), Ano (vigente), Forma de ingresso, Situação da matrícula (documentos enviados, aguardando análise), Unidade (55) e a Lista.",
+          "source_page": 2
+        },
+        {
+          "question": "Como o funcionário seleciona o aluno na tela de análise de documentos?",
+          "answer": "O aluno é selecionado clicando duas vezes sobre ele na tela mostrada.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais documentos devem ser conferidos durante a análise da matrícula?",
+          "answer": "Devem ser conferidos: Foto, RG, Histórico Escolar do Ensino Médio e Certificado de Conclusão do Ensino Médio ou Declaração de Conclusão do ensino médio.",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser feito se todos os documentos do aluno estiverem corretos?",
+          "answer": "Se estiver tudo certo, o funcionário deve cadastrar o parecer como 'aceito' e clicar em Salvar.",
+          "source_page": 3
+        },
+        {
+          "question": "Existe alguma particularidade ao analisar a Declaração de Conclusão do ensino médio?",
+          "answer": "Sim, no caso da Declaração de Conclusão do ensino médio, será necessário cadastrar uma data de validade, que é fornecida pela PRG.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a ação necessária em relação ao e-mail alternativo dos alunos?",
+          "answer": "O e-mail alternativo dos alunos deve ser inserido na lista calouros-l@listas.icmc.usp.br.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n<!-- image -->\n\n- seleciona o aluno na tela que será mostrada a seguir clicando duas vezes\n\n·\n\n<!-- image -->\n\n- confere os documentos enviados: Foto, RG, Histórico Escolar do Ensino Médio e Certificado de Conclusão do Ensino Médio ou Declaração de Conclusão do ensino médio\n- se estiver tudo certo, cadastra parecer \"aceito\" e clica em Salvar. No caso da Declaração de Conclusão do ensino médio será necessário cadastrar uma data de validade (que é fornecida pela PRG)\n\n[Página 4]\n·\n\n·\n\n<!-- image -->\n\n- depois clica no botão \"Análise da matrícula\", indica \"matrícula virtual deferida\", informa se cursou ou não o ensino médio inteiramente em escola pública, clica em salvar\n\n·\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como faço para selecionar o aluno na tela do sistema?",
+          "answer": "O aluno deve ser selecionado clicando duas vezes sobre ele na tela exibida.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais documentos devem ser conferidos durante o processo de matrícula?",
+          "answer": "Devem ser conferidos a Foto, o RG, o Histórico Escolar do Ensino Médio e o Certificado de Conclusão do Ensino Médio ou a Declaração de Conclusão do ensino médio.",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser feito se todos os documentos enviados estiverem corretos?",
+          "answer": "Se estiver tudo certo, deve-se cadastrar o parecer como 'aceito' e clicar em Salvar.",
+          "source_page": 3
+        },
+        {
+          "question": "Existe alguma observação específica para quem apresenta a Declaração de Conclusão do ensino médio?",
+          "answer": "Sim, no caso da Declaração de Conclusão do ensino médio, será necessário cadastrar uma data de validade, que é fornecida pela PRG.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual a ação a ser tomada após a conferência dos documentos e o cadastro do parecer?",
+          "answer": "Deve-se clicar no botão 'Análise da matrícula'.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser indicado na etapa de Análise da matrícula?",
+          "answer": "Deve-se indicar 'matrícula virtual deferida'.",
+          "source_page": 4
+        },
+        {
+          "question": "É necessário informar sobre a origem escolar do aluno na análise da matrícula?",
+          "answer": "Sim, deve-se informar se o aluno cursou ou não o ensino médio inteiramente em escola pública.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o passo final após indicar o deferimento da matrícula e a escolaridade pública?",
+          "answer": "O passo final é clicar em salvar.",
+          "source_page": 4
+        },
+        {
+          "question": "Quem fornece a data de validade para a Declaração de Conclusão do ensino médio?",
+          "answer": "A data de validade é fornecida pela PRG.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as opções de comprovação de conclusão do ensino médio aceitas?",
+          "answer": "São aceitos o Certificado de Conclusão do Ensino Médio ou a Declaração de Conclusão do ensino médio.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n·\n\n·\n\n<!-- image -->\n\n- depois clica no botão \"Análise da matrícula\", indica \"matrícula virtual deferida\", informa se cursou ou não o ensino médio inteiramente em escola pública, clica em salvar\n\n·\n\n<!-- image -->\n\n[Página 5]\n<!-- image -->\n\n- se estiver errado, cadastra parecer \"rejeitado\", indica o motivo, clica em salvar. Nesse caso, precisa entrar em contato com o candidato para alertálo sobre a necessidade de acessar o sistema e providenciar o reenvio do documento ou foto dentro do prazo estipulado para a matrícula\n- clica no botão \"Análise da matrícula\", indica \"matrícula virtual pendente, aguardando providências do ingressante\", informa se cursou ou não o ensino médio inteiramente em escola pública, clica em salvar\n\n·\n\n<!-- image -->\n\n## Análise da confirmação de matrícula:\n\n- Júpiter - Administrativo &gt; Ingressante &gt; Etapa virtual: Análise de documentos para matrícula\n- Preenche os dados necessários. Fluxo: confirmação, Ano: vigente, Forma de ingresso: (escolher), Situação da matrícula: Confirmação de matrícula virtual - documentos enviados, aguardando análise, Unidade: 55, Lista: (escolher), clica em Buscar",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito no sistema quando a matrícula virtual é deferida?",
+          "answer": "Deve-se clicar no botão 'Análise da matrícula', indicar 'matrícula virtual deferida', informar se o aluno cursou ou não o ensino médio inteiramente em escola pública e clicar em salvar.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o procedimento quando um documento de matrícula é rejeitado?",
+          "answer": "Deve-se cadastrar o parecer como 'rejeitado', indicar o motivo e clicar em salvar. Além disso, é necessário entrar em contato com o candidato para alertá-lo sobre a necessidade de acessar o sistema e reenviar o documento ou foto dentro do prazo estipulado.",
+          "source_page": 5
+        },
+        {
+          "question": "Como proceder se a matrícula virtual estiver pendente de providências do ingressante?",
+          "answer": "Deve-se clicar no botão 'Análise da matrícula', indicar 'matrícula virtual pendente, aguardando providências do ingressante', informar se cursou ou não o ensino médio inteiramente em escola pública e clicar em salvar.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para realizar a análise de documentos para matrícula?",
+          "answer": "O caminho é: Júpiter - Administrativo > Ingressante > Etapa virtual: Análise de documentos para matrícula.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais dados devem ser preenchidos no fluxo de confirmação de matrícula no Júpiter?",
+          "answer": "Devem ser preenchidos: Fluxo (confirmação), Ano (vigente), Forma de ingresso (escolher), Situação da matrícula (Confirmação de matrícula virtual - documentos enviados, aguardando análise), Unidade (55) e Lista (escolher).",
+          "source_page": 5
+        },
+        {
+          "question": "O que deve ser informado sobre a escolaridade do aluno durante a análise da matrícula?",
+          "answer": "Deve-se informar se o aluno cursou ou não o ensino médio inteiramente em escola pública.",
+          "source_page": 4
+        },
+        {
+          "question": "O que o candidato deve fazer após ser notificado que seu documento de matrícula foi rejeitado?",
+          "answer": "O candidato deve acessar o sistema e providenciar o reenvio do documento ou foto dentro do prazo estipulado para a matrícula.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual a unidade que deve ser selecionada na busca de análise de documentos no Júpiter?",
+          "answer": "A unidade a ser selecionada é a 55.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual a situação da matrícula que deve ser selecionada para analisar documentos enviados?",
+          "answer": "Deve-se selecionar a opção 'Confirmação de matrícula virtual - documentos enviados, aguardando análise'.",
+          "source_page": 5
+        },
+        {
+          "question": "Após preencher os dados de busca na análise de confirmação de matrícula, qual a ação final?",
+          "answer": "A ação final é clicar em 'Buscar'.",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\n<!-- image -->\n\n- se estiver errado, cadastra parecer \"rejeitado\", indica o motivo, clica em salvar. Nesse caso, precisa entrar em contato com o candidato para alertálo sobre a necessidade de acessar o sistema e providenciar o reenvio do documento ou foto dentro do prazo estipulado para a matrícula\n- clica no botão \"Análise da matrícula\", indica \"matrícula virtual pendente, aguardando providências do ingressante\", informa se cursou ou não o ensino médio inteiramente em escola pública, clica em salvar\n\n·\n\n<!-- image -->\n\n## Análise da confirmação de matrícula:\n\n- Júpiter - Administrativo &gt; Ingressante &gt; Etapa virtual: Análise de documentos para matrícula\n- Preenche os dados necessários. Fluxo: confirmação, Ano: vigente, Forma de ingresso: (escolher), Situação da matrícula: Confirmação de matrícula virtual - documentos enviados, aguardando análise, Unidade: 55, Lista: (escolher), clica em Buscar\n\n[Página 6]\nAdministrativo\n\nIngressante &gt; Etapa virtual: Análise de documentos para matrícula\n\n<!-- image -->\n\n- seleciona o aluno na tela que será mostrada a seguir clicando duas vezes\n- confere os documentos enviados: Foto da pessoa com o documento de identidade„ Histórico Escolar do Ensino Médio e Certificado de Conclusão do Ensino Médio ou Declaração de Conclusão do ensino médio\n- se estiver tudo certo, cadastra parecer \"aceito\" e clica em Salvar,\n- depois clica no botão \"Análise da confirmação de matrícula\", indica \"Confirmação de matrícula virtual deferida\", clica em salvar\n- se estiver errado, cadastra parecer \"rejeitado\", indica o motivo, clica em salvar. Nesse caso, precisa entrar em contato com o candidato para alertálo sobre a necessidade de acessar o sistema e providenciar o reenvio do documento ou foto dentro do prazo estipulado para a matrícula\n- clica no botão \"Análise da matrícula\", indica \"Confirmação de matrícula virtual pendente, aguardando providências do ingressante\", clica em salvar\n\n## Observações:\n\nA PRG envia orientações sobre a análise dos documentos. Geralmente é necessário verificar:\n\n- se o rosto do candidato está visível. Na foto com o documento, precisa constar a frente e verso dele\n- se o documento apresentado pertence ao candidato e se está dentro da validade",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito se um documento de matrícula for considerado errado durante a análise?",
+          "answer": "Deve-se cadastrar o parecer como 'rejeitado', indicar o motivo e clicar em salvar. Além disso, é necessário entrar em contato com o candidato para alertá-lo sobre a necessidade de acessar o sistema e reenviar o documento ou foto dentro do prazo estipulado.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para realizar a análise de documentos para matrícula?",
+          "answer": "O caminho é: Júpiter - Administrativo > Ingressante > Etapa virtual: Análise de documentos para matrícula.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais dados devem ser preenchidos no fluxo de confirmação de matrícula no Júpiter?",
+          "answer": "Devem ser preenchidos: Fluxo (confirmação), Ano (vigente), Forma de ingresso, Situação da matrícula (Confirmação de matrícula virtual - documentos enviados, aguardando análise), Unidade (55) e a Lista correspondente.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais são os documentos que devem ser conferidos na etapa de análise de matrícula?",
+          "answer": "Devem ser conferidos: a foto da pessoa com o documento de identidade, o Histórico Escolar do Ensino Médio e o Certificado de Conclusão do Ensino Médio ou a Declaração de Conclusão do ensino médio.",
+          "source_page": 6
+        },
+        {
+          "question": "Como proceder no sistema quando todos os documentos de matrícula estão corretos?",
+          "answer": "Deve-se cadastrar o parecer como 'aceito', clicar em Salvar e, em seguida, clicar no botão 'Análise da confirmação de matrícula', indicar 'Confirmação de matrícula virtual deferida' e clicar em salvar.",
+          "source_page": 6
+        },
+        {
+          "question": "O que deve ser indicado no botão 'Análise da matrícula' quando a documentação está incorreta?",
+          "answer": "Deve-se indicar 'Confirmação de matrícula virtual pendente, aguardando providências do ingressante' e clicar em salvar.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais orientações a PRG geralmente fornece sobre a análise de documentos?",
+          "answer": "A PRG orienta verificar se o rosto do candidato está visível, se a foto com o documento contém a frente e o verso do mesmo, se o documento pertence ao candidato e se está dentro da validade.",
+          "source_page": 6
+        },
+        {
+          "question": "Como o analista seleciona o aluno para conferência de documentos no sistema?",
+          "answer": "O analista deve selecionar o aluno na tela exibida clicando duas vezes sobre ele.",
+          "source_page": 6
+        },
+        {
+          "question": "O que deve ser informado no botão 'Análise da matrícula' quando a matrícula virtual está pendente?",
+          "answer": "Deve-se indicar 'matrícula virtual pendente, aguardando providências do ingressante' e informar se o aluno cursou ou não o ensino médio inteiramente em escola pública.",
+          "source_page": 5
+        },
+        {
+          "question": "Qual a exigência específica para a foto do documento de identidade enviada pelo candidato?",
+          "answer": "Na foto com o documento, é necessário que constem a frente e o verso do documento de identidade.",
+          "source_page": 6
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c5",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_text": "[Página 6]\nAdministrativo\n\nIngressante &gt; Etapa virtual: Análise de documentos para matrícula\n\n<!-- image -->\n\n- seleciona o aluno na tela que será mostrada a seguir clicando duas vezes\n- confere os documentos enviados: Foto da pessoa com o documento de identidade„ Histórico Escolar do Ensino Médio e Certificado de Conclusão do Ensino Médio ou Declaração de Conclusão do ensino médio\n- se estiver tudo certo, cadastra parecer \"aceito\" e clica em Salvar,\n- depois clica no botão \"Análise da confirmação de matrícula\", indica \"Confirmação de matrícula virtual deferida\", clica em salvar\n- se estiver errado, cadastra parecer \"rejeitado\", indica o motivo, clica em salvar. Nesse caso, precisa entrar em contato com o candidato para alertálo sobre a necessidade de acessar o sistema e providenciar o reenvio do documento ou foto dentro do prazo estipulado para a matrícula\n- clica no botão \"Análise da matrícula\", indica \"Confirmação de matrícula virtual pendente, aguardando providências do ingressante\", clica em salvar\n\n## Observações:\n\nA PRG envia orientações sobre a análise dos documentos. Geralmente é necessário verificar:\n\n- se o rosto do candidato está visível. Na foto com o documento, precisa constar a frente e verso dele\n- se o documento apresentado pertence ao candidato e se está dentro da validade\n\n[Página 7]\n- se consta o nome do candidato nos documentos emitidos pela escola e se tem a data de emissão do documento\n- se consta o ano de conclusão do ensino médio\n- se for candidato inscrito em cota, é necessário verificar se ele cursou o ensino médio em escola pública e se a escola se enquadra como pública\n- se for entregue declaração, precisa constar nela as informações sobre onde cursou o ensino médio em cada ano e a data prevista para a emissão do histórico escolar (pode ser prazo em dias)\n- na etapa de confirmação, o aluno pode entregar novamente a declaração, caso ainda não tenha o histórico. Pode até ser a mesma declaração da matrícula desde que não tenha ultrapassado o prazo descrito nela para emissão do histórico\n- caso haja dúvida sobre algum documento ou enquadramento da escola como pública, consultar a Central de Matrículas/PRG\n\nApós finalizadas as etapas de confirmação de matrícula (e num momento de menor demanda no setor):\n\n- cadastrar os dados de nacionalidade e naturalidade de todos os ingressantes no Júpiter. Para isso, será necessário consultar o documento de identidade enviado pelo aluno no momento da matrícula.\n- Gerar a lista dos ingressantes em Júpiter - Aluno &gt; Relatórios - Informações do Programa - Relação de alunos por tipo de ingresso - Preencher os campos e gerar em planilha para facilitar anotações dos que foram atualizados (já que essa atividade provavelmente será feita em etapas). Nesta lista constarão todos os tipos de ingressantes, incluindo os graduados, transferidos e PEC-G.",
+      "qa_pairs": [
+        {
+          "question": "Quais documentos devem ser conferidos durante a análise de matrícula do ingressante?",
+          "answer": "Devem ser conferidos a foto da pessoa com o documento de identidade, o Histórico Escolar do Ensino Médio e o Certificado de Conclusão do Ensino Médio ou a Declaração de Conclusão do ensino médio.",
+          "source_page": 6
+        },
+        {
+          "question": "O que deve ser feito caso os documentos de matrícula estejam incorretos?",
+          "answer": "Deve-se cadastrar o parecer como 'rejeitado', indicar o motivo, salvar e entrar em contato com o candidato para que ele acesse o sistema e reenvie o documento ou foto dentro do prazo estipulado.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais são os requisitos básicos para a foto com o documento de identidade ser aceita?",
+          "answer": "O rosto do candidato deve estar visível e a foto deve conter a frente e o verso do documento.",
+          "source_page": 6
+        },
+        {
+          "question": "O que deve ser verificado nos documentos emitidos pela escola?",
+          "answer": "Deve-se verificar se consta o nome do candidato, a data de emissão do documento e o ano de conclusão do ensino médio.",
+          "source_page": 7
+        },
+        {
+          "question": "O que deve ser validado para candidatos inscritos em cota?",
+          "answer": "É necessário verificar se o candidato cursou o ensino médio em escola pública e se a escola se enquadra como pública.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais informações são obrigatórias em uma declaração de conclusão de ensino médio?",
+          "answer": "A declaração deve conter informações sobre onde o aluno cursou o ensino médio em cada ano e a data prevista para a emissão do histórico escolar.",
+          "source_page": 7
+        },
+        {
+          "question": "O aluno pode entregar a declaração novamente na etapa de confirmação caso ainda não possua o histórico?",
+          "answer": "Sim, ele pode entregar novamente a declaração, inclusive a mesma da matrícula, desde que não tenha ultrapassado o prazo nela descrito para a emissão do histórico.",
+          "source_page": 7
+        },
+        {
+          "question": "A quem deve-se recorrer em caso de dúvida sobre a documentação ou enquadramento de escola pública?",
+          "answer": "Deve-se consultar a Central de Matrículas/PRG.",
+          "source_page": 7
+        },
+        {
+          "question": "Como devem ser cadastrados os dados de nacionalidade e naturalidade dos ingressantes?",
+          "answer": "Os dados devem ser cadastrados no sistema Júpiter, consultando o documento de identidade enviado pelo aluno no momento da matrícula.",
+          "source_page": 7
+        },
+        {
+          "question": "Como gerar a lista de ingressantes no sistema Júpiter?",
+          "answer": "A lista é gerada no caminho: Aluno > Relatórios - Informações do Programa - Relação de alunos por tipo de ingresso, preenchendo os campos e gerando em planilha.",
+          "source_page": 7
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c6",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_text": "[Página 7]\n- se consta o nome do candidato nos documentos emitidos pela escola e se tem a data de emissão do documento\n- se consta o ano de conclusão do ensino médio\n- se for candidato inscrito em cota, é necessário verificar se ele cursou o ensino médio em escola pública e se a escola se enquadra como pública\n- se for entregue declaração, precisa constar nela as informações sobre onde cursou o ensino médio em cada ano e a data prevista para a emissão do histórico escolar (pode ser prazo em dias)\n- na etapa de confirmação, o aluno pode entregar novamente a declaração, caso ainda não tenha o histórico. Pode até ser a mesma declaração da matrícula desde que não tenha ultrapassado o prazo descrito nela para emissão do histórico\n- caso haja dúvida sobre algum documento ou enquadramento da escola como pública, consultar a Central de Matrículas/PRG\n\nApós finalizadas as etapas de confirmação de matrícula (e num momento de menor demanda no setor):\n\n- cadastrar os dados de nacionalidade e naturalidade de todos os ingressantes no Júpiter. Para isso, será necessário consultar o documento de identidade enviado pelo aluno no momento da matrícula.\n- Gerar a lista dos ingressantes em Júpiter - Aluno &gt; Relatórios - Informações do Programa - Relação de alunos por tipo de ingresso - Preencher os campos e gerar em planilha para facilitar anotações dos que foram atualizados (já que essa atividade provavelmente será feita em etapas). Nesta lista constarão todos os tipos de ingressantes, incluindo os graduados, transferidos e PEC-G.\n\n[Página 8]\n·\n\n<!-- image -->\n\n- Para facilitar, pode classificar a tabela pela coluna \"Tipo de ingresso\".\n- Quando estiver indicado Vestibular significa FUVEST\n- Vestibular - COMPETI significa Medalhistas\n- Vestibular ENEMUSP significa Enem USP\n- Vestibular Paulista significa Provão Paulista\n- Outra forma de gerar a lista: Júpiter - Administrativo &gt; Ingressante &gt; Relatórios - Fuvest/Sisu - Relação de ingressantes - buscar por todas as formas de ingressos, indicar desde a 1ª até a última lista e na situação escolher \"aceitos na efetivação de matrícula\"\n\n&gt; Relatórios",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser verificado nos documentos emitidos pela escola do candidato?",
+          "answer": "Deve-se verificar se consta o nome do candidato nos documentos e se há a data de emissão do documento.",
+          "source_page": 7
+        },
+        {
+          "question": "Qual informação sobre a conclusão do ensino médio deve constar nos documentos?",
+          "answer": "Deve constar o ano de conclusão do ensino médio.",
+          "source_page": 7
+        },
+        {
+          "question": "O que deve ser verificado para candidatos inscritos em cota?",
+          "answer": "É necessário verificar se o candidato cursou o ensino médio em escola pública e se a escola se enquadra como pública.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais informações são necessárias em caso de entrega de declaração?",
+          "answer": "A declaração deve conter informações sobre onde o aluno cursou o ensino médio em cada ano e a data prevista para a emissão do histórico escolar (podendo ser um prazo em dias).",
+          "source_page": 7
+        },
+        {
+          "question": "O aluno pode entregar a declaração novamente na etapa de confirmação?",
+          "answer": "Sim, caso ainda não tenha o histórico. Pode ser a mesma declaração da matrícula, desde que o prazo descrito nela para a emissão do histórico não tenha sido ultrapassado.",
+          "source_page": 7
+        },
+        {
+          "question": "A quem recorrer em caso de dúvida sobre documentos ou enquadramento de escola pública?",
+          "answer": "Deve-se consultar a Central de Matrículas/PRG.",
+          "source_page": 7
+        },
+        {
+          "question": "Como devem ser cadastrados os dados de nacionalidade e naturalidade dos ingressantes?",
+          "answer": "Os dados devem ser cadastrados no sistema Júpiter, consultando o documento de identidade enviado pelo aluno no momento da matrícula.",
+          "source_page": 7
+        },
+        {
+          "question": "Como gerar a lista de ingressantes no Júpiter através do menu Aluno?",
+          "answer": "O caminho é: Júpiter - Aluno > Relatórios - Informações do Programa - Relação de alunos por tipo de ingresso.",
+          "source_page": 7
+        },
+        {
+          "question": "Quais são as nomenclaturas de vestibular utilizadas na tabela de ingressantes?",
+          "answer": "Vestibular refere-se à FUVEST; Vestibular - COMPETI refere-se a Medalhistas; Vestibular ENEMUSP refere-se ao Enem USP; e Vestibular Paulista refere-se ao Provão Paulista.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual é a outra forma de gerar a lista de ingressantes via menu Administrativo no Júpiter?",
+          "answer": "O caminho é: Júpiter - Administrativo > Ingressante > Relatórios - Fuvest/Sisu - Relação de ingressantes, buscando por todas as formas de ingresso, indicando da 1ª até a última lista e selecionando a situação 'aceitos na efetivação de matrícula'.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c7",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_text": "[Página 8]\n·\n\n<!-- image -->\n\n- Para facilitar, pode classificar a tabela pela coluna \"Tipo de ingresso\".\n- Quando estiver indicado Vestibular significa FUVEST\n- Vestibular - COMPETI significa Medalhistas\n- Vestibular ENEMUSP significa Enem USP\n- Vestibular Paulista significa Provão Paulista\n- Outra forma de gerar a lista: Júpiter - Administrativo &gt; Ingressante &gt; Relatórios - Fuvest/Sisu - Relação de ingressantes - buscar por todas as formas de ingressos, indicar desde a 1ª até a última lista e na situação escolher \"aceitos na efetivação de matrícula\"\n\n&gt; Relatórios\n\n[Página 9]\n<!-- image -->\n\n- Para consultar o documento de identidade do aluno: Júpiter - Administrativo &gt; Ingressante &gt; Etapa virtual: Análise de documentos para matrícula\n- Escolhe a opção Matrícula, Ano vigente, a Forma de ingresso, Lista a situação de matrícula virtual deferida, escolhe unidade (e curso, se preferir), lista a chamada e clica em buscar",
+      "qa_pairs": [
+        {
+          "question": "O que significa a indicação 'Vestibular' na tabela de ingresso?",
+          "answer": "Quando estiver indicado 'Vestibular', significa FUVEST.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual a forma de ingresso indicada como 'Vestibular - COMPETI'?",
+          "answer": "A indicação 'Vestibular - COMPETI' refere-se aos Medalhistas.",
+          "source_page": 8
+        },
+        {
+          "question": "O que representa a opção 'Vestibular ENEMUSP'?",
+          "answer": "Representa o Enem USP.",
+          "source_page": 8
+        },
+        {
+          "question": "O que significa 'Vestibular Paulista' na classificação de ingresso?",
+          "answer": "Significa Provão Paulista.",
+          "source_page": 8
+        },
+        {
+          "question": "Como posso facilitar a visualização da tabela de ingressantes?",
+          "answer": "Você pode classificar a tabela pela coluna 'Tipo de ingresso'.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para gerar a relação de ingressantes por todas as formas de ingresso?",
+          "answer": "O caminho é: Júpiter - Administrativo > Ingressante > Relatórios - Fuvest/Sisu - Relação de ingressantes.",
+          "source_page": 8
+        },
+        {
+          "question": "Ao gerar a relação de ingressantes no Júpiter, quais filtros devem ser aplicados para a situação?",
+          "answer": "Deve-se escolher a situação 'aceitos na efetivação de matrícula'.",
+          "source_page": 8
+        },
+        {
+          "question": "Como deve ser feita a indicação das listas ao gerar o relatório de ingressantes no Júpiter?",
+          "answer": "Deve-se indicar desde a 1ª até a última lista.",
+          "source_page": 8
+        },
+        {
+          "question": "Como consultar o documento de identidade do aluno no sistema Júpiter?",
+          "answer": "O caminho é: Júpiter - Administrativo > Ingressante > Etapa virtual: Análise de documentos para matrícula.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais opções devem ser selecionadas para buscar a matrícula virtual deferida de um aluno no Júpiter?",
+          "answer": "Deve-se escolher a opção Matrícula, Ano vigente, a Forma de ingresso, Lista a situação de matrícula virtual deferida, a unidade (e o curso, se preferir), a chamada e clicar em buscar.",
+          "source_page": 9
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c8",
+      "pages": [
+        9,
+        10
+      ],
+      "chunk_text": "[Página 9]\n<!-- image -->\n\n- Para consultar o documento de identidade do aluno: Júpiter - Administrativo &gt; Ingressante &gt; Etapa virtual: Análise de documentos para matrícula\n- Escolhe a opção Matrícula, Ano vigente, a Forma de ingresso, Lista a situação de matrícula virtual deferida, escolhe unidade (e curso, se preferir), lista a chamada e clica em buscar\n\n[Página 10]\n·\n\n<!-- image -->\n\n- Seleciona o aluno e clica em Análise,\n- Verificar a raça informada pelo aluno para cadastrar no Júpiter, caso não esteja cadastrada\n- Dá um duplo clique na linha referente ao Registro Geral (RG) para abrir o documento. Depois de utilizar as informações necessárias, é só fechar no X, e indicar SIM na tela abaixo, não clicar em mais nada).\n\n·\n\n<!-- image -->\n\n- Atualizar os dados do aluno em Júpiter - Aluno &gt; Consultas &gt; Dados Pessoais - Informa NUSP e clica em Buscar e depois no símbolo Alterar",
+      "qa_pairs": [
+        {
+          "question": "Como posso consultar o documento de identidade de um aluno no sistema Júpiter?",
+          "answer": "O documento de identidade do aluno pode ser consultado através do caminho: Júpiter - Administrativo > Ingressante > Etapa virtual: Análise de documentos para matrícula.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais passos devo seguir na tela de análise de documentos para matrícula para localizar um aluno?",
+          "answer": "Deve-se escolher a opção Matrícula, o Ano vigente, a Forma de ingresso, a lista da situação de matrícula virtual deferida, a unidade (e o curso, se preferir), a chamada e, por fim, clicar em buscar.",
+          "source_page": 9
+        },
+        {
+          "question": "Como faço para abrir o Registro Geral (RG) de um aluno após selecioná-lo na análise?",
+          "answer": "Após selecionar o aluno e clicar em Análise, deve-se dar um duplo clique na linha referente ao Registro Geral (RG) para abrir o documento.",
+          "source_page": 10
+        },
+        {
+          "question": "O que deve ser feito após utilizar as informações do RG do aluno?",
+          "answer": "Após utilizar as informações necessárias, deve-se fechar o documento no X e indicar SIM na tela abaixo, sem clicar em mais nada.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual a orientação sobre a raça informada pelo aluno durante a análise de documentos?",
+          "answer": "Deve-se verificar a raça informada pelo aluno para realizar o cadastro no Júpiter, caso esta informação ainda não esteja cadastrada.",
+          "source_page": 10
+        },
+        {
+          "question": "Onde posso atualizar os dados pessoais de um aluno no Júpiter?",
+          "answer": "A atualização de dados é feita em: Júpiter - Aluno > Consultas > Dados Pessoais.",
+          "source_page": 10
+        },
+        {
+          "question": "Como localizar um aluno específico para atualizar seus dados pessoais no sistema?",
+          "answer": "Para localizar o aluno, deve-se informar o NUSP e clicar em Buscar.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual comando deve ser utilizado para iniciar a alteração dos dados de um aluno após a busca?",
+          "answer": "Após buscar o aluno pelo NUSP, deve-se clicar no símbolo Alterar.",
+          "source_page": 10
+        },
+        {
+          "question": "Em qual etapa do sistema Júpiter Administrativo é realizada a análise de documentos para matrícula?",
+          "answer": "A análise de documentos para matrícula é realizada na etapa virtual, dentro do menu Ingressante.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais filtros estão disponíveis para buscar a lista de matrícula virtual deferida?",
+          "answer": "Estão disponíveis os filtros de Matrícula, Ano vigente, Forma de ingresso, unidade, curso e chamada.",
+          "source_page": 9
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c9",
+      "pages": [
+        10,
+        11
+      ],
+      "chunk_text": "[Página 10]\n·\n\n<!-- image -->\n\n- Seleciona o aluno e clica em Análise,\n- Verificar a raça informada pelo aluno para cadastrar no Júpiter, caso não esteja cadastrada\n- Dá um duplo clique na linha referente ao Registro Geral (RG) para abrir o documento. Depois de utilizar as informações necessárias, é só fechar no X, e indicar SIM na tela abaixo, não clicar em mais nada).\n\n·\n\n<!-- image -->\n\n- Atualizar os dados do aluno em Júpiter - Aluno &gt; Consultas &gt; Dados Pessoais - Informa NUSP e clica em Buscar e depois no símbolo Alterar\n\n[Página 11]\n·\n\n<!-- image -->\n\n- Preencher os dados da Naturalidade (país, estado, localidade, nacionalidade) e da raça/cor na aba Complemento e clicar em Salvar",
+      "qa_pairs": [
+        {
+          "question": "Como verificar a raça informada pelo aluno para cadastro no Júpiter?",
+          "answer": "O operador deve selecionar o aluno e clicar em Análise para verificar a raça informada.",
+          "source_page": 10
+        },
+        {
+          "question": "Como abrir o documento de Registro Geral (RG) do aluno?",
+          "answer": "Deve-se dar um duplo clique na linha referente ao Registro Geral (RG) para abrir o documento.",
+          "source_page": 10
+        },
+        {
+          "question": "O que fazer após utilizar as informações do RG do aluno?",
+          "answer": "Deve-se fechar o documento no X e indicar SIM na tela abaixo, sem clicar em mais nada.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para atualizar os dados do aluno?",
+          "answer": "O caminho é: Aluno > Consultas > Dados Pessoais.",
+          "source_page": 10
+        },
+        {
+          "question": "Como buscar um aluno específico para alteração de dados no Júpiter?",
+          "answer": "Deve-se informar o NUSP do aluno e clicar em Buscar.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual ação deve ser tomada após buscar o aluno nos Dados Pessoais do Júpiter para editá-lo?",
+          "answer": "Deve-se clicar no símbolo Alterar.",
+          "source_page": 10
+        },
+        {
+          "question": "Onde devem ser preenchidos os dados de naturalidade do aluno?",
+          "answer": "Os dados de naturalidade devem ser preenchidos na aba Complemento.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais informações de naturalidade devem ser preenchidas no sistema?",
+          "answer": "Devem ser preenchidos o país, estado, localidade e nacionalidade.",
+          "source_page": 11
+        },
+        {
+          "question": "Onde deve ser informada a raça/cor do aluno durante o preenchimento dos dados?",
+          "answer": "A raça/cor deve ser informada na aba Complemento.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual a etapa final após preencher a naturalidade e a raça/cor na aba Complemento?",
+          "answer": "A etapa final é clicar em Salvar.",
+          "source_page": 11
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c10",
+      "pages": [
+        11,
+        12
+      ],
+      "chunk_text": "[Página 11]\n·\n\n<!-- image -->\n\n- Preencher os dados da Naturalidade (país, estado, localidade, nacionalidade) e da raça/cor na aba Complemento e clicar em Salvar\n\n[Página 12]\n·\n\n<!-- image -->\n\n- gerar os caderninhos para controle interno do que já foi cumprido pelo aluno conforme a grade do ano de ingresso dele\n- Gerar as planilhas em Excel das grades atualizadas dos cursos. Pode-se utilizar o modelo do ano anterior e fazer os ajustes, se houver. Para os ajustes: sempre conferir (as obrigatórias) pela grade curricular que está na página do ICMC e \"puxa\" do Júpiter.\n- Gerar arquivos com os ingressantes do ano em Excel CSV em Júpiter Aluno &gt; Relatórios - Informações do Programa - Relação de alunos por tipo de ingresso - Preencher os campos e gerar.",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c11",
+      "pages": [
+        12,
+        13
+      ],
+      "chunk_text": "[Página 12]\n·\n\n<!-- image -->\n\n- gerar os caderninhos para controle interno do que já foi cumprido pelo aluno conforme a grade do ano de ingresso dele\n- Gerar as planilhas em Excel das grades atualizadas dos cursos. Pode-se utilizar o modelo do ano anterior e fazer os ajustes, se houver. Para os ajustes: sempre conferir (as obrigatórias) pela grade curricular que está na página do ICMC e \"puxa\" do Júpiter.\n- Gerar arquivos com os ingressantes do ano em Excel CSV em Júpiter Aluno &gt; Relatórios - Informações do Programa - Relação de alunos por tipo de ingresso - Preencher os campos e gerar.\n\n[Página 13]\n·\n\n<!-- image -->\n\n- Abrir a planilha e deixar apenas com as colunas (nessa ordem): NUSP, Nome e Ingresso\n- Abrir o programa ExcellIMD.exe que está na pasta compartilhada svgrad.\n- As duas planilhas precisam ser fechadas para não dar erro\n- No campo \"Arquivo de Dados\", incluir o arquivo CSV com os nomes dos alunos\n- No campo \"Planilha Modelo\", incluir o arquivo da grade do curso\n- No campo \"Nomes dos Arquivos\" deixar {Nome} para gerar as planilhas com os nomes dos alunos.\n- Clicar em Gerar e Escolher a pasta onde os caderninhos serão salvos\n\nRelatórios",
+      "qa_pairs": [
+        {
+          "question": "Como devem ser gerados os caderninhos para controle interno do aluno?",
+          "answer": "Os caderninhos devem ser gerados para controle interno do que já foi cumprido pelo aluno, seguindo a grade do ano de ingresso dele.",
+          "source_page": 12
+        },
+        {
+          "question": "Qual o procedimento para gerar as planilhas em Excel das grades atualizadas dos cursos?",
+          "answer": "Pode-se utilizar o modelo do ano anterior e realizar os ajustes necessários, se houver. Os ajustes das disciplinas obrigatórias devem ser conferidos pela grade curricular na página do ICMC e extraídos do Júpiter.",
+          "source_page": 12
+        },
+        {
+          "question": "Onde gerar os arquivos com os ingressantes do ano em formato Excel CSV?",
+          "answer": "Os arquivos devem ser gerados no Júpiter, seguindo o caminho: Aluno > Relatórios - Informações do Programa - Relação de alunos por tipo de ingresso, preenchendo os campos e gerando o arquivo.",
+          "source_page": 12
+        },
+        {
+          "question": "Quais colunas devem permanecer na planilha de alunos e em qual ordem?",
+          "answer": "A planilha deve conter apenas as colunas NUSP, Nome e Ingresso, exatamente nessa ordem.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual programa deve ser utilizado para processar as planilhas de grade e alunos?",
+          "answer": "Deve-se utilizar o programa ExcellIMD.exe, que está localizado na pasta compartilhada svgrad.",
+          "source_page": 13
+        },
+        {
+          "question": "Existe alguma condição necessária em relação às planilhas ao abrir o programa ExcellIMD.exe?",
+          "answer": "Sim, as duas planilhas precisam estar fechadas para evitar a ocorrência de erros.",
+          "source_page": 13
+        },
+        {
+          "question": "O que deve ser inserido no campo 'Arquivo de Dados' do programa ExcellIMD.exe?",
+          "answer": "No campo 'Arquivo de Dados', deve-se incluir o arquivo CSV que contém os nomes dos alunos.",
+          "source_page": 13
+        },
+        {
+          "question": "O que deve ser inserido no campo 'Planilha Modelo' do programa ExcellIMD.exe?",
+          "answer": "No campo 'Planilha Modelo', deve-se incluir o arquivo da grade do curso.",
+          "source_page": 13
+        },
+        {
+          "question": "Como configurar o campo 'Nomes dos Arquivos' para que as planilhas sejam geradas com os nomes dos alunos?",
+          "answer": "Deve-se deixar o campo 'Nomes dos Arquivos' preenchido como {Nome}.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual o passo final para a criação dos caderninhos após a configuração do programa?",
+          "answer": "O usuário deve clicar em 'Gerar' e escolher a pasta onde os caderninhos serão salvos.",
+          "source_page": 13
+        }
+      ]
+    },
+    {
+      "chunk_id": "Matrícula de ingressantes__c12",
+      "pages": [
+        13,
+        14
+      ],
+      "chunk_text": "[Página 13]\n·\n\n<!-- image -->\n\n- Abrir a planilha e deixar apenas com as colunas (nessa ordem): NUSP, Nome e Ingresso\n- Abrir o programa ExcellIMD.exe que está na pasta compartilhada svgrad.\n- As duas planilhas precisam ser fechadas para não dar erro\n- No campo \"Arquivo de Dados\", incluir o arquivo CSV com os nomes dos alunos\n- No campo \"Planilha Modelo\", incluir o arquivo da grade do curso\n- No campo \"Nomes dos Arquivos\" deixar {Nome} para gerar as planilhas com os nomes dos alunos.\n- Clicar em Gerar e Escolher a pasta onde os caderninhos serão salvos\n\nRelatórios\n\n[Página 14]\n·\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quais colunas a planilha deve conter antes de iniciar o processo?",
+          "answer": "A planilha deve conter apenas as colunas NUSP, Nome e Ingresso, obrigatoriamente nessa ordem.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual programa deve ser utilizado para gerar as planilhas?",
+          "answer": "Deve-se utilizar o programa ExcellIMD.exe, localizado na pasta compartilhada svgrad.",
+          "source_page": 13
+        },
+        {
+          "question": "Existe alguma condição necessária em relação às planilhas abertas durante a execução do programa?",
+          "answer": "Sim, as duas planilhas precisam estar fechadas para evitar a ocorrência de erros.",
+          "source_page": 13
+        },
+        {
+          "question": "O que deve ser inserido no campo 'Arquivo de Dados'?",
+          "answer": "No campo 'Arquivo de Dados', deve ser incluído o arquivo CSV contendo os nomes dos alunos.",
+          "source_page": 13
+        },
+        {
+          "question": "O que deve ser colocado no campo 'Planilha Modelo'?",
+          "answer": "No campo 'Planilha Modelo', deve ser incluído o arquivo da grade do curso.",
+          "source_page": 13
+        },
+        {
+          "question": "Como configurar o campo 'Nomes dos Arquivos' para que as planilhas sejam geradas com os nomes dos alunos?",
+          "answer": "Para gerar as planilhas com os nomes dos alunos, deve-se deixar o campo 'Nomes dos Arquivos' preenchido como {Nome}.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual é o passo final para salvar os caderninhos após configurar os campos?",
+          "answer": "O usuário deve clicar em 'Gerar' e escolher a pasta onde os caderninhos serão salvos.",
+          "source_page": 13
+        },
+        {
+          "question": "Onde se encontra o executável ExcellIMD.exe?",
+          "answer": "O executável ExcellIMD.exe está localizado na pasta compartilhada svgrad.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual o formato do arquivo que contém os nomes dos alunos?",
+          "answer": "O arquivo com os nomes dos alunos deve estar no formato CSV.",
+          "source_page": 13
+        },
+        {
+          "question": "Qual a ordem correta das colunas na planilha de alunos?",
+          "answer": "A ordem correta deve ser: NUSP, Nome e Ingresso.",
+          "source_page": 13
+        }
+      ]
+    }
+  ]
+}

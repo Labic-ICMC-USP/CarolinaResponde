@@ -1,0 +1,186 @@
+{
+  "doc_name": "Regimento CoC Licenciatura em Matemática",
+  "source_path": "data\\Regimento CoCs ICMC\\Regimento CoC Licenciatura em Matemática.docx",
+  "chunks": [
+    {
+      "chunk_id": "Regimento CoC Licenciatura em Matemática__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Regimento da Comissão Coordenadora do Curso (CoC) de Licenciatura em Matemática\n\n## Da Composição\n\nArtigo 1º – A Comissão Coordenadora do Curso de Licenciatura em Matemática (COC-LMA) estará subordinada à Comissão de Graduação (CG) do Instituto de Ciências Matemáticas e de Computação (ICMC).\n\n## Artigo 2º – A Comissão Coordenadora do Curso de Licenciatura em Matemática será constituída por:\n\n## Três representantes e respectivos suplentes do Departamento de Matemática (SMA), eleitos pelo SMA;\n\n## Um representante e respectivo suplente do Departamento de Matemática Aplicada e Estatística do ICMC (SME), eleitos pelo SME;\n\n- III. Um docente e respectivo suplente do ICMC, externos ao SME e SMA eleitos pela Congregação;\n- IV. Um membro discente e respectivo suplente, do curso de Licenciatura em Matemática.\n\nParágrafo 1º - A representação discente será eleita pelos seus pares, respeitando-se o disposto no artigo 230 do Regimento Geral.\n\nParágrafo 2º - O mandato dos membros docentes será de três anos, permitidas reconduções.\n\nParágrafo 3º - O mandato do membro discente será de um ano, permitida uma recondução.\n\nParágrafo 4º - Havendo vacância da titularidade e da respectiva suplência proceder-se-á a nova eleição.\n\nParágrafo 5º - Na falta de eleição feita pelo departamento dos incisos I e II no prazo de 60 dias, a Congregação procederá à eleição dos representantes.\n\nParágrafo 6º - A representação docente será renovada pelo terço.\n\n[Página 2]\nArtigo 3º – A CoC-LMA terá um Coordenador e um Suplente eleitos dentre seus membros docentes, titulares da CoC-LMA.\n\nParágrafo 1º - O mandato do Coordenador e respectivo suplente será de dois anos, permitidas até duas reconduções.\n\nParágrafo 2º. – O coordenador deverá apresentar, no prazo de até 30 dias após o termino de seu mandato, relatório de atividades desenvolvidas na CoC, no período de sua coordenação, para aprovação da CG e Congregação. (Resolução CoG nº 7853, de 23.10.2019).\n\n*Atentar para a CircSGCLR\\_08022019 – critérios de desempate CCPs e CoCs\n\n## Da Competência\n\nArtigo 4º - Além das atribuições previstas na Resolução CoG-5.500, à CoC compete:\n\n- I. Propor à CG do ICMC a estrutura curricular do Curso de Licenciatura em Matemática , ouvidos os Departamentos pertinentes;\n- II. Propor à CG os programas de ensino das disciplinas ministradas no curso de Licenciatura em Matemática, ouvidos os Departamentos pertinentes, e acompanhar sua execução;\n- III. Analisar a pertinência do conteúdo programático de cada disciplina, promovendo a integração das diferentes disciplinas que compõem o currículo;\n- IV. Promover o aperfeiçoamento constante do ensino no que diz respeito à adequação curricular, melhoria de laboratórios didáticos, biblioteca e recursos didático-pedagógicos;\n- V. Opinar sobre aplicação dos recursos financeiros destinados ao curso de Licenciatura em Matemática;\n- VI. Assessorar a elaboração do horário de aulas das disciplinas de cada semestre letivo;\n- VII. Exercer as demais funções que lhe forem atribuídas pelos órgãos superiores do ICMC e da USP.\n- VIII. Acompanhar os processos de renovação do reconhecimento e de avaliação do curso de Licenciatura em Matemática perante os órgãos internos e externos à USP.\n\n## Da Coordenação\n\nArtigo 5º – Além de seu voto, terá o Coordenador da CoC-LMA, em caso de empate, o voto de qualidade.\n\nParágrafo 1º – O Coordenador será substituído, em seus impedimentos, por seu suplente.",
+      "qa_pairs": [
+        {
+          "question": "A qual órgão a Comissão Coordenadora do Curso (CoC) de Licenciatura em Matemática está subordinada?",
+          "answer": "A CoC-LMA está subordinada à Comissão de Graduação (CG) do Instituto de Ciências Matemáticas e de Computação (ICMC).",
+          "source_page": 1
+        },
+        {
+          "question": "Quem compõe a Comissão Coordenadora do Curso de Licenciatura em Matemática?",
+          "answer": "A comissão é constituída por três representantes e suplentes do Departamento de Matemática (SMA), um representante e suplente do Departamento de Matemática Aplicada e Estatística do ICMC (SME), um docente e suplente do ICMC externos ao SME e SMA (eleitos pela Congregação), e um membro discente e respectivo suplente do curso de Licenciatura em Matemática.",
+          "source_page": 1
+        },
+        {
+          "question": "Como é escolhido o representante discente na CoC-LMA?",
+          "answer": "A representação discente é eleita pelos seus pares, seguindo o disposto no artigo 230 do Regimento Geral.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a duração do mandato dos membros docentes e do membro discente na CoC-LMA?",
+          "answer": "O mandato dos membros docentes é de três anos, com permissão para reconduções. Já o mandato do membro discente é de um ano, sendo permitida apenas uma recondução.",
+          "source_page": 1
+        },
+        {
+          "question": "O que acontece se um departamento não realizar a eleição de seus representantes no prazo de 60 dias?",
+          "answer": "Caso a eleição não seja feita pelo departamento nos incisos I e II no prazo de 60 dias, a Congregação procederá à eleição dos representantes.",
+          "source_page": 1
+        },
+        {
+          "question": "Como são escolhidos o Coordenador e o Suplente da CoC-LMA e qual a duração de seus mandatos?",
+          "answer": "O Coordenador e o Suplente são eleitos dentre os membros docentes titulares da CoC-LMA. O mandato é de dois anos, permitindo-se até duas reconduções.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a obrigação do coordenador ao término de seu mandato?",
+          "answer": "O coordenador deve apresentar um relatório de atividades desenvolvidas na CoC durante o período de sua coordenação para aprovação da CG e Congregação, no prazo de até 30 dias após o término do mandato.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são as competências da CoC-LMA em relação à estrutura e programas do curso?",
+          "answer": "Compete à CoC propor à CG a estrutura curricular e os programas de ensino das disciplinas do curso de Licenciatura em Matemática, ouvidos os Departamentos pertinentes, além de acompanhar a execução dos programas e analisar a pertinência do conteúdo programático de cada disciplina.",
+          "source_page": 2
+        },
+        {
+          "question": "A CoC-LMA tem atribuições relacionadas a recursos financeiros e infraestrutura?",
+          "answer": "Sim. A CoC deve opinar sobre a aplicação de recursos financeiros destinados ao curso e promover o aperfeiçoamento do ensino quanto à adequação curricular, melhoria de laboratórios didáticos, biblioteca e recursos didático-pedagógicos.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona a votação em caso de empate nas decisões da CoC-LMA?",
+          "answer": "Em caso de empate, o Coordenador da CoC-LMA terá, além de seu voto, o voto de qualidade.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Regimento CoC Licenciatura em Matemática__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\nArtigo 3º – A CoC-LMA terá um Coordenador e um Suplente eleitos dentre seus membros docentes, titulares da CoC-LMA.\n\nParágrafo 1º - O mandato do Coordenador e respectivo suplente será de dois anos, permitidas até duas reconduções.\n\nParágrafo 2º. – O coordenador deverá apresentar, no prazo de até 30 dias após o termino de seu mandato, relatório de atividades desenvolvidas na CoC, no período de sua coordenação, para aprovação da CG e Congregação. (Resolução CoG nº 7853, de 23.10.2019).\n\n*Atentar para a CircSGCLR\\_08022019 – critérios de desempate CCPs e CoCs\n\n## Da Competência\n\nArtigo 4º - Além das atribuições previstas na Resolução CoG-5.500, à CoC compete:\n\n- I. Propor à CG do ICMC a estrutura curricular do Curso de Licenciatura em Matemática , ouvidos os Departamentos pertinentes;\n- II. Propor à CG os programas de ensino das disciplinas ministradas no curso de Licenciatura em Matemática, ouvidos os Departamentos pertinentes, e acompanhar sua execução;\n- III. Analisar a pertinência do conteúdo programático de cada disciplina, promovendo a integração das diferentes disciplinas que compõem o currículo;\n- IV. Promover o aperfeiçoamento constante do ensino no que diz respeito à adequação curricular, melhoria de laboratórios didáticos, biblioteca e recursos didático-pedagógicos;\n- V. Opinar sobre aplicação dos recursos financeiros destinados ao curso de Licenciatura em Matemática;\n- VI. Assessorar a elaboração do horário de aulas das disciplinas de cada semestre letivo;\n- VII. Exercer as demais funções que lhe forem atribuídas pelos órgãos superiores do ICMC e da USP.\n- VIII. Acompanhar os processos de renovação do reconhecimento e de avaliação do curso de Licenciatura em Matemática perante os órgãos internos e externos à USP.\n\n## Da Coordenação\n\nArtigo 5º – Além de seu voto, terá o Coordenador da CoC-LMA, em caso de empate, o voto de qualidade.\n\nParágrafo 1º – O Coordenador será substituído, em seus impedimentos, por seu suplente.\n\n[Página 3]\nParágrafo 2º – No caso de vacância das funções do Coordenador ou do Suplente, a eleição far-se-á no prazo de 30 dias.\n\nParágrafo 3º – No impedimento do Coordenador e do Suplente, responderá pela CoC-LMA o docente mais graduado da Comissão com maior tempo de serviço docente na USP.\n\nArtigo 6º – Ao Coordenador da CoC- LMA compete:\n\n- I. Convocar, presidir, encerrar, suspender e prorrogar as sessões, observando e fazendo observar as normas legais vigentes e as determinações deste Regimento;\n- II. Organizar e submeter à discussão e votação as matérias constantes na Ordem do Dia de cada sessão da Comissão;\n- III. Designar, quando necessário, relator para estudo preliminar de matérias a serem submetidas à apreciação da CoC- LMA;\n- IV. Coordenar as atividades relativas à divulgação do curso;\n- V. Dar encaminhamento à matéria que lhe seja submetida pela CG.\n\n## Do Funcionamento\n\nArtigo 7º – A CoC-LMA se reunirá, ordinariamente, uma vez a cada seis meses e, extraordinariamente, sempre que o Coordenador ou um terço de seus membros a convocar.\n\nArtigo 8º – A CoC-LMA somente funcionará e deliberará com a presença de mais da metade de seus membros.\n\nParágrafo 1º – Se até 30 minutos da hora determinada para a reunião permanecer a falta de quorum, será convocada nova reunião para, no mínimo, 24 horas depois.\n\nParágrafo 2º – Se não houver quorum para a reunião, em segunda convocação, far-se-á nova convocação para, no mínimo, 24 horas depois.\n\nParágrafo 3º – Em terceira convocação, a Coc-LMA deliberará com qualquer número, com exceção dos casos em que se estabelece expressamente o quorum necessário.\n\nParágrafo 4º – Os assuntos constantes da pauta de Diversos serão apreciados pela CoC-LMA quando esta assim o decidir, mediante a aprovação de dois terços dos membros que a compõe.\n\nArtigo 9º – O pedido de vista para estudo do processo pode ser solicitado por qualquer membro e deliberado pelo Coordenador, ouvidos os membros da CoC-LMA.\n\nParágrafo 1º – Não cabe pedido de vista para assunto declarado em regime de urgência.",
+      "qa_pairs": [
+        {
+          "question": "Qual é a duração do mandato do Coordenador e do suplente da CoC-LMA?",
+          "answer": "O mandato do Coordenador e do respectivo suplente é de dois anos, sendo permitidas até duas reconduções.",
+          "source_page": 2
+        },
+        {
+          "question": "O que o coordenador da CoC-LMA deve apresentar ao término do seu mandato?",
+          "answer": "O coordenador deve apresentar, no prazo de até 30 dias após o término do mandato, um relatório de atividades desenvolvidas na CoC durante o período de sua coordenação, para aprovação da CG e Congregação.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são as competências da CoC-LMA em relação à estrutura e programas do curso de Licenciatura em Matemática?",
+          "answer": "Compete à CoC-LMA propor à CG do ICMC a estrutura curricular e os programas de ensino das disciplinas do curso de Licenciatura em Matemática, ouvidos os Departamentos pertinentes, além de acompanhar a execução dos programas e analisar a pertinência do conteúdo programático de cada disciplina.",
+          "source_page": 2
+        },
+        {
+          "question": "A CoC-LMA tem atribuições relacionadas a recursos financeiros e infraestrutura?",
+          "answer": "Sim. A CoC-LMA deve opinar sobre a aplicação dos recursos financeiros destinados ao curso de Licenciatura em Matemática e promover o aperfeiçoamento constante do ensino, incluindo a melhoria de laboratórios didáticos, biblioteca e recursos didático-pedagógicos.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona o voto do Coordenador da CoC-LMA em casos de empate?",
+          "answer": "Em caso de empate, o Coordenador da CoC-LMA terá, além de seu voto, o voto de qualidade.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem assume a responsabilidade pela CoC-LMA caso tanto o Coordenador quanto o Suplente estejam impedidos?",
+          "answer": "No impedimento de ambos, responderá pela CoC-LMA o docente mais graduado da Comissão que possua o maior tempo de serviço docente na USP.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o prazo para a realização de nova eleição em caso de vacância das funções de Coordenador ou Suplente?",
+          "answer": "No caso de vacância, a eleição deve ser realizada no prazo de 30 dias.",
+          "source_page": 3
+        },
+        {
+          "question": "Com que frequência a CoC-LMA se reúne ordinariamente?",
+          "answer": "A CoC-LMA se reúne ordinariamente uma vez a cada seis meses.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o quórum necessário para que a CoC-LMA funcione e delibere?",
+          "answer": "A CoC-LMA somente funcionará e deliberará com a presença de mais da metade de seus membros.",
+          "source_page": 3
+        },
+        {
+          "question": "É possível solicitar pedido de vista para estudo de processo na CoC-LMA?",
+          "answer": "Sim, qualquer membro pode solicitar o pedido de vista, que será deliberado pelo Coordenador após ouvir os membros da CoC-LMA. No entanto, não cabe pedido de vista para assuntos declarados em regime de urgência.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Regimento CoC Licenciatura em Matemática__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\nParágrafo 2º – No caso de vacância das funções do Coordenador ou do Suplente, a eleição far-se-á no prazo de 30 dias.\n\nParágrafo 3º – No impedimento do Coordenador e do Suplente, responderá pela CoC-LMA o docente mais graduado da Comissão com maior tempo de serviço docente na USP.\n\nArtigo 6º – Ao Coordenador da CoC- LMA compete:\n\n- I. Convocar, presidir, encerrar, suspender e prorrogar as sessões, observando e fazendo observar as normas legais vigentes e as determinações deste Regimento;\n- II. Organizar e submeter à discussão e votação as matérias constantes na Ordem do Dia de cada sessão da Comissão;\n- III. Designar, quando necessário, relator para estudo preliminar de matérias a serem submetidas à apreciação da CoC- LMA;\n- IV. Coordenar as atividades relativas à divulgação do curso;\n- V. Dar encaminhamento à matéria que lhe seja submetida pela CG.\n\n## Do Funcionamento\n\nArtigo 7º – A CoC-LMA se reunirá, ordinariamente, uma vez a cada seis meses e, extraordinariamente, sempre que o Coordenador ou um terço de seus membros a convocar.\n\nArtigo 8º – A CoC-LMA somente funcionará e deliberará com a presença de mais da metade de seus membros.\n\nParágrafo 1º – Se até 30 minutos da hora determinada para a reunião permanecer a falta de quorum, será convocada nova reunião para, no mínimo, 24 horas depois.\n\nParágrafo 2º – Se não houver quorum para a reunião, em segunda convocação, far-se-á nova convocação para, no mínimo, 24 horas depois.\n\nParágrafo 3º – Em terceira convocação, a Coc-LMA deliberará com qualquer número, com exceção dos casos em que se estabelece expressamente o quorum necessário.\n\nParágrafo 4º – Os assuntos constantes da pauta de Diversos serão apreciados pela CoC-LMA quando esta assim o decidir, mediante a aprovação de dois terços dos membros que a compõe.\n\nArtigo 9º – O pedido de vista para estudo do processo pode ser solicitado por qualquer membro e deliberado pelo Coordenador, ouvidos os membros da CoC-LMA.\n\nParágrafo 1º – Não cabe pedido de vista para assunto declarado em regime de urgência.\n\n[Página 4]\nParágrafo 2º – O prazo máximo de vista é de dez dias.\n\nDisposições Gerais Artigo 10 – Os casos omissos neste Regimento serão resolvidos pela CoC-LMA, salvo competência específica de outro órgão.\n\nParágrafo Único: Considerando que, no ICMC, o Curso de Licenciatura em Matemática possui um ciclo básico comum com o curso de Bacharelado em Matemática (três primeiros semestres), os assuntos pertinentes a alunos que estejam cursando estes períodos, ou outros assuntos referentes a esse ciclo básico, deverão ser tratados por ambas as CoC-LMA e CoC-LBA (Comissão Coordenadora Intraunidade do Curso de Bacharelado em Matemática).\n\nDisposições Transitórias Artigo 11º – O atual coordenador e seu suplente na coordenação do curso de Licenciatura em Matemática, deverão ser membros da primeira CoC–LMA e deverão assumir a coordenação desta, até completarem os respectivos mandatos, que lhes tenham sido atribuídos antes da criação da CoC-LMA.\n\nAprovado pela CG e Congregação do ICMC em sessões de 29.11.2019 e 13.11.2019, respectivamente.",
+      "qa_pairs": [
+        {
+          "question": "O que acontece se as funções de Coordenador ou Suplente ficarem vagas?",
+          "answer": "No caso de vacância das funções do Coordenador ou do Suplente, a eleição deve ser realizada no prazo de 30 dias.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem responde pela CoC-LMA quando tanto o Coordenador quanto o Suplente estão impedidos?",
+          "answer": "A CoC-LMA será respondida pelo docente da Comissão que for mais graduado e que possuir o maior tempo de serviço docente na USP.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as competências do Coordenador da CoC-LMA?",
+          "answer": "Compete ao Coordenador: convocar, presidir, encerrar, suspender e prorrogar as sessões; organizar e submeter matérias à discussão e votação na Ordem do Dia; designar relatores para estudos preliminares; coordenar a divulgação do curso; e dar encaminhamento a matérias submetidas pela CG.",
+          "source_page": 3
+        },
+        {
+          "question": "Com que frequência a CoC-LMA se reúne ordinariamente?",
+          "answer": "A CoC-LMA reúne-se ordinariamente uma vez a cada seis meses.",
+          "source_page": 3
+        },
+        {
+          "question": "Quem pode convocar reuniões extraordinárias da CoC-LMA?",
+          "answer": "As reuniões extraordinárias podem ser convocadas pelo Coordenador ou por um terço de seus membros.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o quórum necessário para que a CoC-LMA funcione e delibere?",
+          "answer": "A CoC-LMA somente funcionará e deliberará com a presença de mais da metade de seus membros.",
+          "source_page": 3
+        },
+        {
+          "question": "Como funciona a convocação de reuniões caso não haja quórum na primeira chamada?",
+          "answer": "Se após 30 minutos da hora marcada não houver quórum, será convocada nova reunião para, no mínimo, 24 horas depois. Se persistir a falta de quórum na segunda convocação, far-se-á nova convocação para, no mínimo, mais 24 horas depois. Em terceira convocação, a comissão deliberará com qualquer número, exceto em casos com quórum expressamente estabelecido.",
+          "source_page": 3
+        },
+        {
+          "question": "Como são apreciados os assuntos constantes da pauta de 'Diversos'?",
+          "answer": "Os assuntos de 'Diversos' serão apreciados quando a CoC-LMA assim decidir, mediante a aprovação de dois terços dos membros que a compõem.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o prazo máximo para o pedido de vista de um processo e em quais casos ele não é permitido?",
+          "answer": "O prazo máximo de vista é de dez dias. O pedido de vista não é permitido para assuntos declarados em regime de urgência.",
+          "source_page": 4
+        },
+        {
+          "question": "Como são tratados os assuntos de alunos que estão no ciclo básico comum da Licenciatura e do Bacharelado em Matemática?",
+          "answer": "Assuntos pertinentes a alunos nos três primeiros semestres (ciclo básico comum) ou outros temas referentes a esse ciclo devem ser tratados conjuntamente pela CoC-LMA e pela CoC-LBA (Comissão Coordenadora Intraunidade do Curso de Bacharelado em Matemática).",
+          "source_page": 4
+        }
+      ]
+    }
+  ]
+}

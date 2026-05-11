@@ -1,0 +1,126 @@
+{
+  "doc_name": "Viagens Didáticas",
+  "source_path": "data\\Manual SVGRAD\\Viagens Didáticas.docx",
+  "chunks": [
+    {
+      "chunk_id": "Viagens Didáticas__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Viagens Didáticas\n\n- 1) A PRG envia o edital para a unidade divulgar. Há um edital para cada semestre.\n- 2) A chefia do setor:\n- trata com o presidente da CG e Assistente da ATFn sobre o cronograma a ser seguido, pois é a ATFn que cadastra no Juno\n- divulga aos professores (ou somente aos coordenadores, se o presidente da CG orientar dessa forma).. Ver modelo de e-mail enviado pelo grad@ com o assunto \"Viagens Didáticas para o 2º semestre de 2024\"\n- insere as datas na agenda (copiar a presidência da CG nas datas em que há ação dela),\n- envia lembretes nos últimos dias dos prazos estabelecidos\n- salva o edital na pasta do Svgrad - Viagens Didáticas - (ano)\n- recebe os pedidos das CoCs e encaminha para análise da CG (se tiver viagem anterior, precisa pedir o relatório)\n- elabora o ofício e encaminha para ciência do coordenador e para ATFn submeter o pedido no Juno\n- depois elabora o ofício (assinado pelo presidente da CG com o de acordo do Diretor) e encaminha à PRG\n- salva os pedidos recebidos e documentos relacionados na pasta do Svgrad Viagens Didáticas (ano)\n- acompanha a análise da solicitação. Precisa entrar em contato com a ATFn e perguntar se foi aprovada e quais os valores\n- informa o coordenador do curso sobre os valores e orienta a entrar em contato com a setor de transportes para verificar os prazos de contratação e valores, se será possível custear a viagem com o auxílio concedido e realizar a viagem na data inicialmente prevista, e se será necessário indicar outra data ou pedir complementação do auxílio\n- solicita que o coordenador encaminhe os dados dos participantes (nome, NUSP e dados da agência e conta corrente do Banco do Brasil) e qual valor de auxílio alimentação será concedido a cada um (levando-se em conta o valor concedido pela PRG)\n- faz o cadastro no Juno\n- abre processo, anexa os documentos e encaminha para a ATFn\n\n## Cadastro no Sistema Juno\n\nObs: pedir para alunos atualizarem/cadastrarem os dados da agência e da conta corrente do Banco do Brasil no Júpiter\n\n[Página 2]\n- Juno - Benefícios e Bolsas\n\n<!-- image -->\n\n·\n\n- clica em auxílio financeiro - incluir, preenche os campos obrigatórios: Oferecimento: indicar o número do meio do processo; Destino do auxílio: Alimentação; Quantidade de alunos: verificar a quantidade informada pelo docente; Observação: Informações sobre a viagem; Valor mensal: valor concedido pela PRG dividido pelo número de alunos; Banco de Pagamento: Banco do Brasil; Unidade de despesa: 55, pedir o número do empenho para o SVCont, Período de vigência: data da viagem\n- depois clica no ícone \"alunos concedidos, clica em incluir e cadastra as informações do aluno. assim que finalizar o cadastro, avisa a Tesouraria para fazer o pagamento.\n\n<!-- image -->\n\n·\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como funciona a divulgação do edital de Viagens Didáticas?",
+          "answer": "A PRG envia o edital para a unidade divulgar, existindo um edital para cada semestre.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a responsabilidade da chefia do setor em relação ao cronograma de Viagens Didáticas?",
+          "answer": "A chefia do setor deve tratar com o presidente da CG e o Assistente da ATFn sobre o cronograma, visto que a ATFn é a responsável pelo cadastro no sistema Juno.",
+          "source_page": 1
+        },
+        {
+          "question": "O que a chefia do setor deve fazer ao receber os pedidos das CoCs?",
+          "answer": "A chefia deve encaminhar os pedidos para análise da CG e, caso haja uma viagem anterior, é necessário solicitar o relatório.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem deve assinar o ofício encaminhado à PRG?",
+          "answer": "O ofício deve ser assinado pelo presidente da CG com o 'de acordo' do Diretor.",
+          "source_page": 1
+        },
+        {
+          "question": "O que o coordenador do curso deve verificar após ser informado sobre os valores do auxílio?",
+          "answer": "O coordenador deve entrar em contato com o setor de transportes para verificar prazos de contratação e valores, avaliando se o auxílio concedido custeará a viagem na data prevista ou se será necessária a indicação de nova data ou pedido de complementação.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais dados dos participantes devem ser encaminhados pelo coordenador?",
+          "answer": "Devem ser enviados o nome, NUSP, dados da agência e conta corrente do Banco do Brasil, além do valor do auxílio alimentação que será concedido a cada participante (baseado no valor da PRG).",
+          "source_page": 1
+        },
+        {
+          "question": "O que os alunos devem fazer em relação aos seus dados bancários para o recebimento de auxílios?",
+          "answer": "Os alunos devem atualizar ou cadastrar os dados da agência e da conta corrente do Banco do Brasil no sistema Júpiter.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais campos obrigatórios devem ser preenchidos ao incluir um auxílio financeiro no sistema Juno?",
+          "answer": "Devem ser preenchidos: Oferecimento (número do meio do processo), Destino do auxílio (Alimentação), Quantidade de alunos, Observação (informações sobre a viagem), Valor mensal (valor da PRG dividido pelo número de alunos), Banco de Pagamento (Banco do Brasil), Unidade de despesa (55, com número do empenho do SVCont) e Período de vigência (data da viagem).",
+          "source_page": 2
+        },
+        {
+          "question": "Como é feito o cadastro dos alunos beneficiários no sistema Juno?",
+          "answer": "Após preencher os dados do auxílio, deve-se clicar no ícone 'alunos concedidos', selecionar 'incluir' e cadastrar as informações do aluno.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a última etapa após a finalização do cadastro do aluno no Juno para que ocorra o pagamento?",
+          "answer": "Após finalizar o cadastro, deve-se avisar a Tesouraria para que o pagamento seja efetuado.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Viagens Didáticas__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- Juno - Benefícios e Bolsas\n\n<!-- image -->\n\n·\n\n- clica em auxílio financeiro - incluir, preenche os campos obrigatórios: Oferecimento: indicar o número do meio do processo; Destino do auxílio: Alimentação; Quantidade de alunos: verificar a quantidade informada pelo docente; Observação: Informações sobre a viagem; Valor mensal: valor concedido pela PRG dividido pelo número de alunos; Banco de Pagamento: Banco do Brasil; Unidade de despesa: 55, pedir o número do empenho para o SVCont, Período de vigência: data da viagem\n- depois clica no ícone \"alunos concedidos, clica em incluir e cadastra as informações do aluno. assim que finalizar o cadastro, avisa a Tesouraria para fazer o pagamento.\n\n<!-- image -->\n\n·\n\n<!-- image -->\n\n[Página 3]\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como solicitar auxílio financeiro para alimentação no sistema Juno?",
+          "answer": "Para solicitar, deve-se clicar em 'auxílio financeiro', selecionar 'incluir' e preencher os campos obrigatórios: Oferecimento (número do meio do processo), Destino do auxílio (Alimentação), Quantidade de alunos (conforme informado pelo docente), Observação (informações sobre a viagem), Valor mensal (valor da PRG dividido pelo número de alunos), Banco de Pagamento (Banco do Brasil), Unidade de despesa (55, solicitando o número do empenho ao SVCont) e Período de vigência (data da viagem).",
+          "source_page": 2
+        },
+        {
+          "question": "Qual banco deve ser selecionado para o pagamento do auxílio financeiro no Juno?",
+          "answer": "O banco de pagamento a ser indicado é o Banco do Brasil.",
+          "source_page": 2
+        },
+        {
+          "question": "Como deve ser calculado o valor mensal do auxílio financeiro?",
+          "answer": "O valor mensal deve ser o valor concedido pela PRG dividido pelo número de alunos.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a unidade de despesa a ser utilizada no cadastro do auxílio?",
+          "answer": "A unidade de despesa é a 55.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito em relação ao número do empenho na unidade de despesa 55?",
+          "answer": "Deve-se pedir o número do empenho para o SVCont.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser informado no campo 'Observação' do auxílio financeiro?",
+          "answer": "Devem ser inseridas as informações sobre a viagem.",
+          "source_page": 2
+        },
+        {
+          "question": "Como cadastrar os alunos que receberão o auxílio no sistema Juno?",
+          "answer": "Após preencher os dados do auxílio, deve-se clicar no ícone 'alunos concedidos', clicar em 'incluir' e cadastrar as informações do aluno.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem deve ser avisado após a finalização do cadastro do aluno para que o pagamento seja efetuado?",
+          "answer": "A Tesouraria deve ser avisada para realizar o pagamento.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual informação deve ser colocada no campo 'Período de vigência' do auxílio?",
+          "answer": "Deve ser informada a data da viagem.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde deve ser consultada a quantidade de alunos para o preenchimento do auxílio financeiro?",
+          "answer": "A quantidade de alunos deve ser verificada conforme a informação fornecida pelo docente.",
+          "source_page": 2
+        }
+      ]
+    }
+  ]
+}

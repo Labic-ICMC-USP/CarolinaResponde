@@ -1,0 +1,186 @@
+{
+  "doc_name": "Identificar alunos que estão MA",
+  "source_path": "data\\Manual SVGRAD\\Identificar alunos que estão MA.pdf",
+  "chunks": [
+    {
+      "chunk_id": "Identificar alunos que estão MA__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n- i. Aluno&gt;Relatório&gt;Lista de frequência e nota\n- ii. Escolher o curso e o ano que será analisado\n- iii. Download arquivo CSV para manipulação da planilha\n\n<!-- image -->\n\n[Página 2]\n- i. Adicionar os filtros\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como posso acessar a lista de frequência e nota de um aluno?",
+          "answer": "Para acessar a lista de frequência e nota, deve-se seguir o caminho: Aluno > Relatório > Lista de frequência e nota.",
+          "source_page": 1
+        },
+        {
+          "question": "O que é necessário selecionar para analisar a lista de frequência e nota?",
+          "answer": "É necessário escolher o curso e o ano que será analisado.",
+          "source_page": 1
+        },
+        {
+          "question": "Em qual formato é possível baixar o arquivo da lista de frequência e nota para manipulação de planilha?",
+          "answer": "O arquivo pode ser baixado no formato CSV.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual o procedimento para gerar um relatório de frequência e nota?",
+          "answer": "O procedimento consiste em acessar Aluno > Relatório > Lista de frequência e nota, escolher o curso e o ano, e realizar o download do arquivo CSV.",
+          "source_page": 1
+        },
+        {
+          "question": "Como posso manipular os dados da lista de frequência e nota em uma planilha?",
+          "answer": "Para manipular os dados em uma planilha, deve-se realizar o download do arquivo em formato CSV.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde encontro a opção de relatórios de alunos?",
+          "answer": "A opção de relatórios de alunos encontra-se no menu Aluno > Relatório.",
+          "source_page": 1
+        },
+        {
+          "question": "É possível filtrar as informações nos relatórios?",
+          "answer": "Sim, é possível adicionar filtros.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual a sequência de passos para obter a lista de frequência e nota?",
+          "answer": "A sequência é: acessar Aluno > Relatório > Lista de frequência e nota, selecionar o curso e o ano, e baixar o arquivo CSV.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais parâmetros devem ser definidos antes de baixar o relatório de notas e frequência?",
+          "answer": "Devem ser definidos o curso e o ano que serão analisados.",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve ser feito após acessar a seção de relatórios para refinar a busca?",
+          "answer": "Deve-se adicionar os filtros.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Identificar alunos que estão MA__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- i. Adicionar os filtros\n\n<!-- image -->\n\n[Página 3]\n- i. Uso dos filtros para encontrar os alunos com frequência &gt;70%, nota entre 3,0 e 4,9, e sem nota atribuída na rec.\n- ii. Exemplo com Bacharelado em Matemática Aplicada e Computação Científica:\n\n## Filtro para frequência\n\nValor entre 3,0 e 4,9\n\n<!-- image -->\n\n<!-- image -->\n\nMostrar apenas \"Vazias\"\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como posso encontrar alunos com frequência superior a 70%?",
+          "answer": "Para encontrar alunos com frequência superior a 70%, deve-se utilizar os filtros do sistema.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual filtro deve ser utilizado para localizar alunos com notas entre 3,0 e 4,9?",
+          "answer": "Deve-se utilizar o filtro de valor entre 3,0 e 4,9.",
+          "source_page": 3
+        },
+        {
+          "question": "Como identificar alunos que não possuem nota atribuída na recuperação?",
+          "answer": "Para identificar alunos sem nota na recuperação, deve-se configurar o filtro para mostrar apenas as opções 'Vazias'.",
+          "source_page": 3
+        },
+        {
+          "question": "Existe algum exemplo de aplicação de filtros para cursos específicos?",
+          "answer": "Sim, o texto menciona um exemplo de aplicação de filtros para o curso de Bacharelado em Matemática Aplicada e Computação Científica.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual é o primeiro passo para iniciar a filtragem de dados?",
+          "answer": "O primeiro passo é adicionar os filtros.",
+          "source_page": 2
+        },
+        {
+          "question": "É possível filtrar alunos por frequência e nota simultaneamente?",
+          "answer": "Sim, é possível utilizar filtros para encontrar alunos que atendam a múltiplos critérios, como frequência >70% e nota entre 3,0 e 4,9.",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser selecionado no filtro para encontrar campos sem preenchimento de nota?",
+          "answer": "Deve-se selecionar a opção 'Vazias'.",
+          "source_page": 3
+        },
+        {
+          "question": "Para qual curso é exemplificado o uso de filtros no documento?",
+          "answer": "O exemplo é fornecido para o Bacharelado em Matemática Aplicada e Computação Científica.",
+          "source_page": 3
+        },
+        {
+          "question": "Como configurar o filtro de frequência para alunos com mais de 70%?",
+          "answer": "Utilizando a ferramenta de filtros para selecionar a frequência >70%.",
+          "source_page": 3
+        },
+        {
+          "question": "Onde encontro a instrução para adicionar filtros no sistema?",
+          "answer": "A instrução para adicionar os filtros encontra-se na página 2.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Identificar alunos que estão MA__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n- i. Uso dos filtros para encontrar os alunos com frequência &gt;70%, nota entre 3,0 e 4,9, e sem nota atribuída na rec.\n- ii. Exemplo com Bacharelado em Matemática Aplicada e Computação Científica:\n\n## Filtro para frequência\n\nValor entre 3,0 e 4,9\n\n<!-- image -->\n\n<!-- image -->\n\nMostrar apenas \"Vazias\"\n\n<!-- image -->\n\n[Página 4]\n- i. Exemplo com Bacharelado em Matemática Aplicada e Computação Científica, turma 20241:\n\n| A        | B                     |        | D E                                    | F G                                    | H               |                                        | K      |\n|----------|-----------------------|--------|----------------------------------------|----------------------------------------|-----------------|----------------------------------------|--------|\n| NÂª USP  | Nome                  | Nome   | Ingresso CÃªdigo VersÃfo Nome d: Turma | Ingresso CÃªdigo VersÃfo Nome d: Turma | FrequÃªG Nota 1 | Ingresso CÃªdigo VersÃfo Nome d: Turma | Nota 2 |\n| 11913896 | 2 Bruna Romero Arraes | 2021/1 | SMEO243                                | 2 Teoria 2024101 Esp'                  | 70              |                                        |        |\n| 11913896 | 2 Bruna Romero Arraes | 2021/1 | SMEO243                                | 2 Teoria Espi 2024101                  | 70              | 3                                      |        |\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como posso encontrar alunos com frequência superior a 70% e nota entre 3,0 e 4,9?",
+          "answer": "Para encontrar esses alunos, deve-se utilizar os filtros específicos para frequência (>70%) e para a nota (valor entre 3,0 e 4,9).",
+          "source_page": 3
+        },
+        {
+          "question": "Como filtrar alunos que não possuem nota atribuída na recuperação?",
+          "answer": "Para filtrar alunos sem nota na recuperação, deve-se configurar o filtro para mostrar apenas as células 'Vazias'.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual curso é utilizado como exemplo para a aplicação dos filtros de frequência e nota?",
+          "answer": "O curso utilizado como exemplo é o Bacharelado em Matemática Aplicada e Computação Científica.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são os critérios de filtro mencionados para a identificação de alunos no sistema?",
+          "answer": "Os critérios mencionados são: frequência superior a 70%, nota entre 3,0 e 4,9 e ausência de nota atribuída na recuperação.",
+          "source_page": 3
+        },
+        {
+          "question": "Para qual turma do Bacharelado em Matemática Aplicada e Computação Científica é apresentado o exemplo de tabela?",
+          "answer": "O exemplo de tabela é apresentado para a turma 20241.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais informações estão disponíveis nas colunas da tabela de alunos do curso de Matemática Aplicada e Computação Científica?",
+          "answer": "A tabela contém informações como Número USP, Nome, Ingresso, Código, Versão, Nome da Turma, Frequência, Nota 1 e Nota 2.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o número USP da aluna Bruna Romero Arraes conforme o exemplo?",
+          "answer": "O número USP da aluna Bruna Romero Arraes é 11913896.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual foi o ano de ingresso da aluna Bruna Romero Arraes?",
+          "answer": "O ingresso da aluna Bruna Romero Arraes foi em 2021/1.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a frequência registrada para a aluna Bruna Romero Arraes no exemplo da turma 20241?",
+          "answer": "A frequência registrada para a aluna Bruna Romero Arraes é de 70.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual a nota 1 atribuída à aluna Bruna Romero Arraes no exemplo fornecido?",
+          "answer": "A nota 1 atribuída à aluna Bruna Romero Arraes é 3.",
+          "source_page": 4
+        }
+      ]
+    }
+  ]
+}

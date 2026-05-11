@@ -1,0 +1,65 @@
+{
+  "doc_name": "Bolsa Monitoria Programa Pró-Aluno",
+  "source_path": "data\\Manual SVGRAD\\Bolsa Monitoria Programa Pró-Aluno.docx",
+  "chunks": [
+    {
+      "chunk_id": "Bolsa Monitoria Programa Pró-Aluno__c0",
+      "pages": [
+        1
+      ],
+      "chunk_text": "[Página 1]\nBolsa Monitoria Programa Pró-Aluno Legislação: RESOLUÇÃO CoG Nº 4133/1994\n\n- 1) A PRG envia e-mail com edital geral e indica prazo para unidade encaminhar a informação sobre o número de bolsistas, plano de trabalho/atividades. Há um edital por ano.\n- 2) A chefia da Graduação:\n\n- encaminha o edital ao funcionário da STI responsável pela pró-aluno\n\n(atualmente Thiago Zanoello) e solicita o edital com as informações requeridas pela PRG (número de bolsistas, plano de trabalho/ativi-\n\ndades, justificativa)\n\n- envia as informações/edital para análise da CG\n\n- envia ofício de resposta à PRG\n\n- faz a divulgação do edital ICMC aos alunos, ressaltando os prazos\n\n- envia lembrete sobre os prazos de inscrição",
+      "qa_pairs": [
+        {
+          "question": "Qual a legislação que rege a Bolsa Monitoria do Programa Pró-Aluno?",
+          "answer": "A legislação que rege a Bolsa Monitoria do Programa Pró-Aluno é a RESOLUÇÃO CoG Nº 4133/1994.",
+          "source_page": 1
+        },
+        {
+          "question": "Com que frequência é publicado o edital geral da PRG para a Bolsa Monitoria?",
+          "answer": "Há um edital por ano.",
+          "source_page": 1
+        },
+        {
+          "question": "O que a PRG solicita que a unidade encaminhe após o envio do edital geral?",
+          "answer": "A PRG solicita a informação sobre o número de bolsistas e o plano de trabalho/atividades.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a função da chefia da Graduação em relação ao edital da PRG?",
+          "answer": "A chefia da Graduação deve encaminhar o edital ao funcionário da STI responsável pela pró-aluno, solicitar o edital com as informações requeridas pela PRG, enviar as informações para análise da CG, enviar ofício de resposta à PRG, divulgar o edital aos alunos e enviar lembretes sobre os prazos de inscrição.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem é o funcionário da STI responsável pela pró-aluno para quem a chefia da Graduação encaminha o edital?",
+          "answer": "Atualmente, o responsável é Thiago Zanoello.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais informações a chefia da Graduação deve solicitar ao funcionário da STI para compor o edital?",
+          "answer": "Devem ser solicitadas o número de bolsistas, o plano de trabalho/atividades e a justificativa.",
+          "source_page": 1
+        },
+        {
+          "question": "Para onde a chefia da Graduação envia as informações e o edital para análise?",
+          "answer": "As informações e o edital são enviados para análise da CG.",
+          "source_page": 1
+        },
+        {
+          "question": "Como a chefia da Graduação formaliza a resposta à PRG?",
+          "answer": "A resposta é formalizada através do envio de um ofício.",
+          "source_page": 1
+        },
+        {
+          "question": "De que forma a chefia da Graduação deve divulgar o edital do ICMC aos alunos?",
+          "answer": "A chefia deve fazer a divulgação do edital ressaltando os prazos.",
+          "source_page": 1
+        },
+        {
+          "question": "Além da divulgação inicial, qual outra ação a chefia da Graduação deve tomar em relação aos prazos de inscrição?",
+          "answer": "A chefia da Graduação deve enviar lembretes sobre os prazos de inscrição.",
+          "source_page": 1
+        }
+      ]
+    }
+  ]
+}

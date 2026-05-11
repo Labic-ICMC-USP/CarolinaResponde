@@ -1,0 +1,186 @@
+{
+  "doc_name": "Portador de Diploma",
+  "source_path": "data\\Manual SVGRAD\\Portador de Diploma.docx",
+  "chunks": [
+    {
+      "chunk_id": "Portador de Diploma__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Portador de diploma\n\nLegislação:\n\nResolução CoG 3823/1991\n\n## Regimento da USP - art 72 § 1º\n\n- Quando há vagas remanescentes da transferência externa, ocorre o processo seletivo de portador de diploma para ingresso no 1º semestre letivo. As vagas disponíveis, bem como as regras de seleção e período de inscrição são divulgadas em Edital.\n- A PRG define uma data no calendário oficial para a inscrição dos portadores de diploma. A unidade pode fazer a inscrição em outra data, mas precisa solicitar autorização da PRG e dar ampla divulgação.\n- Toda a tramitação sobre o processo de seleção deve seguir o prazo estabelecido pela PRG para a inscrição. As demais datas podem ser definidas pela unidade (levando em conta a data do início das aulas). Mesmo que o calendário completo do ano seguinte ainda não tenha sido divulgado, iniciar os trâmites no ICMC em meados do 2º semestre para que dê tempo do edital ser analisado pela CG e pela Congregação até dezembro.\n\n## A chefia do setor deve:\n\n- consultar os coordenadores se as vagas remanescentes da transferência externa serão ofertadas no processo de portador de diploma\n- preencher a minuta do edital com as informações sobre as vagas disponíveis\n- propor um cronograma para o período de análise pelos coordenadores, divulgação do resultado e matrícula. O prazo para a última chamada deve levar em conta a data do início do 1º semestre\n- caso a chefia ainda não tenha informações sobre o calendário oficial do ano seguinte para indicar a data da inscrição„ deixar apenas esse campo para preenchimento posterior e tramitar o edital que seja possível cumprir os prazos\n- encaminhar para análise das CoCs\n\n## As CoCs devem:\n\n- definir se todas as vagas disponíveis serão ofertadas. Caso opte por não oferecer todas as vagas, será necessário justificar a decisão\n- vagas para o núcleo geral da Matemática devem ser analisadas pela CoCBMA e CoC-LMA\n- analisar os critérios de classificação e propor alterações, se achar necessário\n\n## A chefia do setor deve:\n\n[Página 2]\n- após a análise pelas CoCs, finalizar o edital e enviar para apreciação da CG e da Congregação\n\n(verificar se é necessário enviar à PRG)\n\n- divulgar na página do setor\n- tratar dos trâmites da seleção e da matrícula do aluno no curso.\n- orientar as secretárias dos cursos a efetuar a matrícula do aluno nas disciplinas\n- assim que o processo terminar informar à PRG sobre o número de vagas ocupadas\n\n## Procedimentos da seleção:\n\n- criar o formulário de inscrição e divulgar na página em Portadores de Curso Superior (abrir somente no período definido no edital)\n- depois que o prazo de inscrição terminar, analisar as inscrições: verificar se estão de acordo com os critérios estabelecidos no edital\n- divulgar o resultado da análise das inscrições: se foi deferida ou indeferida\n- encaminhar as inscrições deferidas e documentos correspondentes aos coordenadores para análise e pedir que encaminhem a classificação final dos candidatos, conforme os critérios e prazos estabelecidos\n- reunir as informações enviadas pelos coordenadores, encaminhar o resultado final para o presidente da CG e divulgar na página no prazo previsto no edital\n- criar o formulário de matrícula e divulgar na página (abrir somente no período definido no edital)\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula\n- caso haja vagas remanescentes, verificar os próximos candidatos, fazer a convocação de matrícula da 1ª lista de espera e divulgar na página no prazo previsto no edital\n- reabrir o formulário de matrícula no período definido no edital\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula e caso ainda haja vagas remanescentes, repetir o procedimento convocação e matrícula da 2ª lista de espera\n- conferir se todos os documentos enviados para a matrícula estão corretos e salvar na pasta compartilhada svgrad - Ingresso - Portadores de diploma (ano)\n- fazer a matrícula no Júpiter",
+      "qa_pairs": [
+        {
+          "question": "Quando ocorre o processo seletivo de portador de diploma para ingresso no ICMC?",
+          "answer": "O processo seletivo de portador de diploma ocorre para o ingresso no 1º semestre letivo, quando há vagas remanescentes da transferência externa.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde posso encontrar as vagas disponíveis e as regras de seleção para portadores de diploma?",
+          "answer": "As vagas disponíveis, bem como as regras de seleção e o período de inscrição, são divulgadas em Edital.",
+          "source_page": 1
+        },
+        {
+          "question": "Quem define a data oficial para a inscrição dos portadores de diploma?",
+          "answer": "A PRG define uma data no calendário oficial para a inscrição, embora a unidade possa solicitar autorização da PRG para realizar a inscrição em outra data, desde que dê ampla divulgação.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual é a responsabilidade da chefia do setor em relação ao edital de portador de diploma?",
+          "answer": "A chefia do setor deve consultar os coordenadores sobre a oferta de vagas remanescentes, preencher a minuta do edital com as informações das vagas, propor um cronograma de análise, divulgação e matrícula, e encaminhar o documento para análise das CoCs.",
+          "source_page": 1
+        },
+        {
+          "question": "O que as CoCs devem analisar no processo de portador de diploma?",
+          "answer": "As CoCs devem definir se todas as vagas disponíveis serão ofertadas (justificando caso não sejam), analisar os critérios de classificação e propor alterações se necessário. No caso de vagas para o núcleo geral da Matemática, a análise deve ser feita pela CoCBMA e CoC-LMA.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são as etapas finais de aprovação do edital antes da sua divulgação?",
+          "answer": "Após a análise pelas CoCs, a chefia do setor deve finalizar o edital e enviá-lo para apreciação da CG e da Congregação.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona a análise das inscrições após o término do prazo?",
+          "answer": "As inscrições são analisadas para verificar se estão de acordo com os critérios do edital, e em seguida é divulgado o resultado informando se a inscrição foi deferida ou indeferida.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é definida a classificação final dos candidatos?",
+          "answer": "As inscrições deferidas e os documentos correspondentes são encaminhados aos coordenadores, que devem enviar a classificação final dos candidatos conforme os critérios e prazos estabelecidos.",
+          "source_page": 2
+        },
+        {
+          "question": "O que acontece se sobrarem vagas após a primeira chamada de matrícula?",
+          "answer": "Caso haja vagas remanescentes, a chefia do setor deve verificar os próximos candidatos, realizar a convocação de matrícula da 1ª lista de espera e, se ainda houver vagas, repetir o procedimento para a 2ª lista de espera, conforme os prazos do edital.",
+          "source_page": 2
+        },
+        {
+          "question": "Quais são os procedimentos finais após a conferência dos documentos de matrícula?",
+          "answer": "A chefia do setor deve conferir se todos os documentos de matrícula estão corretos, salvá-los na pasta compartilhada 'svgrad - Ingresso - Portadores de diploma (ano)' e realizar a matrícula no sistema Júpiter.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Portador de Diploma__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- após a análise pelas CoCs, finalizar o edital e enviar para apreciação da CG e da Congregação\n\n(verificar se é necessário enviar à PRG)\n\n- divulgar na página do setor\n- tratar dos trâmites da seleção e da matrícula do aluno no curso.\n- orientar as secretárias dos cursos a efetuar a matrícula do aluno nas disciplinas\n- assim que o processo terminar informar à PRG sobre o número de vagas ocupadas\n\n## Procedimentos da seleção:\n\n- criar o formulário de inscrição e divulgar na página em Portadores de Curso Superior (abrir somente no período definido no edital)\n- depois que o prazo de inscrição terminar, analisar as inscrições: verificar se estão de acordo com os critérios estabelecidos no edital\n- divulgar o resultado da análise das inscrições: se foi deferida ou indeferida\n- encaminhar as inscrições deferidas e documentos correspondentes aos coordenadores para análise e pedir que encaminhem a classificação final dos candidatos, conforme os critérios e prazos estabelecidos\n- reunir as informações enviadas pelos coordenadores, encaminhar o resultado final para o presidente da CG e divulgar na página no prazo previsto no edital\n- criar o formulário de matrícula e divulgar na página (abrir somente no período definido no edital)\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula\n- caso haja vagas remanescentes, verificar os próximos candidatos, fazer a convocação de matrícula da 1ª lista de espera e divulgar na página no prazo previsto no edital\n- reabrir o formulário de matrícula no período definido no edital\n- assim que o prazo terminar, verificar se todos os convocados efetuaram a matrícula e caso ainda haja vagas remanescentes, repetir o procedimento convocação e matrícula da 2ª lista de espera\n- conferir se todos os documentos enviados para a matrícula estão corretos e salvar na pasta compartilhada svgrad - Ingresso - Portadores de diploma (ano)\n- fazer a matrícula no Júpiter\n\n[Página 3]\n- enviar e-mail aos novos alunos com as orientações sobre a matrícula em disciplinas (ver modelo nos enviados do grad@ com o assunto \"Orientações\n- Matrícula transferência interna\" (com especificidades da externa como NUSP)\n\n## Procedimentos da matrícula:\n\n- Verifica se o aluno possui cadastro em Júpiter - Aluno - Consultas - Dados pessoais. Se tiver, anota o NUSP para fazer a matrícula. Se não tiver, clica em Incluir nova pessoa e preenche os dados.\n- faz a matrícula no curso em: Júpiter - Administrativo &gt; Inscrição em Cursos - Seleciona unidade, curso e complemento, deixa o campo resultado sem preenchimento, clica em buscar\n- clica em incluir, preenche o NUSP do aluno, seleciona o tipo \"Inscrição graduado\", preenche o campo data da inscrição com a data da inscrição estabelecida no edital, clica em salvar\n\n<!-- image -->\n\n·\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quais são as etapas iniciais para a finalização do edital de seleção?",
+          "answer": "Após a análise pelas CoCs, o edital deve ser finalizado e enviado para apreciação da CG e da Congregação, verificando-se a necessidade de envio à PRG.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde deve ser feita a divulgação do edital?",
+          "answer": "O edital deve ser divulgado na página do setor.",
+          "source_page": 2
+        },
+        {
+          "question": "Como funciona o processo de inscrição para Portadores de Curso Superior?",
+          "answer": "Deve ser criado um formulário de inscrição, divulgado na página de Portadores de Curso Superior, ficando aberto apenas no período definido no edital.",
+          "source_page": 2
+        },
+        {
+          "question": "O que acontece após o término do prazo de inscrição?",
+          "answer": "As inscrições são analisadas para verificar se estão de acordo com os critérios do edital, e posteriormente é divulgado o resultado (deferido ou indeferido).",
+          "source_page": 2
+        },
+        {
+          "question": "Quem é responsável por definir a classificação final dos candidatos?",
+          "answer": "As inscrições deferidas e os documentos são encaminhados aos coordenadores para análise e definição da classificação final, conforme os critérios e prazos estabelecidos.",
+          "source_page": 2
+        },
+        {
+          "question": "Como é feito o preenchimento de vagas remanescentes?",
+          "answer": "Caso haja vagas, é feita a convocação de matrícula da 1ª lista de espera e, se ainda persistirem vagas, repete-se o procedimento para a 2ª lista de espera, sempre divulgando na página nos prazos do edital.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde devem ser salvos os documentos de matrícula dos portadores de diploma?",
+          "answer": "Os documentos devem ser conferidos e salvos na pasta compartilhada 'svgrad - Ingresso - Portadores de diploma (ano)'.",
+          "source_page": 2
+        },
+        {
+          "question": "Como os novos alunos recebem orientações sobre a matrícula em disciplinas?",
+          "answer": "Os novos alunos recebem um e-mail com orientações, utilizando o modelo de 'Orientações - Matrícula transferência interna' (com as especificidades da externa, como o NUSP).",
+          "source_page": 3
+        },
+        {
+          "question": "O que deve ser feito se o aluno não possuir cadastro no sistema Júpiter?",
+          "answer": "Se o aluno não tiver cadastro em Júpiter (verificado em Aluno - Consultas - Dados pessoais), deve-se clicar em 'Incluir nova pessoa' e preencher os dados.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para realizar a matrícula do aluno no curso?",
+          "answer": "O caminho é: Júpiter - Administrativo > Inscrição em Cursos. Deve-se selecionar a unidade, curso e complemento, clicar em incluir, preencher o NUSP, selecionar o tipo 'Inscrição graduado' e a data da inscrição estabelecida no edital.",
+          "source_page": 3
+        }
+      ]
+    },
+    {
+      "chunk_id": "Portador de Diploma__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n- enviar e-mail aos novos alunos com as orientações sobre a matrícula em disciplinas (ver modelo nos enviados do grad@ com o assunto \"Orientações\n- Matrícula transferência interna\" (com especificidades da externa como NUSP)\n\n## Procedimentos da matrícula:\n\n- Verifica se o aluno possui cadastro em Júpiter - Aluno - Consultas - Dados pessoais. Se tiver, anota o NUSP para fazer a matrícula. Se não tiver, clica em Incluir nova pessoa e preenche os dados.\n- faz a matrícula no curso em: Júpiter - Administrativo &gt; Inscrição em Cursos - Seleciona unidade, curso e complemento, deixa o campo resultado sem preenchimento, clica em buscar\n- clica em incluir, preenche o NUSP do aluno, seleciona o tipo \"Inscrição graduado\", preenche o campo data da inscrição com a data da inscrição estabelecida no edital, clica em salvar\n\n<!-- image -->\n\n·\n\n<!-- image -->\n\n[Página 4]\n- seleciona a linha em que consta o aluno e clica em parecer, preenche o campo resultado com \"aceito\", indica no campo data da seleção o dia da divulgação do resultado, no tipo de avaliação indica análise de currículo, informa o NUSP do presidente da CG no campo responsável e na descrição pode colocar somente \"aprovado\", clica em salvar\n\n·\n\n<!-- image -->\n\n- assim que o aluno encaminhar a grade horária assinada pelo coordenador, efetuar a matrícula dele nas disciplinas, se houver vagas.\n- quando o aluno não tem o requisito, não é necessário deixar a matrícula pendente para análise da CoC. A secretária do curso pode finalizar a matrícula porque o coordenador assinou a grade, autorizando a matrícula.",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser enviado aos novos alunos para orientá-los sobre a matrícula em disciplinas?",
+          "answer": "Deve ser enviado um e-mail com as orientações sobre a matrícula em disciplinas, utilizando o modelo disponível nos enviados do grad@ com o assunto 'Orientações'.",
+          "source_page": 3
+        },
+        {
+          "question": "Como verificar se um aluno já possui cadastro no sistema Júpiter?",
+          "answer": "A verificação é feita no caminho: Júpiter - Aluno - Consultas - Dados pessoais.",
+          "source_page": 3
+        },
+        {
+          "question": "O que fazer caso o aluno não possua cadastro no Júpiter?",
+          "answer": "Deve-se clicar em 'Incluir nova pessoa' e preencher os dados necessários.",
+          "source_page": 3
+        },
+        {
+          "question": "Qual o caminho no sistema Júpiter para realizar a matrícula no curso?",
+          "answer": "O caminho é: Júpiter - Administrativo > Inscrição em Cursos.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais campos devem ser preenchidos ao realizar a inscrição do aluno no curso?",
+          "answer": "Deve-se selecionar a unidade, o curso e o complemento, deixando o campo resultado sem preenchimento antes de buscar.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais informações são necessárias ao clicar em 'incluir' para a inscrição do graduado?",
+          "answer": "É necessário preencher o NUSP do aluno, selecionar o tipo 'Inscrição graduado' e preencher a data da inscrição conforme estabelecido no edital.",
+          "source_page": 3
+        },
+        {
+          "question": "Como deve ser preenchido o parecer de aceitação do aluno?",
+          "answer": "Deve-se preencher o campo resultado com 'aceito', indicar a data da divulgação do resultado no campo data da seleção, selecionar 'análise de currículo' no tipo de avaliação, informar o NUSP do presidente da CG no campo responsável e escrever 'aprovado' na descrição.",
+          "source_page": 4
+        },
+        {
+          "question": "Quando deve ser efetuada a matrícula do aluno nas disciplinas?",
+          "answer": "A matrícula nas disciplinas deve ser efetuada assim que o aluno encaminhar a grade horária assinada pelo coordenador, desde que haja vagas.",
+          "source_page": 4
+        },
+        {
+          "question": "O que fazer quando o aluno não possui o requisito para a disciplina, mas a grade foi assinada pelo coordenador?",
+          "answer": "Não é necessário deixar a matrícula pendente para análise da CoC; a secretária do curso pode finalizar a matrícula, pois a assinatura do coordenador na grade já autoriza o procedimento.",
+          "source_page": 4
+        },
+        {
+          "question": "Quem é o responsável por assinar a grade horária para que a matrícula nas disciplinas seja efetuada?",
+          "answer": "A grade horária deve ser assinada pelo coordenador.",
+          "source_page": 4
+        }
+      ]
+    }
+  ]
+}

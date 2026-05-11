@@ -1,0 +1,615 @@
+{
+  "doc_name": "Elenco_ Cadastro de Turmas",
+  "source_path": "data\\Manual SVGRAD\\Elenco_ Cadastro de Turmas.docx",
+  "chunks": [
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Elenco/ Cadastro de Turmas\n\n## Legislação:\n\nRESOLUÇÃO COG Nº 8811/2025 - Regulamenta o oferecimento de disciplinas em língua estrangeira nos cursos de Graduação\n\nRESOLUÇÃO CoPGr E CoG Nº 8706/2024 - Critérios para a integração de disciplinas de Graduação e Pós-Graduação\n\nRegimento da USP- do art 66 ao 69\n\nRESOLUÇÃO CoG Nº 4749/2000 - Oferta de disciplinas optativas\n\nPortaria Interna PRG 07/2022 - Criação de disciplina PRG (pasta svgradLegislações)\n\n## Definição do elenco\n\n- A PRG define no calendário oficial as datas para que os departamentos enviem os elencos para o SVGRAD e o período em que o Júpiter ficará aberto para o cadastro e os ajustes.\n- Como o programa PAE depende do elenco de disciplinas obrigatórias para a inscrição dos candidatos, é comum que os departamentos entrem em contato com o SVGRAD solicitando o envio do elenco com maior urgência (obs: esse assunto precisa ser tratado novamente com a pós). Por isso, é recomendável iniciar as tratativas sobre o elenco com os coordenadores, logo após o início do semestre.\n- Cada funcionário fica responsável por tratar do elenco do curso que secretaria.\n- As disciplinas de código PRG são de responsabilidade da unidade. O funcionário do setor deve efetuar a vinculação de vagas conforme o encaminhamento do Departamento.\n- Copiar o elenco do ano anterior, referente ao semestre par ou ímpar, e salvar na pasta compartilhada svgrad-Horário - Horário (ano) - (ano-semestre) Horários dos cursos\n- Fazer as alterações necessárias, caso tenha havido alguma alteração na estrutura curricular do curso ou no horário que era praticado.\n- Na planilha do curso devem constar todas as disciplinas obrigatórias do curso para todos os períodos pares ou ímpares\n- As disciplinas optativas geralmente são indicadas pelo próprio coordenador ou escolhidas pelos alunos mediante votação dos Certificados de Estudos Especiais de interesse (verificar qual prática é adotada para cada curso). Obs: como os alunos precisam fazer várias horas de extensão, é recomendável que sejam oferecidas optativas que possuem essas horas\n- Enviar para o coordenador analisar e sugerir as alterações\n\n[Página 2]\n- No caso dos cursos que possuem disciplinas em comum, é necessário realizar as tratativas entre os coordenadores\n- Salvar o elenco do curso na pasta compartilhada svgrad-Horário - Horário (ano) - (ano-semestre) - Horários dos cursos\n- Criar planilhas específicas separadas por departamentos (SMA, SME, SCC, SSC) e na pasta compartilhada svgrad-Horário - Horário (ano) - (anosemestre) - Planilhas Disc-Hor-Prof\n- Inserir as disciplinas dos cursos na tabela de elencos dos departamentos\n- Assim que todos os funcionários finalizarem o preenchimento, enviar as planilhas específicas aos departamentos indicando um prazo máximo para devolução (antes da abertura de tela de cadastro das turmas).Ver e-mail enviado do grad@ com o assunto \"Elenco de disciplinas 1º semestre/2025\"\n- Caso o coordenador não tenha definido ainda as disciplinas optativas, enviar apenas o rol de obrigatórias e informar o departamento que as optativas estão sendo definidas Ressaltar aos departamentos que preencham as colunas com as informações sobre o docente responsável, Nº USP e se haverá necessidade ou não de laboratório para definição do número limite de vagas da turma, pois os laboratórios do ICMC comportam, no máximo, 60 alunos, e que incluam as disciplinas a serem ministradas a outros cursos do Campus nesta planilha também para que o Serviço de Graduação efetue o cadastro das turmas.\n- Alertar os departamentos que quaisquer alterações relativas a horários e dias da semana, especialmente de disciplinas obrigatórias, devem ser encaminhadas até o final do prazo de cadastro das turmas, ou seja, antes do início da matrícula, para evitar prejuízo aos alunos que já montam a sua grade logo na 1ª interação.\n- No caso dos cursos que têm disciplinas de outras unidades, geralmente do IFSC e da EESC (Produção), ficar atento se a unidade solicitou a definição do horário ao ICMC. Caso não tenha solicitado, entrar em contato para fazer as tratativas do oferecimento\n\n## Devolutiva do elenco\n\n- Quando o prazo para cadastro das turmas estiver se aproximando, cobrar os departamentos, caso não tenham enviado o elenco\n- Assim que os departamentos enviarem as planilhas, salvar o arquivo novamente na pasta compartilhada svgrad.\n- Conferir se todas as propostas feitas pelos cursos foram aceitas, se houve alguma alteração de horário feita pelos departamentos, se houve junção de turmas, se a alteração proposta pelos departamentos não gerou conflito de horários entre disciplinas obrigatórias do mesmo período do curso.",
+      "qa_pairs": [
+        {
+          "question": "Quem é responsável por definir as datas de envio dos elencos para o SVGRAD e o período de cadastro no Júpiter?",
+          "answer": "A PRG (Pró-Reitoria de Graduação) é quem define no calendário oficial as datas para que os departamentos enviem os elencos para o SVGRAD e o período de abertura do Júpiter para cadastro e ajustes.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a recomendação para iniciar as tratativas sobre o elenco de disciplinas?",
+          "answer": "É recomendável iniciar as tratativas sobre o elenco com os coordenadores logo após o início do semestre, especialmente porque o programa PAE depende do elenco de disciplinas obrigatórias para a inscrição dos candidatos.",
+          "source_page": 1
+        },
+        {
+          "question": "De quem é a responsabilidade pelas disciplinas de código PRG?",
+          "answer": "As disciplinas de código PRG são de responsabilidade da unidade, e o funcionário do setor deve efetuar a vinculação de vagas conforme o encaminhamento do Departamento.",
+          "source_page": 1
+        },
+        {
+          "question": "O que deve constar obrigatoriamente na planilha do curso ao definir o elenco?",
+          "answer": "Na planilha do curso devem constar todas as disciplinas obrigatórias do curso para todos os períodos pares ou ímpares.",
+          "source_page": 1
+        },
+        {
+          "question": "Como são geralmente indicadas as disciplinas optativas?",
+          "answer": "As disciplinas optativas geralmente são indicadas pelo próprio coordenador ou escolhidas pelos alunos mediante votação dos Certificados de Estudos Especiais de interesse.",
+          "source_page": 1
+        },
+        {
+          "question": "Qual a recomendação sobre a oferta de disciplinas optativas em relação à extensão?",
+          "answer": "Como os alunos precisam cumprir várias horas de extensão, é recomendável que sejam oferecidas disciplinas optativas que possuam essas horas.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais informações os departamentos devem preencher nas planilhas de elenco para a definição de vagas?",
+          "answer": "Os departamentos devem preencher as colunas com as informações sobre o docente responsável, o Nº USP e se haverá necessidade de laboratório, pois os laboratórios do ICMC comportam, no máximo, 60 alunos.",
+          "source_page": 2
+        },
+        {
+          "question": "Até quando alterações de horários e dias da semana de disciplinas obrigatórias devem ser encaminhadas?",
+          "answer": "Devem ser encaminhadas até o final do prazo de cadastro das turmas (antes do início da matrícula), para evitar prejuízos aos alunos que montam a grade na primeira interação.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser feito quando cursos possuem disciplinas de outras unidades, como IFSC ou EESC?",
+          "answer": "Deve-se ficar atento se a unidade solicitou a definição do horário ao ICMC; caso não tenha solicitado, deve-se entrar em contato para realizar as tratativas do oferecimento.",
+          "source_page": 2
+        },
+        {
+          "question": "O que deve ser conferido pelo funcionário após o recebimento das planilhas de elenco dos departamentos?",
+          "answer": "Deve-se conferir se todas as propostas dos cursos foram aceitas, se houve alteração de horário pelos departamentos, se houve junção de turmas e se as alterações não geraram conflito de horários entre disciplinas obrigatórias do mesmo período.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n- No caso dos cursos que possuem disciplinas em comum, é necessário realizar as tratativas entre os coordenadores\n- Salvar o elenco do curso na pasta compartilhada svgrad-Horário - Horário (ano) - (ano-semestre) - Horários dos cursos\n- Criar planilhas específicas separadas por departamentos (SMA, SME, SCC, SSC) e na pasta compartilhada svgrad-Horário - Horário (ano) - (anosemestre) - Planilhas Disc-Hor-Prof\n- Inserir as disciplinas dos cursos na tabela de elencos dos departamentos\n- Assim que todos os funcionários finalizarem o preenchimento, enviar as planilhas específicas aos departamentos indicando um prazo máximo para devolução (antes da abertura de tela de cadastro das turmas).Ver e-mail enviado do grad@ com o assunto \"Elenco de disciplinas 1º semestre/2025\"\n- Caso o coordenador não tenha definido ainda as disciplinas optativas, enviar apenas o rol de obrigatórias e informar o departamento que as optativas estão sendo definidas Ressaltar aos departamentos que preencham as colunas com as informações sobre o docente responsável, Nº USP e se haverá necessidade ou não de laboratório para definição do número limite de vagas da turma, pois os laboratórios do ICMC comportam, no máximo, 60 alunos, e que incluam as disciplinas a serem ministradas a outros cursos do Campus nesta planilha também para que o Serviço de Graduação efetue o cadastro das turmas.\n- Alertar os departamentos que quaisquer alterações relativas a horários e dias da semana, especialmente de disciplinas obrigatórias, devem ser encaminhadas até o final do prazo de cadastro das turmas, ou seja, antes do início da matrícula, para evitar prejuízo aos alunos que já montam a sua grade logo na 1ª interação.\n- No caso dos cursos que têm disciplinas de outras unidades, geralmente do IFSC e da EESC (Produção), ficar atento se a unidade solicitou a definição do horário ao ICMC. Caso não tenha solicitado, entrar em contato para fazer as tratativas do oferecimento\n\n## Devolutiva do elenco\n\n- Quando o prazo para cadastro das turmas estiver se aproximando, cobrar os departamentos, caso não tenham enviado o elenco\n- Assim que os departamentos enviarem as planilhas, salvar o arquivo novamente na pasta compartilhada svgrad.\n- Conferir se todas as propostas feitas pelos cursos foram aceitas, se houve alguma alteração de horário feita pelos departamentos, se houve junção de turmas, se a alteração proposta pelos departamentos não gerou conflito de horários entre disciplinas obrigatórias do mesmo período do curso.\n\n[Página 3]\n- Caso seja observada alguma alteração que prejudique o curso, tratar imediatamente com o coordenador e o departamento\n- Verificar se os departamentos indicaram as disciplinas de serviço e se as unidades foram copiadas no e-mail. Caso tenha havido junção de turmas e o departamento tenha indicado um número alto de vagas em determinadas disciplinas, recomenda-se verificar com a unidade do curso se será possível alocar sala para a disciplina com o número de vagas indicado a fim de que não recaia sobre o setor a responsabilidade de alocação de salas desta disciplina no ICMC.\n- Atualizar a tabela de horários do curso, se necessário\n- Dividir o cadastro das turmas entre a equipe do setor\n- Cadastrar as turmas no Júpiter dentro do prazo estabelecido no calendário\n- Divulgar as planilhas dos horários por curso e por Departamentos na pagina do setor em https://www.icmc.usp.br/graduacao/informacoes-gerais-eservicos/horarios-de-aulas\n- Se, durante o período de matrícula, for detectado algum problema no cadastro das turmas (horário errado, falta de vinculação para o curso, etc), é possível realizar a correção durante os períodos de ajustes definidos no calendário entre a 1ª e a 2ª interação e o requerimento.\n- Ao longo do semestre, é possível alterar o docente da disciplina, a pedido do Departamento\n- Caso haja indicação de disciplina espelho com a pós, é necessário seguir a Resolução CoPGr e CoG 8706/2024\n- – solicitar ao departamento que envie documento informando se as disciplinas da graduação e da pós-graduação têm conteúdo equivalente, avaliação, ementa, bibliografia e se será ministrada pelo mesmo docente\n- – encaminhar para apreciação da CG e informar a Pós sobre a deliberação\n- – entrar em contato com a Pós para solicitar o resultado da apreciação da CPG\n\n## Cadastro das turmas\n\n- Júpiter - Turmas &gt; Informações da Turma - Inserir o código da disciplina e escolher a última versão válida - Clicar em incluir",
+      "qa_pairs": []
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c2",
+      "pages": [
+        3,
+        4
+      ],
+      "chunk_text": "[Página 3]\n- Caso seja observada alguma alteração que prejudique o curso, tratar imediatamente com o coordenador e o departamento\n- Verificar se os departamentos indicaram as disciplinas de serviço e se as unidades foram copiadas no e-mail. Caso tenha havido junção de turmas e o departamento tenha indicado um número alto de vagas em determinadas disciplinas, recomenda-se verificar com a unidade do curso se será possível alocar sala para a disciplina com o número de vagas indicado a fim de que não recaia sobre o setor a responsabilidade de alocação de salas desta disciplina no ICMC.\n- Atualizar a tabela de horários do curso, se necessário\n- Dividir o cadastro das turmas entre a equipe do setor\n- Cadastrar as turmas no Júpiter dentro do prazo estabelecido no calendário\n- Divulgar as planilhas dos horários por curso e por Departamentos na pagina do setor em https://www.icmc.usp.br/graduacao/informacoes-gerais-eservicos/horarios-de-aulas\n- Se, durante o período de matrícula, for detectado algum problema no cadastro das turmas (horário errado, falta de vinculação para o curso, etc), é possível realizar a correção durante os períodos de ajustes definidos no calendário entre a 1ª e a 2ª interação e o requerimento.\n- Ao longo do semestre, é possível alterar o docente da disciplina, a pedido do Departamento\n- Caso haja indicação de disciplina espelho com a pós, é necessário seguir a Resolução CoPGr e CoG 8706/2024\n- – solicitar ao departamento que envie documento informando se as disciplinas da graduação e da pós-graduação têm conteúdo equivalente, avaliação, ementa, bibliografia e se será ministrada pelo mesmo docente\n- – encaminhar para apreciação da CG e informar a Pós sobre a deliberação\n- – entrar em contato com a Pós para solicitar o resultado da apreciação da CPG\n\n## Cadastro das turmas\n\n- Júpiter - Turmas &gt; Informações da Turma - Inserir o código da disciplina e escolher a última versão válida - Clicar em incluir\n\n[Página 4]\n<!-- image -->\n\nIncluir\n\n- Preencher o número da turma (01,02…14, etc)\n- Escolher o tipo (teórica, prática, teórica vinculada)\n- Preencher o campo da carga horária (teórica ou prática ou ambas)\n- Preencher o número de vagas que será oferecido como obrigatória, eletiva ou livre\n- – O número de vagas que deve ser cadastrado para cada departamento (SMA: 65, SME: 70, SSC: 60, SCC:60) está definido em Regras para deferimento da matrícula nas disciplinas oferecidas pelos departamentos do ICMC.\n- – Para disciplinas de laboratório e outras em que houve indicação de uso do laboratório, cadastrar, no máximo, 60 vagas\n- – Para as disciplinas semipresenciais que precisam de análise de critérios específicos não temos inserido vagas durante as interações. As vagas estão sendo cadastradas apenas para a etapa de requerimento\n- – No caso de disciplinas de estágio, projeto de graduação, projeto empreendedor, projeto de intercâmbio e trabalho de conclusão de curso, NÃO cadastrar nenhuma vaga antes da 1ª e 2ª interação. O número de vagas será cadastrado antes do requerimento\n- – Quando se tratar de disciplinas de 1º período do curso, verificar o número de vagas que será cadastrado, levando-se em conta o número de ingressantes previstos, pois a eles deve ser garantida a vaga nas disciplinas de início de curso. Se forem cadastradas todas as vagas disponíveis e houver um número grande de veteranos interessados, eles conseguirão se inscrever e ter a vaga reservada logo na 1ª interação e restarão menos vagas para os ingressantes.\n- – Informar o curso para a qual a disciplina está sendo ofertada no campo",
+      "qa_pairs": [
+        {
+          "question": "Onde posso encontrar as planilhas de horários por curso e por Departamento?",
+          "answer": "As planilhas de horários são divulgadas na página do setor através do endereço https://www.icmc.usp.br/graduacao/informacoes-gerais-eservicos/horarios-de-aulas",
+          "source_page": 3
+        },
+        {
+          "question": "O que fazer se for detectado um problema no cadastro das turmas, como horário errado, durante o período de matrícula?",
+          "answer": "A correção pode ser realizada durante os períodos de ajustes definidos no calendário, entre a 1ª e a 2ª interação e o requerimento.",
+          "source_page": 3
+        },
+        {
+          "question": "É possível alterar o docente de uma disciplina após o início do semestre?",
+          "answer": "Sim, a alteração do docente da disciplina é possível ao longo do semestre, desde que haja um pedido do Departamento.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são os procedimentos para a indicação de disciplina espelho com a pós-graduação?",
+          "answer": "Deve-se seguir a Resolução CoPGr e CoG 8706/2024, solicitando ao departamento documento que comprove a equivalência de conteúdo, avaliação, ementa e bibliografia, e se será ministrada pelo mesmo docente. O processo deve ser encaminhado para apreciação da CG, com a Pós-graduação sendo informada sobre a deliberação e o resultado da apreciação da CPG.",
+          "source_page": 3
+        },
+        {
+          "question": "Como é feito o cadastro de turmas no sistema Júpiter?",
+          "answer": "O cadastro é feito em Júpiter > Turmas > Informações da Turma, inserindo o código da disciplina, escolhendo a última versão válida e clicando em incluir.",
+          "source_page": 3
+        },
+        {
+          "question": "Quais são as regras de número de vagas para os departamentos SMA, SME, SSC e SCC?",
+          "answer": "O número de vagas definido para cada departamento é: SMA (65), SME (70), SSC (60) e SCC (60), conforme as Regras para deferimento da matrícula nas disciplinas oferecidas pelos departamentos do ICMC.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o limite de vagas para disciplinas de laboratório?",
+          "answer": "Para disciplinas de laboratório, ou aquelas em que houve indicação de uso de laboratório, deve-se cadastrar no máximo 60 vagas.",
+          "source_page": 4
+        },
+        {
+          "question": "Quando devem ser cadastradas as vagas para disciplinas de estágio, projeto de graduação, projeto empreendedor, projeto de intercâmbio e TCC?",
+          "answer": "Para essas disciplinas, NÃO deve ser cadastrada nenhuma vaga antes da 1ª e 2ª interação; o número de vagas será cadastrado apenas antes do requerimento.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona o cadastro de vagas para disciplinas semipresenciais que exigem análise de critérios específicos?",
+          "answer": "Para estas disciplinas, as vagas não são inseridas durante as interações, sendo cadastradas apenas para a etapa de requerimento.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual o cuidado necessário ao cadastrar vagas para disciplinas de 1º período do curso?",
+          "answer": "Deve-se verificar o número de ingressantes previstos para garantir a vaga deles nas disciplinas de início de curso, evitando que veteranos ocupem todas as vagas logo na 1ª interação.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c3",
+      "pages": [
+        4,
+        5
+      ],
+      "chunk_text": "[Página 4]\n<!-- image -->\n\nIncluir\n\n- Preencher o número da turma (01,02…14, etc)\n- Escolher o tipo (teórica, prática, teórica vinculada)\n- Preencher o campo da carga horária (teórica ou prática ou ambas)\n- Preencher o número de vagas que será oferecido como obrigatória, eletiva ou livre\n- – O número de vagas que deve ser cadastrado para cada departamento (SMA: 65, SME: 70, SSC: 60, SCC:60) está definido em Regras para deferimento da matrícula nas disciplinas oferecidas pelos departamentos do ICMC.\n- – Para disciplinas de laboratório e outras em que houve indicação de uso do laboratório, cadastrar, no máximo, 60 vagas\n- – Para as disciplinas semipresenciais que precisam de análise de critérios específicos não temos inserido vagas durante as interações. As vagas estão sendo cadastradas apenas para a etapa de requerimento\n- – No caso de disciplinas de estágio, projeto de graduação, projeto empreendedor, projeto de intercâmbio e trabalho de conclusão de curso, NÃO cadastrar nenhuma vaga antes da 1ª e 2ª interação. O número de vagas será cadastrado antes do requerimento\n- – Quando se tratar de disciplinas de 1º período do curso, verificar o número de vagas que será cadastrado, levando-se em conta o número de ingressantes previstos, pois a eles deve ser garantida a vaga nas disciplinas de início de curso. Se forem cadastradas todas as vagas disponíveis e houver um número grande de veteranos interessados, eles conseguirão se inscrever e ter a vaga reservada logo na 1ª interação e restarão menos vagas para os ingressantes.\n- – Informar o curso para a qual a disciplina está sendo ofertada no campo\n\n[Página 5]\n## Observações\n\n- Clicar em Salvar\n\n<!-- image -->\n\nSalvar\n\n- Depois, efetuar a vinculação das vagas aos cursos para os quais a disciplina será ofertada. Clicar no ícone correspondente ao tipo de vaga (obrigatória, eletiva ou livre) e depois em incluir\n- Escolhe o curso, indica o número de vagas e clica em salvar\n- Dar ok na tela seguinte\n\n<!-- image -->\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Quais informações devem ser preenchidas ao incluir uma turma?",
+          "answer": "Devem ser preenchidos o número da turma (ex: 01, 02... 14), o tipo (teórica, prática ou teórica vinculada), a carga horária (teórica, prática ou ambas), o número de vagas (obrigatória, eletiva ou livre) e o curso para o qual a disciplina está sendo ofertada.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual é o número de vagas que deve ser cadastrado para os departamentos SMA, SME, SSC e SCC?",
+          "answer": "O número de vagas definido é: SMA (65), SME (70), SSC (60) e SCC (60).",
+          "source_page": 4
+        },
+        {
+          "question": "Existe um limite de vagas para disciplinas de laboratório?",
+          "answer": "Sim, para disciplinas de laboratório ou que tenham indicação de uso de laboratório, deve-se cadastrar no máximo 60 vagas.",
+          "source_page": 4
+        },
+        {
+          "question": "Como funciona o cadastro de vagas para disciplinas semipresenciais que exigem análise de critérios específicos?",
+          "answer": "Para essas disciplinas, as vagas não são inseridas durante as interações, sendo cadastradas apenas para a etapa de requerimento.",
+          "source_page": 4
+        },
+        {
+          "question": "Quando devo cadastrar as vagas para disciplinas de estágio, projeto de graduação, projeto empreendedor, projeto de intercâmbio e TCC?",
+          "answer": "Nenhuma vaga deve ser cadastrada antes da 1ª e 2ª interação; o número de vagas será cadastrado antes do requerimento.",
+          "source_page": 4
+        },
+        {
+          "question": "Qual cuidado deve ser tomado ao cadastrar vagas para disciplinas de 1º período?",
+          "answer": "Deve-se verificar o número de vagas considerando o número de ingressantes previstos para garantir a vaga deles, evitando que veteranos reservem todas as vagas logo na 1ª interação.",
+          "source_page": 4
+        },
+        {
+          "question": "O que deve ser feito após clicar em 'Salvar' na inclusão da turma?",
+          "answer": "Deve-se efetuar a vinculação das vagas aos cursos para os quais a disciplina será ofertada.",
+          "source_page": 5
+        },
+        {
+          "question": "Como realizar a vinculação de vagas aos cursos?",
+          "answer": "Deve-se clicar no ícone correspondente ao tipo de vaga (obrigatória, eletiva ou livre), clicar em incluir, escolher o curso, indicar o número de vagas e clicar em salvar.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais são os tipos de vagas que podem ser escolhidos no cadastro de disciplinas?",
+          "answer": "Os tipos de vagas são: obrigatória, eletiva ou livre.",
+          "source_page": 4
+        },
+        {
+          "question": "Quais são as opções de 'tipo' de disciplina disponíveis para escolha?",
+          "answer": "As opções são: teórica, prática ou teórica vinculada.",
+          "source_page": 4
+        }
+      ]
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c4",
+      "pages": [
+        5,
+        6
+      ],
+      "chunk_text": "[Página 5]\n## Observações\n\n- Clicar em Salvar\n\n<!-- image -->\n\nSalvar\n\n- Depois, efetuar a vinculação das vagas aos cursos para os quais a disciplina será ofertada. Clicar no ícone correspondente ao tipo de vaga (obrigatória, eletiva ou livre) e depois em incluir\n- Escolhe o curso, indica o número de vagas e clica em salvar\n- Dar ok na tela seguinte\n\n<!-- image -->\n\n<!-- image -->\n\n[Página 6]\n<!-- image -->\n\n- Clicar em incluir novamente para vincular vagas para outros cursos, se for o caso.\n- – O número de vagas que serão vinculadas deve ser igual ao de vagas cadastradas na tela inicial para cada tipo (obrigatória, eletiva ou livre). Se uma disciplina for obrigatória para um curso e optativa para outro, cadastrar mais vagas como obrigatórias do que optativas.\n- Depois, efetuar o cadastro do horário e do docente responsável, clicando no ícone \"Horário turma\"\n- Preencher as informações e clicar em salvar\n- Em seguida, cadastrar o docente, clicando no ícone Horário ministrante e depois em incluir (verificar se será mais de um docente e como deve ser feita a distribuição da carga entre eles)\n\n<!-- image -->\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que deve ser feito após clicar em Salvar na tela inicial de cadastro de disciplina?",
+          "answer": "Deve-se efetuar a vinculação das vagas aos cursos para os quais a disciplina será ofertada.",
+          "source_page": 5
+        },
+        {
+          "question": "Como é feita a vinculação de vagas a um curso?",
+          "answer": "Deve-se clicar no ícone correspondente ao tipo de vaga (obrigatória, eletiva ou livre), clicar em incluir, escolher o curso, indicar o número de vagas e clicar em salvar.",
+          "source_page": 5
+        },
+        {
+          "question": "Quais são os tipos de vagas que podem ser vinculadas aos cursos?",
+          "answer": "As vagas podem ser do tipo obrigatória, eletiva ou livre.",
+          "source_page": 5
+        },
+        {
+          "question": "Como vincular vagas para mais de um curso na mesma disciplina?",
+          "answer": "Deve-se clicar em incluir novamente para vincular vagas para outros cursos, se for o caso.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual a regra para a quantidade de vagas vinculadas em relação às vagas cadastradas na tela inicial?",
+          "answer": "O número de vagas vinculadas deve ser igual ao de vagas cadastradas na tela inicial para cada tipo (obrigatória, eletiva ou livre).",
+          "source_page": 6
+        },
+        {
+          "question": "O que fazer se uma disciplina for obrigatória para um curso e optativa para outro?",
+          "answer": "Nesse caso, devem ser cadastradas mais vagas como obrigatórias do que optativas.",
+          "source_page": 6
+        },
+        {
+          "question": "Como realizar o cadastro do horário e do docente responsável?",
+          "answer": "Deve-se clicar no ícone 'Horário turma', preencher as informações e clicar em salvar.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual o procedimento para cadastrar o docente da disciplina?",
+          "answer": "Deve-se clicar no ícone 'Horário ministrante' e depois em incluir.",
+          "source_page": 6
+        },
+        {
+          "question": "O que deve ser verificado ao cadastrar o docente?",
+          "answer": "Deve-se verificar se haverá mais de um docente e como será feita a distribuição da carga horária entre eles.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual a sequência de ações após definir o número de vagas e clicar em salvar na vinculação de cursos?",
+          "answer": "O usuário deve dar 'ok' na tela seguinte.",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c5",
+      "pages": [
+        6,
+        7
+      ],
+      "chunk_text": "[Página 6]\n<!-- image -->\n\n- Clicar em incluir novamente para vincular vagas para outros cursos, se for o caso.\n- – O número de vagas que serão vinculadas deve ser igual ao de vagas cadastradas na tela inicial para cada tipo (obrigatória, eletiva ou livre). Se uma disciplina for obrigatória para um curso e optativa para outro, cadastrar mais vagas como obrigatórias do que optativas.\n- Depois, efetuar o cadastro do horário e do docente responsável, clicando no ícone \"Horário turma\"\n- Preencher as informações e clicar em salvar\n- Em seguida, cadastrar o docente, clicando no ícone Horário ministrante e depois em incluir (verificar se será mais de um docente e como deve ser feita a distribuição da carga entre eles)\n\n<!-- image -->\n\n<!-- image -->\n\n[Página 7]\n<!-- image -->\n\n- Informar o docente, selecionar o tipo (geralmente normal) e clicar em salvar\n- Clicar no ícone \"Repetir ministrante\" para o sistema copiar o docente para o segundo horário\n- Dar ok na tela seguinte\n\n<!-- image -->\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como vincular vagas para outros cursos em uma disciplina?",
+          "answer": "Deve-se clicar em 'incluir novamente' para vincular as vagas para os demais cursos, se for o caso.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual deve ser a quantidade de vagas vinculadas em relação às vagas cadastradas na tela inicial?",
+          "answer": "O número de vagas vinculadas deve ser igual ao de vagas cadastradas na tela inicial para cada tipo (obrigatória, eletiva ou livre).",
+          "source_page": 6
+        },
+        {
+          "question": "O que fazer se uma disciplina for obrigatória para um curso e optativa para outro no cadastro de vagas?",
+          "answer": "Nesse caso, deve-se cadastrar mais vagas como obrigatórias do que optativas.",
+          "source_page": 6
+        },
+        {
+          "question": "Como efetuar o cadastro do horário e do docente responsável por uma turma?",
+          "answer": "Deve-se clicar no ícone 'Horário turma', preencher as informações necessárias e clicar em salvar.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual o procedimento para cadastrar o docente após definir o horário da turma?",
+          "answer": "Deve-se clicar no ícone 'Horário ministrante' e depois em 'incluir'.",
+          "source_page": 6
+        },
+        {
+          "question": "O que deve ser verificado ao cadastrar o docente responsável?",
+          "answer": "Deve-se verificar se haverá mais de um docente e como será feita a distribuição da carga horária entre eles.",
+          "source_page": 6
+        },
+        {
+          "question": "Quais informações devem ser preenchidas ao informar o docente no sistema?",
+          "answer": "Deve-se informar o docente, selecionar o tipo (que geralmente é 'normal') e clicar em salvar.",
+          "source_page": 7
+        },
+        {
+          "question": "Como copiar o docente para o segundo horário de uma disciplina?",
+          "answer": "Deve-se clicar no ícone 'Repetir ministrante' e dar 'ok' na tela seguinte para que o sistema copie o docente para o segundo horário.",
+          "source_page": 7
+        },
+        {
+          "question": "Onde encontro a opção para definir o horário da turma?",
+          "answer": "A opção está disponível através do ícone 'Horário turma'.",
+          "source_page": 6
+        },
+        {
+          "question": "Qual o tipo de docente geralmente selecionado durante o cadastro?",
+          "answer": "O tipo geralmente selecionado é o 'normal'.",
+          "source_page": 7
+        }
+      ]
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c6",
+      "pages": [
+        7,
+        8
+      ],
+      "chunk_text": "[Página 7]\n<!-- image -->\n\n- Informar o docente, selecionar o tipo (geralmente normal) e clicar em salvar\n- Clicar no ícone \"Repetir ministrante\" para o sistema copiar o docente para o segundo horário\n- Dar ok na tela seguinte\n\n<!-- image -->\n\n<!-- image -->\n\n[Página 8]\n<!-- image -->\n\nministrante foi repetido com sucesso:\n\nOK\n\n- Quando não houver houver horário definido (geralmente nas disciplinas de estágio e projetos), só é possível cadastrar o docente pelo menu \"Atividades Didáticas\"\n- Clicar em incluir, escolher o docente, o tipo de atividade, informar a carga horária e clicar em salvar\n\n<!-- image -->\n\nOs campos marcados com são de preenchimento obrigatório\n\n- [ ] Cibele Maria Russo Novelli (3455521)\n\n- [ ] Jorge Luis Bazán Guzmán (3596092)\n\nDocente(s):\n\nMarinho Gomes de Andrade Filho (57696\n\n- [ ] Mário de Castro Andrade Filho (216229\n\n- [ ] Osvaldo Anacleto Junior (5800172)\n\nAtividade:*\n\nCarga horária:\n\nAno/semestre\n\n<!-- image -->\n\n- No caso de disciplinas de projetos e estágios com mais de um docente, costuma-se dividir a carga horária entre eles, ficando o coordenador das disciplinas com uma carga maior. Se o coordenador estiver indicado para uma disciplina e não para as demais, o nome dele deve ser inserido em todas as disciplinas de estágio/projetos (mesmo que seja com carga horária 0) para que ele tenha acesso à lista de presença e ao cadastro das notas, pois geralmente ele é que fica responsável pela maior parte das atividades das disciplinas\n- Caso o nome do docente não conste na lista, é necessário inserir a disciplina para ele em Júpiter - Administrativo &gt; Docentes &gt; Informações do docente - Informar o NUSP dele, clicar em Buscar, depois em incluir, informar o código da disciplina e selecionar a última versão, clicar em salvar\n\nSalvar",
+      "qa_pairs": [
+        {
+          "question": "Como cadastrar um docente em uma disciplina?",
+          "answer": "Para cadastrar um docente, deve-se informar o docente, selecionar o tipo (geralmente normal) e clicar em salvar.",
+          "source_page": 7
+        },
+        {
+          "question": "Como fazer para que o sistema copie o docente para o segundo horário?",
+          "answer": "Deve-se clicar no ícone 'Repetir ministrante' e dar ok na tela seguinte.",
+          "source_page": 7
+        },
+        {
+          "question": "Como cadastrar o docente em disciplinas que não possuem horário definido, como estágios e projetos?",
+          "answer": "Nesses casos, o cadastro deve ser feito pelo menu 'Atividades Didáticas', clicando em incluir, escolhendo o docente, o tipo de atividade, informando a carga horária e clicando em salvar.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais informações são necessárias para cadastrar uma atividade didática?",
+          "answer": "É necessário escolher o docente, o tipo de atividade, informar a carga horária e o ano/semestre.",
+          "source_page": 8
+        },
+        {
+          "question": "Como funciona a divisão de carga horária em disciplinas de projetos e estágios com mais de um docente?",
+          "answer": "Costuma-se dividir a carga horária entre os docentes, sendo que o coordenador das disciplinas geralmente fica com uma carga maior.",
+          "source_page": 8
+        },
+        {
+          "question": "Por que o coordenador deve ser inserido em todas as disciplinas de estágio/projetos, mesmo com carga horária 0?",
+          "answer": "Para que ele tenha acesso à lista de presença e ao cadastro das notas, já que geralmente é o responsável pela maior parte das atividades dessas disciplinas.",
+          "source_page": 8
+        },
+        {
+          "question": "O que fazer se o nome do docente não constar na lista de seleção?",
+          "answer": "É necessário inserir a disciplina para ele através do caminho: Júpiter - Administrativo > Docentes > Informações do docente.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual o procedimento no Júpiter Administrativo para adicionar uma disciplina a um docente?",
+          "answer": "Deve-se informar o NUSP do docente, clicar em Buscar, clicar em incluir, informar o código da disciplina, selecionar a última versão e clicar em salvar.",
+          "source_page": 8
+        },
+        {
+          "question": "Como saber quais campos são obrigatórios no preenchimento do sistema?",
+          "answer": "Os campos marcados com asterisco (*) são de preenchimento obrigatório.",
+          "source_page": 8
+        },
+        {
+          "question": "O que acontece após clicar no ícone 'Repetir ministrante'?",
+          "answer": "O sistema copia o docente para o segundo horário e exibe a mensagem 'ministrante foi repetido com sucesso: OK'.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c7",
+      "pages": [
+        8,
+        9
+      ],
+      "chunk_text": "[Página 8]\n<!-- image -->\n\nministrante foi repetido com sucesso:\n\nOK\n\n- Quando não houver houver horário definido (geralmente nas disciplinas de estágio e projetos), só é possível cadastrar o docente pelo menu \"Atividades Didáticas\"\n- Clicar em incluir, escolher o docente, o tipo de atividade, informar a carga horária e clicar em salvar\n\n<!-- image -->\n\nOs campos marcados com são de preenchimento obrigatório\n\n- [ ] Cibele Maria Russo Novelli (3455521)\n\n- [ ] Jorge Luis Bazán Guzmán (3596092)\n\nDocente(s):\n\nMarinho Gomes de Andrade Filho (57696\n\n- [ ] Mário de Castro Andrade Filho (216229\n\n- [ ] Osvaldo Anacleto Junior (5800172)\n\nAtividade:*\n\nCarga horária:\n\nAno/semestre\n\n<!-- image -->\n\n- No caso de disciplinas de projetos e estágios com mais de um docente, costuma-se dividir a carga horária entre eles, ficando o coordenador das disciplinas com uma carga maior. Se o coordenador estiver indicado para uma disciplina e não para as demais, o nome dele deve ser inserido em todas as disciplinas de estágio/projetos (mesmo que seja com carga horária 0) para que ele tenha acesso à lista de presença e ao cadastro das notas, pois geralmente ele é que fica responsável pela maior parte das atividades das disciplinas\n- Caso o nome do docente não conste na lista, é necessário inserir a disciplina para ele em Júpiter - Administrativo &gt; Docentes &gt; Informações do docente - Informar o NUSP dele, clicar em Buscar, depois em incluir, informar o código da disciplina e selecionar a última versão, clicar em salvar\n\nSalvar\n\n[Página 9]\n<!-- image -->\n\nOutra forma de iniciar o cadastro é: Júpiter Turmas &gt; Informações da Turma - Indicar o código e a última versão (ou a versão vigente no ano anterior), informar o ano anterior e semestre correspondente no campo Turma e clicar em Buscar. Em seguida, clicar no ícone \"Copiar todas as turmas\"\n\n<!-- image -->\n\n- Clicar em Ok na tela que abrirá\n- e dar ok na tela seguinte\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como cadastrar um docente em disciplinas que não possuem horário definido, como estágios e projetos?",
+          "answer": "Nesses casos, o cadastro deve ser feito através do menu 'Atividades Didáticas', clicando em incluir, escolhendo o docente, o tipo de atividade, informando a carga horária e salvando.",
+          "source_page": 8
+        },
+        {
+          "question": "O que deve ser feito se o nome de um docente não constar na lista de seleção?",
+          "answer": "É necessário inserir a disciplina para o docente no caminho: Júpiter - Administrativo > Docentes > Informações do docente. Deve-se informar o NUSP, buscar, clicar em incluir, informar o código da disciplina, selecionar a última versão e salvar.",
+          "source_page": 8
+        },
+        {
+          "question": "Como funciona a divisão de carga horária em disciplinas de projetos e estágios com mais de um docente?",
+          "answer": "Costuma-se dividir a carga horária entre os docentes, sendo que o coordenador das disciplinas geralmente fica com uma carga maior.",
+          "source_page": 8
+        },
+        {
+          "question": "Por que o coordenador de disciplinas de estágio/projetos deve ser inserido em todas as disciplinas, mesmo que com carga horária 0?",
+          "answer": "Para que ele tenha acesso à lista de presença e ao cadastro das notas, já que geralmente é o responsável pela maior parte das atividades dessas disciplinas.",
+          "source_page": 8
+        },
+        {
+          "question": "Quais são os passos para cadastrar um docente via menu 'Atividades Didáticas'?",
+          "answer": "O usuário deve clicar em incluir, escolher o docente, selecionar o tipo de atividade, informar a carga horária e clicar em salvar.",
+          "source_page": 8
+        },
+        {
+          "question": "Qual a indicação para o preenchimento de campos marcados com asterisco no sistema?",
+          "answer": "Os campos marcados com asterisco são de preenchimento obrigatório.",
+          "source_page": 8
+        },
+        {
+          "question": "Existe outra forma de iniciar o cadastro de turmas além do menu de atividades?",
+          "answer": "Sim, é possível acessar Júpiter Turmas > Informações da Turma, indicar o código e a última versão (ou a versão vigente no ano anterior), informar o ano anterior e semestre correspondente no campo Turma e clicar em Buscar.",
+          "source_page": 9
+        },
+        {
+          "question": "Como copiar turmas de anos anteriores no sistema Júpiter?",
+          "answer": "Após buscar a turma em Júpiter Turmas > Informações da Turma, o usuário deve clicar no ícone 'Copiar todas as turmas' e confirmar clicando em 'Ok' nas telas subsequentes.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais informações são necessárias para buscar a disciplina no menu 'Informações do docente'?",
+          "answer": "É necessário informar o NUSP do docente para realizar a busca.",
+          "source_page": 8
+        },
+        {
+          "question": "Ao inserir a disciplina para um docente no Júpiter Administrativo, qual versão da disciplina deve ser selecionada?",
+          "answer": "Deve-se selecionar a última versão da disciplina.",
+          "source_page": 8
+        }
+      ]
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c8",
+      "pages": [
+        9,
+        10
+      ],
+      "chunk_text": "[Página 9]\n<!-- image -->\n\nOutra forma de iniciar o cadastro é: Júpiter Turmas &gt; Informações da Turma - Indicar o código e a última versão (ou a versão vigente no ano anterior), informar o ano anterior e semestre correspondente no campo Turma e clicar em Buscar. Em seguida, clicar no ícone \"Copiar todas as turmas\"\n\n<!-- image -->\n\n- Clicar em Ok na tela que abrirá\n- e dar ok na tela seguinte\n\n<!-- image -->\n\n[Página 10]\n<!-- image -->\n\n- O sistema irá copiar as informações da outra turma para a turma atual nos campos Total de vagas, observações, e os horários. É necessário fazer as alterações destes campos com as informações atuais.\n- Se o horário for diferente, clicar no x para remover e depois em incluir para cadastrar o horário correto",
+      "qa_pairs": [
+        {
+          "question": "Como posso iniciar o cadastro de turmas através do Júpiter Turmas?",
+          "answer": "O cadastro pode ser iniciado acessando Júpiter Turmas > Informações da Turma, indicando o código e a última versão (ou a versão vigente no ano anterior), informando o ano anterior e o semestre correspondente no campo Turma e clicando em Buscar.",
+          "source_page": 9
+        },
+        {
+          "question": "O que devo fazer após clicar em 'Buscar' na tela de Informações da Turma para copiar turmas?",
+          "answer": "Após clicar em Buscar, deve-se clicar no ícone 'Copiar todas as turmas'.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais são os passos finais após clicar no ícone 'Copiar todas as turmas'?",
+          "answer": "É necessário clicar em 'Ok' na tela que abrirá e, em seguida, dar 'ok' na tela seguinte.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais informações o sistema copia automaticamente de uma turma para a atual?",
+          "answer": "O sistema copia as informações dos campos Total de vagas, observações e os horários.",
+          "source_page": 10
+        },
+        {
+          "question": "Após copiar as informações de outra turma, é necessário realizar alguma ação nos campos de vagas e horários?",
+          "answer": "Sim, é necessário fazer as alterações desses campos com as informações atuais.",
+          "source_page": 10
+        },
+        {
+          "question": "Como proceder se o horário da turma copiada for diferente do horário atual?",
+          "answer": "Se o horário for diferente, deve-se clicar no 'x' para remover o horário antigo e depois clicar em 'incluir' para cadastrar o horário correto.",
+          "source_page": 10
+        },
+        {
+          "question": "Onde encontro a opção de copiar turmas no sistema Júpiter?",
+          "answer": "A opção está disponível no caminho Júpiter Turmas > Informações da Turma, através do ícone 'Copiar todas as turmas'.",
+          "source_page": 9
+        },
+        {
+          "question": "Quais dados são necessários para buscar uma turma anterior no Júpiter Turmas?",
+          "answer": "São necessários o código da turma, a última versão (ou a versão vigente no ano anterior), o ano anterior e o semestre correspondente.",
+          "source_page": 9
+        },
+        {
+          "question": "O sistema Júpiter Turmas permite a cópia de observações de turmas anteriores?",
+          "answer": "Sim, o sistema copia as informações do campo de observações da outra turma para a turma atual.",
+          "source_page": 10
+        },
+        {
+          "question": "Como remover um horário incorreto durante o cadastro de turmas?",
+          "answer": "Para remover um horário, deve-se clicar no 'x' correspondente ao horário que deseja excluir.",
+          "source_page": 10
+        }
+      ]
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c9",
+      "pages": [
+        10,
+        11
+      ],
+      "chunk_text": "[Página 10]\n<!-- image -->\n\n- O sistema irá copiar as informações da outra turma para a turma atual nos campos Total de vagas, observações, e os horários. É necessário fazer as alterações destes campos com as informações atuais.\n- Se o horário for diferente, clicar no x para remover e depois em incluir para cadastrar o horário correto\n\n[Página 11]\n<!-- image -->\n\n- Caso o horário seja o mesmo é só inserir as informações do docente, clicando no ícone \"horário ministrante\"\n\neorica\n\n<!-- image -->\n\n- Para conferir se os cadastros foram feitos corretamente, é mais fácil gerar o relatório em Júpiter - Turmas &gt; Relatórios -Relatório de vinculação de vagas - Informa a turma (ano e semestre), escolhe prefixo e indica o código do departamento e clica em gerar",
+      "qa_pairs": [
+        {
+          "question": "O que acontece quando o sistema copia informações de outra turma para a turma atual?",
+          "answer": "O sistema copiará os campos de Total de vagas, observações e os horários, sendo necessário realizar as alterações desses campos com as informações atuais.",
+          "source_page": 10
+        },
+        {
+          "question": "Como devo proceder se o horário da turma atual for diferente do horário copiado?",
+          "answer": "Você deve clicar no 'x' para remover o horário anterior e, em seguida, clicar em 'incluir' para cadastrar o horário correto.",
+          "source_page": 10
+        },
+        {
+          "question": "O que fazer se o horário da turma for o mesmo da turma de origem?",
+          "answer": "Basta inserir as informações do docente clicando no ícone 'horário ministrante'.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual a maneira mais fácil de conferir se os cadastros de turmas foram feitos corretamente?",
+          "answer": "A maneira mais fácil é gerar o relatório no Júpiter, seguindo o caminho: Turmas > Relatórios > Relatório de vinculação de vagas.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais informações são necessárias para gerar o Relatório de vinculação de vagas no Júpiter?",
+          "answer": "É necessário informar a turma (ano e semestre), escolher o prefixo e indicar o código do departamento.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais campos específicos precisam de atualização após a cópia de informações entre turmas?",
+          "answer": "Devem ser atualizados os campos de Total de vagas, observações e horários.",
+          "source_page": 10
+        },
+        {
+          "question": "Como cadastrar o docente caso o horário da turma permaneça o mesmo?",
+          "answer": "O cadastro do docente é feito clicando no ícone 'horário ministrante'.",
+          "source_page": 11
+        },
+        {
+          "question": "Onde encontro a opção de relatórios de turmas no sistema Júpiter?",
+          "answer": "A opção encontra-se no menu Turmas > Relatórios.",
+          "source_page": 11
+        },
+        {
+          "question": "Como remover um horário incorreto durante a configuração da turma?",
+          "answer": "Para remover o horário, deve-se clicar no 'x'.",
+          "source_page": 10
+        },
+        {
+          "question": "Qual relatório do Júpiter informa a vinculação de vagas?",
+          "answer": "O 'Relatório de vinculação de vagas', acessível através do menu Turmas > Relatórios.",
+          "source_page": 11
+        }
+      ]
+    },
+    {
+      "chunk_id": "Elenco_ Cadastro de Turmas__c10",
+      "pages": [
+        11,
+        12
+      ],
+      "chunk_text": "[Página 11]\n<!-- image -->\n\n- Caso o horário seja o mesmo é só inserir as informações do docente, clicando no ícone \"horário ministrante\"\n\neorica\n\n<!-- image -->\n\n- Para conferir se os cadastros foram feitos corretamente, é mais fácil gerar o relatório em Júpiter - Turmas &gt; Relatórios -Relatório de vinculação de vagas - Informa a turma (ano e semestre), escolhe prefixo e indica o código do departamento e clica em gerar\n\n[Página 12]\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "Como inserir as informações do docente quando o horário for o mesmo?",
+          "answer": "Caso o horário seja o mesmo, basta inserir as informações do docente clicando no ícone 'horário ministrante'.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual a maneira mais fácil de conferir se os cadastros foram realizados corretamente?",
+          "answer": "A maneira mais fácil é gerar o relatório no Júpiter, seguindo o caminho: Turmas > Relatórios > Relatório de vinculação de vagas.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais informações devem ser preenchidas para gerar o relatório de vinculação de vagas no Júpiter?",
+          "answer": "Para gerar o relatório, é necessário informar a turma (ano e semestre), escolher o prefixo e indicar o código do departamento.",
+          "source_page": 11
+        },
+        {
+          "question": "Onde encontro o relatório de vinculação de vagas no sistema Júpiter?",
+          "answer": "O relatório está localizado no menu Turmas > Relatórios > Relatório de vinculação de vagas.",
+          "source_page": 11
+        },
+        {
+          "question": "O que devo fazer após preencher a turma, o prefixo e o código do departamento no relatório de vinculação de vagas?",
+          "answer": "Após preencher essas informações, deve-se clicar em 'gerar'.",
+          "source_page": 11
+        },
+        {
+          "question": "Como proceder com o cadastro de docente em horários idênticos?",
+          "answer": "Deve-se utilizar o ícone 'horário ministrante' para inserir as informações do docente.",
+          "source_page": 11
+        },
+        {
+          "question": "Para que serve o Relatório de vinculação de vagas no Júpiter?",
+          "answer": "Ele serve para conferir se os cadastros foram feitos corretamente.",
+          "source_page": 11
+        },
+        {
+          "question": "No Júpiter, quais são os passos para acessar a área de relatórios de turmas?",
+          "answer": "O usuário deve acessar a opção 'Turmas' e, em seguida, 'Relatórios'.",
+          "source_page": 11
+        },
+        {
+          "question": "Quais dados de tempo/período são solicitados ao gerar o relatório de vinculação de vagas?",
+          "answer": "É solicitado que se informe a turma, especificando o ano e o semestre.",
+          "source_page": 11
+        },
+        {
+          "question": "Qual ícone deve ser utilizado para cadastrar o docente em casos de horários repetidos?",
+          "answer": "Deve-se utilizar o ícone 'horário ministrante'.",
+          "source_page": 11
+        }
+      ]
+    }
+  ]
+}

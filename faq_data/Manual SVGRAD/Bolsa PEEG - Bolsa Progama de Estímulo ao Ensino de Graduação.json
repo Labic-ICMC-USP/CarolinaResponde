@@ -1,0 +1,126 @@
+{
+  "doc_name": "Bolsa PEEG - Bolsa Progama de Estímulo ao Ensino de Graduação",
+  "source_path": "data\\Manual SVGRAD\\Bolsa PEEG - Bolsa Progama de Estímulo ao Ensino de Graduação.docx",
+  "chunks": [
+    {
+      "chunk_id": "Bolsa PEEG - Bolsa Progama de Estímulo ao Ensino de Graduação__c0",
+      "pages": [
+        1,
+        2
+      ],
+      "chunk_text": "[Página 1]\n## Programa de Estímulo ao Ensino de Graduação - Monitoria (PEEG)\n\n- 1) A PRG envia o edital para a unidade divulgar. Há um edital para cada semestre.\n- 2) A chefia da Graduação:\n- salva o Edital e demais documentos pertinentes na pasta compartilhada SvGrad - Bolsas - PEEG - (ano-semestre)\n- insere na agenda (com envio de lembretes) as datas de cadastro dos projetos pelos docentes, inscrições pelos alunos e análises dos projetos e das inscrições pela CG (copiar a presidência da CG nas datas em que há ação dela)\n- divulga o Edital aos professores, indicando o cronograma e ressaltando período de inscrições dos projetos. Envia também lembrete nos últimos dias dos prazos estabelecidos\n- após o término dos cadastros dos projetos, verifica os projetos cadastrados em Júpiter - Administrativo &gt; Programas especiais/Bolsas &gt; Bolsa PEEG - Monitoria\n\n<!-- image -->\n\n[Página 2]\n## Projetos\n\n<!-- image -->\n\n- compila as informações necessárias em uma tabela (de acordo com os critérios de seleção vigentes que são estipulados pela CG) e envia e-mail para o presidente da CG com a tabela e ressalta o prazo para homologação dos projetos. O presidente da CG pode homologar todos os projetos ou apenas o número correspondente ao número de cotas recebidas. O ICMC tem recebido 15 cotas, mas é possível solicitar cotas adicionais à PRG\n- encaminha e-mail aos alunos divulgando o Edital e ressaltando o período das inscrições. Envia também lembrete nos últimos dias dos prazos estabelecidos\n- copia as informações dos inscritos que pode ser consulta em Júpiter Administrativo &gt; Programas especiais/Bolsas &gt; Bolsa PEEG - Monitoria\n\n<!-- image -->",
+      "qa_pairs": [
+        {
+          "question": "O que é o PEEG?",
+          "answer": "O PEEG é o Programa de Estímulo ao Ensino de Graduação - Monitoria.",
+          "source_page": 1
+        },
+        {
+          "question": "Com que frequência é publicado o edital do PEEG?",
+          "answer": "Há um edital para cada semestre, enviado pela PRG para a unidade divulgar.",
+          "source_page": 1
+        },
+        {
+          "question": "Quais são as responsabilidades da chefia da Graduação em relação ao edital?",
+          "answer": "A chefia da Graduação deve salvar o edital e documentos na pasta compartilhada, inserir as datas de cadastro, inscrições e análises na agenda (com lembretes) e divulgar o edital aos professores, ressaltando o cronograma e o período de inscrições dos projetos.",
+          "source_page": 1
+        },
+        {
+          "question": "Onde a chefia da Graduação verifica os projetos cadastrados?",
+          "answer": "Os projetos cadastrados são verificados no Júpiter, seguindo o caminho: Administrativo > Programas especiais/Bolsas > Bolsa PEEG - Monitoria.",
+          "source_page": 1
+        },
+        {
+          "question": "Como funciona a seleção de projetos para a monitoria?",
+          "answer": "A chefia da Graduação compila as informações em uma tabela, baseada nos critérios de seleção da CG, e envia ao presidente da CG para homologação.",
+          "source_page": 2
+        },
+        {
+          "question": "Quem é responsável por homologar os projetos do PEEG?",
+          "answer": "O presidente da CG é o responsável por homologar os projetos.",
+          "source_page": 2
+        },
+        {
+          "question": "Quantos projetos podem ser homologados pelo presidente da CG?",
+          "answer": "O presidente da CG pode homologar todos os projetos ou apenas a quantidade correspondente ao número de cotas recebidas.",
+          "source_page": 2
+        },
+        {
+          "question": "Quantas cotas o ICMC costuma receber para o PEEG?",
+          "answer": "O ICMC tem recebido 15 cotas, porém é possível solicitar cotas adicionais à PRG.",
+          "source_page": 2
+        },
+        {
+          "question": "Como os alunos são informados sobre as inscrições do PEEG?",
+          "answer": "A chefia da Graduação encaminha um e-mail aos alunos divulgando o Edital e ressaltando o período de inscrições, enviando também lembretes nos últimos dias dos prazos.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde podem ser consultadas as informações dos alunos inscritos no PEEG?",
+          "answer": "As informações dos inscritos podem ser consultadas no Júpiter, em: Administrativo > Programas especiais/Bolsas > Bolsa PEEG - Monitoria.",
+          "source_page": 2
+        }
+      ]
+    },
+    {
+      "chunk_id": "Bolsa PEEG - Bolsa Progama de Estímulo ao Ensino de Graduação__c1",
+      "pages": [
+        2,
+        3
+      ],
+      "chunk_text": "[Página 2]\n## Projetos\n\n<!-- image -->\n\n- compila as informações necessárias em uma tabela (de acordo com os critérios de seleção vigentes que são estipulados pela CG) e envia e-mail para o presidente da CG com a tabela e ressalta o prazo para homologação dos projetos. O presidente da CG pode homologar todos os projetos ou apenas o número correspondente ao número de cotas recebidas. O ICMC tem recebido 15 cotas, mas é possível solicitar cotas adicionais à PRG\n- encaminha e-mail aos alunos divulgando o Edital e ressaltando o período das inscrições. Envia também lembrete nos últimos dias dos prazos estabelecidos\n- copia as informações dos inscritos que pode ser consulta em Júpiter Administrativo &gt; Programas especiais/Bolsas &gt; Bolsa PEEG - Monitoria\n\n<!-- image -->\n\n[Página 3]\n- encaminha para seleção do presidente da CG e ressalta o prazo para a seleção no sistema\n- o presidente da CG deve indicar quais projetos serão contemplados.\n- divulga a relação dos projetos selecionados a todos os docentes que cadastraram projetos\n- se o presidente da CG solicitar, encaminha a relação dos inscritos para que os docentes indiquem o aluno a ser selecionado. Nesse caso, o e-mail deve ser enviado apenas para os docentes que tiveram projeto selecionado\n- divulga o resultado final (projetos e alunos selecionados) para todos os alunos inscritos e ressalta que os alunos selecionados deverão acessar o sistema para dar o aceite na bolsa (dentro do prazo estabelecido no edital) e entrar em contato com o docente responsável\n- para consultar se o aluno já deu o aceito, acesse Júpiter -Administrativo &gt; Programas especiais/Bolsas &gt; Bolsa PEEG - Monitoria - Clique no ícone \"Projeto\" , Procure a disciplina, clique no ícone \"inscritos\"\n\n·\n\n<!-- image -->\n\n·\n\n- solicita substituição ou cancelamento de bolsistas, de alteração do docente responsável do projeto, alteração da data de início da bolsa, se necessário, à PRG (prgadm@usp.br)\n- auxilia o presidente da CG na cobrança dos relatórios para a elaboração do relatório final\n- esclarece dúvidas de alunos e docentes",
+      "qa_pairs": [
+        {
+          "question": "Quem é responsável por estipular os critérios de seleção vigentes para os projetos?",
+          "answer": "Os critérios de seleção vigentes são estipulados pela CG.",
+          "source_page": 2
+        },
+        {
+          "question": "Quantas cotas de bolsas o ICMC tem recebido habitualmente?",
+          "answer": "O ICMC tem recebido 15 cotas, porém é possível solicitar cotas adicionais à PRG.",
+          "source_page": 2
+        },
+        {
+          "question": "Como os alunos são informados sobre a divulgação do Edital e o período de inscrições?",
+          "answer": "Os alunos recebem a divulgação do Edital e o período de inscrições via e-mail, com lembretes enviados nos últimos dias dos prazos estabelecidos.",
+          "source_page": 2
+        },
+        {
+          "question": "Onde podem ser consultadas as informações dos inscritos na Bolsa PEEG - Monitoria?",
+          "answer": "As informações podem ser consultadas no Júpiter Administrativo, seguindo o caminho: Programas especiais/Bolsas > Bolsa PEEG - Monitoria.",
+          "source_page": 2
+        },
+        {
+          "question": "Qual é a responsabilidade do presidente da CG em relação aos projetos?",
+          "answer": "O presidente da CG deve homologar os projetos (todos ou a quantidade correspondente às cotas recebidas) e indicar quais projetos serão contemplados.",
+          "source_page": 2
+        },
+        {
+          "question": "Como ocorre a divulgação dos projetos selecionados?",
+          "answer": "A relação dos projetos selecionados é divulgada a todos os docentes que cadastraram projetos.",
+          "source_page": 3
+        },
+        {
+          "question": "Em que situação os docentes indicam o aluno a ser selecionado?",
+          "answer": "Isso ocorre se o presidente da CG solicitar que a relação de inscritos seja encaminhada para que os docentes dos projetos selecionados indiquem o aluno.",
+          "source_page": 3
+        },
+        {
+          "question": "O que os alunos selecionados devem fazer após a divulgação do resultado final?",
+          "answer": "Os alunos selecionados devem acessar o sistema para dar o aceite na bolsa dentro do prazo estabelecido no edital e entrar em contato com o docente responsável.",
+          "source_page": 3
+        },
+        {
+          "question": "Como verificar se um aluno já deu o aceite na bolsa de monitoria?",
+          "answer": "Deve-se acessar Júpiter Administrativo > Programas especiais/Bolsas > Bolsa PEEG - Monitoria, clicar no ícone 'Projeto', procurar a disciplina e clicar no ícone 'inscritos'.",
+          "source_page": 3
+        },
+        {
+          "question": "A quem deve ser solicitada a substituição ou cancelamento de bolsistas e alteração de docente responsável?",
+          "answer": "Essas solicitações devem ser encaminhadas à PRG através do e-mail prgadm@usp.br.",
+          "source_page": 3
+        }
+      ]
+    }
+  ]
+}
