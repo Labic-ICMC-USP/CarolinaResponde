@@ -3,6 +3,7 @@ data/
 extracted_data/
 chunked_data/
 faq_data/
+faq_eval/
 
 # Configurações locais e credenciais
 .env
