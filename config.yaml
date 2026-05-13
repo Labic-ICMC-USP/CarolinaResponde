@@ -16,4 +16,5 @@ paths:
   extracted_dir: ./extracted_data
   chunked_dir: ./chunked_data
   faq_dir: ./faq_data
+  faq_eval_dir: ./faq_eval
   prompts_dir: ./prompts
