@@ -4,3 +4,4 @@ tqdm
 openai
 pyyaml
 python-dotenv
+openpyxl
