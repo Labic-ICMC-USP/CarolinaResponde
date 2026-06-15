@@ -1,0 +1,93 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Estou no 4º semestre da Licenciatura em Ciências Exatas e quero me planejar para atuar como professor de Ciências no Ensino Fundamental e também escolher uma habilitação para o Ensino Médio; como o curso organiza essa formação ao longo dos semestres, incluindo quando preciso escolher a habilitação, como funcionam os estágios supervisionados e as práticas pedagógicas, e qual é o tempo mínimo e máximo para concluir o curso?
+
+RESPOSTA DE REFERÊNCIA:
+O curso de Licenciatura em Ciências Exatas foi estruturado para formar professores de Ciências para o Ensino Fundamental e também professores de Física, Química ou Matemática para o Ensino Médio, integrando conteúdos específicos e formação pedagógica ao longo de toda a graduação. Isso é explicitado nos objetivos do curso, que destacam a formação de professores para o Ensino Médio nas áreas de Física, Química e Matemática, além da atuação em Ciências no Ensino Fundamental (seção 4, p. 6-7). O projeto também afirma que, independentemente da habilitação escolhida, todos os formandos podem atuar como professores de Ciências no Ensino Fundamental devido à presença de disciplinas comuns e estágios relacionados ao ensino de Ciências (seção 2, p. 4).
+
+A organização curricular prevê um “ciclo básico comum” nos quatro primeiros semestres, obrigatório para todos os estudantes. A escolha da habilitação ocorre a partir do 5º semestre, quando o aluno passa a cursar disciplinas específicas de Física, Química ou Matemática, mantendo simultaneamente disciplinas comuns ligadas principalmente à formação pedagógica e à prática docente (seção 2, p. 4; seção 8, p. 14). No núcleo comum há 78 créditos-aula e 16 créditos-trabalho distribuídos nos quatro primeiros semestres. Após isso, cada habilitação possui sua própria carga específica: Física com 20 créditos-aula obrigatórios específicos e 4 créditos optativos livres; Química com 22 créditos-aula obrigatórios específicos e 8 optativos livres; Matemática com 24 créditos-aula obrigatórios específicos e 12 optativos livres (seção 8, p. 14).
+
+A formação pedagógica começa desde o início do curso e ocorre de maneira contínua. O documento afirma que ela se inicia já no 1º semestre com a disciplina “Introdução aos Estudos da Educação” e prossegue sem interrupção até o final da graduação, buscando integrar formação específica e pedagógica e promover contato constante com a realidade escolar (seção 3, p. 5).
+
+As práticas pedagógicas como componente curricular (PCCC) ocorrem durante todo o curso e não ficam restritas apenas aos estágios. Elas aparecem em disciplinas pedagógicas comuns, como Introdução aos Estudos da Educação I e II, Psicologia da Educação I e II, Didática, Instrumentação para o Ensino I e II, História da Ciência I e II, entre outras. Nessas atividades os alunos realizam observação e reflexão sobre a realidade escolar, estudos de caso, entrevistas com professores, uso de tecnologias e situações simuladas de ensino (seção 7, p. 11). Além disso, as PCCC também aparecem em disciplinas específicas das áreas de Ciências Exatas, como Biologia III e IV, Ciências do Ambiente e diversos laboratórios, variando conforme a habilitação escolhida (seção 7, p. 11-12).
+
+Os estágios supervisionados começam a partir do 7º semestre. Inicialmente, todos os alunos cursam duas disciplinas de Estágio Supervisionado de Ensino de Ciências, obrigatórias independentemente da habilitação. Nos dois últimos semestres, o estudante realiza mais duas disciplinas de estágio voltadas especificamente para sua habilitação escolhida — Física, Química ou Matemática (seção 7, p. 11). O documento destaca que esses estágios e práticas aproximam o licenciando da realidade escolar e permitem vivências concretas em escolas, contato com professores em exercício e participação em situações reais de ensino (seção 7, p. 11).
+
+Quanto ao tempo de integralização, o curso tem duração ideal e mínima de 8 semestres e duração máxima de 14 semestres (seção 8, p. 15).
+
+RESPOSTA AVALIADA:
+Com certeza! A Licenciatura em Ciências Exatas do ICMC-USP segue uma estrutura que te capacita para atuar no Ensino Fundamental e, posteriormente, em uma habilitação específica para o Ensino Médio.
+
+Aqui está como funciona:
+
+Ciclo Comum e Escolha da Habilitação: O curso se inicia com um núcleo comum de disciplinas nos primeiros semestres, que te proporcionarão uma base sólida em Ciências Exatas. Após essa fase inicial, você terá a oportunidade de escolher sua habilitação para o Ensino Médio. As opções são: Matemática, Física, Química e Ciência da Computação.
+Práticas Pedagógicas: As práticas pedagógicas são componentes obrigatórios e estão distribuídas ao longo de todo o curso. Elas integram os conteúdos específicos de cada área com as metodologias de ensino, preparando você para a docência.
+Estágios Supervisionados: O estágio supervisionado é uma etapa obrigatória e essencial, realizada em duas fases. Você terá a chance de aplicar na prática o conhecimento adquirido em sala de aula, vivenciando o ambiente escolar e desenvolvendo suas habilidades didáticas, sempre com a orientação de professores da universidade.
+Tempo de Conclusão do Curso:
+Mínimo: Você pode concluir o curso em 8 semestres (4 anos).
+Máximo: O prazo máximo para integralização do curso é de 14 semestres (7 anos).

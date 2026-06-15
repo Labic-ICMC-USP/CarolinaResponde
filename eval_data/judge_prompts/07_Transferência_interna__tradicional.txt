@@ -1,0 +1,109 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Sou servidor responsável pelo processo de transferência interna e ainda sobraram vagas depois das chamadas iniciais; quais providências preciso tomar desde a divulgação do edital até o cadastro final das vagas ocupadas e remanescentes no Júpiter, incluindo como proceder com listas de espera, matrícula dos alunos e eventual oferta das vagas restantes para transferência externa?
+
+RESPOSTA DE REFERÊNCIA:
+O processo de transferência interna deve começar com a verificação das vagas disponíveis no Júpiter em “Administrativo > Vagas para transferência”, seguida do preenchimento da minuta do edital com as vagas, regras de seleção e cronograma de inscrições, análise, divulgação de resultados e matrícula, respeitando os prazos definidos pela PRG para matrícula e cadastro das vagas ocupadas (página 1). Após isso, o edital deve ser analisado pelas CoCs, que podem decidir não ofertar todas as vagas desde que justifiquem a decisão, além de revisar os critérios de classificação (página 2). Depois da análise das CoCs, a chefia do setor deve finalizar o edital, encaminhá-lo para apreciação da CG e Congregação e cadastrar no Júpiter, na coluna “VDTI - Vagas disponíveis para transferência interna”, o número de vagas efetivamente ofertadas dentro do prazo previsto pela PRG (página 2).
+
+Durante a seleção, deve-se criar e divulgar o formulário de inscrição apenas no período previsto no edital, analisar as inscrições conforme os critérios estabelecidos, divulgar os resultados de deferimento e indeferimento e encaminhar as inscrições deferidas aos coordenadores para classificação final dos candidatos (página 3). Após receber as classificações, o resultado final deve ser enviado ao presidente da CG e divulgado na página oficial dentro do prazo do edital (página 3).
+
+Na etapa de matrícula, deve-se criar e divulgar o formulário de matrícula no período previsto no edital e, ao final do prazo, verificar se todos os convocados efetivaram a matrícula (página 3). Caso sobrem vagas, é necessário convocar os próximos candidatos da 1ª lista de espera, divulgar a convocação na página e reabrir o formulário de matrícula no período definido no edital (página 3). Se ainda houver vagas remanescentes após isso, o mesmo procedimento deve ser repetido para a 2ª lista de espera (página 3).
+
+Todos os documentos enviados para matrícula devem ser conferidos e salvos na pasta compartilhada “svgrad - Ingresso - Transferência Interna - (ano)” (página 3). A matrícula no curso deve ser feita no Júpiter em “Administrativo > Inscrição em Cursos”, selecionando unidade, curso e complemento e incluindo o aluno com o tipo “Transf USP” e a data de inscrição definida no edital (página 4). Em seguida, deve-se registrar o parecer com resultado “aceito”, informar a data da seleção, indicar “análise de currículo” no tipo de avaliação, registrar o NUSP do presidente da CG no campo responsável e inserir a descrição “aprovado” (página 4). Depois que o aluno encaminhar a grade horária assinada pelo coordenador, a secretaria deve efetuar a matrícula nas disciplinas, desde que existam vagas (página 5). Mesmo quando o aluno não possuir requisito em alguma disciplina, não é necessário deixar a matrícula pendente para análise da CoC, pois a assinatura do coordenador na grade já autoriza a matrícula e a secretaria pode concluí-la diretamente (página 5).
+
+Encerradas todas as chamadas previstas, a chefia do setor deve cadastrar no Júpiter, na coluna “VPTI - Vagas preenchidas após processo de transferência interna”, o número de vagas efetivamente ocupadas, dentro do prazo previsto pela PRG (página 2). Depois disso, deve consultar os coordenadores sobre a oferta das vagas remanescentes para transferência externa e, caso sejam disponibilizadas, preencher no Júpiter a coluna “VDTE - Vagas disponíveis para transferência externa” (página 2). O documento também orienta que, se todas as vagas da transferência externa forem ofertadas via Fuvest (1ª fase), o campo “Não enviar vagas p/ Fuvest” não deve ser marcado (página 2).
+
+RESPOSTA AVALIADA:
+Olá! Para o processo de transferência interna no ICMC-USP, desde a divulgação do edital até o cadastro final das vagas e a eventual oferta para transferência externa, você deve seguir um fluxo que inclui várias etapas.
+
+1. Divulgação do Edital:
+O processo começa com a publicação de um edital específico, que detalha o número de vagas, os critérios de seleção e o cronograma.
+
+2. Inscrição e Análise:
+Após a divulgação do edital, os interessados devem se inscrever dentro do prazo estipulado. Em seguida, é realizada a análise e classificação dos candidatos, geralmente baseada em critérios como desempenho acadêmico e histórico escolar.
+
+3. Divulgação dos Resultados:
+Os resultados são divulgados, indicando os candidatos classificados, os que estão em lista de espera e os indeferidos (não aprovados).
+
+4. Matrícula dos Aprovados:
+Os candidatos aprovados devem realizar a matrícula dentro do período determinado.
+
+5. Lista de Espera:
+Se houver vagas remanescentes após a matrícula dos aprovados, novos chamados são feitos para os candidatos que estão na lista de espera, seguindo a ordem de classificação.
+
+6. Cadastro Final das Vagas no Júpiter:
+É crucial que todas as ocupações de vagas, sejam elas por transferência interna ou por lista de espera, sejam devidamente registradas no sistema Júpiter. Isso inclui as vagas preenchidas e as remanescentes.
+
+7. Vagas Remanescentes para Transferência Externa:
+Caso ainda restem vagas após todas as chamadas da transferência interna e da lista de espera, essas vagas podem ser ofertadas para o processo de transferência externa, seguindo os procedimentos definidos no edital ou em normas específicas para essa finalidade.
+
+Orientação Prática:
+
+Acompanhe editais: Esteja atento aos editais que serão publicados na página de graduação do ICMC-USP, pois eles são a fonte oficial de informações sobre prazos, documentos e requisitos.
+Registros no Júpiter: Garanta que todas as movimentações de vagas sejam corretamente e em tempo hábil registradas no sistema Júpiter, refletindo a situação real das vagas ocupadas e disponíveis.
+Comunicação: Mantenha comunicação clara com os candidatos (aprovados e em lista de espera) sobre os próximos passos e prazos.

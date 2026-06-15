@@ -1,0 +1,9 @@
+rater,dimension,n,wilcoxon_w,wilcoxon_p,note
+human,correctness,15,0.0,0.0001,
+human,completeness,15,0.0,0.0082,
+human,faithfulness,15,0.0,0.0014,
+human,overall,15,0.0,0.0001,
+llm,correctness,15,0.0,0.0001,
+llm,completeness,15,0.0,0.0025,
+llm,faithfulness,15,0.0,0.0013,
+llm,overall,15,0.0,0.0007,

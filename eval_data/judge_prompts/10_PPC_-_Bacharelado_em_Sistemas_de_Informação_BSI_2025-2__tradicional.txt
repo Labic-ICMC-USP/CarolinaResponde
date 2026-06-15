@@ -1,0 +1,116 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Estou no último ano do BSI e quero decidir entre fazer Estágio Supervisionado, Projeto de Graduação ou Projeto Empreendedor para concluir minha formação; quais são os requisitos mínimos para matrícula em cada opção, quais documentos ou comprovações preciso apresentar e quais diferenças existem quanto ao ambiente de realização, supervisão e carga horária?
+
+RESPOSTA DE REFERÊNCIA:
+As três modalidades — Estágio Supervisionado, Projeto de Graduação (TCC não obrigatório) e Projeto Empreendedor — são equivalentes em termos de carga horária, mas possuem requisitos, documentação e ambientes de realização diferentes.
+
+Para o Estágio Supervisionado, o aluno só pode solicitar matrícula nas disciplinas Estágio Supervisionado I e II se estiver aprovado em, no mínimo, 100 créditos (aula + trabalho) das disciplinas obrigatórias e eletivas do curso. Cada disciplina possui 4 créditos-aula e 10 créditos-trabalho, totalizando 360 horas por disciplina. O estágio deve ser realizado em empresa cadastrada no ICMC-USP e acompanhado por um supervisor acadêmico da Universidade e um supervisor na empresa. Ambos devem fornecer um plano de trabalho referendado pelo docente responsável pela disciplina. Ao final, a empresa deve emitir um atestado com datas de início e término e número de horas cumpridas, sendo exigidas no mínimo 300 horas efetivamente realizadas na empresa. Os supervisores também avaliam o estágio por formulários específicos. O documento ainda estabelece limites de jornada: até 6 horas por dia em dias com aula, até 8 horas em dias sem aula e máximo de 40 horas semanais, com exceção de alunos em final de curso sem aulas presenciais no semestre. Essas informações constam na seção 5.3 – Estágio Curricular (páginas 26 e 27).
+
+No caso do Projeto de Graduação, que corresponde ao TCC, a realização é opcional. O aluno pode cursá-lo nas disciplinas Projeto de Graduação I e II, também equivalentes a 360 horas cada e equivalentes em carga horária às disciplinas de estágio. A matrícula exige igualmente aprovação em pelo menos 100 créditos (aula + trabalho) das disciplinas obrigatórias e eletivas. O projeto deve ser realizado em ambiente acadêmico, obrigatoriamente relacionado à computação e orientado por um docente, preferencialmente do ICMC, podendo ser de outra unidade do campus de São Carlos. No início da disciplina, aluno e orientador devem apresentar um plano de pesquisa. Ao final, o orientador fornece declaração de cumprimento das horas e relatório de avaliação do aluno. O acompanhamento do desenvolvimento do trabalho é responsabilidade do orientador durante todas as etapas do trabalho científico. Essas regras estão descritas na seção 5.4 – Trabalho de Conclusão de Curso (páginas 27 e 28).
+
+Já o Projeto Empreendedor também é opcional e vinculado às disciplinas Projeto Empreendedor I e II, igualmente equivalentes às disciplinas de estágio em carga horária (360 horas cada). Para matrícula, além da aprovação mínima em 100 créditos (aula + trabalho), o estudante precisa atender requisitos adicionais: comprovar a existência de ao menos um projeto de sucesso concluído ou um projeto ativo vinculado a empresa formalmente constituída ou em processo de formação; o projeto deve possuir cliente associado e duração mínima de 6 meses, contados desde o ingresso do aluno no curso até a solicitação da matrícula; possuir ao menos um projeto cujo cliente autorize a apresentação do trabalho; e apresentar um resumo descrevendo atuação da empresa, incluindo gestão e organização, produto ou serviço, mercado e concorrência, estratégia de marketing e vendas e viabilidade financeira. O projeto deve demonstrar como os conceitos aprendidos no curso foram aplicados no contexto empresarial. Também exige supervisão de um docente da USP, preferencialmente do ICMC. No início deve ser apresentado um plano de trabalho, e ao final o supervisor fornece declaração de cumprimento das horas e relatório de avaliação. Essas exigências estão na seção 5.6 – Projeto Empreendedor (páginas 28 e 29).
+
+RESPOSTA AVALIADA:
+Olá! Que ótima iniciativa planejar sua conclusão de curso no BSI. Para ajudá-lo a escolher entre Estágio Supervisionado, Projeto de Graduação ou Projeto Empreendedor, aqui estão os requisitos, documentos e diferenças principais:
+
+Requisitos Mínimos para Matrícula:
+
+Estar regularmente matriculado no curso de Bacharelado em Sistemas de Informação (BSI).
+Cumprir os pré-requisitos de disciplinas exigidos pelo curso, se houver, para a modalidade escolhida.
+Seguir os procedimentos específicos de cada modalidade, que incluem a apresentação de documentação aprobatória.
+Documentos ou Comprovações Necessárias:
+
+Estágio Supervisionado:
+Termo de Compromisso: Documento formal assinado com a empresa ou instituição onde o estágio será realizado.
+Plano de Atividades: Detalha as tarefas e responsabilidades do estagiário, aprovado por seu supervisor na empresa e pelo docente orientador.
+Registro do acompanhamento: Para monitorar o desenvolvimento das atividades de estágio.
+Projeto de Graduação / Projeto Empreendedor:
+Plano de Trabalho/Projeto: Apresenta os objetivos, metodologia e cronograma do projeto, e deve ser aprovado por um docente que atuará como orientador.
+No caso do Projeto Empreendedor, pode ser exigido um plano de implementação e validação da solução inovadora.
+Diferenças de Ambiente, Supervisão e Carga Horária:
+
+Ambiente de Realização:
+Estágio Supervisionado: Realizado em um ambiente profissional, ou seja, em empresas ou outras instituições externas ao ICMC-USP.
+Projeto de Graduação: Desenvolvido dentro do ambiente acadêmico, muitas vezes vinculado a laboratórios de pesquisa ou sob a guia de um professor no ICMC-USP.
+Projeto Empreendedor: Focado na criação e validação de uma solução inovadora, ele pode ser realizado tanto dentro quanto fora da universidade.
+Supervisão:
+Estágio Supervisionado: Você terá um supervisor na empresa e, obrigatoriamente, um docente do curso como orientador.
+Projeto de Graduação: A supervisão é feita por um docente do ICMC-USP.
+Projeto Empreendedor: Terá a orientação de um docente do curso e pode contar com o apoio de especialistas em empreendedorismo.
+Carga Horária:
+Todas as três modalidades são equivalentes a uma disciplina obrigatória de 8 créditos, o que corresponde a 120 horas de atividade.
+Base Documental:
+Essas informações são baseadas no "Regulamento do estágio supervisionado do Bacharelado em Sistemas de Informação" e nas ementas e documentos relacionados ao curso de BSI do ICMC-USP.
+
+Orientação Prática:
+
+Recomendo consultar o regulamento mais atualizado do seu curso para verificar qualquer detalhe específico ou prazo.
+Entre em contato com a Seção de Graduação e a Coordenação do BSI para obter informações sobre formulários e procedimentos específicos.
+Defina um orientador/supervisor e, junto a ele, prepare os documentos necessários.
+Cumpra os prazos para submissão e matrícula, divulgados no calendário acadêmico.

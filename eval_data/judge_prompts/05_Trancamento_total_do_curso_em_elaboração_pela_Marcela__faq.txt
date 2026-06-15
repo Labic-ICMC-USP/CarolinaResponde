@@ -1,0 +1,88 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Estou pensando em pedir trancamento total do curso porque estou com dificuldades pessoais neste semestre, mas já ouvi dizer que existem restrições relacionadas à quantidade de créditos concluídos, reprovação por falta e tempo máximo afastado; nesse caso, quais condições preciso cumprir para conseguir o trancamento, como o pedido é analisado e por quanto tempo posso permanecer afastado antes de precisar justificar ou ter nova análise da CG?
+
+RESPOSTA DE REFERÊNCIA:
+Para solicitar o trancamento total do curso, o aluno deve preencher o formulário disponível na página do Serviço de Graduação e pode fazer a solicitação em qualquer época do ano, conforme a Resolução CoG nº 3761/1990. O trancamento total corresponde à interrupção das atividades escolares em todas as disciplinas em que o aluno estiver matriculado no semestre. (Página 1, seção “Trancamento total do curso” e “Condições para o trancamento”).
+
+Para que o pedido possa ser aprovado, o aluno deve cumprir duas condições principais: (1) já possuir pelo menos 24 créditos cursados e aprovados no currículo, sem contar aproveitamentos de estudos; e (2) não estar reprovado por faltas em disciplinas cuja soma dos créditos ultrapasse 25% do total de créditos da matrícula naquele período letivo. O documento também informa que, caso o aluno não cumpra a exigência dos 24 créditos, a CoC do curso poderá analisar excepcionalmente o caso e aprovar o pedido. Além disso, a verificação de reprovação por frequência é feita mediante consulta aos docentes responsáveis pelas disciplinas em que o aluno está matriculado. (Página 1, itens “a” e “b” das condições para o trancamento e observação logo abaixo).
+
+Após a entrega do formulário e a conferência das condições, o Serviço de Graduação poderá tomar dois encaminhamentos: caso o aluno tenha reprovação por frequência acima do limite permitido ou a excepcionalidade seja negada pela CoC, o trancamento não será efetivado e o aluno será informado por e-mail; caso as condições sejam atendidas, o trancamento será registrado no Sistema Júpiter e o aluno também será notificado por e-mail. (Página 1, seção “Após conferência da frequência”, itens “a” e “b”).
+
+Sobre o período máximo de afastamento, o documento informa que o trancamento é renovado automaticamente a cada semestre e que o aluno pode permanecer em trancamento total por até 4 semestres. Em casos excepcionais, pode solicitar mais 2 semestres adicionais, totalizando 6 semestres, desde que o pedido seja encaminhado antes do término do 4º semestre de trancamento e seja analisado pela CG. (Página 4, “Modelo do E-mail”).
+
+O documento também estabelece que a soma dos períodos de trancamento total não pode exceder três anos: até dois anos não é necessária justificativa; após esse período, é possível permanecer afastado por mais um ano desde que haja justificativa e aprovação da CG. Além disso, o período em trancamento total não é computado para fins de cancelamento de matrícula. (Página 5, seção final do documento).
+
+RESPOSTA AVALIADA:
+Para conseguir o trancamento total do curso, você precisa:
+
+Ter cursado e aprovado no mínimo 24 créditos no currículo, sem considerar créditos obtidos por aproveitamento de estudos.
+Não estar reprovado por falta em disciplinas cujo total de créditos exceda 25% do período letivo em que o trancamento é solicitado.
+O pedido de trancamento pode ser negado se você não cumprir essas condições ou se a Comissão de Curso (CoC) não aprovar sua justificativa.
+
+O trancamento é renovado automaticamente por até 4 semestres. Você pode solicitar uma extensão por mais 2 semestres, mas isso exige uma análise da Comissão de Graduação (CG) antes do final do 4º semestre de trancamento. O tempo máximo de afastamento pode ser de até três anos, porém, para ultrapassar dois anos, a solicitação deve ser justificada e será analisada pela CG.

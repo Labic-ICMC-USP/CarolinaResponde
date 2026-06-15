@@ -1,0 +1,112 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Sou provável formando e percebi que algumas das minhas Atividades Acadêmicas Complementares ainda não apareceram no histórico; queria entender quais atividades podem ser aproveitadas, quais documentos preciso enviar no Júpiter, o que acontece se faltar informação de carga horária ou houver erro no cadastro, e como funciona o recurso caso o coordenador indefira meu pedido.
+
+RESPOSTA DE REFERÊNCIA:
+As Atividades Acadêmicas Complementares (AAC) somente podem ser computadas se tiverem sido realizadas após o ingresso do aluno no curso de graduação, e elas são divididas em três vertentes: Acadêmicas (de Graduação), Pesquisa e Cultura e Extensão. Além disso, a carga horária mínima exigida é de 30 horas, embora cada curso possa definir carga horária maior e estabelecer as atividades aceitas e os limites máximos por atividade por meio da CoC do curso. Essas orientações devem constar na página do curso. (Página 1, tópicos sobre vertentes das AAC, carga horária mínima e responsabilidade das CoCs)
+
+O cadastro da AAC deve ser feito diretamente pelo aluno no sistema Júpiter, e o aluno precisa anexar documentos comprobatórios contendo obrigatoriamente o nome do aluno, a atividade realizada, o período de realização e a carga horária. Caso o documento não informe a carga horária, mas apresente o período da atividade, o pedido ainda pode ser encaminhado para análise do coordenador, que poderá atribuir uma carga horária. (Página 1, tópicos sobre cadastro no Júpiter, documentação exigida e atribuição de carga horária)
+
+O envio do requerimento não implica aproveitamento automático das horas. O coordenador analisará a documentação e poderá deferir integralmente, deferir parcialmente com carga horária menor ou indeferir o pedido. Quando a AAC é deferida, ela é registrada automaticamente no histórico escolar do aluno. Também não existe prazo fixo para cadastro e análise das AACs, mas, no caso de alunos prováveis formandos, recomenda-se acompanhar e cobrar o andamento caso haja demora do aluno no cadastro ou do coordenador na análise. (Página 1, tópicos sobre análise pelo coordenador, registro no histórico e ausência de prazo para análise)
+
+Na análise inicial feita pelo Serviço de Graduação (svgrad), são conferidos os documentos anexados, os dados informados, a compatibilidade da carga horária declarada com o documento e se a atividade foi realizada após o ingresso no curso. Se houver erro nas informações, o svgrad pode corrigir os dados ou devolver o pedido ao aluno para ajustes, utilizando a situação “Devolvido para Solicitante” e registrando o motivo. Esse procedimento também é utilizado quando o documento enviado estiver errado ou incompleto. Se a atividade tiver sido realizada antes do ingresso no curso, o pedido deve ser indeferido pelo Serviço de Graduação. (Página 2, tópicos sobre conferência do svgrad, devolução para solicitante e indeferimento)
+
+Caso o coordenador indefira a solicitação, o aluno pode apresentar recurso. Nessa situação, o recurso será analisado pelo presidente da Comissão de Graduação (CG). Além disso, ao indeferir o pedido, o coordenador deve cadastrar um parecer, que pode ser consultado pelo aluno e pelo svgrad no sistema. (Página 3, tópicos sobre recurso ao presidente da CG e parecer do coordenador)
+
+RESPOSTA AVALIADA:
+Com certeza! Entendo sua preocupação como provável formando.
+
+1. Atividades que podem ser aproveitadas como AACs:
+
+Podem ser aproveitadas diversas atividades extracurriculares de natureza acadêmica, científica, cultural ou comunitária. Isso inclui, por exemplo, participação em eventos (congressos, seminários), monitorias, estágios extracurriculares (desde que não sejam disciplina obrigatória), projetos de extensão, iniciação científica, cursos de idiomas, entre outras.
+
+É fundamental consultar o regulamento de AACs do seu curso específico (por exemplo, Ciência da Computação, Sistemas de Informação, Matemática, etc.) para verificar a lista exata de atividades válidas, os limites máximos de carga horária para cada tipo e os exemplos aceitos.
+
+2. Documentos necessários no Júpiter:
+
+Para cada atividade, você deve anexar documentos comprobatórios no JúpiterWeb. Esses documentos precisam obrigatoriamente conter as seguintes informações:
+
+Seu nome completo como estudante.
+O tipo da atividade realizada.
+A data de realização da atividade (início e fim, se aplicável).
+A carga horária total da atividade.
+A assinatura ou identificação do responsável pela emissão do comprovante.
+3. Falta de carga horária ou erro no cadastro:
+
+Se faltar alguma informação essencial nos documentos (como a carga horária comprovada) ou se houver erros no cadastro da atividade, seu pedido pode ser indeferido pelo coordenador. Nesses casos, o pedido é geralmente devolvido para que você possa corrigir as informações ou complementar a documentação necessária. Fique atento às notificações no JúpiterWeb.
+
+4. Recurso em caso de indeferimento:
+
+Caso seu pedido de aproveitamento de AACs seja indeferido pelo coordenador, você tem o direito de entrar com um recurso. O prazo para isso é de 10 dias úteis após a publicação do resultado do indeferimento. Para recorrer, você deve apresentar justificativas e, se possível, documentos complementares ou corrigidos que ajudem a embasar seu pedido.
+
+Recomendação prática:
+
+Identifique seu curso: Para uma resposta mais específica e detalhada, é sempre bom saber qual o seu curso de graduação, pois cada um tem seu próprio regulamento de AACs com particularidades.
+Acesse o regulamento: Consulte o regulamento de AACs do seu curso (geralmente disponível na página do ICMC-USP ou na Seção de Graduação).
+Organize a documentação: Reúna todos os comprovantes das suas AACs, verificando se contêm todas as informações necessárias antes de enviar no Júpiter.
+Se quiser mais detalhes sobre algum desses pontos ou se tiver o nome do seu curso, posso tentar buscar o regulamento específico para você.

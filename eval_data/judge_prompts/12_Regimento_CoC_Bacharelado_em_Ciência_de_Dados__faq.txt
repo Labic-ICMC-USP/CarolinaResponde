@@ -1,0 +1,82 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Sou representante discente da CoC do Bacharelado em Ciência de Dados e a comissão precisará deliberar urgentemente sobre mudanças no currículo, mas duas reuniões seguidas ficaram sem quórum; nessa situação, quem pode convocar reuniões extraordinárias, qual é o procedimento após a falta de quórum e em que condições a CoC pode finalmente deliberar mesmo com poucos presentes?
+
+RESPOSTA DE REFERÊNCIA:
+As reuniões extraordinárias da CoC-BCDados podem ser convocadas pelo coordenador ou por um terço dos membros da comissão, conforme o Artigo 7º. O regimento estabelece que a CoC se reúne ordinariamente uma vez a cada seis meses e extraordinariamente sempre que houver essa convocação (Artigo 7º).
+
+Para que a CoC funcione e delibere normalmente, é necessária a presença de mais da metade de seus membros, conforme o Artigo 8º. Caso não haja quórum até 30 minutos após o horário marcado para a reunião, deve ser convocada uma nova reunião para ocorrer no mínimo 24 horas depois (Artigo 8º, §1º). Se novamente não houver quórum na segunda convocação, deve ser feita uma terceira convocação, também com intervalo mínimo de 24 horas (Artigo 8º, §2º).
+
+Na terceira convocação, a CoC-BCDados poderá deliberar com qualquer número de presentes, exceto nos casos em que o próprio regimento ou outra norma estabeleça explicitamente um quórum específico para determinada deliberação (Artigo 8º, §3º). Além disso, caso haja empate durante as deliberações, o coordenador possui voto de qualidade, além de seu voto comum, conforme previsto no Artigo 5º. As atribuições da CoC relacionadas a alterações curriculares incluem propor à Comissão de Graduação a estrutura curricular do curso e analisar a pertinência dos conteúdos programáticos das disciplinas, conforme o Artigo 4º, incisos I e III.
+
+RESPOSTA AVALIADA:
+Reuniões extraordinárias da Comissão Coordenadora de Curso (CoC) podem ser convocadas pelo Coordenador da CoC ou por um terço dos seus membros.
+
+Se não houver quórum na primeira convocação, uma nova reunião deve ser convocada para, no mínimo, 24 horas depois. Persistindo a falta de quórum na segunda convocação, uma terceira deverá ser realizada, também após no mínimo 24 horas.
+
+Em terceira convocação, a CoC pode deliberar com qualquer número de membros presentes, exceto nos casos em que for explicitamente exigido um quórum específico.

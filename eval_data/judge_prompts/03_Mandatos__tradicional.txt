@@ -1,0 +1,104 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Sou secretária de uma CoC e o mandato do coordenador termina em cerca de dois meses, mas ele continuará como coordenador e o mandato dele como membro titular da CoC acaba antes do mandato do suplente; quais providências preciso tomar para evitar lacuna de mandato, garantir a continuidade da coordenação e atualizar corretamente os sistemas e comunicações institucionais?
+
+RESPOSTA DE REFERÊNCIA:
+Quando faltarem cerca de 60 dias para o término do mandato do coordenador, a secretária deve avisá-lo para iniciar as tratativas sobre recondução ou escolha do próximo coordenador e incluir a eleição na pauta de uma reunião da CoC, avisando previamente os membros para garantir presença na votação. A eleição do coordenador e vice ocorre durante reunião da CoC pelo sistema de votação eletrônica vote.usp.br, e o mandato de coordenador/vice tem duração de 2 anos iniciando na data da eleição ou em data definida nela. Também é obrigatório evitar qualquer “lacuna” entre mandatos, de modo que o novo mandato comece imediatamente após o término do anterior. (Página 1)
+
+Como o coordenador continuará no cargo, não pode haver interrupção do mandato dele como membro da CoC. Assim, ao final do mandato de membro, ele deverá ser novamente indicado pelo departamento, e a reunião de início do novo mandato deve ocorrer no dia seguinte ao término do mandato atual de membro. Entretanto, se o mandato dele como membro titular vencer antes do mandato do suplente, o departamento só poderá fazer nova indicação caso o suplente solicite demissão do mandato vigente; antes de recomendar essa medida, deve-se conversar com a chefia do setor e a chefe da divisão acadêmica para definir a melhor abordagem. (Página 4)
+
+Depois da eleição/recondução, deve-se redigir um ofício, colher assinatura do Diretor e encaminhá-lo para asistemasprg@usp.br, assistcolprg@usp.br e gprg@usp.br, informando NUSP e e-mail do docente. Também é necessário incluir o coordenador nas listas cgicmc-l@listas.icmc.usp.br e coordgrad-l@listas.icmc.usp.br, orientá-lo sobre os e-mails institucionais do curso (secxxx e coordxxx) e agendar reunião com a chefia do setor e a secretária para apresentação do funcionamento da CoC. (Página 1)
+
+Além disso, os mandatos precisam ser cadastrados e atualizados no Sistema Nereu em “Mandatos → Cadastro de Mandatos”, preenchendo NUSP, função e período, vinculando suplente ao titular quando necessário, e cadastrando o perfil de membro em “Usuários do Sistema”. Em caso de encerramento ou demissão, é necessário encerrar o mandato no Nereu e na intranet e retirar a permissão de membro do colegiado. (Página 2)
+
+Por fim, o coordenador deverá enviar relatório para a CG até 30 dias após o término do mandato ou eventual saída antecipada, sendo o relatório posteriormente analisado pela CG e pela Congregação. (Página 4)
+
+RESPOSTA AVALIADA:
+Para evitar lacunas, garantir a continuidade da coordenação e manter os sistemas institucionais atualizados, siga estas providências, baseadas nas normas da USP e do ICMC:
+
+Providenências Essenciais:
+
+Verifique a Situação do Coordenador: Se o mandato do coordenador como membro da CoC termina, ele não poderá continuar na função de coordenador sem uma nova eleição ou recondução formal. A função de coordenador está vinculada à sua posição de membro titular.
+Inicie os Processos Eleitorais ou de Recondução com Antecedência:
+Membros da CoC: Verifique os mandatos de todos os membros titulares e suplentes. Inicie o processo eleitoral ou de recondução com pelo menos 60 dias de antecedência do término dos mandatos. É fundamental evitar que o mandato de um suplente seja utilizado para preencher uma vaga de titular que expira, pois a função de suplente não se converte em titular sem uma nova eleição específica para a titularidade.
+Coordenador e Vice-Coordenador: Após a definição da nova composição da CoC, ou antes do vencimento do mandato do atual coordenador caso ele possa ser reconduzido, organize a eleição para o novo Coordenador e Vice-Coordenador. Apenas membros titulares ativos da CoC podem ser eleitos para essas funções.
+Prazo e Fluxo:
+
+Os mandatos de membros titulares e suplentes geralmente são de dois anos, permitindo recondução.
+O processo deve ser conduzido de modo que não haja descontinuidade no funcionamento da CoC.
+Atualização de Sistemas e Comunicações:
+
+Comunique a Secretaria de Graduação: Imediatamente após a definição dos novos membros e dos novos Coordenador e Vice-Coordenador, informe a Secretaria de Graduação (ou Serviços Acadêmicos).
+Atualização em Sistemas: A Secretaria de Graduação é responsável por registrar as alterações nos sistemas institucionais, como o JúpiterWeb e outros sistemas e cadastros da unidade, garantindo que a composição e a coordenação da CoC estejam sempre atualizadas.
+Formalização: Toda alteração de mandato e nomeação deve ser formalizada por meio de portaria ou nomeação, seguindo o regimento.
+Importante:
+
+Não permita que o coordenador continue exercendo a função após o vencimento de seu mandato como membro da CoC ou da coordenação, sem que haja uma nova formalização (eleição ou recondução).
+A base de conhecimento não permite que um suplente assuma como titular automaticamente. A titularidade requer eleição específica.
+Caso haja qualquer dúvida sobre a interpretação específica de um caso, consulte a Secretaria de Graduação ou a Seção de Apoio Institucional do ICMC-USP para obter orientações mais detalhadas e garantir a conformidade com as normas vigentes.
+Recomendo que você consulte os artigos específicos do Regimento do ICMC e do Regimento Geral da USP que tratam da composição e dos mandatos das CoCs, e atente-se às publicações oficiais e portarias que regem esses processos.

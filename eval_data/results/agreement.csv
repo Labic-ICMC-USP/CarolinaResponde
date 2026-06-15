@@ -1,0 +1,9 @@
+dimension,system,n,spearman_r,spearman_p,agree_within_1_pct
+correctness,tradicional,15,0.653,0.0084,100.0
+correctness,faq,15,0.319,0.2469,93.3
+completeness,tradicional,15,0.22,0.4297,33.3
+completeness,faq,15,0.318,0.2488,66.7
+faithfulness,tradicional,15,0.252,0.3648,86.7
+faithfulness,faq,15,0.38,0.1628,86.7
+overall,tradicional,15,0.777,0.0007,100.0
+overall,faq,15,0.618,0.0141,86.7

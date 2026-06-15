@@ -1,0 +1,120 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Sou coordenador de curso e precisamos alterar a estrutura curricular para o 1º semestre do próximo ano, incluindo mudanças em disciplinas compartilhadas com outro curso e atualização do PPC; quais aprovações internas e externas serão necessárias, quais documentos precisam ser organizados e quais prazos e cuidados devo observar para conseguir cadastrar tudo no Júpiter sem atraso?
+
+RESPOSTA DE REFERÊNCIA:
+A proposta de alteração pode partir da CoC ou do departamento responsável pela disciplina, mas as tratativas devem começar com antecedência suficiente para cumprir os prazos definidos pela PRG para cadastro no Júpiter. Para alterações válidas a partir do 1º semestre, o cadastro geralmente deve ser feito até o final de agosto, podendo a unidade solicitar prorrogação de um mês por e-mail à PRG, informando o código do curso e o motivo da solicitação. (página 1, seção “Tratativas sobre as alterações”).
+
+No ICMC, o Ofício SVGRAD 116-2019 estabelece que, para alterações de semestre ímpar, a análise e aprovação pelas CoCs e departamentos devem ocorrer até maio, e a apreciação pela CG e Congregação, quando necessária, até agosto. (página 1, tabela da seção “Tratativas sobre as alterações”).
+
+Como as mudanças envolvem disciplinas compartilhadas com outro curso, todas as CoCs dos cursos vinculados precisam aprovar as alterações. Além disso, toda alteração que envolva disciplinas deve ser aprovada pelo departamento responsável pela disciplina. Caso as disciplinas sejam oferecidas entre unidades diferentes, as duas unidades também devem aprovar as alterações. (página 2, itens sobre aprovação de disciplinas vinculadas a mais de um curso e disciplinas oferecidas por uma unidade a outra).
+
+Também é necessário verificar em qual grupo da Resolução CoG 7030/2014 as alterações se enquadram, pois isso define o fluxo de aprovação. No ICMC, alterações do Grupo I são analisadas apenas pelos Departamentos, CoCs e CG; alterações do Grupo II seguem para a Congregação após apreciação da CG; e alterações do Grupo III seguem para Congregação e depois para o CoG. (páginas 1 e 2, itens sobre classificação em Grupo I, II e III e fluxo de aprovação).
+
+As alterações devem ser discutidas em reunião da CoC com identificação explícita do semestre e ano de referência da estrutura curricular, por exemplo “Estrutura Curricular 1º semestre/2025”, e cada alteração deve aparecer como subitem específico. Depois da aprovação pela CoC e departamentos, quando aplicável, as alterações devem ser reunidas em um único documento correspondente ao grupo (“Relatório Grupo I”, “Relatório Grupo II” ou “Relatório Grupo III”), que também deve entrar em pauta da CoC como subitem. (página 2, itens sobre inclusão em pauta e elaboração dos relatórios).
+
+Como as mudanças refletem no Projeto Pedagógico do Curso (PPC), ele deve ser atualizado e incluído na pauta da CoC como subitem específico. A atualização do PPC deve ser feita pela secretária do curso em conjunto com o coordenador: a secretária altera as informações pontuais relacionadas às mudanças aprovadas e o coordenador revisa os textos discursivos que exigem visão técnica. (páginas 2 e 3, itens sobre atualização do PPC).
+
+Após a aprovação do relatório e do PPC pela CoC, os documentos devem ser enviados para apreciação da CG e, conforme o grupo da alteração, também para a Congregação e eventualmente para o CoG. Somente depois da aprovação em todas as instâncias necessárias as alterações podem ser cadastradas no Júpiter, seguindo as orientações do Manual da PRG disponível no drive do Manual SVGRAD. (página 3, itens finais sobre tramitação e cadastro no Júpiter).
+
+RESPOSTA AVALIADA:
+Para alterar a estrutura curricular de um curso no ICMC-USP, incluindo a atualização do Projeto Pedagógico de Curso (PPC) e o cadastro de disciplinas, é crucial seguir um processo que envolve várias etapas de aprovação, organização documental e atenção a prazos.
+
+1. Aprovações Necessárias:
+
+Internas (ICMC):
+Comissão de Graduação do Curso: Analisa e aprova a proposta inicial.
+Colegiado do Curso: Delibera sobre as mudanças nas disciplinas e na estrutura.
+Congregação do ICMC: Aprova as alterações propostas, antes de encaminhar para instâncias superiores se necessário.
+Externas (USP): Se as mudanças forem significativas, englobando alterações no PPC, número de créditos/carga horária, ou perfil do egresso, as aprovações podem incluir:
+Comissão de Graduação da USP de São Carlos (CG): Para cursos ministrados no campus de São Carlos.
+Conselho de Graduação (CoG) da USP: Para aprovação em nível universitário.
+Conselho Universitário e Comissão de Ensino, Pesquisa e Extensão (CEPE): Em casos mais abrangentes ou de maior impacto.
+2. Documentos Necessários:
+
+Proposta Detalhada: Documento que descreve as alterações, com uma justificativa clara para cada mudança.
+Minutas/Versões Revisadas das Ementas: Para todas as disciplinas afetadas, incluindo as compartilhadas.
+Projeto Pedagógico de Curso (PPC) Atualizado: Contemplando todas as alterações propostas.
+Relatórios ou Pareceres: De todas as instâncias deliberativas que analisaram a proposta.
+Cronogramas e Fluxogramas Revisados: Demonstrando a nova estrutura curricular e o fluxo das disciplinas.
+3. Prazos e Cuidados:
+
+Prazos:
+É fundamental consultar o calendário acadêmico divulgado pela Graduação do ICMC e pela USP para identificar os prazos de submissão e aprovação de propostas curriculares. O objetivo é garantir que todas as aprovações ocorram a tempo para o cadastramento no sistema Júpiter antes do período de matrícula dos estudantes.
+Cuidados:
+Departamentos de Disciplinas Compartilhadas: Negocie e alinhe as mudanças com os departamentos que são responsáveis por disciplinas compartilhadas com outros cursos.
+Pareceres: Obtenha pareceres de todos os setores envolvidos para endossar as mudanças.
+Orientação dos Sistemas: Verifique as orientações atualizadas nos sistemas internos do ICMC e da USP, especialmente as instruções para alterações curriculares e cadastramento no Júpiter.
+Discussão Interna: Promova uma ampla discussão interna para consolidar a proposta e evitar retrabalho em instâncias superiores.
+Próximos Passos (Orientação Prática):
+
+Consulte os Calendários: Verifique os prazos específicos da Graduação do ICMC para alterações curriculares.
+Elabore a Documentação Completa: Prepare todos os documentos listados acima e submeta-os à Comissão de Graduação do Curso.
+Acompanhe o Fluxo: Após a aprovação na Comissão de Graduação do Curso, a proposta será encaminhada para a Congregação.
+Instâncias Superiores (se necessário): Se as mudanças forem significativas, a proposta seguirá para as instâncias superiores da USP.
+Cadastramento no Júpiter: Após todas as aprovações, atualize e envie os dados para o setor responsável pelo cadastramento no Júpiter, garantindo que seja feito antes do prazo final para novas estruturas.

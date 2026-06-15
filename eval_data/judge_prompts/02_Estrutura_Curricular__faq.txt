@@ -1,0 +1,110 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Sou coordenador de curso e precisamos alterar a estrutura curricular para o 1º semestre do próximo ano, incluindo mudanças em disciplinas compartilhadas com outro curso e atualização do PPC; quais aprovações internas e externas serão necessárias, quais documentos precisam ser organizados e quais prazos e cuidados devo observar para conseguir cadastrar tudo no Júpiter sem atraso?
+
+RESPOSTA DE REFERÊNCIA:
+A proposta de alteração pode partir da CoC ou do departamento responsável pela disciplina, mas as tratativas devem começar com antecedência suficiente para cumprir os prazos definidos pela PRG para cadastro no Júpiter. Para alterações válidas a partir do 1º semestre, o cadastro geralmente deve ser feito até o final de agosto, podendo a unidade solicitar prorrogação de um mês por e-mail à PRG, informando o código do curso e o motivo da solicitação. (página 1, seção “Tratativas sobre as alterações”).
+
+No ICMC, o Ofício SVGRAD 116-2019 estabelece que, para alterações de semestre ímpar, a análise e aprovação pelas CoCs e departamentos devem ocorrer até maio, e a apreciação pela CG e Congregação, quando necessária, até agosto. (página 1, tabela da seção “Tratativas sobre as alterações”).
+
+Como as mudanças envolvem disciplinas compartilhadas com outro curso, todas as CoCs dos cursos vinculados precisam aprovar as alterações. Além disso, toda alteração que envolva disciplinas deve ser aprovada pelo departamento responsável pela disciplina. Caso as disciplinas sejam oferecidas entre unidades diferentes, as duas unidades também devem aprovar as alterações. (página 2, itens sobre aprovação de disciplinas vinculadas a mais de um curso e disciplinas oferecidas por uma unidade a outra).
+
+Também é necessário verificar em qual grupo da Resolução CoG 7030/2014 as alterações se enquadram, pois isso define o fluxo de aprovação. No ICMC, alterações do Grupo I são analisadas apenas pelos Departamentos, CoCs e CG; alterações do Grupo II seguem para a Congregação após apreciação da CG; e alterações do Grupo III seguem para Congregação e depois para o CoG. (páginas 1 e 2, itens sobre classificação em Grupo I, II e III e fluxo de aprovação).
+
+As alterações devem ser discutidas em reunião da CoC com identificação explícita do semestre e ano de referência da estrutura curricular, por exemplo “Estrutura Curricular 1º semestre/2025”, e cada alteração deve aparecer como subitem específico. Depois da aprovação pela CoC e departamentos, quando aplicável, as alterações devem ser reunidas em um único documento correspondente ao grupo (“Relatório Grupo I”, “Relatório Grupo II” ou “Relatório Grupo III”), que também deve entrar em pauta da CoC como subitem. (página 2, itens sobre inclusão em pauta e elaboração dos relatórios).
+
+Como as mudanças refletem no Projeto Pedagógico do Curso (PPC), ele deve ser atualizado e incluído na pauta da CoC como subitem específico. A atualização do PPC deve ser feita pela secretária do curso em conjunto com o coordenador: a secretária altera as informações pontuais relacionadas às mudanças aprovadas e o coordenador revisa os textos discursivos que exigem visão técnica. (páginas 2 e 3, itens sobre atualização do PPC).
+
+Após a aprovação do relatório e do PPC pela CoC, os documentos devem ser enviados para apreciação da CG e, conforme o grupo da alteração, também para a Congregação e eventualmente para o CoG. Somente depois da aprovação em todas as instâncias necessárias as alterações podem ser cadastradas no Júpiter, seguindo as orientações do Manual da PRG disponível no drive do Manual SVGRAD. (página 3, itens finais sobre tramitação e cadastro no Júpiter).
+
+RESPOSTA AVALIADA:
+Para alterar a estrutura curricular de um curso no ICMC-USP, especialmente para o 1º semestre do próximo ano e envolvendo disciplinas compartilhadas, você precisará seguir um processo que envolve aprovações internas e externas, organização de documentos e atenção a prazos para o registro no Júpiter.
+
+Aprovações Necessárias
+Comissões de Coordenação de Curso (CoC) e Departamentos: As mudanças propostas geralmente se iniciam e são aprovadas nestas instâncias.
+Comissão de Graduação (CG) e Congregação: Após a aprovação pelas CoCs e Departamentos, as alterações devem ser apreciadas pela CG e, se necessário, pela Congregação. Em alguns casos, o Conselho de Graduação (CoG) também precisa aprovar as mudanças.
+Documentos a Organizar
+É fundamental reunir e registrar os seguintes documentos:
+
+Relatórios de alterações previamente aprovadas: Isso inclui os Relatórios Grupo I, II e III, que detalham os tipos de alterações curriculares.
+Projeto Pedagógico do Curso (PPC) atualizado: O PPC deve refletir todas as mudanças propostas.
+Prazos e Cuidados para o Cadastro no Júpiter
+Prazos Finais para Cadastro:
+Para alterações que valerão no 1º semestre: o prazo limite para cadastro no Júpiter é 31 de agosto.
+Para alterações que valerão no 2º semestre: o prazo limite para cadastro no Júpiter é 31 de março.
+Períodos de Ajuste:
+Para o 1º semestre, o período de ajuste é de 01 a 30 de setembro.
+Para o 2º semestre, o período de ajuste é de 01 a 30 de abril.
+Cadastro no Júpiter Web:
+As alterações curriculares dos Grupos I e II devem ser obrigatoriamente inseridas no sistema Júpiter Web.
+É crucial justificar detalhadamente todas as aprovações, registrar as datas relevantes (como as da CG e Congregação) e utilizar as abas corretas do sistema para cada tipo de alteração.
+Orientações Práticas
+Verifique o tipo de alteração curricular: Certifique-se de que todas as instâncias envolvidas foram notificadas e aprovaram as modificações.
+Use o Júpiter Web: Registre todas as alterações, preenchendo as abas específicas para justificativas e decisões.
+Comunicação com outras unidades: Mantenha um diálogo aberto com as outras unidades cujas disciplinas são compartilhadas para evitar problemas e garantir que as mudanças sejam coordenadas.
+Para informações mais específicas ou em caso de dúvidas, a Seção de Graduação do ICMC é o contato mais indicado.

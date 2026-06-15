@@ -1,0 +1,109 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Estou no 4º ano do Bacharelado em Ciências de Computação e quero direcionar minha formação para Ciência de Dados, mas também pretendo fazer um estágio no último ano e talvez aproveitar disciplinas optativas fora da trilha principal; quais são os requisitos mínimos para obter o Certificado de Estudos Especiais em Ciência de Dados, como as disciplinas optativas e livres entram na carga horária do curso BCC, e como o 5º ano foi estruturado para permitir estágio supervisionado?
+
+RESPOSTA DE REFERÊNCIA:
+O Certificado de Estudos Especiais em Ciência de Dados exige que o aluno curse 6 disciplinas, sendo obrigatoriamente 3 disciplinas do Grupo 1 e 3 disciplinas do Grupo 2. O Grupo 1 inclui disciplinas como SCC0276 Aprendizado de Máquina, SCC0270 Redes Neurais e Aprendizado Profundo, SCC0244 Mineração a Partir de Grandes Bases de Dados, SCC0251 Processamento de Imagens, SCC0252 Visualização Computacional e SCC0275 Introdução à Ciência de Dados. O Grupo 2 inclui SME0806 Estatística Computacional, SME0822 Análise Multivariada, SME0878 Mineração Estatística de Dados, SME0823 Modelos Lineares Generalizados, SME0808 Séries Temporais e SME0130 Redes Complexas. O documento também destaca que os alunos podem personalizar sua formação cursando disciplinas optativas que não necessariamente pertencem às ênfases sugeridas. Essas informações estão descritas na Seção 3.1, nas páginas 18 e 19.
+
+Quanto à carga horária do curso, o aluno deve completar 235 créditos, equivalentes a 4485 horas de estudo. Desse total, 209 créditos são obrigatórios e 24 créditos-aula devem ser cumpridos em disciplinas optativas. O PPC também permite que até 4 créditos-aula de disciplinas optativas livres sejam contabilizados dentro dos créditos de disciplinas optativas eletivas, desde que essas disciplinas não tenham conteúdo semelhante ao das disciplinas obrigatórias. Além disso, o aluno deve cumprir 30 horas de Atividades Acadêmicas Complementares (AACs), equivalentes a 1 crédito-trabalho, e 452 horas de atividades de extensão. Essas regras estão na Seção 4, página 26.
+
+Em relação ao estágio supervisionado no último ano, o curso foi estruturado para que o 5º ano, correspondente aos dois últimos semestres, seja dedicado principalmente às disciplinas de estágio ou de trabalho de conclusão de curso. O PPC informa que, nesses semestres, não há previsão de outras disciplinas presenciais, permitindo ao aluno realizar até 40 horas semanais de estágio. As disciplinas relacionadas a essa formação prática incluem SCC0291 – Estágio Supervisionado I e SCC0292 – Estágio Supervisionado II, que proporcionam experiência profissional fora do ambiente universitário, trabalho em equipe e desenvolvimento de projetos reais, com acompanhamento de supervisor e apoio institucional do ICMC para convênios com empresas. Essas informações aparecem na Seção 4, página 26, e na Seção 3.2, página 23.
+
+RESPOSTA AVALIADA:
+Olá! Entendo seu interesse em direcionar sua formação para Ciência de Dados, fazer estágio e aproveitar disciplinas diversas. Vamos abordar suas dúvidas:
+
+Certificado de Estudos Especiais em Ciência de Dados
+Para obter o Certificado de Estudos Especiais em Ciência de Dados no ICMC-USP, você precisa cumprir os requisitos estabelecidos no regulamento específico do certificado. Isso geralmente envolve:
+
+Aprovação em um conjunto de disciplinas obrigatórias e optativas, totalizando uma carga horária mínima.
+Pode haver a exigência de participação em atividades complementares.
+Orientação prática:
+
+É fundamental consultar o regulamento específico do Certificado de Estudos Especiais em Ciência de Dados para verificar a lista exata de disciplinas e a carga horária exigida.
+Verifique se há critérios adicionais, como o limite de aproveitamento de disciplinas que já são obrigatórias do seu curso.
+Após cumprir os requisitos, você poderá solicitar o certificado na Seção de Graduação.
+Disciplinas Optativas e Livres na Carga Horária do BCC
+No Bacharelado em Ciências de Computação (BCC) do ICMC-USP, tanto as disciplinas optativas quanto as livres são parte da carga horária total necessária para a conclusão do curso.
+
+As disciplinas optativas são oferecidas pelo próprio curso e permitem que você aprofunde ou explore áreas específicas dentro das Ciências de Computação.
+As disciplinas livres (também chamadas de eletivas) podem ser escolhidas em qualquer unidade da USP e servem para expandir sua formação em outras áreas do conhecimento.
+Ambos os tipos de disciplinas contribuem para a carga horária total e é preciso cumprir um número mínimo de créditos exigido para cada categoria, conforme o currículo do seu curso.
+
+Orientação prática:
+
+Consulte a grade curricular do BCC para saber quantos créditos de optativas e livres são necessários.
+Planeje sua matrícula para garantir que você cumpra a carga horária mínima em ambas as categorias.
+Utilize o sistema JúpiterWeb para acompanhar seu progresso em relação aos créditos.
+Estrutura do 5º Ano para Estágio Supervisionado
+O 5º ano do BCC no ICMC-USP foi planejado para ter uma carga reduzida de disciplinas obrigatórias, oferecendo mais flexibilidade de horário. Isso facilita a realização do estágio supervisionado, que é obrigatório. Nesse período, a única obrigatoriedade principal é o estágio; as disciplinas adicionais (optativas e eletivas) que você possa precisar cursar podem ser organizadas nesse período.
+
+Orientação prática:
+
+Você deverá se inscrever na disciplina de Estágio Supervisionado quando tiver os pré-requisitos necessários.
+É recomendado um planejamento cuidadoso para não ter disciplinas obrigatórias pendentes.
+O início do estágio precisa ser autorizado pela Seção de Graduação e seguir o regulamento de estágio específico do curso.

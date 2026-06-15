@@ -1,0 +1,111 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Fui designado para ajudar na organização da Semana de Recepção aos Calouros do ICMC e preciso saber quais são as etapas administrativas obrigatórias desde a formação da comissão até o encerramento das atividades, incluindo composição da comissão, responsabilidades, comunicações necessárias e providências após o evento.
+
+RESPOSTA DE REFERÊNCIA:
+O processo da Semana de Recepção aos Calouros do ICMC começa com a formação anual de uma comissão de recepção, cujas tratativas são iniciadas pela chefia do Serviço de Graduação (SvGrad) em outubro para que a Portaria de designação seja publicada ainda em dezembro. A comissão deve ser composta pelo vice-presidente da Comissão de Graduação (CG), que atua como presidente da comissão; um professor indicado pela CG; um funcionário do SvGrad; um funcionário da Seção de Apoio Institucional indicado pela SCARPINS; um representante discente indicado pela CCEx mediante solicitação ao SVAPAC; e representantes discentes das CoCs indicados pelos coordenadores, sem restrição de quantidade de alunos. Após a definição dos nomes, deve-se preencher a minuta da Portaria de designação da comissão, encaminhá-la à Diretoria para numeração e assinatura, salvar o arquivo final na pasta compartilhada e enviar a Portaria aos membros da comissão. Também é necessário cadastrar os e-mails dos membros na lista src-l@listas.icmc.usp.br. Essas orientações constam na seção inicial do documento “Recepção aos Calouros”.
+
+A Pró-Reitoria de Graduação (PRG) é responsável por definir o período da recepção, o tema e os prazos para envio da programação e do relatório. Assim que essas informações forem encaminhadas pela PRG, elas devem ser salvas na pasta compartilhada e divulgadas aos membros da comissão, preferencialmente pela lista src-l@listas.icmc.usp.br. Também é necessário enviar a programação aos calouros e aos professores. O documento informa ainda que os kits de ingressantes e cartazes são enviados pela PRG.
+
+Quanto às responsabilidades operacionais, a elaboração da programação e do relatório das atividades é responsabilidade da própria comissão. O envio do relatório e da programação à PRG pode ser feito pelo presidente da comissão, pelo chefe do SvGrad ou pelo funcionário do setor que integra a comissão. Além disso, a comissão deve atualizar a página https://calouros.icmc.usp.br/ com o cronograma das atividades. O documento também recomenda evitar o envolvimento de mais de um funcionário do setor durante a semana de recepção devido à alta demanda do período.
+
+Após a realização da recepção, deve-se emitir certificados para os membros da comissão. O documento registra que, em 2025, um dos membros da comissão ficou responsável por essa atividade.
+
+RESPOSTA AVALIADA:
+Para a organização da Semana de Recepção aos Calouros no ICMC-USP, as etapas administrativas são bem definidas e seguem um cronograma que vai desde a formação da comissão até o encerramento das atividades.
+
+1. Formação da Comissão:
+
+A chefia do Serviço de Graduação (SvGrad) inicia os preparativos em outubro.
+A portaria de designação da comissão deve ser publicada até dezembro.
+A comissão é composta por:
+Vice-presidente da Comissão de Graduação (CG), que assume a presidência.
+Um professor indicado pela CG.
+Um funcionário do SvGrad.
+Um funcionário da Seção de Apoio Institucional.
+Um representante discente indicado pela Comissão de Cultura e Extensão (CCEx).
+Representantes discentes das Comissões Coordenadoras de Curso (CoCs).
+2. Designação e Comunicação:
+
+É necessário preencher e registrar a minuta da portaria de designação da comissão.
+A portaria deve ser enviada a todos os membros e seus e-mails cadastrados na lista de e-mails institucional.
+A Pró-Reitoria de Graduação (PRG) define o período do evento, o tema central e os prazos para o envio da programação e do relatório final.
+3. Planejamento e Divulgação:
+
+A comissão é responsável por elaborar a programação detalhada com todas as atividades destinadas aos calouros.
+A página oficial dos calouros deve ser atualizada com o cronograma das atividades.
+A programação completa deve ser enviada aos novos ingressantes e aos professores antes do início do evento.
+4. Execução das Atividades:
+
+Durante a semana, a comissão deve organizar e coordenar as atividades planejadas.
+É crucial assegurar o cumprimento das normas vigentes, como a proibição de trotes e do consumo de bebidas alcoólicas nas dependências da universidade.
+5. Encerramento e Relatórios:
+
+Após a conclusão da Semana de Recepção, devem ser emitidos certificados para os membros da comissão.
+Um relatório detalhado das atividades realizadas precisa ser elaborado e enviado à PRG.
+Essas etapas garantem uma recepção organizada, acolhedora e em conformidade com as diretrizes institucionais para os novos estudantes.

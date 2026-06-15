@@ -1,0 +1,100 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Sou docente no ICMC e tive meu projeto de monitoria selecionado no PEEG, mas ainda estou organizando a escolha do bolsista; quais etapas administrativas acontecem desde a divulgação do edital até o aceite final da bolsa pelo aluno, incluindo quem faz cada ação, como ocorre a homologação e o que deve ser feito caso seja necessário alterar ou cancelar a bolsa depois?
+
+RESPOSTA DE REFERÊNCIA:
+O processo do Programa de Estímulo ao Ensino de Graduação – Monitoria (PEEG) começa com o envio do edital pela PRG para divulgação na unidade, havendo um edital para cada semestre. Em seguida, a chefia da Graduação salva o edital e documentos relacionados na pasta compartilhada, insere na agenda os prazos de cadastro de projetos, inscrições de alunos e análises pela CG, além de divulgar o edital aos docentes com cronograma e lembretes próximos aos prazos. Após o encerramento dos cadastros, a chefia verifica os projetos cadastrados no sistema Júpiter em “Administrativo > Programas especiais/Bolsas > Bolsa PEEG - Monitoria” ou em “Administrativo > Docentes > Projetos”. (Página 1)
+
+Depois disso, a chefia da Graduação compila as informações dos projetos em uma tabela conforme os critérios de seleção definidos pela CG e envia ao presidente da CG, destacando o prazo para homologação. O presidente da CG pode homologar todos os projetos ou apenas a quantidade correspondente ao número de cotas recebidas pela unidade. O documento informa que o ICMC tem recebido 15 cotas, mas que é possível solicitar cotas adicionais à PRG. (Página 2)
+
+Na etapa seguinte, a chefia divulga o edital aos alunos, reforçando o período de inscrições e enviando lembretes próximos ao encerramento do prazo. Depois, copia as informações dos inscritos consultadas no Júpiter em “Administrativo > Programas especiais/Bolsas > Bolsa PEEG - Monitoria” e encaminha para seleção do presidente da CG, ressaltando o prazo para seleção no sistema. O presidente da CG deve indicar quais projetos serão contemplados. Em seguida, a chefia divulga a relação dos projetos selecionados aos docentes que cadastraram projetos. Caso o presidente da CG solicite, a chefia também encaminha a lista de inscritos apenas aos docentes com projetos selecionados para que indiquem o aluno a ser escolhido. (Página 2)
+
+Após a definição dos selecionados, a chefia divulga o resultado final para todos os alunos inscritos, informando os projetos e alunos selecionados e ressaltando que os alunos contemplados devem acessar o sistema para dar aceite na bolsa dentro do prazo previsto no edital e entrar em contato com o docente responsável. Para verificar se o aluno já realizou o aceite, deve-se acessar “Júpiter - Administrativo > Programas especiais/Bolsas > Bolsa PEEG - Monitoria”, clicar no ícone “Projeto”, localizar a disciplina e depois clicar no ícone “inscritos”. (Página 2)
+
+Caso seja necessário alterar posteriormente alguma informação da bolsa, a chefia da Graduação deve solicitar à PRG substituição ou cancelamento de bolsistas, alteração do docente responsável pelo projeto ou alteração da data de início da bolsa, utilizando o contato prgadm@usp.br. Além disso, a chefia auxilia o presidente da CG na cobrança dos relatórios necessários para elaboração do relatório final e também esclarece dúvidas de alunos e docentes durante o processo. (Página 2)
+
+RESPOSTA AVALIADA:
+Compreendo sua dúvida sobre o processo administrativo da bolsa PEEG! Aqui está um resumo das etapas, responsabilidades e procedimentos para alteração ou cancelamento:
+
+Etapas Administrativas da Bolsa PEEG
+Divulgação do Edital:
+A Pró-Reitoria de Graduação (PRG) envia o edital para o ICMC.
+A chefia da graduação é responsável por divulgar o edital e enviar lembretes aos alunos sobre o prazo de inscrição.
+Cadastro e Homologação dos Projetos:
+Os docentes cadastram seus projetos de monitoria.
+A chefia da Graduação compila esses projetos em uma tabela.
+O documento é enviado ao presidente da Comissão de Graduação (CG), que homologa os projetos com base nas cotas disponíveis.
+Seleção e Divulgação dos Projetos:
+Após a homologação, a relação dos projetos selecionados é comunicada aos docentes.
+Se solicitado pelo presidente da CG, os docentes devem indicar os alunos que serão bolsistas.
+Aceite da Bolsa pelos Alunos:
+Uma vez divulgados os alunos selecionados, eles devem acessar o sistema para aceitar a bolsa dentro do prazo estipulado no edital.
+Alteração ou Cancelamento de Bolsas
+Caso seja necessário substituir um bolsista, cancelar uma bolsa, ou alterar o docente responsável, a solicitação deve ser feita à PRG.
+O e-mail para encaminhar essas solicitações é prgadm@usp.br .
+

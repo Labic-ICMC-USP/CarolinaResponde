@@ -1,0 +1,92 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Estou planejando meu último ano no Bacharelado em Estatística e Ciência de Dados e queria saber: se eu optar por fazer estágio obrigatório em uma empresa no exterior, quais requisitos preciso cumprir para que ele seja aceito pelo curso, como funciona a supervisão e avaliação desse estágio, e o que preciso entregar para concluir a disciplina?
+
+RESPOSTA DE REFERÊNCIA:
+Para que um estágio obrigatório realizado no exterior seja aceito pelo curso de Bacharelado em Estatística e Ciência de Dados, a empresa ou instituição de ensino deve ser aprovada pela Comissão Coordenadora do Curso (CoC) e deve existir um plano de trabalho que demonstre como a atividade complementa a formação do aluno; esse plano também será analisado pela CoC (Seção 3.3.4). Além disso, o estágio obrigatório deve ocorrer no último ano do curso, ou após o aluno já ter cumprido o mínimo de créditos exigido correspondente à disciplina SME0814 – Estágio Supervisionado em Estatística I, e o aluno deverá apresentar uma monografia, que será julgada da mesma forma descrita para os demais estágios obrigatórios (Seção 3.3.4).
+
+O estágio obrigatório regular deve ser realizado em uma instituição conveniada com o ICMC-USP, com convênios aprovados inicialmente pela Comissão de Graduação (CG) e posteriormente pelo Conselho Técnico-Administrativo (CTA) do ICMC-USP. A Comissão de Estágios (CE) assessora a CG nesses assuntos e mantém informações sobre instituições conveniadas (Seção 3.3.1). O estágio deve ser acompanhado por um supervisor vinculado à instituição concedente, responsável por fornecer um plano de trabalho aprovado pelo docente da disciplina, além de emitir, ao final, um atestado com datas de início e término e a carga horária cumprida, que deve ser de no mínimo 300 horas, bem como um relatório de avaliação do estagiário (Seção 3.3.1).
+
+Durante o estágio, o aluno também é acompanhado pelo docente responsável pela disciplina, inclusive por meio de reuniões virtuais para esclarecimento de objetivos e dúvidas (Seção 3.3.1). Para concluir a disciplina relacionada ao estágio, o aluno deve apresentar uma monografia referente ao trabalho desenvolvido e realizar uma apresentação oral online. A avaliação considera tanto a monografia escrita quanto essa apresentação oral, julgadas por uma banca composta pelo docente da disciplina e mais um ou dois membros, que podem incluir o supervisor do estágio e/ou um aluno de pós-graduação (Seção 3.3).
+
+RESPOSTA AVALIADA:
+Para realizar seu estágio obrigatório no exterior no Bacharelado em Estatística e Ciência de Dados no ICMC-USP, você precisará cumprir os seguintes requisitos e procedimentos:
+
+Requisitos para Estágio no Exterior:
+
+A empresa ou instituição de ensino no exterior onde você fará o estágio deve ser aprovada pela Comissão Coordenadora do Curso (CoC).
+Você precisará apresentar um plano de trabalho que será analisado pela CoC. Este plano deve demonstrar claramente como o estágio complementará sua formação acadêmica [0].
+Supervisão e Avaliação:
+
+Haverá um docente responsável pela supervisão do estágio, que poderá auxiliar com dúvidas sobre a forma do trabalho. O conteúdo do estágio é de responsabilidade do seu orientador no local do estágio [1].
+Ao final do estágio, você deverá apresentar uma monografia, que será avaliada de acordo com os mesmos procedimentos de avaliação utilizados para outros estágios ou projetos de graduação [1, 2].
+Documentos para Concluir a Disciplina:
+
+Para concluir a disciplina de estágio, você precisará entregar uma monografia. Essa monografia será avaliada por uma banca composta pelo docente da disciplina e por um ou dois membros adicionais, que podem ser o supervisor do estágio ou um aluno de pós-graduação [3].
+Orientação Prática:
+Para iniciar o processo do seu estágio no exterior, o primeiro passo é entrar em contato com a CoC do seu curso para obter a aprovação da instituição ou empresa onde você pretende estagiar e para definir o plano de trabalho. Além disso, a Comissão de Relações Internacionais do ICMC ou a Agência USP de Cooperação Nacional e Internacional podem fornecer apoio logístico e financeiro, se necessário [4].

@@ -1,0 +1,94 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Sou docente recém-eleito para a CoC-BMACC e queria entender como funciona a coordenação da comissão: quem pode ser eleito coordenador e suplente, quanto tempo dura o mandato, quantas reconduções são permitidas, o que acontece se houver vacância e quais obrigações o coordenador tem ao fim do mandato?
+
+RESPOSTA DE REFERÊNCIA:
+O Coordenador e o Suplente da CoC-BMACC devem ser eleitos dentre os membros docentes titulares da própria comissão, conforme o Artigo 3º. O mandato de ambos é de dois anos, sendo permitidas até duas reconduções (Artigo 3º, §1º). Além disso, o coordenador deve apresentar, em até 30 dias após o término de seu mandato, um relatório das atividades desenvolvidas durante sua gestão para aprovação da Comissão de Graduação (CG) e da Congregação, conforme o Artigo 3º, §2º e a Resolução CoG nº 7853, de 23.10.2019.
+
+Em caso de impedimento do Coordenador, ele será substituído pelo seu suplente (Artigo 5º, §1º). Se houver vacância das funções de Coordenador ou de Suplente, uma nova eleição deverá ser realizada no prazo de 30 dias (Artigo 5º, §2º). Caso tanto o Coordenador quanto o Suplente estejam impedidos, responderá pela CoC-BMACC o docente mais graduado da comissão com maior tempo de serviço docente na USP (Artigo 5º, §3º).
+
+As atribuições do Coordenador incluem convocar, presidir, suspender, prorrogar e encerrar sessões; organizar e submeter matérias para discussão e votação; designar relatores quando necessário; coordenar atividades de divulgação do curso; e encaminhar matérias submetidas pela CG (Artigo 6º, incisos I a V).
+
+RESPOSTA AVALIADA:
+A coordenação da Comissão Coordenadora do Curso de Bacharelado em Matemática Aplicada e Computação Científica (CoC-BMACC) funciona da seguinte forma:
+
+1. Elegibilidade para Coordenador e Suplente:
+
+Devem ser eleitos entre os membros docentes titulares da comissão.
+2. Duração do Mandato:
+
+O mandato é de dois anos.
+3. Reconduções:
+
+São permitidas até duas reconduções.
+4. Vacância:
+
+Em caso de vacância (saída antes do término do mandato), uma nova eleição deve ser realizada em até 30 dias.
+5. Obrigações ao fim do Mandato:
+
+O coordenador deve apresentar um relatório das atividades desenvolvidas durante sua gestão em até 30 dias. Este relatório é então submetido para aprovação pela Comissão de Graduação (CG) e pela Congregação.

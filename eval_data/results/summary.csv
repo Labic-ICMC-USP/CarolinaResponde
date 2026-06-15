@@ -1,0 +1,17 @@
+rater,dimension,system,n,mean,median,std
+human,correctness,tradicional,15,2.333,2.0,1.113
+human,correctness,faq,15,4.533,5.0,0.64
+human,completeness,tradicional,15,4.0,4.0,0.655
+human,completeness,faq,15,4.467,5.0,0.64
+human,faithfulness,tradicional,15,2.533,2.0,1.06
+human,faithfulness,faq,15,4.533,5.0,0.743
+human,overall,tradicional,15,2.6,3.0,0.986
+human,overall,faq,15,4.467,5.0,0.64
+llm,correctness,tradicional,15,2.2,2.0,0.676
+llm,correctness,faq,15,4.067,4.0,0.594
+llm,completeness,tradicional,15,2.133,2.0,0.516
+llm,completeness,faq,15,3.2,3.0,0.775
+llm,faithfulness,tradicional,15,1.933,2.0,0.458
+llm,faithfulness,faq,15,4.0,4.0,1.0
+llm,overall,tradicional,15,2.067,2.0,0.594
+llm,overall,faq,15,3.533,4.0,0.64

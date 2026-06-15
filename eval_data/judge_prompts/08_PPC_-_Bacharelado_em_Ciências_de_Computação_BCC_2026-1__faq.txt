@@ -1,0 +1,112 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Estou no 4º ano do Bacharelado em Ciências de Computação e quero direcionar minha formação para Ciência de Dados, mas também pretendo fazer um estágio no último ano e talvez aproveitar disciplinas optativas fora da trilha principal; quais são os requisitos mínimos para obter o Certificado de Estudos Especiais em Ciência de Dados, como as disciplinas optativas e livres entram na carga horária do curso BCC, e como o 5º ano foi estruturado para permitir estágio supervisionado?
+
+RESPOSTA DE REFERÊNCIA:
+O Certificado de Estudos Especiais em Ciência de Dados exige que o aluno curse 6 disciplinas, sendo obrigatoriamente 3 disciplinas do Grupo 1 e 3 disciplinas do Grupo 2. O Grupo 1 inclui disciplinas como SCC0276 Aprendizado de Máquina, SCC0270 Redes Neurais e Aprendizado Profundo, SCC0244 Mineração a Partir de Grandes Bases de Dados, SCC0251 Processamento de Imagens, SCC0252 Visualização Computacional e SCC0275 Introdução à Ciência de Dados. O Grupo 2 inclui SME0806 Estatística Computacional, SME0822 Análise Multivariada, SME0878 Mineração Estatística de Dados, SME0823 Modelos Lineares Generalizados, SME0808 Séries Temporais e SME0130 Redes Complexas. O documento também destaca que os alunos podem personalizar sua formação cursando disciplinas optativas que não necessariamente pertencem às ênfases sugeridas. Essas informações estão descritas na Seção 3.1, nas páginas 18 e 19.
+
+Quanto à carga horária do curso, o aluno deve completar 235 créditos, equivalentes a 4485 horas de estudo. Desse total, 209 créditos são obrigatórios e 24 créditos-aula devem ser cumpridos em disciplinas optativas. O PPC também permite que até 4 créditos-aula de disciplinas optativas livres sejam contabilizados dentro dos créditos de disciplinas optativas eletivas, desde que essas disciplinas não tenham conteúdo semelhante ao das disciplinas obrigatórias. Além disso, o aluno deve cumprir 30 horas de Atividades Acadêmicas Complementares (AACs), equivalentes a 1 crédito-trabalho, e 452 horas de atividades de extensão. Essas regras estão na Seção 4, página 26.
+
+Em relação ao estágio supervisionado no último ano, o curso foi estruturado para que o 5º ano, correspondente aos dois últimos semestres, seja dedicado principalmente às disciplinas de estágio ou de trabalho de conclusão de curso. O PPC informa que, nesses semestres, não há previsão de outras disciplinas presenciais, permitindo ao aluno realizar até 40 horas semanais de estágio. As disciplinas relacionadas a essa formação prática incluem SCC0291 – Estágio Supervisionado I e SCC0292 – Estágio Supervisionado II, que proporcionam experiência profissional fora do ambiente universitário, trabalho em equipe e desenvolvimento de projetos reais, com acompanhamento de supervisor e apoio institucional do ICMC para convênios com empresas. Essas informações aparecem na Seção 4, página 26, e na Seção 3.2, página 23.
+
+RESPOSTA AVALIADA:
+Que interessante seu plano de estudos! Para te ajudar a direcionar sua formação no Bacharelado em Ciências de Computação (BCC) com foco em Ciência de Dados e estágio, vou detalhar cada um dos seus pontos:
+
+1. Requisitos Mínimos para o Certificado de Estudos Especiais em Ciência de Dados
+Para obter o Certificado de Estudos Especiais em Ciência de Dados no ICMC, você deve cursar um total de 6 disciplinas, sendo obrigatoriamente 3 disciplinas do Grupo 1 e 3 disciplinas do Grupo 2.
+
+Grupo 1:
+
+SCC0276 - Aprendizado de Máquina
+SCC0270 - Introdução a Redes Neurais
+SCC0244 - Mineração a Partir de Grandes Bases de Dados
+SCC0252 - Visualização Computacional
+SCC0275 - Ciência de Dados
+Grupo 2:
+
+SME0806 - Estatística Computacional
+SME0822 - Análise Multivariada
+SME0878 - Mineração Estatística de Dados
+SME0823 - Modelos Lineares Generalizados
+SME0808 - Séries Temporais
+SME0130 - Redes Complexas
+Essas disciplinas são projetadas para fornecer uma base sólida em Ciência de Dados, cobrindo técnicas de aprendizado de máquina, análise multivariada e mineração de dados.
+
+2. Como Optativas e Livres Entram na Carga Horária do BCC
+No curso de Bacharelado em Ciências de Computação (BCC), as disciplinas optativas e livres funcionam da seguinte forma:
+
+Disciplinas Optativas Eletivas: Você deve cursar 24 créditos em disciplinas optativas eletivas. Elas permitem que você personalize sua formação de acordo com seus interesses.
+Disciplinas Optativas Livres: Você pode usar até 4 créditos-aula de disciplinas optativas livres para cumprir a carga horária de optativas eletivas. Para isso, as disciplinas livres não podem ter conteúdo semelhante ao das disciplinas obrigatórias do seu curso.
+Essa flexibilidade é importante para você explorar áreas como Ciência de Dados e outras que possam te interessar fora da trilha principal. A carga horária total exigida para o curso é de 235 créditos.
+
+3. Estrutura do 5º Ano para Estágio Supervisionado
+O 5º ano do curso de Bacharelado em Ciências de Computação no ICMC-USP foi estruturado para permitir que os estudantes realizem estágios supervisionados sem a sobrecarga de outras disciplinas presenciais. Nos dois últimos semestres, estão previstas apenas disciplinas de estágio ou trabalhos de conclusão de curso. Isso significa que você pode se dedicar integralmente ao estágio, com uma carga horária de até 40 horas semanais.
+
+Com essa estrutura, você poderá aproveitar o último ano para o estágio e talvez as disciplinas optativas que ainda não tiver cursado, combinando a experiência prática com o aprofundamento em Ciência de Dados.
+
+Para mais informações ou dúvidas específicas sobre o funcionamento do certificado ou equivalência de disciplinas, é recomendado entrar em contato com a Seção de Graduação do ICMC ou a coordenação do curso.

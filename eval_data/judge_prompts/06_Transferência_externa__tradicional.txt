@@ -1,0 +1,105 @@
+Você é um avaliador imparcial. Sua tarefa é avaliar UMA resposta de um sistema automático de perguntas e respostas a respeito de documentos oficiais do ICMC-USP.
+
+Você NÃO sabe qual sistema produziu esta resposta — avalie apenas a qualidade do conteúdo, sem suposições sobre a origem.
+
+Você receberá:
+- PERGUNTA: a pergunta feita pelo usuário.
+- RESPOSTA DE REFERÊNCIA: uma resposta correta e completa, considerada gabarito.
+- RESPOSTA AVALIADA: a resposta produzida pelo sistema, que você deve avaliar.
+
+Avalie a RESPOSTA AVALIADA em quatro dimensões, cada uma na escala Likert de 1 a 5.
+
+==========================================
+ESCALA 1 — Correção (correctness):
+As informações na resposta são factualmente corretas em relação à resposta de referência?
+==========================================
+1 — Resposta incorreta ou contraditória ao documento de referência.
+2 — Vários erros factuais ou informações equivocadas.
+3 — Parcialmente correta, com imprecisões relevantes.
+4 — Correta, com pequenas imprecisões sem impacto prático.
+5 — Totalmente correta, sem erros factuais.
+
+==========================================
+ESCALA 2 — Completude (completeness):
+A resposta cobre todos os pontos relevantes que a pergunta exige?
+==========================================
+1 — Não responde nenhum aspecto relevante da pergunta.
+2 — Aborda apenas aspectos periféricos; pontos centrais ausentes.
+3 — Cobre parte dos pontos, com omissões importantes.
+4 — Cobre a maior parte dos pontos, com omissões menores.
+5 — Cobre todos os pontos relevantes da pergunta.
+
+==========================================
+ESCALA 3 — Fidelidade (faithfulness):
+A resposta é fundamentada na fonte? Contém afirmações inventadas ou que contradizem o documento?
+==========================================
+1 — Contém informações inventadas ou contradiz claramente o documento.
+2 — Contém várias afirmações não embasadas na fonte.
+3 — Contém algumas extrapolações não verificáveis no documento.
+4 — Quase totalmente fundamentada; pequenas extrapolações inofensivas.
+5 — Totalmente embasada no documento, sem alucinações.
+
+==========================================
+ESCALA 4 — Qualidade Geral (overall):
+Considerando tudo, quão útil é esta resposta para um aluno real?
+==========================================
+1 — Resposta inútil ou enganosa.
+2 — Pouco útil, com problemas significativos.
+3 — Parcialmente útil, mas com limitações relevantes.
+4 — Boa resposta, correta e útil com pequenos problemas.
+5 — Excelente: completa, correta e bem fundamentada.
+
+==========================================
+FORMATO DE SAÍDA
+==========================================
+Responda APENAS com o bloco abaixo, em pt-BR, sem markdown, sem texto adicional:
+
+CORRECTNESS: <1-5>
+COMPLETENESS: <1-5>
+FAITHFULNESS: <1-5>
+OVERALL: <1-5>
+JUSTIFICATIVA: <2 a 3 frases explicando as notas, em pt-BR>
+
+==========================================
+DADOS PARA AVALIAÇÃO
+==========================================
+
+PERGUNTA:
+Sou servidor do ICMC e preciso organizar o processo de transferência externa para o próximo ingresso no 2º semestre: se ainda não tivermos o edital da 2ª fase aprovado em todas as instâncias, mas o prazo da Fuvest estiver próximo, quais providências podem ser tomadas para cumprir os prazos da PRG e da Fuvest, quem precisa analisar e aprovar as vagas e critérios, e quais etapas obrigatórias devem ser realizadas depois da divulgação dos aprovados até a efetivação da matrícula dos alunos?
+
+RESPOSTA DE REFERÊNCIA:
+Quando ainda não houver aprovação completa do edital da 2ª fase nas instâncias internas, mas os prazos da Fuvest estiverem próximos, o setor pode enviar um ofício à PRG informando o número de vagas e os critérios de seleção da Fuvest, destacando que o edital da 2ª fase do ICMC será enviado posteriormente, desde que dentro do prazo estabelecido pela PRG. O documento também determina que toda a tramitação da transferência externa deve seguir os prazos definidos pela PRG e que a própria PRG estabelece datas para cadastro das vagas remanescentes da transferência interna e para publicação dos editais da 1ª fase e da 2ª fase. (Página 1)
+
+Antes disso, a chefia do setor deve consultar os coordenadores para verificar se as vagas remanescentes da transferência interna serão ofertadas na transferência externa e cadastrar essas vagas no Júpiter em “Administrativo > Vagas para transferência”, preenchendo a coluna “VDTE-Vagas disponíveis para transferência externa”. Caso todas as vagas sejam ofertadas via Fuvest, não se deve marcar o campo “Não enviar vagas p/ Fuvest”. A chefia também deve preencher a minuta do edital, propor cronograma para inscrições, análise, divulgação de resultados e matrícula, encaminhar o edital para análise das CoCs e posteriormente enviar para apreciação da CG e da Congregação, além de enviar o edital à PRG e divulgá-lo na página do setor e por e-mail. (Páginas 1 e 2)
+
+As CoCs têm a responsabilidade de definir se todas as vagas serão ofertadas e justificar caso alguma não seja disponibilizada. Também devem analisar os critérios de classificação e propor alterações, se necessário. Para vagas do núcleo geral da Matemática, a análise deve ser feita pela CoC-BMA e pela CoC-LMA. (Página 2)
+
+Após a divulgação dos aprovados da 1ª fase pela PRG/Fuvest, o setor deve salvar a relação dos candidatos aprovados, divulgar os convocados para a 2ª fase, criar e divulgar o formulário de inscrição e, ao final do período, verificar se os candidatos atendem aos critérios do edital e se realmente foram aprovados na 1ª fase e atingiram a nota de corte. Depois disso, deve divulgar os deferimentos e indeferimentos das inscrições e encaminhar aos coordenadores as notas, inscrições deferidas e documentos para análise e classificação final. Em seguida, o resultado final deve ser encaminhado ao presidente da CG e divulgado no prazo previsto no edital. (Página 3)
+
+Na etapa de matrícula, o setor deve criar e divulgar o formulário de matrícula, verificar se os convocados efetuaram matrícula e, caso sobrem vagas, convocar listas de espera sucessivas conforme previsto no edital. Também é necessário conferir a documentação, salvar os documentos na pasta compartilhada e efetuar a matrícula no Júpiter. O procedimento inclui verificar se o aluno já possui cadastro no sistema; se não possuir, criar novo cadastro. Depois, deve-se registrar a inscrição do aluno no curso como “Transf Externa”, informar a data de inscrição prevista no edital e salvar. Se o estudante já for aluno da USP, é obrigatório encerrar previamente o programa anterior com o motivo “transferência externa”, sempre com ciência do aluno. Em seguida, deve-se preencher o parecer com resultado “aceito”, informar a data da seleção, o tipo de avaliação, o NUSP do responsável e os dados de origem externa. Após o envio da grade horária assinada pelo coordenador, a matrícula nas disciplinas deve ser efetivada, desde que haja vagas. O documento ainda informa que, quando o aluno não possui requisito, não é necessário deixar a matrícula pendente para análise da CoC se o coordenador já tiver autorizado a matrícula assinando a grade horária. (Páginas 3, 4 e 5)
+
+RESPOSTA AVALIADA:
+Aqui está um resumo da resposta, abordando todas as suas perguntas:
+
+1. Quais providências podem ser tomadas para cumprir os prazos da PRG e da Fuvest, caso o edital da 2ª fase ainda não tenha sido aprovado, mas o prazo da Fuvest esteja próximo?
+
+Se o edital da 2ª fase ainda não foi aprovado e o prazo da Fuvest está apertado, o ICMC pode solicitar à Comissão de Graduação (CG) a apreciação e aprovação urgente das vagas e critérios do processo seletivo. Isso pode inclusive ser feito ad referendum – ou seja, uma aprovação provisória pela presidência da CG até a ratificação em reunião formal, garantindo o cumprimento dos prazos externos.
+
+2. Quem precisa analisar e aprovar as vagas e critérios?
+
+A Comissão de Graduação (CG) do ICMC é a responsável pela análise e aprovação formal das vagas e critérios para a segunda fase da transferência externa. A definição inicial dos critérios e vagas é responsabilidade do colegiado do curso ou de uma comissão designada.
+
+3. Quais etapas obrigatórias devem ser realizadas depois da divulgação dos aprovados até a efetivação da matrícula dos alunos?
+
+Após a divulgação dos aprovados na transferência externa, as etapas obrigatórias incluem:
+
+Validação documental: Conferir toda a documentação exigida dos candidatos aprovados.
+Publicação dos resultados finais: Publicar o resultado final, considerando possíveis recursos.
+Envio de listas: Encaminhar as listas de aprovados para a Seção de Graduação.
+Procedimentos de matrícula: Viabilizar a matrícula dos alunos, seguindo o calendário e as orientações estabelecidas pela Pró-Reitoria de Graduação (PRG) e pelos sistemas da USP.
+Orientação prática:
+
+Para o caso de edital não aprovado e prazo apertado: Sugere-se que a coordenação do curso solicite a apreciação urgente da CG, com a possibilidade de aprovação ad referendum.
+Garanta o registro: Certifique-se de que a definição das vagas e critérios esteja devidamente registrada e em conformidade com o curso e as normas do ICMC.
+Organização das etapas pós-divulgação: Prepare-se para organizar a entrega e conferência de documentos, a publicação da relação final e o encaminhamento para matrícula, seguindo o calendário institucional.
+Dúvidas pontuais: Em caso de dúvidas específicas ou situações não previstas, a Seção de Graduação ou a presidência da CG são os contatos para buscar orientações práticas.
